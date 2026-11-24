@@ -4,9 +4,8 @@ on:
   push:
     branches: [master]
   schedule:
-    # Cada dia a las 06:00 UTC (08:00 hora espanola en invierno)
     - cron: "0 6 * * *"
-  workflow_dispatch: # Permite lanzarlo manualmente desde GitHub
+  workflow_dispatch:
 
 jobs:
   update:
@@ -35,20 +34,14 @@ jobs:
         run: |
           git diff --quiet public/data/ data/raw/ || echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Commit datos actualizados
+      - name: Commit y push si hay cambios
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/ data/raw/
-          git commit -m "chore: actualización automática de datos $(date -u +%Y-%m-%d)"
-
-      - name: Push cambios
-        if: steps.changes.outputs.changed == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git commit -m "chore: actualizacion automatica de datos $(date -u +%Y-%m-%d)"
+          git push
 
       - name: Build frontend
         if: steps.changes.outputs.changed == 'true'
