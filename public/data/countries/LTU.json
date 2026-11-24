@@ -1,0 +1,47 @@
+{
+  "iso3": "LTU",
+  "name": "Lituania",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Gitanas Nausėda",
+    "since": "2024-07-12",
+    "party": null,
+    "source": "Presidencia de Lituania",
+    "sourceUrl": "https://www.lrp.lt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Vilija Blinkevičiūtė",
+    "since": "2024-12-13",
+    "party": {
+      "qid": "Q744600",
+      "name": "Partido Socialdemócrata de Lituania"
+    },
+    "source": "Gobierno de Lituania",
+    "sourceUrl": "https://lrv.lt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LTU",
+    "date": "2028-10-08",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Seimas)",
+    "whatIsElected": "Seimas (141 escaños)",
+    "source": "Vyriausioji rinkimų komisija",
+    "sourceUrl": "https://www.vrk.lt",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

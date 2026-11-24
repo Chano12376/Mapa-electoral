@@ -1758,5 +1758,445 @@
       "retrievedAt": "2026-11-24",
       "motivo": "Presidente: jefe de Estado y de Gobierno"
     }
+  },
+  "PAN": {
+    "headOfState": {
+      "name": "José Raúl Mulino",
+      "since": "2024-07-01",
+      "partyQid": "Q123752",
+      "partyName": "Realizando Metas",
+      "source": "Tribunal Electoral de Panamá",
+      "sourceUrl": "https://www.tribunal-electoral.gob.pa",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "José Raúl Mulino",
+      "since": "2024-07-01",
+      "partyQid": "Q123752",
+      "partyName": "Realizando Metas",
+      "source": "Tribunal Electoral de Panamá",
+      "sourceUrl": "https://www.tribunal-electoral.gob.pa",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "SLV": {
+    "headOfState": {
+      "name": "Nayib Bukele",
+      "since": "2024-06-01",
+      "partyQid": "Q56825117",
+      "partyName": "Nuevas Ideas",
+      "source": "Tribunal Supremo Electoral de El Salvador",
+      "sourceUrl": "https://www.tse.gob.sv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno; reelegido en feb. 2024"
+    },
+    "headOfGovernment": {
+      "name": "Nayib Bukele",
+      "since": "2024-06-01",
+      "partyQid": "Q56825117",
+      "partyName": "Nuevas Ideas",
+      "source": "Tribunal Supremo Electoral de El Salvador",
+      "sourceUrl": "https://www.tse.gob.sv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "HND": {
+    "headOfState": {
+      "name": "Xiomara Castro",
+      "since": "2022-01-27",
+      "partyQid": "Q20650752",
+      "partyName": "Libre",
+      "source": "Tribunal Supremo Electoral de Honduras",
+      "sourceUrl": "https://www.tse.hn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta: jefa de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Xiomara Castro",
+      "since": "2022-01-27",
+      "partyQid": "Q20650752",
+      "partyName": "Libre",
+      "source": "Tribunal Supremo Electoral de Honduras",
+      "sourceUrl": "https://www.tse.hn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta: jefa de Estado y de Gobierno"
+    }
+  },
+  "IRL": {
+    "headOfState": {
+      "name": "Michael D. Higgins",
+      "since": "2011-11-11",
+      "partyQid": "Q10225",
+      "partyName": "Partido Laborista",
+      "source": "Presidente de Irlanda",
+      "sourceUrl": "https://president.ie",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de Irlanda"
+    },
+    "headOfGovernment": {
+      "name": "Micheál Martin",
+      "since": "2025-01-23",
+      "partyQid": "Q843443",
+      "partyName": "Fianna Fáil",
+      "source": "Gobierno de Irlanda",
+      "sourceUrl": "https://www.gov.ie/en/organisation/department-of-the-taoiseach/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Taoiseach (Primer Ministro) desde enero 2025"
+    }
+  },
+  "SVN": {
+    "headOfState": {
+      "name": "Nataša Pirc Musar",
+      "since": "2022-12-23",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de la República de Eslovenia",
+      "sourceUrl": "https://www.up-rs.si",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta de la República"
+    },
+    "headOfGovernment": {
+      "name": "Robert Golob",
+      "since": "2022-06-01",
+      "partyQid": "Q110261820",
+      "partyName": "Gibanje Svoboda",
+      "source": "Gobierno de Eslovenia",
+      "sourceUrl": "https://www.gov.si",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro"
+    }
+  },
+  "EST": {
+    "headOfState": {
+      "name": "Alar Karis",
+      "since": "2021-10-11",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de Estonia",
+      "sourceUrl": "https://www.president.ee",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República"
+    },
+    "headOfGovernment": {
+      "name": "Kristen Michal",
+      "since": "2024-07-23",
+      "partyQid": "Q316104",
+      "partyName": "Partido de la Reforma",
+      "source": "Gobierno de Estonia",
+      "sourceUrl": "https://www.valitsus.ee",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jul. 2024 (sucedió a Kallas)"
+    }
+  },
+  "LTU": {
+    "headOfState": {
+      "name": "Gitanas Nausėda",
+      "since": "2024-07-12",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de Lituania",
+      "sourceUrl": "https://www.lrp.lt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente reelegido en mayo 2024"
+    },
+    "headOfGovernment": {
+      "name": "Vilija Blinkevičiūtė",
+      "since": "2024-12-13",
+      "partyQid": "Q744600",
+      "partyName": "Partido Socialdemócrata de Lituania",
+      "source": "Gobierno de Lituania",
+      "sourceUrl": "https://lrv.lt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra desde dic. 2024 (elecciones oct. 2024)"
+    }
+  },
+  "LVA": {
+    "headOfState": {
+      "name": "Edgars Rinkēvičs",
+      "since": "2023-07-08",
+      "partyQid": "Q839530",
+      "partyName": "Nueva Unidad",
+      "source": "Presidencia de Letonia",
+      "sourceUrl": "https://www.president.lv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República"
+    },
+    "headOfGovernment": {
+      "name": "Evika Siliņa",
+      "since": "2023-09-15",
+      "partyQid": "Q839530",
+      "partyName": "Nueva Unidad",
+      "source": "Gobierno de Letonia",
+      "sourceUrl": "https://www.mk.gov.lv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra"
+    }
+  },
+  "ALB": {
+    "headOfState": {
+      "name": "Bajram Begaj",
+      "since": "2022-07-24",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de Albania",
+      "sourceUrl": "https://president.al",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República"
+    },
+    "headOfGovernment": {
+      "name": "Edi Rama",
+      "since": "2013-09-15",
+      "partyQid": "Q224247",
+      "partyName": "Partido Socialista de Albania",
+      "source": "Gobierno de Albania",
+      "sourceUrl": "https://www.kryeministria.al",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (desde 2013)"
+    }
+  },
+  "GEO": {
+    "headOfState": {
+      "name": "Mikheil Kavelashvili",
+      "since": "2025-01-04",
+      "partyQid": "Q1033348",
+      "partyName": "Sueño Georgiano",
+      "source": "Parlamento de Georgia",
+      "sourceUrl": "https://www.parliament.ge",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde ene. 2025 (elegido por el Parlamento)"
+    },
+    "headOfGovernment": {
+      "name": "Irakli Kobakhidze",
+      "since": "2024-02-29",
+      "partyQid": "Q1033348",
+      "partyName": "Sueño Georgiano",
+      "source": "Gobierno de Georgia",
+      "sourceUrl": "https://www.gov.ge",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2024"
+    }
+  },
+  "MNG": {
+    "headOfState": {
+      "name": "Ukhnaagiin Khürelsükh",
+      "since": "2021-06-25",
+      "partyQid": "Q1142862",
+      "partyName": "Partido Popular Mongol",
+      "source": "Presidencia de Mongolia",
+      "sourceUrl": "https://president.mn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente"
+    },
+    "headOfGovernment": {
+      "name": "Oyun-Erdene Luvsannamsrai",
+      "since": "2021-01-27",
+      "partyQid": "Q1142862",
+      "partyName": "Partido Popular Mongol",
+      "source": "Gobierno de Mongolia",
+      "sourceUrl": "https://zasag.mn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro"
+    }
+  },
+  "LKA": {
+    "headOfState": {
+      "name": "Anura Kumara Dissanayake",
+      "since": "2024-09-23",
+      "partyQid": "Q28962095",
+      "partyName": "NPP (JVP)",
+      "source": "Comisión Electoral de Sri Lanka",
+      "sourceUrl": "https://www.elections.gov.lk",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (jefe de Estado y de Gobierno)"
+    },
+    "headOfGovernment": {
+      "name": "Harini Amarasuriya",
+      "since": "2024-09-24",
+      "partyQid": "Q28962095",
+      "partyName": "NPP (JVP)",
+      "source": "Gobierno de Sri Lanka",
+      "sourceUrl": "https://www.gov.lk",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra desde sep. 2024"
+    }
+  },
+  "UZB": {
+    "headOfState": {
+      "name": "Shavkat Mirziyoyev",
+      "since": "2016-09-08",
+      "partyQid": "Q7378714",
+      "partyName": "Partido Liberal Democrático de Uzbekistán",
+      "source": "Comisión Electoral Central de Uzbekistán",
+      "sourceUrl": "https://election.gov.uz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (jefe de Estado y de Gobierno)"
+    },
+    "headOfGovernment": {
+      "name": "Shavkat Mirziyoyev",
+      "since": "2016-09-08",
+      "partyQid": "Q7378714",
+      "partyName": "Partido Liberal Democrático de Uzbekistán",
+      "source": "Comisión Electoral Central de Uzbekistán",
+      "sourceUrl": "https://election.gov.uz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "PRK": {
+    "headOfState": {
+      "name": "Kim Jong-un",
+      "since": "2011-12-28",
+      "partyQid": "Q28922",
+      "partyName": "Partido del Trabajo de Corea",
+      "source": "Constitución RPDC / KCNA",
+      "sourceUrl": "https://www.ncnk.org/resources/publications/dprk-constitution-2019.pdf",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Secretario General del PTC y Presidente de Asuntos de Estado"
+    },
+    "headOfGovernment": {
+      "name": "Kim Jong-un",
+      "since": "2011-12-28",
+      "partyQid": "Q28922",
+      "partyName": "Partido del Trabajo de Corea",
+      "source": "Constitución RPDC / KCNA",
+      "sourceUrl": "https://www.ncnk.org/resources/publications/dprk-constitution-2019.pdf",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Máximo líder; sistema de partido único"
+    }
+  },
+  "NPL": {
+    "headOfState": {
+      "name": "Ram Chandra Paudel",
+      "since": "2023-03-13",
+      "partyQid": "Q904198",
+      "partyName": "Congreso Nepalés",
+      "source": "Comisión Electoral del Nepal",
+      "sourceUrl": "https://www.election.gov.np",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de Nepal"
+    },
+    "headOfGovernment": {
+      "name": "KP Sharma Oli",
+      "since": "2024-07-15",
+      "partyQid": "Q843571",
+      "partyName": "CPN-UML",
+      "source": "Gobierno del Nepal",
+      "sourceUrl": "https://www.opmcm.gov.np",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jul. 2024 (cuarto mandato)"
+    }
+  },
+  "QAT": {
+    "headOfState": {
+      "name": "Tamim bin Hamad Al Thani",
+      "since": "2013-06-25",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Diwan Amiri de Qatar",
+      "sourceUrl": "https://www.diwan.gov.qa",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Emir de Qatar; monarquía absoluta sin partidos políticos"
+    },
+    "headOfGovernment": {
+      "name": "Mohammed bin Abdulrahman Al Thani",
+      "since": "2023-03-07",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Diwan Amiri de Qatar",
+      "sourceUrl": "https://www.diwan.gov.qa",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro y Ministro de Exteriores desde mar. 2023"
+    }
+  },
+  "SYR": {
+    "headOfState": {
+      "name": "Ahmad al-Sharaa",
+      "since": "2025-01-29",
+      "partyQid": null,
+      "partyName": "HTS (Hayat Tahrir al-Sham)",
+      "source": "Reuters / BBC",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/syrias-al-sharaa-named-president-transitional-government-2025-01-29/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del gobierno de transición sirio tras la caída de Assad (dic. 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Mohammad al-Bashir",
+      "since": "2024-12-10",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/syrias-opposition-appoints-technocrat-prime-minister-transitional-govt-2024-12-10/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro del gobierno de transición sirio"
+    }
+  },
+  "COD": {
+    "headOfState": {
+      "name": "Félix Tshisekedi",
+      "since": "2019-01-24",
+      "partyQid": "Q7375434",
+      "partyName": "UDPS",
+      "source": "CENI RD Congo",
+      "sourceUrl": "https://www.ceni.gouv.cd",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente reelegido en dic. 2023"
+    },
+    "headOfGovernment": {
+      "name": "Jean-Michel Sama Lukonde",
+      "since": "2024-06-05",
+      "partyQid": "Q7375434",
+      "partyName": "UDPS",
+      "source": "Presidencia RD Congo",
+      "sourceUrl": "https://www.presidence.cd",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jun. 2024"
+    }
+  },
+  "CMR": {
+    "headOfState": {
+      "name": "Paul Biya",
+      "since": "1982-11-06",
+      "partyQid": "Q1032768",
+      "partyName": "RDPC",
+      "source": "Presidencia de Camerún",
+      "sourceUrl": "https://www.spm.gov.cm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 1982; uno de los más longevos en el cargo"
+    },
+    "headOfGovernment": {
+      "name": "Joseph Dion Ngute",
+      "since": "2019-01-04",
+      "partyQid": "Q1032768",
+      "partyName": "RDPC",
+      "source": "Secretaría General del Gobierno de Camerún",
+      "sourceUrl": "https://www.spm.gov.cm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ene. 2019"
+    }
+  },
+  "AGO": {
+    "headOfState": {
+      "name": "João Lourenço",
+      "since": "2017-09-26",
+      "partyQid": "Q1065038",
+      "partyName": "MPLA",
+      "source": "Presidencia de Angola",
+      "sourceUrl": "https://www.president.gov.ao",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente reelegido en ago. 2022"
+    },
+    "headOfGovernment": {
+      "name": "João Lourenço",
+      "since": "2017-09-26",
+      "partyQid": "Q1065038",
+      "partyName": "MPLA",
+      "source": "Presidencia de Angola",
+      "sourceUrl": "https://www.president.gov.ao",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
   }
 }

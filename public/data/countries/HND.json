@@ -1,0 +1,50 @@
+{
+  "iso3": "HND",
+  "name": "Honduras",
+  "region": "América",
+  "headOfState": {
+    "name": "Xiomara Castro",
+    "since": "2022-01-27",
+    "party": {
+      "qid": "Q20650752",
+      "name": "Libre"
+    },
+    "source": "Tribunal Supremo Electoral de Honduras",
+    "sourceUrl": "https://www.tse.hn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Xiomara Castro",
+    "since": "2022-01-27",
+    "party": {
+      "qid": "Q20650752",
+      "name": "Libre"
+    },
+    "source": "Tribunal Supremo Electoral de Honduras",
+    "sourceUrl": "https://www.tse.hn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "HND",
+    "date": "2025-11-30",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Congreso Nacional (128 escaños)",
+    "source": "Tribunal Supremo Electoral de Honduras",
+    "sourceUrl": "https://www.tse.hn",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

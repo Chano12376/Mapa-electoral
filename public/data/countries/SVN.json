@@ -1,0 +1,47 @@
+{
+  "iso3": "SVN",
+  "name": "Eslovenia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Nataša Pirc Musar",
+    "since": "2022-12-23",
+    "party": null,
+    "source": "Presidencia de la República de Eslovenia",
+    "sourceUrl": "https://www.up-rs.si",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Robert Golob",
+    "since": "2022-06-01",
+    "party": {
+      "qid": "Q110261820",
+      "name": "Gibanje Svoboda"
+    },
+    "source": "Gobierno de Eslovenia",
+    "sourceUrl": "https://www.gov.si",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SVN",
+    "date": "2026-04-26",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Državni zbor)",
+    "whatIsElected": "Državni zbor (90 escaños)",
+    "source": "Državna volilna komisija",
+    "sourceUrl": "https://www.dvk-rs.si",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

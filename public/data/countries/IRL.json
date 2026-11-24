@@ -1,0 +1,50 @@
+{
+  "iso3": "IRL",
+  "name": "Irlanda",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Michael D. Higgins",
+    "since": "2011-11-11",
+    "party": {
+      "qid": "Q10225",
+      "name": "Partido Laborista"
+    },
+    "source": "Presidente de Irlanda",
+    "sourceUrl": "https://president.ie",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Micheál Martin",
+    "since": "2025-01-23",
+    "party": {
+      "qid": "Q843443",
+      "name": "Fianna Fáil"
+    },
+    "source": "Gobierno de Irlanda",
+    "sourceUrl": "https://www.gov.ie/en/organisation/department-of-the-taoiseach/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "IRL",
+    "date": "2029-11-29",
+    "dateStatus": "limite_legal",
+    "type": "Generales (Dáil Éireann)",
+    "whatIsElected": "Dáil Éireann (160 escaños)",
+    "source": "Electoral Commission Ireland",
+    "sourceUrl": "https://www.electoralcommission.ie",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

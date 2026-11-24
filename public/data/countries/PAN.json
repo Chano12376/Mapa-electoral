@@ -1,0 +1,50 @@
+{
+  "iso3": "PAN",
+  "name": "Panamá",
+  "region": "América",
+  "headOfState": {
+    "name": "José Raúl Mulino",
+    "since": "2024-07-01",
+    "party": {
+      "qid": "Q123752",
+      "name": "Realizando Metas"
+    },
+    "source": "Tribunal Electoral de Panamá",
+    "sourceUrl": "https://www.tribunal-electoral.gob.pa",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "José Raúl Mulino",
+    "since": "2024-07-01",
+    "party": {
+      "qid": "Q123752",
+      "name": "Realizando Metas"
+    },
+    "source": "Tribunal Electoral de Panamá",
+    "sourceUrl": "https://www.tribunal-electoral.gob.pa",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "PAN",
+    "date": "2029-05-06",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional (71 escaños)",
+    "source": "Tribunal Electoral de Panamá",
+    "sourceUrl": "https://www.tribunal-electoral.gob.pa",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

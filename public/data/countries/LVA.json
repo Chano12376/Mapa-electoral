@@ -1,0 +1,50 @@
+{
+  "iso3": "LVA",
+  "name": "Letonia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Edgars Rinkēvičs",
+    "since": "2023-07-08",
+    "party": {
+      "qid": "Q839530",
+      "name": "Nueva Unidad"
+    },
+    "source": "Presidencia de Letonia",
+    "sourceUrl": "https://www.president.lv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Evika Siliņa",
+    "since": "2023-09-15",
+    "party": {
+      "qid": "Q839530",
+      "name": "Nueva Unidad"
+    },
+    "source": "Gobierno de Letonia",
+    "sourceUrl": "https://www.mk.gov.lv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LVA",
+    "date": "2026-10-04",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Saeima)",
+    "whatIsElected": "Saeima (100 escaños)",
+    "source": "Centrālā vēlēšanu komisija",
+    "sourceUrl": "https://www.cvk.lv",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

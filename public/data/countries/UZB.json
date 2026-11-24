@@ -1,0 +1,50 @@
+{
+  "iso3": "UZB",
+  "name": "Uzbekistán",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Shavkat Mirziyoyev",
+    "since": "2016-09-08",
+    "party": {
+      "qid": "Q7378714",
+      "name": "Partido Liberal Democrático de Uzbekistán"
+    },
+    "source": "Comisión Electoral Central de Uzbekistán",
+    "sourceUrl": "https://election.gov.uz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Shavkat Mirziyoyev",
+    "since": "2016-09-08",
+    "party": {
+      "qid": "Q7378714",
+      "name": "Partido Liberal Democrático de Uzbekistán"
+    },
+    "source": "Comisión Electoral Central de Uzbekistán",
+    "sourceUrl": "https://election.gov.uz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "UZB",
+    "date": "2026-10-24",
+    "dateStatus": "prevista",
+    "type": "Legislativas",
+    "whatIsElected": "Oliy Majlis — Cámara Legislativa (150 escaños)",
+    "source": "Comisión Electoral Central de Uzbekistán",
+    "sourceUrl": "https://election.gov.uz",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

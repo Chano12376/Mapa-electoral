@@ -1,0 +1,50 @@
+{
+  "iso3": "MNG",
+  "name": "Mongolia",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Ukhnaagiin Khürelsükh",
+    "since": "2021-06-25",
+    "party": {
+      "qid": "Q1142862",
+      "name": "Partido Popular Mongol"
+    },
+    "source": "Presidencia de Mongolia",
+    "sourceUrl": "https://president.mn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Oyun-Erdene Luvsannamsrai",
+    "since": "2021-01-27",
+    "party": {
+      "qid": "Q1142862",
+      "name": "Partido Popular Mongol"
+    },
+    "source": "Gobierno de Mongolia",
+    "sourceUrl": "https://zasag.mn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MNG",
+    "date": "2028-06-28",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente",
+    "source": "Comisión Electoral General de Mongolia",
+    "sourceUrl": "https://gec.gov.mn",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,44 @@
+{
+  "iso3": "QAT",
+  "name": "Qatar",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Tamim bin Hamad Al Thani",
+    "since": "2013-06-25",
+    "party": null,
+    "source": "Diwan Amiri de Qatar",
+    "sourceUrl": "https://www.diwan.gov.qa",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohammed bin Abdulrahman Al Thani",
+    "since": "2023-03-07",
+    "party": null,
+    "source": "Diwan Amiri de Qatar",
+    "sourceUrl": "https://www.diwan.gov.qa",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "QAT",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": "Sin elección nacional directa",
+    "whatIsElected": "Monarquía absoluta; el Consejo Consultivo (Majlis Al-Shura) es designado por el Emir desde 2021",
+    "source": "Constitución del Estado de Qatar",
+    "sourceUrl": "https://www.almeezan.qa/LawPage.aspx?id=2284&language=en",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

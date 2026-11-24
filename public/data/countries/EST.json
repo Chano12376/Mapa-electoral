@@ -1,0 +1,47 @@
+{
+  "iso3": "EST",
+  "name": "Estonia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Alar Karis",
+    "since": "2021-10-11",
+    "party": null,
+    "source": "Presidencia de Estonia",
+    "sourceUrl": "https://www.president.ee",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Kristen Michal",
+    "since": "2024-07-23",
+    "party": {
+      "qid": "Q316104",
+      "name": "Partido de la Reforma"
+    },
+    "source": "Gobierno de Estonia",
+    "sourceUrl": "https://www.valitsus.ee",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "EST",
+    "date": "2027-03-07",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Riigikogu)",
+    "whatIsElected": "Riigikogu (101 escaños)",
+    "source": "Vabariigi Valimiskomisjon",
+    "sourceUrl": "https://www.valimised.ee",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

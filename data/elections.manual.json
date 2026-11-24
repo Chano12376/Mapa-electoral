@@ -800,6 +800,206 @@
       "source": "Tribunal Supremo Electoral Guatemala",
       "sourceUrl": "https://tse.org.gt",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "PAN",
+      "date": "2029-05-06",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional (71 escaños)",
+      "source": "Tribunal Electoral de Panamá",
+      "sourceUrl": "https://www.tribunal-electoral.gob.pa",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SLV",
+      "date": "2027-02-28",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Legislativa (60 escaños)",
+      "source": "Tribunal Supremo Electoral de El Salvador",
+      "sourceUrl": "https://www.tse.gob.sv",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "HND",
+      "date": "2025-11-30",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Congreso Nacional (128 escaños)",
+      "source": "Tribunal Supremo Electoral de Honduras",
+      "sourceUrl": "https://www.tse.hn",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "IRL",
+      "date": "2029-11-29",
+      "dateStatus": "limite_legal",
+      "type": "Generales (Dáil Éireann)",
+      "whatIsElected": "Dáil Éireann (160 escaños)",
+      "source": "Electoral Commission Ireland",
+      "sourceUrl": "https://www.electoralcommission.ie",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SVN",
+      "date": "2026-04-26",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Državni zbor)",
+      "whatIsElected": "Državni zbor (90 escaños)",
+      "source": "Državna volilna komisija",
+      "sourceUrl": "https://www.dvk-rs.si",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "EST",
+      "date": "2027-03-07",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Riigikogu)",
+      "whatIsElected": "Riigikogu (101 escaños)",
+      "source": "Vabariigi Valimiskomisjon",
+      "sourceUrl": "https://www.valimised.ee",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LTU",
+      "date": "2028-10-08",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Seimas)",
+      "whatIsElected": "Seimas (141 escaños)",
+      "source": "Vyriausioji rinkimų komisija",
+      "sourceUrl": "https://www.vrk.lt",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LVA",
+      "date": "2026-10-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Saeima)",
+      "whatIsElected": "Saeima (100 escaños)",
+      "source": "Centrālā vēlēšanu komisija",
+      "sourceUrl": "https://www.cvk.lv",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "ALB",
+      "date": "2029-05-11",
+      "dateStatus": "prevista",
+      "type": "Legislativas y locales",
+      "whatIsElected": "Kuvendi (140 escaños)",
+      "source": "Komisioni Qendror i Zgjedhjeve",
+      "sourceUrl": "https://www.cec.org.al",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GEO",
+      "date": "2028-10-26",
+      "dateStatus": "prevista",
+      "type": "Parlamentarias",
+      "whatIsElected": "Parlamento de Georgia (150 escaños)",
+      "source": "Comisión Electoral Central de Georgia",
+      "sourceUrl": "https://cesko.ge",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MNG",
+      "date": "2028-06-28",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente",
+      "source": "Comisión Electoral General de Mongolia",
+      "sourceUrl": "https://gec.gov.mn",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LKA",
+      "date": "2030-09-21",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente",
+      "source": "Comisión Electoral de Sri Lanka",
+      "sourceUrl": "https://www.elections.gov.lk",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "UZB",
+      "date": "2026-10-24",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Oliy Majlis — Cámara Legislativa (150 escaños)",
+      "source": "Comisión Electoral Central de Uzbekistán",
+      "sourceUrl": "https://election.gov.uz",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "PRK",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": "Sin elección nacional directa",
+      "whatIsElected": "Sistema de partido único; elecciones a la Asamblea Popular Suprema no son competitivas",
+      "source": "Constitución de la República Popular Democrática de Corea",
+      "sourceUrl": "https://www.ncnk.org/resources/publications/dprk-constitution-2019.pdf",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "NPL",
+      "date": "2027-11-20",
+      "dateStatus": "prevista",
+      "type": "Legislativas y locales",
+      "whatIsElected": "Pratinidhi Sabha (275 escaños)",
+      "source": "Comisión Electoral del Nepal",
+      "sourceUrl": "https://www.election.gov.np",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "QAT",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": "Sin elección nacional directa",
+      "whatIsElected": "Monarquía absoluta; el Consejo Consultivo (Majlis Al-Shura) es designado por el Emir desde 2021",
+      "source": "Constitución del Estado de Qatar",
+      "sourceUrl": "https://www.almeezan.qa/LawPage.aspx?id=2284&language=en",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SYR",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (período de transición)",
+      "whatIsElected": "Proceso constituyente en curso tras la caída del régimen de Assad (dic. 2024)",
+      "source": "BBC News / Reuters",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q3g3gdq9po",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "COD",
+      "date": "2028-12-20",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional (500 escaños)",
+      "source": "CENI — Comisión Electoral Nacional Independiente (RD Congo)",
+      "sourceUrl": "https://www.ceni.gouv.cd",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "CMR",
+      "date": "2025-10-01",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente",
+      "source": "Elections Cameroon",
+      "sourceUrl": "https://www.elecam.cm",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "AGO",
+      "date": "2027-08-31",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente y Asamblea Nacional (220 escaños)",
+      "source": "Comisión Nacional Electoral de Angola",
+      "sourceUrl": "https://www.cne.ao",
+      "checkedAt": "2026-11-24"
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "iso3": "SYR",
+  "name": "Siria",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Ahmad al-Sharaa",
+    "since": "2025-01-29",
+    "party": null,
+    "source": "Reuters / BBC",
+    "sourceUrl": "https://www.reuters.com/world/middle-east/syrias-al-sharaa-named-president-transitional-government-2025-01-29/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohammad al-Bashir",
+    "since": "2024-12-10",
+    "party": null,
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/world/middle-east/syrias-opposition-appoints-technocrat-prime-minister-transitional-govt-2024-12-10/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

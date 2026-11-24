@@ -1,0 +1,50 @@
+{
+  "iso3": "COD",
+  "name": "RD Congo",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Félix Tshisekedi",
+    "since": "2019-01-24",
+    "party": {
+      "qid": "Q7375434",
+      "name": "UDPS"
+    },
+    "source": "CENI RD Congo",
+    "sourceUrl": "https://www.ceni.gouv.cd",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Jean-Michel Sama Lukonde",
+    "since": "2024-06-05",
+    "party": {
+      "qid": "Q7375434",
+      "name": "UDPS"
+    },
+    "source": "Presidencia RD Congo",
+    "sourceUrl": "https://www.presidence.cd",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "COD",
+    "date": "2028-12-20",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional (500 escaños)",
+    "source": "CENI — Comisión Electoral Nacional Independiente (RD Congo)",
+    "sourceUrl": "https://www.ceni.gouv.cd",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,50 @@
+{
+  "iso3": "CMR",
+  "name": "Camerún",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Paul Biya",
+    "since": "1982-11-06",
+    "party": {
+      "qid": "Q1032768",
+      "name": "RDPC"
+    },
+    "source": "Presidencia de Camerún",
+    "sourceUrl": "https://www.spm.gov.cm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Joseph Dion Ngute",
+    "since": "2019-01-04",
+    "party": {
+      "qid": "Q1032768",
+      "name": "RDPC"
+    },
+    "source": "Secretaría General del Gobierno de Camerún",
+    "sourceUrl": "https://www.spm.gov.cm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CMR",
+    "date": "2025-10-01",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente",
+    "source": "Elections Cameroon",
+    "sourceUrl": "https://www.elecam.cm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

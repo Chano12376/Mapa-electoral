@@ -1,0 +1,50 @@
+{
+  "iso3": "GEO",
+  "name": "Georgia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Mikheil Kavelashvili",
+    "since": "2025-01-04",
+    "party": {
+      "qid": "Q1033348",
+      "name": "Sueño Georgiano"
+    },
+    "source": "Parlamento de Georgia",
+    "sourceUrl": "https://www.parliament.ge",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Irakli Kobakhidze",
+    "since": "2024-02-29",
+    "party": {
+      "qid": "Q1033348",
+      "name": "Sueño Georgiano"
+    },
+    "source": "Gobierno de Georgia",
+    "sourceUrl": "https://www.gov.ge",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GEO",
+    "date": "2028-10-26",
+    "dateStatus": "prevista",
+    "type": "Parlamentarias",
+    "whatIsElected": "Parlamento de Georgia (150 escaños)",
+    "source": "Comisión Electoral Central de Georgia",
+    "sourceUrl": "https://cesko.ge",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

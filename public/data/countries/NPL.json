@@ -1,0 +1,50 @@
+{
+  "iso3": "NPL",
+  "name": "Nepal",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Ram Chandra Paudel",
+    "since": "2023-03-13",
+    "party": {
+      "qid": "Q904198",
+      "name": "Congreso Nepalés"
+    },
+    "source": "Comisión Electoral del Nepal",
+    "sourceUrl": "https://www.election.gov.np",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "KP Sharma Oli",
+    "since": "2024-07-15",
+    "party": {
+      "qid": "Q843571",
+      "name": "CPN-UML"
+    },
+    "source": "Gobierno del Nepal",
+    "sourceUrl": "https://www.opmcm.gov.np",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "NPL",
+    "date": "2027-11-20",
+    "dateStatus": "prevista",
+    "type": "Legislativas y locales",
+    "whatIsElected": "Pratinidhi Sabha (275 escaños)",
+    "source": "Comisión Electoral del Nepal",
+    "sourceUrl": "https://www.election.gov.np",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

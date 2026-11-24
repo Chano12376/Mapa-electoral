@@ -1,0 +1,50 @@
+{
+  "iso3": "PRK",
+  "name": "Corea del Norte",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Kim Jong-un",
+    "since": "2011-12-28",
+    "party": {
+      "qid": "Q28922",
+      "name": "Partido del Trabajo de Corea"
+    },
+    "source": "Constitución RPDC / KCNA",
+    "sourceUrl": "https://www.ncnk.org/resources/publications/dprk-constitution-2019.pdf",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Kim Jong-un",
+    "since": "2011-12-28",
+    "party": {
+      "qid": "Q28922",
+      "name": "Partido del Trabajo de Corea"
+    },
+    "source": "Constitución RPDC / KCNA",
+    "sourceUrl": "https://www.ncnk.org/resources/publications/dprk-constitution-2019.pdf",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "PRK",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": "Sin elección nacional directa",
+    "whatIsElected": "Sistema de partido único; elecciones a la Asamblea Popular Suprema no son competitivas",
+    "source": "Constitución de la República Popular Democrática de Corea",
+    "sourceUrl": "https://www.ncnk.org/resources/publications/dprk-constitution-2019.pdf",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

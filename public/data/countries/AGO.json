@@ -1,0 +1,50 @@
+{
+  "iso3": "AGO",
+  "name": "Angola",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "João Lourenço",
+    "since": "2017-09-26",
+    "party": {
+      "qid": "Q1065038",
+      "name": "MPLA"
+    },
+    "source": "Presidencia de Angola",
+    "sourceUrl": "https://www.president.gov.ao",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "João Lourenço",
+    "since": "2017-09-26",
+    "party": {
+      "qid": "Q1065038",
+      "name": "MPLA"
+    },
+    "source": "Presidencia de Angola",
+    "sourceUrl": "https://www.president.gov.ao",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "AGO",
+    "date": "2027-08-31",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Presidente y Asamblea Nacional (220 escaños)",
+    "source": "Comisión Nacional Electoral de Angola",
+    "sourceUrl": "https://www.cne.ao",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,50 @@
+{
+  "iso3": "SLV",
+  "name": "El Salvador",
+  "region": "América",
+  "headOfState": {
+    "name": "Nayib Bukele",
+    "since": "2024-06-01",
+    "party": {
+      "qid": "Q56825117",
+      "name": "Nuevas Ideas"
+    },
+    "source": "Tribunal Supremo Electoral de El Salvador",
+    "sourceUrl": "https://www.tse.gob.sv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Nayib Bukele",
+    "since": "2024-06-01",
+    "party": {
+      "qid": "Q56825117",
+      "name": "Nuevas Ideas"
+    },
+    "source": "Tribunal Supremo Electoral de El Salvador",
+    "sourceUrl": "https://www.tse.gob.sv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SLV",
+    "date": "2027-02-28",
+    "dateStatus": "prevista",
+    "type": "Legislativas",
+    "whatIsElected": "Asamblea Legislativa (60 escaños)",
+    "source": "Tribunal Supremo Electoral de El Salvador",
+    "sourceUrl": "https://www.tse.gob.sv",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

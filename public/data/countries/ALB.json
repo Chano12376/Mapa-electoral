@@ -1,0 +1,47 @@
+{
+  "iso3": "ALB",
+  "name": "Albania",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Bajram Begaj",
+    "since": "2022-07-24",
+    "party": null,
+    "source": "Presidencia de Albania",
+    "sourceUrl": "https://president.al",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Edi Rama",
+    "since": "2013-09-15",
+    "party": {
+      "qid": "Q224247",
+      "name": "Partido Socialista de Albania"
+    },
+    "source": "Gobierno de Albania",
+    "sourceUrl": "https://www.kryeministria.al",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ALB",
+    "date": "2029-05-11",
+    "dateStatus": "prevista",
+    "type": "Legislativas y locales",
+    "whatIsElected": "Kuvendi (140 escaños)",
+    "source": "Komisioni Qendror i Zgjedhjeve",
+    "sourceUrl": "https://www.cec.org.al",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

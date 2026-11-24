@@ -46,6 +46,17 @@
       "checkedAt": "2026-11-23"
     },
     {
+      "iso3": "SLV",
+      "name": "El Salvador",
+      "date": "2027-02-28",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Legislativa (60 escaños)",
+      "source": "Tribunal Supremo Electoral de El Salvador",
+      "sourceUrl": "https://www.tse.gob.sv",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "KOR",
       "name": "Corea del Sur",
       "date": "2027-03-01",
@@ -55,6 +66,17 @@
       "source": "National Election Commission of Korea",
       "sourceUrl": "https://www.nec.go.kr/site/eng/main.do",
       "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "EST",
+      "name": "Estonia",
+      "date": "2027-03-07",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Riigikogu)",
+      "whatIsElected": "Riigikogu (101 escaños)",
+      "source": "Vabariigi Valimiskomisjon",
+      "sourceUrl": "https://www.valimised.ee",
+      "checkedAt": "2026-11-24"
     },
     {
       "iso3": "FIN",
@@ -156,6 +178,17 @@
       "checkedAt": "2026-11-23"
     },
     {
+      "iso3": "AGO",
+      "name": "Angola",
+      "date": "2027-08-31",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente y Asamblea Nacional (220 escaños)",
+      "source": "Comisión Nacional Electoral de Angola",
+      "sourceUrl": "https://www.cne.ao",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "ITA",
       "name": "Italia",
       "date": "2027-10-01",
@@ -242,6 +275,17 @@
       "source": "Election Commission of Malaysia",
       "sourceUrl": "https://www.spr.gov.my",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "NPL",
+      "name": "Nepal",
+      "date": "2027-11-20",
+      "dateStatus": "prevista",
+      "type": "Legislativas y locales",
+      "whatIsElected": "Pratinidhi Sabha (275 escaños)",
+      "source": "Comisión Electoral del Nepal",
+      "sourceUrl": "https://www.election.gov.np",
+      "checkedAt": "2026-11-24"
     }
   ]
 }
