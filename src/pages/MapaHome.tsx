@@ -4,12 +4,14 @@ import {
   ComposableMap,
   Geographies,
   Geography,
+  Graticule,
+  Sphere,
   ZoomableGroup,
 } from "react-simple-maps";
 import { CountryData } from "../types.ts";
 
 const GEO_URL =
-  "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
+  "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json";
 
 const NUMERIC_TO_ISO3: Record<string, string> = {
   "840": "USA", "124": "CAN", "484": "MEX", "076": "BRA", "032": "ARG",
@@ -310,12 +312,16 @@ export default function MapaHome({ continente }: Props) {
         )}
 
         {/* Mapa */}
-        <div className="relative flex-1" style={{ background: "#e8eff5" }}>
+        <div className="relative flex-1" style={{ background: "#dce8f0" }}>
           <ComposableMap
             projectionConfig={{ scale: 147 }}
             style={{ width: "100%", height: "100%" }}
           >
             <ZoomableGroup center={view.center} zoom={view.zoom}>
+              {/* Océano */}
+              <Sphere id="ocean-sphere" fill="#c8dcea" stroke="#b0cce0" strokeWidth={0.4} />
+              {/* Graticule cartográfico */}
+              <Graticule stroke="#b8d0e0" strokeWidth={0.3} strokeOpacity={0.6} />
               <Geographies geography={GEO_URL}>
                 {({ geographies }) =>
                   geographies.map((geo) => {
@@ -329,8 +335,8 @@ export default function MapaHome({ continente }: Props) {
                         key={geo.rsmKey}
                         geography={geo}
                         fill={isHov ? hoverColor(data) : electionColor(data, dimmed)}
-                        stroke={dimmed ? "#c5cdd7" : "#ffffff"}
-                        strokeWidth={dimmed ? 0.3 : 0.6}
+                        stroke={dimmed ? "#bfc8d2" : "#f0f4f8"}
+                        strokeWidth={dimmed ? 0.25 : 0.5}
                         style={{
                           default: { outline: "none", cursor: isActive && !dimmed ? "pointer" : "default" },
                           hover:   { outline: "none" },
