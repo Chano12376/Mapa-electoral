@@ -1,0 +1,44 @@
+{
+  "iso3": "STP",
+  "name": "Santo Tomé y Príncipe",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Carlos Vila Nova",
+    "since": "2021-10-02",
+    "party": null,
+    "source": "Presidência da República de São Tomé e Príncipe",
+    "sourceUrl": "https://www.presidencia.st",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Américo Ramos",
+    "since": "2023-11-11",
+    "party": null,
+    "source": "Governo de São Tomé e Príncipe",
+    "sourceUrl": "https://www.governo.st",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "STP",
+    "date": "2026-10-01",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Comissão Eleitoral Nacional — São Tomé e Príncipe",
+    "sourceUrl": "https://www.cen.st",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

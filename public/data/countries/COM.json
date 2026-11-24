@@ -1,0 +1,44 @@
+{
+  "iso3": "COM",
+  "name": "Comoras",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Azali Assoumani",
+    "since": "2016-05-26",
+    "party": null,
+    "source": "Presidencia de la Unión de las Comoras",
+    "sourceUrl": "https://www.beit-salam.km",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Azali Assoumani",
+    "since": "2016-05-26",
+    "party": null,
+    "source": "Presidencia de la Unión de las Comoras",
+    "sourceUrl": "https://www.beit-salam.km",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "COM",
+    "date": "2029-01-14",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la Unión de las Comoras",
+    "source": "Commission Électorale Nationale Indépendante — Comores",
+    "sourceUrl": "https://www.ceni.km",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

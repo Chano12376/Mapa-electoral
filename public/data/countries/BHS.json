@@ -1,0 +1,44 @@
+{
+  "iso3": "BHS",
+  "name": "Bahamas",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Bahamas",
+    "sourceUrl": "https://www.bahamas.gov.bs",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Philip Davis",
+    "since": "2021-09-17",
+    "party": null,
+    "source": "Gobierno de Bahamas",
+    "sourceUrl": "https://www.bahamas.gov.bs/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BHS",
+    "date": "2026-09-16",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de la Asamblea (39 escaños)",
+    "source": "Parliamentary Registration Department Bahamas",
+    "sourceUrl": "https://www.bahamas.gov.bs",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

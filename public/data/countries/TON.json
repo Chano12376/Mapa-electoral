@@ -1,0 +1,44 @@
+{
+  "iso3": "TON",
+  "name": "Tonga",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Tupou VI",
+    "since": "2012-03-18",
+    "party": null,
+    "source": "Gobierno del Reino de Tonga",
+    "sourceUrl": "https://www.gov.to",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Siaosi Sovaleni",
+    "since": "2021-12-27",
+    "party": null,
+    "source": "Gobierno del Reino de Tonga",
+    "sourceUrl": "https://www.gov.to",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TON",
+    "date": "2025-11-18",
+    "dateStatus": "confirmada",
+    "type": "Legislativas (Asamblea Legislativa)",
+    "whatIsElected": "Asamblea Legislativa (26 escaños elegidos)",
+    "source": "Tonga Electoral Commission",
+    "sourceUrl": "https://www.tonga.gov.to",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1600,6 +1600,206 @@
       "source": "Comissão Nacional de Eleições — Cabo Verde",
       "sourceUrl": "https://www.cne.cv",
       "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LIE",
+      "date": "2029-02-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Landtag)",
+      "whatIsElected": "Landtag (25 escaños)",
+      "source": "Amt für Statistik Liechtenstein",
+      "sourceUrl": "https://www.llv.li/de/landesverwaltung/amt-fuer-statistik/wahlen",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MCO",
+      "date": "2028-02-06",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Consejo Nacional)",
+      "whatIsElected": "Consejo Nacional (24 escaños)",
+      "source": "Gouvernement Princier de Monaco",
+      "sourceUrl": "https://www.gouv.mc",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SMR",
+      "date": "2028-06-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Gran y General Consejo)",
+      "whatIsElected": "Gran y General Consejo (60 escaños)",
+      "source": "Segreteria di Stato per gli Affari Interni",
+      "sourceUrl": "https://www.consigliograndeegenerale.sm",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BHS",
+      "date": "2026-09-16",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Cámara de la Asamblea (39 escaños)",
+      "source": "Parliamentary Registration Department Bahamas",
+      "sourceUrl": "https://www.bahamas.gov.bs",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BRB",
+      "date": "2028-01-19",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Cámara de la Asamblea (30 escaños)",
+      "source": "Electoral and Boundaries Commission Barbados",
+      "sourceUrl": "https://www.gov.bb/electoral",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "PSE",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (crisis política y conflicto)",
+      "whatIsElected": "Última elección presidencial: 2005; legislativa: 2006. Las elecciones están bloqueadas por la división entre Cisjordania (AP) y Gaza (Hamás) y el conflicto en curso.",
+      "source": "Central Elections Commission Palestine",
+      "sourceUrl": "https://www.cec.ps",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MDV",
+      "date": "2028-09-09",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Elections Commission of Maldives",
+      "sourceUrl": "https://elections.gov.mv",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "WSM",
+      "date": "2026-04-09",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Fono Aoao Faitulafono)",
+      "whatIsElected": "Parlamento (51 escaños)",
+      "source": "Electoral Commission of Samoa",
+      "sourceUrl": "https://www.ecs.gov.ws",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TON",
+      "date": "2025-11-18",
+      "dateStatus": "confirmada",
+      "type": "Legislativas (Asamblea Legislativa)",
+      "whatIsElected": "Asamblea Legislativa (26 escaños elegidos)",
+      "source": "Tonga Electoral Commission",
+      "sourceUrl": "https://www.tonga.gov.to",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SLB",
+      "date": "2028-04-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Parlamento Nacional)",
+      "whatIsElected": "Parlamento Nacional (50 escaños)",
+      "source": "Solomon Islands Electoral Commission",
+      "sourceUrl": "https://www.siec.gov.sb",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "VUT",
+      "date": "2028-01-16",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Parlamento)",
+      "whatIsElected": "Parlamento (52 escaños)",
+      "source": "Vanuatu Electoral Commission",
+      "sourceUrl": "https://www.elections.gov.vu",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GNB",
+      "date": "2027-06-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional Popular)",
+      "whatIsElected": "Asamblea Nacional Popular (102 escaños)",
+      "source": "Comissão Nacional de Eleições — Guiné-Bissau",
+      "sourceUrl": "https://www.cne-guinebissau.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GNQ",
+      "date": "2029-11-20",
+      "dateStatus": "prevista",
+      "type": "Presidenciales, legislativas y municipales",
+      "whatIsElected": "Presidente, Cámara de Diputados (100 escaños)",
+      "source": "Consejo Nacional Electoral de Guinea Ecuatorial",
+      "sourceUrl": "https://www.guineaecuatorialpress.com",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "CAF",
+      "date": "2025-12-27",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional",
+      "source": "Autorité Nationale des Élections — RCA",
+      "sourceUrl": "https://www.rca.int",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "COM",
+      "date": "2029-01-14",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la Unión de las Comoras",
+      "source": "Commission Électorale Nationale Indépendante — Comores",
+      "sourceUrl": "https://www.ceni.km",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LSO",
+      "date": "2027-10-07",
+      "dateStatus": "prevista",
+      "type": "Legislativas generales",
+      "whatIsElected": "Asamblea Nacional (120 escaños)",
+      "source": "Independent Electoral Commission Lesotho",
+      "sourceUrl": "https://www.iec.org.ls",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SWZ",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": null,
+      "whatIsElected": "Monarquía absoluta; los partidos políticos están prohibidos. Las elecciones tinkhundla eligen representantes locales, no hay elecciones nacionales directas.",
+      "source": "Elections and Boundaries Commission Eswatini",
+      "sourceUrl": "https://www.ebc.org.sz",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "STP",
+      "date": "2026-10-01",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Comissão Eleitoral Nacional — São Tomé e Príncipe",
+      "sourceUrl": "https://www.cen.st",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GMB",
+      "date": "2026-12-04",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Independent Electoral Commission Gambia",
+      "sourceUrl": "https://www.iec.gm",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MUS",
+      "date": "2029-11-10",
+      "dateStatus": "prevista",
+      "type": "Legislativas generales",
+      "whatIsElected": "Asamblea Nacional (70 escaños)",
+      "source": "Electoral Commission of Mauritius",
+      "sourceUrl": "https://electoral.govmu.org",
+      "checkedAt": "2026-11-24"
     }
   ]
 }

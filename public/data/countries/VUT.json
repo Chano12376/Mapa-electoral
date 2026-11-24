@@ -1,0 +1,44 @@
+{
+  "iso3": "VUT",
+  "name": "Vanuatu",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Nikenike Vurobaravu",
+    "since": "2022-07-23",
+    "party": null,
+    "source": "Presidencia de Vanuatu",
+    "sourceUrl": "https://www.governmentofvanuatu.gov.vu",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Charlot Salwai",
+    "since": "2025-01-30",
+    "party": null,
+    "source": "Gobierno de Vanuatu",
+    "sourceUrl": "https://www.governmentofvanuatu.gov.vu",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "VUT",
+    "date": "2028-01-16",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Parlamento)",
+    "whatIsElected": "Parlamento (52 escaños)",
+    "source": "Vanuatu Electoral Commission",
+    "sourceUrl": "https://www.elections.gov.vu",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

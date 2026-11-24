@@ -1,0 +1,38 @@
+{
+  "iso3": "PSE",
+  "name": "Palestina",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Mahmoud Abbas",
+    "since": "2005-01-15",
+    "party": {
+      "qid": "Q205026",
+      "name": "Fatah"
+    },
+    "source": "Autoridad Nacional Palestina",
+    "sourceUrl": "https://www.pna.ps",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohammad Mustafa",
+    "since": "2024-02-26",
+    "party": null,
+    "source": "Autoridad Nacional Palestina",
+    "sourceUrl": "https://www.pna.ps",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

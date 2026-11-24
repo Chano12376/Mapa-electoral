@@ -1,0 +1,44 @@
+{
+  "iso3": "GNB",
+  "name": "Guinea-Bisáu",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Umaro Sissoco Embaló",
+    "since": "2020-02-27",
+    "party": null,
+    "source": "Presidencia de Guinea-Bisáu",
+    "sourceUrl": "https://www.presidencia.gw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Rui Duarte de Barros",
+    "since": "2023-12-21",
+    "party": null,
+    "source": "Gobierno de Guinea-Bisáu",
+    "sourceUrl": "https://www.gov.gw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GNB",
+    "date": "2027-06-04",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Asamblea Nacional Popular)",
+    "whatIsElected": "Asamblea Nacional Popular (102 escaños)",
+    "source": "Comissão Nacional de Eleições — Guiné-Bissau",
+    "sourceUrl": "https://www.cne-guinebissau.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

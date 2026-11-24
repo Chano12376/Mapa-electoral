@@ -1,0 +1,44 @@
+{
+  "iso3": "LIE",
+  "name": "Liechtenstein",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Hans-Adam II / Alois",
+    "since": "2004-08-15",
+    "party": null,
+    "source": "Fürstentum Liechtenstein",
+    "sourceUrl": "https://www.liechtenstein.li/en/state-and-law/the-princely-house/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Daniel Risch",
+    "since": "2021-03-25",
+    "party": null,
+    "source": "Regierung des Fürstentums Liechtenstein",
+    "sourceUrl": "https://www.regierung.li/regierung/ministerpraesident/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LIE",
+    "date": "2029-02-01",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Landtag)",
+    "whatIsElected": "Landtag (25 escaños)",
+    "source": "Amt für Statistik Liechtenstein",
+    "sourceUrl": "https://www.llv.li/de/landesverwaltung/amt-fuer-statistik/wahlen",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

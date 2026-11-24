@@ -1,0 +1,44 @@
+{
+  "iso3": "GNQ",
+  "name": "Guinea Ecuatorial",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Teodoro Obiang Nguema Mbasogo",
+    "since": "1979-08-03",
+    "party": null,
+    "source": "Presidencia de Guinea Ecuatorial",
+    "sourceUrl": "https://www.presidencia.gq",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Manfredo Nguema Esono Nchama",
+    "since": "2023-02-16",
+    "party": null,
+    "source": "Gobierno de Guinea Ecuatorial",
+    "sourceUrl": "https://www.guineaecuatorialpress.com",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GNQ",
+    "date": "2029-11-20",
+    "dateStatus": "prevista",
+    "type": "Presidenciales, legislativas y municipales",
+    "whatIsElected": "Presidente, Cámara de Diputados (100 escaños)",
+    "source": "Consejo Nacional Electoral de Guinea Ecuatorial",
+    "sourceUrl": "https://www.guineaecuatorialpress.com",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

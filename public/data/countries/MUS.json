@@ -1,0 +1,44 @@
+{
+  "iso3": "MUS",
+  "name": "Mauricio",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Dharam Gokhool",
+    "since": "2024-11-07",
+    "party": null,
+    "source": "Presidencia de Mauricio",
+    "sourceUrl": "https://www.gov.mu/portal/site/President",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Navin Ramgoolam",
+    "since": "2024-11-13",
+    "party": null,
+    "source": "Electoral Commission of Mauritius",
+    "sourceUrl": "https://electoral.govmu.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MUS",
+    "date": "2029-11-10",
+    "dateStatus": "prevista",
+    "type": "Legislativas generales",
+    "whatIsElected": "Asamblea Nacional (70 escaños)",
+    "source": "Electoral Commission of Mauritius",
+    "sourceUrl": "https://electoral.govmu.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

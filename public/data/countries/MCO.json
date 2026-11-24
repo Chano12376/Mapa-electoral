@@ -1,0 +1,44 @@
+{
+  "iso3": "MCO",
+  "name": "Mónaco",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Alberto II",
+    "since": "2005-07-12",
+    "party": null,
+    "source": "Palais Princier de Monaco",
+    "sourceUrl": "https://www.palais.mc/fr/la-principaute/famille-princiere/s-a-s-le-prince-albert-ii",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Didier Guillaume",
+    "since": "2024-09-04",
+    "party": null,
+    "source": "Gouvernement Princier de Monaco",
+    "sourceUrl": "https://www.gouv.mc/Action-Gouvernementale/Le-Gouvernement/Le-Ministre-d-Etat",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MCO",
+    "date": "2028-02-06",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Consejo Nacional)",
+    "whatIsElected": "Consejo Nacional (24 escaños)",
+    "source": "Gouvernement Princier de Monaco",
+    "sourceUrl": "https://www.gouv.mc",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

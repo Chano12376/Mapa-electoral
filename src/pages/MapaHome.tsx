@@ -51,6 +51,11 @@ const NUMERIC_TO_ISO3: Record<string, string> = {
   "598": "PNG", "242": "FJI",
   "324": "GIN", "854": "BFA", "768": "TGO", "694": "SLE", "430": "LBR",
   "232": "ERI", "262": "DJI", "132": "CPV",
+  "438": "LIE", "492": "MCO", "674": "SMR",
+  "044": "BHS", "052": "BRB", "275": "PSE",
+  "462": "MDV", "882": "WSM", "776": "TON", "090": "SLB", "548": "VUT",
+  "624": "GNB", "226": "GNQ", "140": "CAF", "174": "COM",
+  "426": "LSO", "748": "SWZ", "678": "STP", "270": "GMB", "480": "MUS",
 };
 
 const ISO3_CONTINENT: Record<string, string> = {
@@ -83,6 +88,11 @@ const ISO3_CONTINENT: Record<string, string> = {
   PNG:"asia",FJI:"asia",
   GIN:"africa",BFA:"africa",TGO:"africa",SLE:"africa",LBR:"africa",
   ERI:"africa",DJI:"africa",CPV:"africa",
+  LIE:"europa",MCO:"europa",SMR:"europa",
+  BHS:"america",BRB:"america",PSE:"africa",
+  MDV:"asia",WSM:"asia",TON:"asia",SLB:"asia",VUT:"asia",
+  GNB:"africa",GNQ:"africa",CAF:"africa",COM:"africa",
+  LSO:"africa",SWZ:"africa",STP:"africa",GMB:"africa",MUS:"africa",
 };
 
 const FLAG: Record<string, string> = {
@@ -115,6 +125,11 @@ const FLAG: Record<string, string> = {
   PNG:"🇵🇬",FJI:"🇫🇯",
   GIN:"🇬🇳",BFA:"🇧🇫",TGO:"🇹🇬",SLE:"🇸🇱",LBR:"🇱🇷",
   ERI:"🇪🇷",DJI:"🇩🇯",CPV:"🇨🇻",
+  LIE:"🇱🇮",MCO:"🇲🇨",SMR:"🇸🇲",
+  BHS:"🇧🇸",BRB:"🇧🇧",PSE:"🇵🇸",
+  MDV:"🇲🇻",WSM:"🇼🇸",TON:"🇹🇴",SLB:"🇸🇧",VUT:"🇻🇺",
+  GNB:"🇬🇼",GNQ:"🇬🇶",CAF:"🇨🇫",COM:"🇰🇲",
+  LSO:"🇱🇸",SWZ:"🇸🇿",STP:"🇸🇹",GMB:"🇬🇲",MUS:"🇲🇺",
 };
 
 const CONTINENT_VIEW: Record<string, { center: [number, number]; zoom: number }> = {

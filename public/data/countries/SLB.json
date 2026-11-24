@@ -1,0 +1,44 @@
+{
+  "iso3": "SLB",
+  "name": "Islas Salomón",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Islas Salomón",
+    "sourceUrl": "https://www.gov.sb",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Jeremiah Manele",
+    "since": "2024-05-02",
+    "party": null,
+    "source": "Gobierno de Islas Salomón",
+    "sourceUrl": "https://www.gov.sb/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SLB",
+    "date": "2028-04-01",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Parlamento Nacional)",
+    "whatIsElected": "Parlamento Nacional (50 escaños)",
+    "source": "Solomon Islands Electoral Commission",
+    "sourceUrl": "https://www.siec.gov.sb",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

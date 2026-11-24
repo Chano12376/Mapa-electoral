@@ -1,0 +1,44 @@
+{
+  "iso3": "CAF",
+  "name": "Rep. Centroafricana",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Faustin-Archange Touadéra",
+    "since": "2016-03-30",
+    "party": null,
+    "source": "Autorité Nationale des Élections — RCA",
+    "sourceUrl": "https://www.ane-rca.net",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Félix Moloua",
+    "since": "2022-02-05",
+    "party": null,
+    "source": "Gobierno de RCA",
+    "sourceUrl": "https://www.primature.cf",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CAF",
+    "date": "2025-12-27",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional",
+    "source": "Autorité Nationale des Élections — RCA",
+    "sourceUrl": "https://www.rca.int",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

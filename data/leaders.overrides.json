@@ -3497,6 +3497,446 @@
       "motivo": "Primer Ministro desde dic. 2013"
     }
   },
+  "LIE": {
+    "headOfState": {
+      "name": "Hans-Adam II / Alois",
+      "since": "2004-08-15",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Fürstentum Liechtenstein",
+      "sourceUrl": "https://www.liechtenstein.li/en/state-and-law/the-princely-house/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Príncipe reinante Hans-Adam II (desde 1989); desde 2004, el Príncipe Heredero Alois ejerce como regente en la práctica"
+    },
+    "headOfGovernment": {
+      "name": "Daniel Risch",
+      "since": "2021-03-25",
+      "partyQid": null,
+      "partyName": "FBP (Vaterländische Union / Unión Patriótica)",
+      "source": "Regierung des Fürstentums Liechtenstein",
+      "sourceUrl": "https://www.regierung.li/regierung/ministerpraesident/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Jefe de Gobierno desde mar. 2021"
+    }
+  },
+  "MCO": {
+    "headOfState": {
+      "name": "Alberto II",
+      "since": "2005-07-12",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Palais Princier de Monaco",
+      "sourceUrl": "https://www.palais.mc/fr/la-principaute/famille-princiere/s-a-s-le-prince-albert-ii",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Príncipe soberano de Mónaco"
+    },
+    "headOfGovernment": {
+      "name": "Didier Guillaume",
+      "since": "2024-09-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gouvernement Princier de Monaco",
+      "sourceUrl": "https://www.gouv.mc/Action-Gouvernementale/Le-Gouvernement/Le-Ministre-d-Etat",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Ministro de Estado (equivalente a Primer Ministro) desde sep. 2024"
+    }
+  },
+  "SMR": {
+    "headOfState": {
+      "name": "Alessandro Scarano / Milena Gasperoni",
+      "since": "2024-10-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Consiglio Grande e Generale — San Marino",
+      "sourceUrl": "https://www.consigliograndeegenerale.sm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Capitanes Regentes (rotan cada 6 meses; elecciones en la Asamblea); mandato oct. 2024 – abr. 2025"
+    },
+    "headOfGovernment": {
+      "name": "Alessandro Scarano / Milena Gasperoni",
+      "since": "2024-10-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Consiglio Grande e Generale — San Marino",
+      "sourceUrl": "https://www.consigliograndeegenerale.sm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Los Capitanes Regentes ejercen simultáneamente la jefatura de Estado y de Gobierno"
+    }
+  },
+  "BHS": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Bahamas",
+      "sourceUrl": "https://www.bahamas.gov.bs",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca (representado por la Gobernadora General Cynthia Pratt)"
+    },
+    "headOfGovernment": {
+      "name": "Philip Davis",
+      "since": "2021-09-17",
+      "partyQid": null,
+      "partyName": "PLP (Partido Liberal Progresista)",
+      "source": "Gobierno de Bahamas",
+      "sourceUrl": "https://www.bahamas.gov.bs/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde sep. 2021"
+    }
+  },
+  "BRB": {
+    "headOfState": {
+      "name": "Sandra Mason",
+      "since": "2021-11-30",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Barbados",
+      "sourceUrl": "https://www.barbados.gov.bb/president",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Presidenta de Barbados (desde que se convirtió en república el 30 nov. 2021)"
+    },
+    "headOfGovernment": {
+      "name": "Mia Mottley",
+      "since": "2018-05-25",
+      "partyQid": null,
+      "partyName": "BLP (Partido Laborista de Barbados)",
+      "source": "Gobierno de Barbados",
+      "sourceUrl": "https://www.barbados.gov.bb/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra (reelegida en enero 2022 con 30/30 escaños)"
+    }
+  },
+  "PSE": {
+    "headOfState": {
+      "name": "Mahmoud Abbas",
+      "since": "2005-01-15",
+      "partyQid": "Q205026",
+      "partyName": "Fatah",
+      "source": "Autoridad Nacional Palestina",
+      "sourceUrl": "https://www.pna.ps",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la ANP; su mandato de 4 años expiró en 2009 pero continúa. Situación política dividida entre Cisjordania (Fatah/ANP) y Gaza (Hamás)."
+    },
+    "headOfGovernment": {
+      "name": "Mohammad Mustafa",
+      "since": "2024-02-26",
+      "partyQid": null,
+      "partyName": "Independiente / ANP",
+      "source": "Autoridad Nacional Palestina",
+      "sourceUrl": "https://www.pna.ps",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2024"
+    }
+  },
+  "MDV": {
+    "headOfState": {
+      "name": "Mohamed Muizzu",
+      "since": "2023-11-17",
+      "partyQid": null,
+      "partyName": "PPM/PNC (Partido Progresista de las Maldivas / Congreso Nacional del Pueblo)",
+      "source": "Presidencia de Maldivas",
+      "sourceUrl": "https://presidency.gov.mv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (jefe de Estado y de Gobierno) desde nov. 2023"
+    },
+    "headOfGovernment": {
+      "name": "Mohamed Muizzu",
+      "since": "2023-11-17",
+      "partyQid": null,
+      "partyName": "PPM/PNC",
+      "source": "Presidencia de Maldivas",
+      "sourceUrl": "https://presidency.gov.mv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "WSM": {
+    "headOfState": {
+      "name": "Tuimaleali'ifano Va'aletoa Sualauvi II",
+      "since": "2017-07-21",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Samoa",
+      "sourceUrl": "https://www.samoagovt.ws",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Jefe de Estado (O le Ao o le Malo); cargo ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Fiamē Naomi Mataʻafa",
+      "since": "2021-05-24",
+      "partyQid": null,
+      "partyName": "FAST (Faʻatuatua i le Atua Samoa ua Tasi)",
+      "source": "Gobierno de Samoa",
+      "sourceUrl": "https://www.samoagovt.ws/prime-minister/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra desde may. 2021 (primera mujer en el cargo en Samoa)"
+    }
+  },
+  "TON": {
+    "headOfState": {
+      "name": "Tupou VI",
+      "since": "2012-03-18",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno del Reino de Tonga",
+      "sourceUrl": "https://www.gov.to",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey de Tonga (monarquía constitucional)"
+    },
+    "headOfGovernment": {
+      "name": "Siaosi Sovaleni",
+      "since": "2021-12-27",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno del Reino de Tonga",
+      "sourceUrl": "https://www.gov.to",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde dic. 2021"
+    }
+  },
+  "SLB": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Islas Salomón",
+      "sourceUrl": "https://www.gov.sb",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca (representado por el Gobernador General David Vunagi)"
+    },
+    "headOfGovernment": {
+      "name": "Jeremiah Manele",
+      "since": "2024-05-02",
+      "partyQid": null,
+      "partyName": "OUR Party",
+      "source": "Gobierno de Islas Salomón",
+      "sourceUrl": "https://www.gov.sb/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde may. 2024"
+    }
+  },
+  "VUT": {
+    "headOfState": {
+      "name": "Nikenike Vurobaravu",
+      "since": "2022-07-23",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Vanuatu",
+      "sourceUrl": "https://www.governmentofvanuatu.gov.vu",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República (cargo ceremonial)"
+    },
+    "headOfGovernment": {
+      "name": "Charlot Salwai",
+      "since": "2025-01-30",
+      "partyQid": null,
+      "partyName": "RMC (Reunión de Militantes Comprometidos)",
+      "source": "Gobierno de Vanuatu",
+      "sourceUrl": "https://www.governmentofvanuatu.gov.vu",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ene. 2025 (Vanuatu tiene alta rotación de gobiernos)"
+    }
+  },
+  "GNB": {
+    "headOfState": {
+      "name": "Umaro Sissoco Embaló",
+      "since": "2020-02-27",
+      "partyQid": null,
+      "partyName": "MADEM-G15",
+      "source": "Presidencia de Guinea-Bisáu",
+      "sourceUrl": "https://www.presidencia.gw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde feb. 2020"
+    },
+    "headOfGovernment": {
+      "name": "Rui Duarte de Barros",
+      "since": "2023-12-21",
+      "partyQid": null,
+      "partyName": "PAIGC",
+      "source": "Gobierno de Guinea-Bisáu",
+      "sourceUrl": "https://www.gov.gw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde dic. 2023"
+    }
+  },
+  "GNQ": {
+    "headOfState": {
+      "name": "Teodoro Obiang Nguema Mbasogo",
+      "since": "1979-08-03",
+      "partyQid": null,
+      "partyName": "PDGE (Partido Democrático de Guinea Ecuatorial)",
+      "source": "Presidencia de Guinea Ecuatorial",
+      "sourceUrl": "https://www.presidencia.gq",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 1979 (uno de los más longevos del mundo); tomó el poder en un golpe de estado"
+    },
+    "headOfGovernment": {
+      "name": "Manfredo Nguema Esono Nchama",
+      "since": "2023-02-16",
+      "partyQid": null,
+      "partyName": "PDGE",
+      "source": "Gobierno de Guinea Ecuatorial",
+      "sourceUrl": "https://www.guineaecuatorialpress.com",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2023"
+    }
+  },
+  "CAF": {
+    "headOfState": {
+      "name": "Faustin-Archange Touadéra",
+      "since": "2016-03-30",
+      "partyQid": null,
+      "partyName": "MCU (Movimiento Corazones Unidos)",
+      "source": "Autorité Nationale des Élections — RCA",
+      "sourceUrl": "https://www.ane-rca.net",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido ene. 2021); presencia de fuerzas Wagner/África Corps"
+    },
+    "headOfGovernment": {
+      "name": "Félix Moloua",
+      "since": "2022-02-05",
+      "partyQid": null,
+      "partyName": "MCU",
+      "source": "Gobierno de RCA",
+      "sourceUrl": "https://www.primature.cf",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2022"
+    }
+  },
+  "COM": {
+    "headOfState": {
+      "name": "Azali Assoumani",
+      "since": "2016-05-26",
+      "partyQid": null,
+      "partyName": "CRC (Convención para la Renovación de las Comoras)",
+      "source": "Presidencia de la Unión de las Comoras",
+      "sourceUrl": "https://www.beit-salam.km",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 2016 (también gobernó 1999-2006 tras un golpe; reelegido en enero 2024 en elecciones muy controvertidas)"
+    },
+    "headOfGovernment": {
+      "name": "Azali Assoumani",
+      "since": "2016-05-26",
+      "partyQid": null,
+      "partyName": "CRC",
+      "source": "Presidencia de la Unión de las Comoras",
+      "sourceUrl": "https://www.beit-salam.km",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El presidente ejerce también las funciones de jefe de Gobierno"
+    }
+  },
+  "LSO": {
+    "headOfState": {
+      "name": "Letsie III",
+      "since": "1996-02-07",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Palacio Real de Lesoto",
+      "sourceUrl": "https://www.lesotho.gov.ls",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey de Lesoto (monarquía constitucional)"
+    },
+    "headOfGovernment": {
+      "name": "Sam Matekane",
+      "since": "2022-10-28",
+      "partyQid": null,
+      "partyName": "RFP (Revolución para la Prosperidad)",
+      "source": "Independent Electoral Commission Lesotho",
+      "sourceUrl": "https://www.iec.org.ls",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde oct. 2022"
+    }
+  },
+  "SWZ": {
+    "headOfState": {
+      "name": "Mswati III",
+      "since": "1986-04-25",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno del Reino de Esuatini",
+      "sourceUrl": "https://www.gov.sz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey absoluto; los partidos políticos están prohibidos. Último reino absoluto de África."
+    },
+    "headOfGovernment": {
+      "name": "Russell Mmiso Dlamini",
+      "since": "2023-11-03",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno del Reino de Esuatini",
+      "sourceUrl": "https://www.gov.sz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (designado por el Rey, sin partido)"
+    }
+  },
+  "STP": {
+    "headOfState": {
+      "name": "Carlos Vila Nova",
+      "since": "2021-10-02",
+      "partyQid": null,
+      "partyName": "ADI (Acción Democrática Independiente)",
+      "source": "Presidência da República de São Tomé e Príncipe",
+      "sourceUrl": "https://www.presidencia.st",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde oct. 2021"
+    },
+    "headOfGovernment": {
+      "name": "Américo Ramos",
+      "since": "2023-11-11",
+      "partyQid": null,
+      "partyName": "MLSTP-PSD",
+      "source": "Governo de São Tomé e Príncipe",
+      "sourceUrl": "https://www.governo.st",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde nov. 2023"
+    }
+  },
+  "GMB": {
+    "headOfState": {
+      "name": "Adama Barrow",
+      "since": "2017-01-19",
+      "partyQid": null,
+      "partyName": "NPP (Partido del Pueblo Nacional)",
+      "source": "Independent Electoral Commission Gambia",
+      "sourceUrl": "https://www.iec.gm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde ene. 2017 (puso fin a 22 años de dictadura de Jammeh; reelegido dic. 2021)"
+    },
+    "headOfGovernment": {
+      "name": "Adama Barrow",
+      "since": "2017-01-19",
+      "partyQid": null,
+      "partyName": "NPP",
+      "source": "Independent Electoral Commission Gambia",
+      "sourceUrl": "https://www.iec.gm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "MUS": {
+    "headOfState": {
+      "name": "Dharam Gokhool",
+      "since": "2024-11-07",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Mauricio",
+      "sourceUrl": "https://www.gov.mu/portal/site/President",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (cargo ceremonial) desde nov. 2024"
+    },
+    "headOfGovernment": {
+      "name": "Navin Ramgoolam",
+      "since": "2024-11-13",
+      "partyQid": null,
+      "partyName": "PTr (Partido Laborista / Partido Militante Mauriciano)",
+      "source": "Electoral Commission of Mauritius",
+      "sourceUrl": "https://electoral.govmu.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde nov. 2024 (Alliance du Changement ganó las elecciones de nov. 2024)"
+    }
+  },
   "CPV": {
     "headOfState": {
       "name": "José Maria Neves",

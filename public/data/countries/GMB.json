@@ -1,0 +1,44 @@
+{
+  "iso3": "GMB",
+  "name": "Gambia",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Adama Barrow",
+    "since": "2017-01-19",
+    "party": null,
+    "source": "Independent Electoral Commission Gambia",
+    "sourceUrl": "https://www.iec.gm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Adama Barrow",
+    "since": "2017-01-19",
+    "party": null,
+    "source": "Independent Electoral Commission Gambia",
+    "sourceUrl": "https://www.iec.gm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GMB",
+    "date": "2026-12-04",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Independent Electoral Commission Gambia",
+    "sourceUrl": "https://www.iec.gm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

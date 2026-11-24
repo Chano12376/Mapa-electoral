@@ -1,0 +1,44 @@
+{
+  "iso3": "SMR",
+  "name": "San Marino",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Alessandro Scarano / Milena Gasperoni",
+    "since": "2024-10-01",
+    "party": null,
+    "source": "Consiglio Grande e Generale — San Marino",
+    "sourceUrl": "https://www.consigliograndeegenerale.sm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Alessandro Scarano / Milena Gasperoni",
+    "since": "2024-10-01",
+    "party": null,
+    "source": "Consiglio Grande e Generale — San Marino",
+    "sourceUrl": "https://www.consigliograndeegenerale.sm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SMR",
+    "date": "2028-06-01",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Gran y General Consejo)",
+    "whatIsElected": "Gran y General Consejo (60 escaños)",
+    "source": "Segreteria di Stato per gli Affari Interni",
+    "sourceUrl": "https://www.consigliograndeegenerale.sm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,44 @@
+{
+  "iso3": "LSO",
+  "name": "Lesoto",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Letsie III",
+    "since": "1996-02-07",
+    "party": null,
+    "source": "Palacio Real de Lesoto",
+    "sourceUrl": "https://www.lesotho.gov.ls",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Sam Matekane",
+    "since": "2022-10-28",
+    "party": null,
+    "source": "Independent Electoral Commission Lesotho",
+    "sourceUrl": "https://www.iec.org.ls",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LSO",
+    "date": "2027-10-07",
+    "dateStatus": "prevista",
+    "type": "Legislativas generales",
+    "whatIsElected": "Asamblea Nacional (120 escaños)",
+    "source": "Independent Electoral Commission Lesotho",
+    "sourceUrl": "https://www.iec.org.ls",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

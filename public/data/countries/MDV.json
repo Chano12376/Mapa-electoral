@@ -1,0 +1,44 @@
+{
+  "iso3": "MDV",
+  "name": "Maldivas",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Mohamed Muizzu",
+    "since": "2023-11-17",
+    "party": null,
+    "source": "Presidencia de Maldivas",
+    "sourceUrl": "https://presidency.gov.mv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohamed Muizzu",
+    "since": "2023-11-17",
+    "party": null,
+    "source": "Presidencia de Maldivas",
+    "sourceUrl": "https://presidency.gov.mv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MDV",
+    "date": "2028-09-09",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Elections Commission of Maldives",
+    "sourceUrl": "https://elections.gov.mv",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,44 @@
+{
+  "iso3": "WSM",
+  "name": "Samoa",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Tuimaleali'ifano Va'aletoa Sualauvi II",
+    "since": "2017-07-21",
+    "party": null,
+    "source": "Gobierno de Samoa",
+    "sourceUrl": "https://www.samoagovt.ws",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Fiamē Naomi Mataʻafa",
+    "since": "2021-05-24",
+    "party": null,
+    "source": "Gobierno de Samoa",
+    "sourceUrl": "https://www.samoagovt.ws/prime-minister/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "WSM",
+    "date": "2026-04-09",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Fono Aoao Faitulafono)",
+    "whatIsElected": "Parlamento (51 escaños)",
+    "source": "Electoral Commission of Samoa",
+    "sourceUrl": "https://www.ecs.gov.ws",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

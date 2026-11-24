@@ -35,6 +35,17 @@
       "checkedAt": "2026-11-24"
     },
     {
+      "iso3": "GMB",
+      "name": "Gambia",
+      "date": "2026-12-04",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Independent Electoral Commission Gambia",
+      "sourceUrl": "https://www.iec.gm",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "KGZ",
       "name": "Kirguistán",
       "date": "2027-01-24",
@@ -233,6 +244,17 @@
       "checkedAt": "2026-11-24"
     },
     {
+      "iso3": "GNB",
+      "name": "Guinea-Bisáu",
+      "date": "2027-06-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional Popular)",
+      "whatIsElected": "Asamblea Nacional Popular (102 escaños)",
+      "source": "Comissão Nacional de Eleições — Guiné-Bissau",
+      "sourceUrl": "https://www.cne-guinebissau.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "MEX",
       "name": "México",
       "date": "2027-06-06",
@@ -340,6 +362,17 @@
       "whatIsElected": "Majlis al-Dawla (84 miembros designados por el Sultán)",
       "source": "Sultanato de Omán",
       "sourceUrl": "https://www.oman.om",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LSO",
+      "name": "Lesoto",
+      "date": "2027-10-07",
+      "dateStatus": "prevista",
+      "type": "Legislativas generales",
+      "whatIsElected": "Asamblea Nacional (120 escaños)",
+      "source": "Independent Electoral Commission Lesotho",
+      "sourceUrl": "https://www.iec.org.ls",
       "checkedAt": "2026-11-24"
     },
     {

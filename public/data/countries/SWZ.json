@@ -1,0 +1,44 @@
+{
+  "iso3": "SWZ",
+  "name": "Esuatini",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Mswati III",
+    "since": "1986-04-25",
+    "party": null,
+    "source": "Gobierno del Reino de Esuatini",
+    "sourceUrl": "https://www.gov.sz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Russell Mmiso Dlamini",
+    "since": "2023-11-03",
+    "party": null,
+    "source": "Gobierno del Reino de Esuatini",
+    "sourceUrl": "https://www.gov.sz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SWZ",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": null,
+    "whatIsElected": "Monarquía absoluta; los partidos políticos están prohibidos. Las elecciones tinkhundla eligen representantes locales, no hay elecciones nacionales directas.",
+    "source": "Elections and Boundaries Commission Eswatini",
+    "sourceUrl": "https://www.ebc.org.sz",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}
