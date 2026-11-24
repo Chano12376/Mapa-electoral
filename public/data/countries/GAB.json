@@ -1,0 +1,35 @@
+{
+  "iso3": "GAB",
+  "name": "Gabón",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Brice Clotaire Oligui Nguema",
+    "since": "2023-08-30",
+    "party": null,
+    "source": "Reuters / RFI",
+    "sourceUrl": "https://www.rfi.fr/fr/afrique/gabon",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Raymond Ndong Sima",
+    "since": "2023-09-07",
+    "party": null,
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/world/africa/gabon-junta-appoints-prime-minister-transition-council-2023-09-07/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

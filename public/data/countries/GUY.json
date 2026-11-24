@@ -1,0 +1,50 @@
+{
+  "iso3": "GUY",
+  "name": "Guyana",
+  "region": "América",
+  "headOfState": {
+    "name": "Mohamed Irfaan Ali",
+    "since": "2020-08-02",
+    "party": {
+      "qid": "Q4994063",
+      "name": "PPP/C"
+    },
+    "source": "Comisión Electoral de Guyana",
+    "sourceUrl": "https://www.gecom.org.gy",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohamed Irfaan Ali",
+    "since": "2020-08-02",
+    "party": {
+      "qid": "Q4994063",
+      "name": "PPP/C"
+    },
+    "source": "Comisión Electoral de Guyana",
+    "sourceUrl": "https://www.gecom.org.gy",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GUY",
+    "date": "2030-08-02",
+    "dateStatus": "limite_legal",
+    "type": "Generales",
+    "whatIsElected": "Presidente, Asamblea Nacional (65 escaños)",
+    "source": "Comisión Electoral de Guyana",
+    "sourceUrl": "https://www.gecom.org.gy",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

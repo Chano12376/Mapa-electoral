@@ -1,0 +1,50 @@
+{
+  "iso3": "TCD",
+  "name": "Chad",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Mahamat Idriss Déby",
+    "since": "2024-05-23",
+    "party": {
+      "qid": "Q245770",
+      "name": "MPS"
+    },
+    "source": "CENI de Chad",
+    "sourceUrl": "https://www.ceni.td",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Allahou Taher Ahmad Almahdi",
+    "since": "2024-03-10",
+    "party": {
+      "qid": "Q245770",
+      "name": "MPS"
+    },
+    "source": "Gobierno de Chad",
+    "sourceUrl": "https://www.gouvernement.td",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TCD",
+    "date": "2029-05-06",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 6 años)",
+    "source": "Comisión Electoral Nacional Independiente de Chad",
+    "sourceUrl": "https://www.ceni.td",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

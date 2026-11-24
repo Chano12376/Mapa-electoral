@@ -40,6 +40,11 @@ const NUMERIC_TO_ISO3: Record<string, string> = {
   "508": "MOZ", "800": "UGA", "384": "CIV", "434": "LBY", "706": "SOM", "894": "ZMB",
   "512": "OMN", "887": "YEM", "414": "KWT",
   "004": "AFG", "116": "KHM", "762": "TJK",
+  "196": "CYP", "417": "KGZ", "795": "TKM",
+  "516": "NAM", "072": "BWA", "646": "RWA", "466": "MLI", "562": "NER",
+  "148": "TCD", "729": "SDN", "178": "COG", "728": "SSD", "266": "GAB",
+  "450": "MDG", "454": "MWI", "478": "MRT", "204": "BEN",
+  "332": "HTI", "328": "GUY", "740": "SUR",
 };
 
 const ISO3_CONTINENT: Record<string, string> = {
@@ -57,11 +62,15 @@ const ISO3_CONTINENT: Record<string, string> = {
   GHA:"africa",SEN:"africa",ZWE:"africa",
   PAN:"america",SLV:"america",HND:"america",NIC:"america",JAM:"america",
   IRL:"europa",SVN:"europa",EST:"europa",LTU:"europa",LVA:"europa",ALB:"europa",GEO:"europa",
-  ISL:"europa",BIH:"europa",MNE:"europa",MKD:"europa",ARM:"europa",AZE:"europa",
-  MNG:"asia",LKA:"asia",UZB:"asia",PRK:"asia",NPL:"asia",AFG:"asia",KHM:"asia",TJK:"asia",
+  ISL:"europa",BIH:"europa",MNE:"europa",MKD:"europa",ARM:"europa",AZE:"europa",CYP:"europa",
+  MNG:"asia",LKA:"asia",UZB:"asia",PRK:"asia",NPL:"asia",AFG:"asia",KHM:"asia",TJK:"asia",KGZ:"asia",TKM:"asia",
   QAT:"africa",SYR:"africa",COD:"africa",CMR:"africa",AGO:"africa",
   MOZ:"africa",UGA:"africa",CIV:"africa",LBY:"africa",SOM:"africa",ZMB:"africa",
   OMN:"africa",YEM:"africa",KWT:"africa",
+  NAM:"africa",BWA:"africa",RWA:"africa",MLI:"africa",NER:"africa",
+  TCD:"africa",SDN:"africa",COG:"africa",SSD:"africa",GAB:"africa",
+  MDG:"africa",MWI:"africa",MRT:"africa",BEN:"africa",
+  HTI:"america",GUY:"america",SUR:"america",
 };
 
 const FLAG: Record<string, string> = {
@@ -79,11 +88,15 @@ const FLAG: Record<string, string> = {
   GHA:"🇬🇭",SEN:"🇸🇳",ZWE:"🇿🇼",
   PAN:"🇵🇦",SLV:"🇸🇻",HND:"🇭🇳",NIC:"🇳🇮",JAM:"🇯🇲",
   IRL:"🇮🇪",SVN:"🇸🇮",EST:"🇪🇪",LTU:"🇱🇹",LVA:"🇱🇻",ALB:"🇦🇱",GEO:"🇬🇪",
-  ISL:"🇮🇸",BIH:"🇧🇦",MNE:"🇲🇪",MKD:"🇲🇰",ARM:"🇦🇲",AZE:"🇦🇿",
-  MNG:"🇲🇳",LKA:"🇱🇰",UZB:"🇺🇿",PRK:"🇰🇵",NPL:"🇳🇵",AFG:"🇦🇫",KHM:"🇰🇭",TJK:"🇹🇯",
+  ISL:"🇮🇸",BIH:"🇧🇦",MNE:"🇲🇪",MKD:"🇲🇰",ARM:"🇦🇲",AZE:"🇦🇿",CYP:"🇨🇾",
+  MNG:"🇲🇳",LKA:"🇱🇰",UZB:"🇺🇿",PRK:"🇰🇵",NPL:"🇳🇵",AFG:"🇦🇫",KHM:"🇰🇭",TJK:"🇹🇯",KGZ:"🇰🇬",TKM:"🇹🇲",
   QAT:"🇶🇦",SYR:"🇸🇾",COD:"🇨🇩",CMR:"🇨🇲",AGO:"🇦🇴",
   MOZ:"🇲🇿",UGA:"🇺🇬",CIV:"🇨🇮",LBY:"🇱🇾",SOM:"🇸🇴",ZMB:"🇿🇲",
   OMN:"🇴🇲",YEM:"🇾🇪",KWT:"🇰🇼",
+  NAM:"🇳🇦",BWA:"🇧🇼",RWA:"🇷🇼",MLI:"🇲🇱",NER:"🇳🇪",
+  TCD:"🇹🇩",SDN:"🇸🇩",COG:"🇨🇬",SSD:"🇸🇸",GAB:"🇬🇦",
+  MDG:"🇲🇬",MWI:"🇲🇼",MRT:"🇲🇷",BEN:"🇧🇯",
+  HTI:"🇭🇹",GUY:"🇬🇾",SUR:"🇸🇷",
 };
 
 const CONTINENT_VIEW: Record<string, { center: [number, number]; zoom: number }> = {

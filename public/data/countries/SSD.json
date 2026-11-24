@@ -1,0 +1,41 @@
+{
+  "iso3": "SSD",
+  "name": "Sudán del Sur",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Salva Kiir Mayardit",
+    "since": "2011-07-09",
+    "party": {
+      "qid": "Q854985",
+      "name": "SPLM"
+    },
+    "source": "Gobierno de Sudán del Sur",
+    "sourceUrl": "https://www.goss.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Salva Kiir Mayardit",
+    "since": "2011-07-09",
+    "party": {
+      "qid": "Q854985",
+      "name": "SPLM"
+    },
+    "source": "Gobierno de Sudán del Sur",
+    "sourceUrl": "https://www.goss.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -2638,5 +2638,445 @@
       "retrievedAt": "2026-11-24",
       "motivo": "Primer Ministro desde nov. 2013"
     }
+  },
+  "CYP": {
+    "headOfState": {
+      "name": "Nikos Christodoulides",
+      "since": "2023-02-28",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de la República de Chipre",
+      "sourceUrl": "https://www.presidency.gov.cy",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Nikos Christodoulides",
+      "since": "2023-02-28",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de la República de Chipre",
+      "sourceUrl": "https://www.presidency.gov.cy",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno (sistema presidencial)"
+    }
+  },
+  "KGZ": {
+    "headOfState": {
+      "name": "Sadyr Japarov",
+      "since": "2021-01-28",
+      "partyQid": "Q7391048",
+      "partyName": "Mekenim Kyrgyzstan",
+      "source": "Comisión Electoral Central de Kirguistán",
+      "sourceUrl": "https://shailoo.gov.kg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Adylbek Kasymaliev",
+      "since": "2021-11-03",
+      "partyQid": "Q7391048",
+      "partyName": "Mekenim Kyrgyzstan",
+      "source": "Gobierno de Kirguistán",
+      "sourceUrl": "https://www.gov.kg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del Gabinete de Ministros (Primer Ministro)"
+    }
+  },
+  "TKM": {
+    "headOfState": {
+      "name": "Serdar Berdimuhamedov",
+      "since": "2022-03-19",
+      "partyQid": "Q7391048",
+      "partyName": "DPT",
+      "source": "Gobierno de Turkmenistán",
+      "sourceUrl": "https://www.turkmenistan.gov.tm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (hijo de Gurbanguly Berdimuhamedov, presidente vitalicio anterior)"
+    },
+    "headOfGovernment": {
+      "name": "Serdar Berdimuhamedov",
+      "since": "2022-03-19",
+      "partyQid": "Q7391048",
+      "partyName": "DPT",
+      "source": "Gobierno de Turkmenistán",
+      "sourceUrl": "https://www.turkmenistan.gov.tm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "NAM": {
+    "headOfState": {
+      "name": "Netumbo Nandi-Ndaitwah",
+      "since": "2025-03-21",
+      "partyQid": "Q839437",
+      "partyName": "SWAPO",
+      "source": "Comisión Electoral de Namibia",
+      "sourceUrl": "https://www.ecn.na",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta desde mar. 2025 (primera mujer presidenta de Namibia; electa nov. 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Netumbo Nandi-Ndaitwah",
+      "since": "2025-03-21",
+      "partyQid": "Q839437",
+      "partyName": "SWAPO",
+      "source": "Comisión Electoral de Namibia",
+      "sourceUrl": "https://www.ecn.na",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta: jefa de Estado y de Gobierno"
+    }
+  },
+  "BWA": {
+    "headOfState": {
+      "name": "Duma Boko",
+      "since": "2024-11-01",
+      "partyQid": null,
+      "partyName": "UDC",
+      "source": "Comisión Electoral Independiente de Botsuana",
+      "sourceUrl": "https://www.iec.gov.bw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde nov. 2024 (fin del dominio del BDP tras 58 años)"
+    },
+    "headOfGovernment": {
+      "name": "Duma Boko",
+      "since": "2024-11-01",
+      "partyQid": null,
+      "partyName": "UDC",
+      "source": "Comisión Electoral Independiente de Botsuana",
+      "sourceUrl": "https://www.iec.gov.bw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "RWA": {
+    "headOfState": {
+      "name": "Paul Kagame",
+      "since": "2000-04-22",
+      "partyQid": "Q1366090",
+      "partyName": "FPR",
+      "source": "Comisión Electoral Nacional de Ruanda",
+      "sourceUrl": "https://www.nec.gov.rw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido jul. 2024 con el 99,15% de los votos)"
+    },
+    "headOfGovernment": {
+      "name": "Édouard Ngirente",
+      "since": "2017-08-30",
+      "partyQid": "Q1366090",
+      "partyName": "FPR",
+      "source": "Gobierno de Ruanda",
+      "sourceUrl": "https://www.gov.rw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro"
+    }
+  },
+  "MLI": {
+    "headOfState": {
+      "name": "Assimi Goïta",
+      "since": "2021-05-24",
+      "partyQid": null,
+      "partyName": "Junta militar (CNSP)",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/mali",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la Transición; tomó el poder en el golpe de estado de 2021"
+    },
+    "headOfGovernment": {
+      "name": "Abdoulaye Maïga",
+      "since": "2023-11-25",
+      "partyQid": null,
+      "partyName": "Junta militar",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/mali-junta-appoints-new-prime-minister-2023-11-25/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro interino desde nov. 2023"
+    }
+  },
+  "NER": {
+    "headOfState": {
+      "name": "Abdourahamane Tchiani",
+      "since": "2023-07-28",
+      "partyQid": null,
+      "partyName": "CNSP (junta)",
+      "source": "Reuters / BBC",
+      "sourceUrl": "https://www.bbc.com/news/world-africa-66374196",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del Consejo Nacional para la Salvaguarda de la Patria (golpe jul. 2023)"
+    },
+    "headOfGovernment": {
+      "name": "Ali Mahaman Lamine Zeine",
+      "since": "2023-08-09",
+      "partyQid": null,
+      "partyName": "Junta militar",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/niger-junta-names-new-prime-minister-2023-08-09/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro designado por la junta"
+    }
+  },
+  "TCD": {
+    "headOfState": {
+      "name": "Mahamat Idriss Déby",
+      "since": "2024-05-23",
+      "partyQid": "Q245770",
+      "partyName": "MPS",
+      "source": "CENI de Chad",
+      "sourceUrl": "https://www.ceni.td",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente electo desde may. 2024 (hijo de Idriss Déby, en el poder desde 2021)"
+    },
+    "headOfGovernment": {
+      "name": "Allahou Taher Ahmad Almahdi",
+      "since": "2024-03-10",
+      "partyQid": "Q245770",
+      "partyName": "MPS",
+      "source": "Gobierno de Chad",
+      "sourceUrl": "https://www.gouvernement.td",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde mar. 2024"
+    }
+  },
+  "SDN": {
+    "headOfState": {
+      "name": "Abdel Fattah al-Burhan",
+      "since": "2021-10-25",
+      "partyQid": null,
+      "partyName": "Fuerzas Armadas de Sudán",
+      "source": "Reuters / ONU",
+      "sourceUrl": "https://www.reuters.com/world/africa/sudan-military-stages-coup-prime-minister-hamdok-detained-2021-10-25/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del Consejo de Soberanía; guerra civil activa contra las RSF desde abr. 2023"
+    },
+    "headOfGovernment": {
+      "name": "Abdel Fattah al-Burhan",
+      "since": "2021-10-25",
+      "partyQid": null,
+      "partyName": "Fuerzas Armadas de Sudán",
+      "source": "Reuters / ONU",
+      "sourceUrl": "https://www.reuters.com/world/africa/sudan-military-stages-coup-prime-minister-hamdok-detained-2021-10-25/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Jefe del gobierno de facto"
+    }
+  },
+  "COG": {
+    "headOfState": {
+      "name": "Denis Sassou Nguesso",
+      "since": "1997-10-25",
+      "partyQid": "Q1065038",
+      "partyName": "PCT",
+      "source": "Presidencia de la República del Congo",
+      "sourceUrl": "https://www.presidence.cg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (en el poder desde 1979 con una interrupción 1992-1997)"
+    },
+    "headOfGovernment": {
+      "name": "Anatole Collinet Makosso",
+      "since": "2021-05-12",
+      "partyQid": "Q1065038",
+      "partyName": "PCT",
+      "source": "Gobierno del Congo",
+      "sourceUrl": "https://www.gouvernement.cg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro"
+    }
+  },
+  "SSD": {
+    "headOfState": {
+      "name": "Salva Kiir Mayardit",
+      "since": "2011-07-09",
+      "partyQid": "Q854985",
+      "partyName": "SPLM",
+      "source": "Gobierno de Sudán del Sur",
+      "sourceUrl": "https://www.goss.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde la independencia (2011); elecciones repetidamente aplazadas"
+    },
+    "headOfGovernment": {
+      "name": "Salva Kiir Mayardit",
+      "since": "2011-07-09",
+      "partyQid": "Q854985",
+      "partyName": "SPLM",
+      "source": "Gobierno de Sudán del Sur",
+      "sourceUrl": "https://www.goss.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "GAB": {
+    "headOfState": {
+      "name": "Brice Clotaire Oligui Nguema",
+      "since": "2023-08-30",
+      "partyQid": null,
+      "partyName": "Junta militar (CTRI)",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/gabon",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la Transición (golpe de estado ago. 2023 contra Ali Bongo)"
+    },
+    "headOfGovernment": {
+      "name": "Raymond Ndong Sima",
+      "since": "2023-09-07",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/gabon-junta-appoints-prime-minister-transition-council-2023-09-07/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro del gobierno de transición"
+    }
+  },
+  "MDG": {
+    "headOfState": {
+      "name": "Andry Rajoelina",
+      "since": "2019-01-19",
+      "partyQid": "Q7391048",
+      "partyName": "TGV / IRMAR",
+      "source": "Alta Corte Constitucional de Madagascar",
+      "sourceUrl": "https://www.hcc.mg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno (reelegido nov. 2023)"
+    },
+    "headOfGovernment": {
+      "name": "Herilaza Imbiki",
+      "since": "2024-11-26",
+      "partyQid": null,
+      "partyName": "TGV / IRMAR",
+      "source": "Presidencia de Madagascar",
+      "sourceUrl": "https://www.presidence.gov.mg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde nov. 2024"
+    }
+  },
+  "MWI": {
+    "headOfState": {
+      "name": "Lazarus Chakwera",
+      "since": "2020-06-28",
+      "partyQid": "Q7391048",
+      "partyName": "MCP",
+      "source": "Comisión Electoral de Malaui",
+      "sourceUrl": "https://www.mec.org.mw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Lazarus Chakwera",
+      "since": "2020-06-28",
+      "partyQid": "Q7391048",
+      "partyName": "MCP",
+      "source": "Comisión Electoral de Malaui",
+      "sourceUrl": "https://www.mec.org.mw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "MRT": {
+    "headOfState": {
+      "name": "Mohamed Ould Ghazouani",
+      "since": "2019-08-01",
+      "partyQid": "Q7391048",
+      "partyName": "INSAF",
+      "source": "Comisión Electoral Nacional Independiente de Mauritania",
+      "sourceUrl": "https://www.ceni.mr",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido jun. 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Mokhtar Ould Djay",
+      "since": "2024-08-05",
+      "partyQid": "Q7391048",
+      "partyName": "INSAF",
+      "source": "Gobierno de Mauritania",
+      "sourceUrl": "https://www.mauritania.mr",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ago. 2024"
+    }
+  },
+  "BEN": {
+    "headOfState": {
+      "name": "Patrice Talon",
+      "since": "2016-04-06",
+      "partyQid": null,
+      "partyName": "UP (Unión Progresista)",
+      "source": "CENA — Comisión Electoral Nacional Autónoma de Benín",
+      "sourceUrl": "https://www.cena.bj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido abr. 2021; no reelegible en 2026)"
+    },
+    "headOfGovernment": {
+      "name": "Patrice Talon",
+      "since": "2016-04-06",
+      "partyQid": null,
+      "partyName": "UP (Unión Progresista)",
+      "source": "CENA — Comisión Electoral Nacional Autónoma de Benín",
+      "sourceUrl": "https://www.cena.bj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "HTI": {
+    "headOfState": {
+      "name": "Edger Leblanc Fils",
+      "since": "2024-06-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "BINUH / ONU",
+      "sourceUrl": "https://binuh.unmissions.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del Consejo Presidencial de Transición (formado abr. 2024 ante el vacío de poder)"
+    },
+    "headOfGovernment": {
+      "name": "Alix Didier Fils-Aimé",
+      "since": "2025-02-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/haiti-names-new-prime-minister-feb-2025/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2025"
+    }
+  },
+  "GUY": {
+    "headOfState": {
+      "name": "Mohamed Irfaan Ali",
+      "since": "2020-08-02",
+      "partyQid": "Q4994063",
+      "partyName": "PPP/C",
+      "source": "Comisión Electoral de Guyana",
+      "sourceUrl": "https://www.gecom.org.gy",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno (reelegido nov. 2025)"
+    },
+    "headOfGovernment": {
+      "name": "Mohamed Irfaan Ali",
+      "since": "2020-08-02",
+      "partyQid": "Q4994063",
+      "partyName": "PPP/C",
+      "source": "Comisión Electoral de Guyana",
+      "sourceUrl": "https://www.gecom.org.gy",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "SUR": {
+    "headOfState": {
+      "name": "Chan Santokhi",
+      "since": "2020-07-16",
+      "partyQid": "Q7391048",
+      "partyName": "VHP",
+      "source": "Consejo Electoral Independiente de Surinam",
+      "sourceUrl": "https://www.sur-elections.sr",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Chan Santokhi",
+      "since": "2020-07-16",
+      "partyQid": "Q7391048",
+      "partyName": "VHP",
+      "source": "Consejo Electoral Independiente de Surinam",
+      "sourceUrl": "https://www.sur-elections.sr",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
   }
 }

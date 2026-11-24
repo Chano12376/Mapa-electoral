@@ -1200,6 +1200,206 @@
       "source": "Comisión Electoral Central de Tayikistán",
       "sourceUrl": "https://www.cec.tj",
       "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "CYP",
+      "date": "2028-02-05",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 5 años)",
+      "source": "Comisión Electoral de Chipre",
+      "sourceUrl": "https://www.elections.moi.gov.cy",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "KGZ",
+      "date": "2027-01-24",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 6 años)",
+      "source": "Comisión Electoral Central de Kirguistán",
+      "sourceUrl": "https://shailoo.gov.kg",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TKM",
+      "date": "2027-03-26",
+      "dateStatus": "prevista",
+      "type": "Parlamentarias (Mäjlis)",
+      "whatIsElected": "Mäjlis (125 escaños)",
+      "source": "Comisión Electoral Central de Turkmenistán",
+      "sourceUrl": "https://www.saylawkomissiasy.gov.tm",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "NAM",
+      "date": "2029-11-28",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y parlamentarias",
+      "whatIsElected": "Presidente, Asamblea Nacional (96 escaños)",
+      "source": "Comisión Electoral de Namibia",
+      "sourceUrl": "https://www.ecn.na",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BWA",
+      "date": "2029-10-26",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Asamblea Nacional (61 escaños)",
+      "source": "Comisión Electoral Independiente de Botsuana",
+      "sourceUrl": "https://www.iec.gov.bw",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "RWA",
+      "date": "2029-07-15",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 7 años)",
+      "source": "Comisión Electoral Nacional de Ruanda",
+      "sourceUrl": "https://www.nec.gov.rw",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MLI",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (junta militar en el poder)",
+      "whatIsElected": "Transición militar desde el golpe de 2021; elecciones prometidas aún sin fecha definitiva",
+      "source": "MINUSMA / ONU",
+      "sourceUrl": "https://minusma.unmissions.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "NER",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (junta militar desde jul. 2023)",
+      "whatIsElected": "El CNSP tomó el poder en jul. 2023; sin calendario electoral definido",
+      "source": "Reuters / BBC",
+      "sourceUrl": "https://www.bbc.com/news/world-africa-66374196",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TCD",
+      "date": "2029-05-06",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 6 años)",
+      "source": "Comisión Electoral Nacional Independiente de Chad",
+      "sourceUrl": "https://www.ceni.td",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SDN",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (guerra civil desde abr. 2023)",
+      "whatIsElected": "Conflicto entre las Fuerzas Armadas de Sudán (SAF) y las Fuerzas de Apoyo Rápido (RSF); sin perspectiva electoral inmediata",
+      "source": "UNITAMS / ONU",
+      "sourceUrl": "https://unitams.unmissions.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "COG",
+      "date": "2026-03-20",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 7 años)",
+      "source": "Comisión Electoral Nacional de Congo",
+      "sourceUrl": "https://www.leguvernoment.cg",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SSD",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (elecciones repetidamente aplazadas)",
+      "whatIsElected": "Elecciones generales previstas en 2024, luego 2025, pendientes de nuevo proceso de paz",
+      "source": "UNMISS / ONU",
+      "sourceUrl": "https://unmiss.unmissions.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GAB",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (período de transición tras el golpe de ago. 2023)",
+      "whatIsElected": "Junta militar (CTRI) en proceso de redacción constitucional; referéndum celebrado nov. 2024",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/gabon",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MDG",
+      "date": "2028-11-15",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 5 años)",
+      "source": "Comisión Electoral Nacional Independiente de Madagascar",
+      "sourceUrl": "https://www.hcc.mg",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MWI",
+      "date": "2025-09-20",
+      "dateStatus": "confirmada",
+      "type": "Presidenciales y parlamentarias",
+      "whatIsElected": "Presidente, Asamblea Nacional (193 escaños)",
+      "source": "Comisión Electoral de Malaui",
+      "sourceUrl": "https://www.mec.org.mw",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MRT",
+      "date": "2029-06-22",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 5 años)",
+      "source": "Comisión Electoral Nacional Independiente de Mauritania",
+      "sourceUrl": "https://www.ceni.mr",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BEN",
+      "date": "2026-04-11",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 5 años)",
+      "source": "Comisión Electoral Nacional Autónoma de Benín",
+      "sourceUrl": "https://www.cena.bj",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "HTI",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (crisis de gobernanza)",
+      "whatIsElected": "Sin elecciones posibles en el contexto actual de violencia pandillerera y crisis institucional",
+      "source": "BINUH / ONU",
+      "sourceUrl": "https://binuh.unmissions.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GUY",
+      "date": "2030-08-02",
+      "dateStatus": "limite_legal",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Asamblea Nacional (65 escaños)",
+      "source": "Comisión Electoral de Guyana",
+      "sourceUrl": "https://www.gecom.org.gy",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SUR",
+      "date": "2030-05-25",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Asamblea Nacional (51 escaños)",
+      "source": "Consejo Electoral Independiente de Surinam",
+      "sourceUrl": "https://www.sur-elections.sr",
+      "checkedAt": "2026-11-24"
     }
   ]
 }

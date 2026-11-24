@@ -1,0 +1,35 @@
+{
+  "iso3": "MLI",
+  "name": "Mali",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Assimi Goïta",
+    "since": "2021-05-24",
+    "party": null,
+    "source": "Reuters / RFI",
+    "sourceUrl": "https://www.rfi.fr/fr/afrique/mali",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Abdoulaye Maïga",
+    "since": "2023-11-25",
+    "party": null,
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/world/africa/mali-junta-appoints-new-prime-minister-2023-11-25/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

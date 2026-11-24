@@ -1,0 +1,35 @@
+{
+  "iso3": "NER",
+  "name": "Níger",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Abdourahamane Tchiani",
+    "since": "2023-07-28",
+    "party": null,
+    "source": "Reuters / BBC",
+    "sourceUrl": "https://www.bbc.com/news/world-africa-66374196",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ali Mahaman Lamine Zeine",
+    "since": "2023-08-09",
+    "party": null,
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/world/africa/niger-junta-names-new-prime-minister-2023-08-09/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,47 @@
+{
+  "iso3": "MDG",
+  "name": "Madagascar",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Andry Rajoelina",
+    "since": "2019-01-19",
+    "party": {
+      "qid": "Q7391048",
+      "name": "TGV / IRMAR"
+    },
+    "source": "Alta Corte Constitucional de Madagascar",
+    "sourceUrl": "https://www.hcc.mg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Herilaza Imbiki",
+    "since": "2024-11-26",
+    "party": null,
+    "source": "Presidencia de Madagascar",
+    "sourceUrl": "https://www.presidence.gov.mg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MDG",
+    "date": "2028-11-15",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 5 años)",
+    "source": "Comisión Electoral Nacional Independiente de Madagascar",
+    "sourceUrl": "https://www.hcc.mg",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

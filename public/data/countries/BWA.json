@@ -1,0 +1,44 @@
+{
+  "iso3": "BWA",
+  "name": "Botsuana",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Duma Boko",
+    "since": "2024-11-01",
+    "party": null,
+    "source": "Comisión Electoral Independiente de Botsuana",
+    "sourceUrl": "https://www.iec.gov.bw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Duma Boko",
+    "since": "2024-11-01",
+    "party": null,
+    "source": "Comisión Electoral Independiente de Botsuana",
+    "sourceUrl": "https://www.iec.gov.bw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BWA",
+    "date": "2029-10-26",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Asamblea Nacional (61 escaños)",
+    "source": "Comisión Electoral Independiente de Botsuana",
+    "sourceUrl": "https://www.iec.gov.bw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

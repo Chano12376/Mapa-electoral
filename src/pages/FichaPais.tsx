@@ -15,11 +15,15 @@ const FLAG: Record<string, string> = {
   IRQ:"🇮🇶",JOR:"🇯🇴",ARE:"🇦🇪",TUN:"🇹🇳",LBN:"🇱🇧",DZA:"🇩🇿",TZA:"🇹🇿",GHA:"🇬🇭",SEN:"🇸🇳",ZWE:"🇿🇼",
   PAN:"🇵🇦",SLV:"🇸🇻",HND:"🇭🇳",NIC:"🇳🇮",JAM:"🇯🇲",
   IRL:"🇮🇪",SVN:"🇸🇮",EST:"🇪🇪",LTU:"🇱🇹",LVA:"🇱🇻",ALB:"🇦🇱",GEO:"🇬🇪",
-  ISL:"🇮🇸",BIH:"🇧🇦",MNE:"🇲🇪",MKD:"🇲🇰",ARM:"🇦🇲",AZE:"🇦🇿",
-  MNG:"🇲🇳",LKA:"🇱🇰",UZB:"🇺🇿",PRK:"🇰🇵",NPL:"🇳🇵",AFG:"🇦🇫",KHM:"🇰🇭",TJK:"🇹🇯",
+  ISL:"🇮🇸",BIH:"🇧🇦",MNE:"🇲🇪",MKD:"🇲🇰",ARM:"🇦🇲",AZE:"🇦🇿",CYP:"🇨🇾",
+  MNG:"🇲🇳",LKA:"🇱🇰",UZB:"🇺🇿",PRK:"🇰🇵",NPL:"🇳🇵",AFG:"🇦🇫",KHM:"🇰🇭",TJK:"🇹🇯",KGZ:"🇰🇬",TKM:"🇹🇲",
   QAT:"🇶🇦",SYR:"🇸🇾",COD:"🇨🇩",CMR:"🇨🇲",AGO:"🇦🇴",
   MOZ:"🇲🇿",UGA:"🇺🇬",CIV:"🇨🇮",LBY:"🇱🇾",SOM:"🇸🇴",ZMB:"🇿🇲",
   OMN:"🇴🇲",YEM:"🇾🇪",KWT:"🇰🇼",
+  NAM:"🇳🇦",BWA:"🇧🇼",RWA:"🇷🇼",MLI:"🇲🇱",NER:"🇳🇪",
+  TCD:"🇹🇩",SDN:"🇸🇩",COG:"🇨🇬",SSD:"🇸🇸",GAB:"🇬🇦",
+  MDG:"🇲🇬",MWI:"🇲🇼",MRT:"🇲🇷",BEN:"🇧🇯",
+  HTI:"🇭🇹",GUY:"🇬🇾",SUR:"🇸🇷",
 };
 
 // Colores conocidos de partidos por nombre/sigla
@@ -725,11 +729,15 @@ const ISO3_TO_ISO2: Record<string, string> = {
   IRQ:"iq",JOR:"jo",ARE:"ae",TUN:"tn",LBN:"lb",DZA:"dz",TZA:"tz",GHA:"gh",SEN:"sn",ZWE:"zw",
   PAN:"pa",SLV:"sv",HND:"hn",NIC:"ni",JAM:"jm",
   IRL:"ie",SVN:"si",EST:"ee",LTU:"lt",LVA:"lv",ALB:"al",GEO:"ge",
-  ISL:"is",BIH:"ba",MNE:"me",MKD:"mk",ARM:"am",AZE:"az",
-  MNG:"mn",LKA:"lk",UZB:"uz",PRK:"kp",NPL:"np",AFG:"af",KHM:"kh",TJK:"tj",
+  ISL:"is",BIH:"ba",MNE:"me",MKD:"mk",ARM:"am",AZE:"az",CYP:"cy",
+  MNG:"mn",LKA:"lk",UZB:"uz",PRK:"kp",NPL:"np",AFG:"af",KHM:"kh",TJK:"tj",KGZ:"kg",TKM:"tm",
   QAT:"qa",SYR:"sy",COD:"cd",CMR:"cm",AGO:"ao",
   MOZ:"mz",UGA:"ug",CIV:"ci",LBY:"ly",SOM:"so",ZMB:"zm",
   OMN:"om",YEM:"ye",KWT:"kw",
+  NAM:"na",BWA:"bw",RWA:"rw",MLI:"ml",NER:"ne",
+  TCD:"td",SDN:"sd",COG:"cg",SSD:"ss",GAB:"ga",
+  MDG:"mg",MWI:"mw",MRT:"mr",BEN:"bj",
+  HTI:"ht",GUY:"gy",SUR:"sr",
 };
 
 function FlagImg({ iso3, size = 64 }: { iso3: string; size?: number }) {

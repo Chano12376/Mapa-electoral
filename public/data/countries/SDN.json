@@ -1,0 +1,35 @@
+{
+  "iso3": "SDN",
+  "name": "Sudán",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Abdel Fattah al-Burhan",
+    "since": "2021-10-25",
+    "party": null,
+    "source": "Reuters / ONU",
+    "sourceUrl": "https://www.reuters.com/world/africa/sudan-military-stages-coup-prime-minister-hamdok-detained-2021-10-25/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Abdel Fattah al-Burhan",
+    "since": "2021-10-25",
+    "party": null,
+    "source": "Reuters / ONU",
+    "sourceUrl": "https://www.reuters.com/world/africa/sudan-military-stages-coup-prime-minister-hamdok-detained-2021-10-25/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

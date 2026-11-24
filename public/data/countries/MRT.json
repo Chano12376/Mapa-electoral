@@ -1,0 +1,50 @@
+{
+  "iso3": "MRT",
+  "name": "Mauritania",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Mohamed Ould Ghazouani",
+    "since": "2019-08-01",
+    "party": {
+      "qid": "Q7391048",
+      "name": "INSAF"
+    },
+    "source": "Comisión Electoral Nacional Independiente de Mauritania",
+    "sourceUrl": "https://www.ceni.mr",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mokhtar Ould Djay",
+    "since": "2024-08-05",
+    "party": {
+      "qid": "Q7391048",
+      "name": "INSAF"
+    },
+    "source": "Gobierno de Mauritania",
+    "sourceUrl": "https://www.mauritania.mr",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MRT",
+    "date": "2029-06-22",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 5 años)",
+    "source": "Comisión Electoral Nacional Independiente de Mauritania",
+    "sourceUrl": "https://www.ceni.mr",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

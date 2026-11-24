@@ -1,0 +1,50 @@
+{
+  "iso3": "COG",
+  "name": "Congo",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Denis Sassou Nguesso",
+    "since": "1997-10-25",
+    "party": {
+      "qid": "Q1065038",
+      "name": "PCT"
+    },
+    "source": "Presidencia de la República del Congo",
+    "sourceUrl": "https://www.presidence.cg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Anatole Collinet Makosso",
+    "since": "2021-05-12",
+    "party": {
+      "qid": "Q1065038",
+      "name": "PCT"
+    },
+    "source": "Gobierno del Congo",
+    "sourceUrl": "https://www.gouvernement.cg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "COG",
+    "date": "2026-03-20",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 7 años)",
+    "source": "Comisión Electoral Nacional de Congo",
+    "sourceUrl": "https://www.leguvernoment.cg",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

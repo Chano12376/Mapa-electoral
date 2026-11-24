@@ -1,0 +1,50 @@
+{
+  "iso3": "MWI",
+  "name": "Malaui",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Lazarus Chakwera",
+    "since": "2020-06-28",
+    "party": {
+      "qid": "Q7391048",
+      "name": "MCP"
+    },
+    "source": "Comisión Electoral de Malaui",
+    "sourceUrl": "https://www.mec.org.mw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Lazarus Chakwera",
+    "since": "2020-06-28",
+    "party": {
+      "qid": "Q7391048",
+      "name": "MCP"
+    },
+    "source": "Comisión Electoral de Malaui",
+    "sourceUrl": "https://www.mec.org.mw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MWI",
+    "date": "2025-09-20",
+    "dateStatus": "confirmada",
+    "type": "Presidenciales y parlamentarias",
+    "whatIsElected": "Presidente, Asamblea Nacional (193 escaños)",
+    "source": "Comisión Electoral de Malaui",
+    "sourceUrl": "https://www.mec.org.mw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

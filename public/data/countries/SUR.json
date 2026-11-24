@@ -1,0 +1,50 @@
+{
+  "iso3": "SUR",
+  "name": "Surinam",
+  "region": "América",
+  "headOfState": {
+    "name": "Chan Santokhi",
+    "since": "2020-07-16",
+    "party": {
+      "qid": "Q7391048",
+      "name": "VHP"
+    },
+    "source": "Consejo Electoral Independiente de Surinam",
+    "sourceUrl": "https://www.sur-elections.sr",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Chan Santokhi",
+    "since": "2020-07-16",
+    "party": {
+      "qid": "Q7391048",
+      "name": "VHP"
+    },
+    "source": "Consejo Electoral Independiente de Surinam",
+    "sourceUrl": "https://www.sur-elections.sr",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SUR",
+    "date": "2030-05-25",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Asamblea Nacional (51 escaños)",
+    "source": "Consejo Electoral Independiente de Surinam",
+    "sourceUrl": "https://www.sur-elections.sr",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,50 @@
+{
+  "iso3": "NAM",
+  "name": "Namibia",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Netumbo Nandi-Ndaitwah",
+    "since": "2025-03-21",
+    "party": {
+      "qid": "Q839437",
+      "name": "SWAPO"
+    },
+    "source": "Comisión Electoral de Namibia",
+    "sourceUrl": "https://www.ecn.na",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Netumbo Nandi-Ndaitwah",
+    "since": "2025-03-21",
+    "party": {
+      "qid": "Q839437",
+      "name": "SWAPO"
+    },
+    "source": "Comisión Electoral de Namibia",
+    "sourceUrl": "https://www.ecn.na",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "NAM",
+    "date": "2029-11-28",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y parlamentarias",
+    "whatIsElected": "Presidente, Asamblea Nacional (96 escaños)",
+    "source": "Comisión Electoral de Namibia",
+    "sourceUrl": "https://www.ecn.na",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,50 @@
+{
+  "iso3": "KGZ",
+  "name": "Kirguistán",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Sadyr Japarov",
+    "since": "2021-01-28",
+    "party": {
+      "qid": "Q7391048",
+      "name": "Mekenim Kyrgyzstan"
+    },
+    "source": "Comisión Electoral Central de Kirguistán",
+    "sourceUrl": "https://shailoo.gov.kg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Adylbek Kasymaliev",
+    "since": "2021-11-03",
+    "party": {
+      "qid": "Q7391048",
+      "name": "Mekenim Kyrgyzstan"
+    },
+    "source": "Gobierno de Kirguistán",
+    "sourceUrl": "https://www.gov.kg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "KGZ",
+    "date": "2027-01-24",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 6 años)",
+    "source": "Comisión Electoral Central de Kirguistán",
+    "sourceUrl": "https://shailoo.gov.kg",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

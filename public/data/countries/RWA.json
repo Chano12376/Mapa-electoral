@@ -1,0 +1,50 @@
+{
+  "iso3": "RWA",
+  "name": "Ruanda",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Paul Kagame",
+    "since": "2000-04-22",
+    "party": {
+      "qid": "Q1366090",
+      "name": "FPR"
+    },
+    "source": "Comisión Electoral Nacional de Ruanda",
+    "sourceUrl": "https://www.nec.gov.rw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Édouard Ngirente",
+    "since": "2017-08-30",
+    "party": {
+      "qid": "Q1366090",
+      "name": "FPR"
+    },
+    "source": "Gobierno de Ruanda",
+    "sourceUrl": "https://www.gov.rw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "RWA",
+    "date": "2029-07-15",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 7 años)",
+    "source": "Comisión Electoral Nacional de Ruanda",
+    "sourceUrl": "https://www.nec.gov.rw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

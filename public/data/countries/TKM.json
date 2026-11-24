@@ -1,0 +1,50 @@
+{
+  "iso3": "TKM",
+  "name": "Turkmenistán",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Serdar Berdimuhamedov",
+    "since": "2022-03-19",
+    "party": {
+      "qid": "Q7391048",
+      "name": "DPT"
+    },
+    "source": "Gobierno de Turkmenistán",
+    "sourceUrl": "https://www.turkmenistan.gov.tm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Serdar Berdimuhamedov",
+    "since": "2022-03-19",
+    "party": {
+      "qid": "Q7391048",
+      "name": "DPT"
+    },
+    "source": "Gobierno de Turkmenistán",
+    "sourceUrl": "https://www.turkmenistan.gov.tm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TKM",
+    "date": "2027-03-26",
+    "dateStatus": "prevista",
+    "type": "Parlamentarias (Mäjlis)",
+    "whatIsElected": "Mäjlis (125 escaños)",
+    "source": "Comisión Electoral Central de Turkmenistán",
+    "sourceUrl": "https://www.saylawkomissiasy.gov.tm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,44 @@
+{
+  "iso3": "BEN",
+  "name": "Benín",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Patrice Talon",
+    "since": "2016-04-06",
+    "party": null,
+    "source": "CENA — Comisión Electoral Nacional Autónoma de Benín",
+    "sourceUrl": "https://www.cena.bj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Patrice Talon",
+    "since": "2016-04-06",
+    "party": null,
+    "source": "CENA — Comisión Electoral Nacional Autónoma de Benín",
+    "sourceUrl": "https://www.cena.bj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BEN",
+    "date": "2026-04-11",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 5 años)",
+    "source": "Comisión Electoral Nacional Autónoma de Benín",
+    "sourceUrl": "https://www.cena.bj",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

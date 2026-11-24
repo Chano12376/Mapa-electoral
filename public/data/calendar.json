@@ -35,6 +35,17 @@
       "checkedAt": "2026-11-24"
     },
     {
+      "iso3": "KGZ",
+      "name": "Kirguistán",
+      "date": "2027-01-24",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 6 años)",
+      "source": "Comisión Electoral Central de Kirguistán",
+      "sourceUrl": "https://shailoo.gov.kg",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "NGA",
       "name": "Nigeria",
       "date": "2027-02-20",
@@ -87,6 +98,17 @@
       "whatIsElected": "Riigikogu (101 escaños)",
       "source": "Vabariigi Valimiskomisjon",
       "sourceUrl": "https://www.valimised.ee",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TKM",
+      "name": "Turkmenistán",
+      "date": "2027-03-26",
+      "dateStatus": "prevista",
+      "type": "Parlamentarias (Mäjlis)",
+      "whatIsElected": "Mäjlis (125 escaños)",
+      "source": "Comisión Electoral Central de Turkmenistán",
+      "sourceUrl": "https://www.saylawkomissiasy.gov.tm",
       "checkedAt": "2026-11-24"
     },
     {

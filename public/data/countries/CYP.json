@@ -1,0 +1,44 @@
+{
+  "iso3": "CYP",
+  "name": "Chipre",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Nikos Christodoulides",
+    "since": "2023-02-28",
+    "party": null,
+    "source": "Presidencia de la República de Chipre",
+    "sourceUrl": "https://www.presidency.gov.cy",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Nikos Christodoulides",
+    "since": "2023-02-28",
+    "party": null,
+    "source": "Presidencia de la República de Chipre",
+    "sourceUrl": "https://www.presidency.gov.cy",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CYP",
+    "date": "2028-02-05",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 5 años)",
+    "source": "Comisión Electoral de Chipre",
+    "sourceUrl": "https://www.elections.moi.gov.cy",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

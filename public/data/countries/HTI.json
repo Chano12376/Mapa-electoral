@@ -1,0 +1,35 @@
+{
+  "iso3": "HTI",
+  "name": "Haití",
+  "region": "América",
+  "headOfState": {
+    "name": "Edger Leblanc Fils",
+    "since": "2024-06-01",
+    "party": null,
+    "source": "BINUH / ONU",
+    "sourceUrl": "https://binuh.unmissions.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Alix Didier Fils-Aimé",
+    "since": "2025-02-01",
+    "party": null,
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/world/americas/haiti-names-new-prime-minister-feb-2025/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}
