@@ -1,0 +1,44 @@
+{
+  "iso3": "TLS",
+  "name": "Timor Oriental",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "José Ramos-Horta",
+    "since": "2022-05-20",
+    "party": null,
+    "source": "Presidencia de Timor-Leste",
+    "sourceUrl": "https://presidencia.tl",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Xanana Gusmão",
+    "since": "2023-06-01",
+    "party": null,
+    "source": "Gobierno de Timor-Leste",
+    "sourceUrl": "https://www.gov.tl",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TLS",
+    "date": "2027-05-20",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Parlamento Nacional)",
+    "whatIsElected": "Parlamento Nacional (65 escaños)",
+    "source": "STAE — Secretariado Técnico da Administração Eleitoral",
+    "sourceUrl": "https://www.stae.tl",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

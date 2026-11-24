@@ -1,0 +1,44 @@
+{
+  "iso3": "TTO",
+  "name": "Trinidad y Tobago",
+  "region": "América",
+  "headOfState": {
+    "name": "Christine Kangaloo",
+    "since": "2023-03-20",
+    "party": null,
+    "source": "Presidencia de Trinidad y Tobago",
+    "sourceUrl": "https://president.gov.tt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Keith Rowley",
+    "since": "2015-09-09",
+    "party": null,
+    "source": "Gobierno de Trinidad y Tobago",
+    "sourceUrl": "https://opm.gov.tt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TTO",
+    "date": "2025-09-01",
+    "dateStatus": "confirmada",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de Representantes (41 escaños)",
+    "source": "Elections and Boundaries Commission Trinidad and Tobago",
+    "sourceUrl": "https://www.ebctt.com",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

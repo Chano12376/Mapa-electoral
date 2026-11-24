@@ -1,0 +1,47 @@
+{
+  "iso3": "LUX",
+  "name": "Luxemburgo",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Henri",
+    "since": "2000-10-07",
+    "party": null,
+    "source": "Cour Grand-Ducale de Luxembourg",
+    "sourceUrl": "https://monarchie.lu/fr/la-famille-grand-ducale/son-altesse-royale-le-grand-duc",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Luc Frieden",
+    "since": "2023-11-17",
+    "party": {
+      "qid": "Q868176",
+      "name": "CSV"
+    },
+    "source": "Gouvernement luxembourgeois",
+    "sourceUrl": "https://gouvernement.lu/fr/gouvernement/premier-ministre/luc-frieden.html",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LUX",
+    "date": "2028-10-08",
+    "dateStatus": "prevista",
+    "type": "Legislativas",
+    "whatIsElected": "Cámara de Diputados (60 escaños)",
+    "source": "Service des médias et des communications — Luxembourg",
+    "sourceUrl": "https://elections.public.lu",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

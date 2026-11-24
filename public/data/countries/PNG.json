@@ -1,0 +1,44 @@
+{
+  "iso3": "PNG",
+  "name": "Papúa Nueva Guinea",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Papúa Nueva Guinea",
+    "sourceUrl": "https://www.pm.gov.pg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "James Marape",
+    "since": "2019-05-30",
+    "party": null,
+    "source": "Gobierno de Papúa Nueva Guinea",
+    "sourceUrl": "https://www.pm.gov.pg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "PNG",
+    "date": "2027-06-01",
+    "dateStatus": "prevista",
+    "type": "Legislativas generales",
+    "whatIsElected": "Parlamento Nacional (118 escaños)",
+    "source": "Electoral Commission of Papua New Guinea",
+    "sourceUrl": "https://www.electoral.gov.pg",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,44 @@
+{
+  "iso3": "CPV",
+  "name": "Cabo Verde",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "José Maria Neves",
+    "since": "2021-11-09",
+    "party": null,
+    "source": "Presidência da República de Cabo Verde",
+    "sourceUrl": "https://www.presidencia.cv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ulisses Correia Silva",
+    "since": "2016-04-22",
+    "party": null,
+    "source": "Governo de Cabo Verde",
+    "sourceUrl": "https://www.governo.cv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CPV",
+    "date": "2026-03-22",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Asamblea Nacional)",
+    "whatIsElected": "Asamblea Nacional (72 escaños)",
+    "source": "Comissão Nacional de Eleições — Cabo Verde",
+    "sourceUrl": "https://www.cne.cv",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

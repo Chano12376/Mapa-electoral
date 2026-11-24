@@ -1,0 +1,35 @@
+{
+  "iso3": "GIN",
+  "name": "Guinea",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Mamadi Doumbouya",
+    "since": "2021-10-01",
+    "party": null,
+    "source": "Reuters / RFI",
+    "sourceUrl": "https://www.rfi.fr/fr/afrique/guinee",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mamadi Doumbouya",
+    "since": "2021-10-01",
+    "party": null,
+    "source": "Reuters / RFI",
+    "sourceUrl": "https://www.rfi.fr/fr/afrique/guinee",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,44 @@
+{
+  "iso3": "BHR",
+  "name": "Baréin",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Hamad bin Isa Al Jalifa",
+    "since": "2002-02-14",
+    "party": null,
+    "source": "Gobierno de Baréin",
+    "sourceUrl": "https://www.bahrain.bh/en/government/pages/royalfamily.aspx",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Salman bin Hamad Al Jalifa",
+    "since": "2020-11-11",
+    "party": null,
+    "source": "Gobierno de Baréin",
+    "sourceUrl": "https://www.bahrain.bh/en/government/pages/primeminister.aspx",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BHR",
+    "date": "2026-10-01",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Majlis Al-Nawab)",
+    "whatIsElected": "Cámara de Representantes (40 escaños)",
+    "source": "High Electoral Commission Bahrain",
+    "sourceUrl": "https://www.elections.gov.bh",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

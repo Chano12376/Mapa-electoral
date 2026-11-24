@@ -1,0 +1,47 @@
+{
+  "iso3": "MLT",
+  "name": "Malta",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Myriam Spiteri Debono",
+    "since": "2024-04-04",
+    "party": null,
+    "source": "Presidencia de Malta",
+    "sourceUrl": "https://presidency.gov.mt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Robert Abela",
+    "since": "2020-01-13",
+    "party": {
+      "qid": "Q868386",
+      "name": "PL (Partido Laborista)"
+    },
+    "source": "Gobierno de Malta",
+    "sourceUrl": "https://gov.mt/en/Government/DOI/Office%20of%20the%20Prime%20Minister/Pages/Prime-Minister.aspx",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MLT",
+    "date": "2027-03-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Parlamento (65 escaños)",
+    "source": "Electoral Commission Malta",
+    "sourceUrl": "https://electoral.gov.mt",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

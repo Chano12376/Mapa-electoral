@@ -1,0 +1,44 @@
+{
+  "iso3": "SLE",
+  "name": "Sierra Leona",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Julius Maada Bio",
+    "since": "2018-04-04",
+    "party": null,
+    "source": "National Electoral Commission Sierra Leone",
+    "sourceUrl": "https://www.necsl.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Julius Maada Bio",
+    "since": "2018-04-04",
+    "party": null,
+    "source": "National Electoral Commission Sierra Leone",
+    "sourceUrl": "https://www.necsl.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SLE",
+    "date": "2028-06-24",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Presidente, Parlamento (146 escaños)",
+    "source": "National Electoral Commission Sierra Leone",
+    "sourceUrl": "https://www.necsl.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

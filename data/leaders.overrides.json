@@ -3078,5 +3078,445 @@
       "retrievedAt": "2026-11-24",
       "motivo": "Presidente: jefe de Estado y de Gobierno"
     }
+  },
+  "LUX": {
+    "headOfState": {
+      "name": "Henri",
+      "since": "2000-10-07",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Cour Grand-Ducale de Luxembourg",
+      "sourceUrl": "https://monarchie.lu/fr/la-famille-grand-ducale/son-altesse-royale-le-grand-duc",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Gran Duque de Luxemburgo (monarquía constitucional)"
+    },
+    "headOfGovernment": {
+      "name": "Luc Frieden",
+      "since": "2023-11-17",
+      "partyQid": "Q868176",
+      "partyName": "CSV",
+      "source": "Gouvernement luxembourgeois",
+      "sourceUrl": "https://gouvernement.lu/fr/gouvernement/premier-ministre/luc-frieden.html",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde nov. 2023 (CSV ganó las elecciones de oct. 2023)"
+    }
+  },
+  "MLT": {
+    "headOfState": {
+      "name": "Myriam Spiteri Debono",
+      "since": "2024-04-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Malta",
+      "sourceUrl": "https://presidency.gov.mt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta desde abr. 2024 (cargo ceremonial)"
+    },
+    "headOfGovernment": {
+      "name": "Robert Abela",
+      "since": "2020-01-13",
+      "partyQid": "Q868386",
+      "partyName": "PL (Partido Laborista)",
+      "source": "Gobierno de Malta",
+      "sourceUrl": "https://gov.mt/en/Government/DOI/Office%20of%20the%20Prime%20Minister/Pages/Prime-Minister.aspx",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ene. 2020 (reelegido 2022)"
+    }
+  },
+  "AND": {
+    "headOfState": {
+      "name": "Emmanuel Macron / Joan-Enric Vives",
+      "since": "2017-05-14",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Govern d'Andorra",
+      "sourceUrl": "https://www.govern.ad/es/el-govern/coprincipes",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Co-príncipes de Andorra: el Presidente de Francia y el Obispo de Urgell (sistema único en el mundo)"
+    },
+    "headOfGovernment": {
+      "name": "Xavier Espot Zamora",
+      "since": "2019-05-16",
+      "partyQid": null,
+      "partyName": "DA+ (Demòcrates per Andorra)",
+      "source": "Govern d'Andorra",
+      "sourceUrl": "https://www.govern.ad/es/el-govern/cap-de-govern",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Cap de Govern (Jefe de Gobierno); reelegido en 2023"
+    }
+  },
+  "BHR": {
+    "headOfState": {
+      "name": "Hamad bin Isa Al Jalifa",
+      "since": "2002-02-14",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Baréin",
+      "sourceUrl": "https://www.bahrain.bh/en/government/pages/royalfamily.aspx",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey de Baréin (monarquía constitucional)"
+    },
+    "headOfGovernment": {
+      "name": "Salman bin Hamad Al Jalifa",
+      "since": "2020-11-11",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Baréin",
+      "sourceUrl": "https://www.bahrain.bh/en/government/pages/primeminister.aspx",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Príncipe Heredero y Primer Ministro desde nov. 2020"
+    }
+  },
+  "TTO": {
+    "headOfState": {
+      "name": "Christine Kangaloo",
+      "since": "2023-03-20",
+      "partyQid": null,
+      "partyName": "PNM",
+      "source": "Presidencia de Trinidad y Tobago",
+      "sourceUrl": "https://president.gov.tt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta (cargo ceremonial) desde mar. 2023"
+    },
+    "headOfGovernment": {
+      "name": "Keith Rowley",
+      "since": "2015-09-09",
+      "partyQid": null,
+      "partyName": "PNM (Movimiento Nacional del Pueblo)",
+      "source": "Gobierno de Trinidad y Tobago",
+      "sourceUrl": "https://opm.gov.tt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (reelegido 2020)"
+    }
+  },
+  "BLZ": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Belice",
+      "sourceUrl": "https://www.belize.gov.bz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca (representado por la Gobernadora General Froyla Tzalam)"
+    },
+    "headOfGovernment": {
+      "name": "John Briceño",
+      "since": "2020-11-12",
+      "partyQid": null,
+      "partyName": "PUP (Partido Unido del Pueblo)",
+      "source": "Gobierno de Belice",
+      "sourceUrl": "https://www.belize.gov.bz/office-of-the-prime-minister/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde nov. 2020"
+    }
+  },
+  "BRN": {
+    "headOfState": {
+      "name": "Hassanal Bolkiah",
+      "since": "1967-10-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Brunéi Darussalam",
+      "sourceUrl": "https://www.gov.bn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Sultán y Primer Ministro (monarquía absoluta)"
+    },
+    "headOfGovernment": {
+      "name": "Hassanal Bolkiah",
+      "since": "1967-10-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Brunéi Darussalam",
+      "sourceUrl": "https://www.gov.bn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Sultán y Primer Ministro"
+    }
+  },
+  "LAO": {
+    "headOfState": {
+      "name": "Thongloun Sisoulith",
+      "since": "2021-03-22",
+      "partyQid": "Q188461",
+      "partyName": "LPRP (Partido Revolucionario Popular Lao)",
+      "source": "Asamblea Nacional de la RDP Lao",
+      "sourceUrl": "https://www.na.gov.la",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde mar. 2021; estado de partido único"
+    },
+    "headOfGovernment": {
+      "name": "Sonexay Siphandon",
+      "since": "2022-01-22",
+      "partyQid": "Q188461",
+      "partyName": "LPRP",
+      "source": "Gobierno de la RDP Lao",
+      "sourceUrl": "https://www.gov.la",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ene. 2022"
+    }
+  },
+  "BTN": {
+    "headOfState": {
+      "name": "Jigme Khesar Namgyel Wangchuck",
+      "since": "2008-11-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Real Gobierno de Bután",
+      "sourceUrl": "https://www.bhutan.gov.bt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey (Druk Gyalpo); monarquía constitucional"
+    },
+    "headOfGovernment": {
+      "name": "Tshering Tobgay",
+      "since": "2024-01-28",
+      "partyQid": null,
+      "partyName": "PDP (Partido Democrático del Pueblo)",
+      "source": "Comisión Electoral de Bután",
+      "sourceUrl": "https://www.ecb.bt",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ene. 2024 (segundo mandato; ganó elecciones de ene. 2024)"
+    }
+  },
+  "TLS": {
+    "headOfState": {
+      "name": "José Ramos-Horta",
+      "since": "2022-05-20",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Timor-Leste",
+      "sourceUrl": "https://presidencia.tl",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República (Nobel de la Paz 1996)"
+    },
+    "headOfGovernment": {
+      "name": "Xanana Gusmão",
+      "since": "2023-06-01",
+      "partyQid": null,
+      "partyName": "CNRT (Congreso Nacional de la Reconstrucción Timorense)",
+      "source": "Gobierno de Timor-Leste",
+      "sourceUrl": "https://www.gov.tl",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jun. 2023 (héroe de la independencia, tercer mandato)"
+    }
+  },
+  "PNG": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Papúa Nueva Guinea",
+      "sourceUrl": "https://www.pm.gov.pg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca (representado por el Gobernador General Bob Dadae)"
+    },
+    "headOfGovernment": {
+      "name": "James Marape",
+      "since": "2019-05-30",
+      "partyQid": null,
+      "partyName": "Pangu Pati",
+      "source": "Gobierno de Papúa Nueva Guinea",
+      "sourceUrl": "https://www.pm.gov.pg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (reelegido 2022)"
+    }
+  },
+  "FJI": {
+    "headOfState": {
+      "name": "Ratu Wiliame Katonivere",
+      "since": "2021-11-12",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Fiyi",
+      "sourceUrl": "https://www.fiji.gov.fj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República (cargo ceremonial)"
+    },
+    "headOfGovernment": {
+      "name": "Sitiveni Rabuka",
+      "since": "2022-12-24",
+      "partyQid": null,
+      "partyName": "People's Alliance",
+      "source": "Gobierno de Fiyi",
+      "sourceUrl": "https://www.fiji.gov.fj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde dic. 2022 (también lideró el golpe de 1987)"
+    }
+  },
+  "GIN": {
+    "headOfState": {
+      "name": "Mamadi Doumbouya",
+      "since": "2021-10-01",
+      "partyQid": null,
+      "partyName": "CNRD (Comité Nacional de la Reagrupación y el Desarrollo)",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/guinee",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la Transición; tomó el poder en el golpe de sep. 2021"
+    },
+    "headOfGovernment": {
+      "name": "Mamadi Doumbouya",
+      "since": "2021-10-01",
+      "partyQid": null,
+      "partyName": "CNRD",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/guinee",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Junta militar: Doumbouya ejerce ambos poderes"
+    }
+  },
+  "BFA": {
+    "headOfState": {
+      "name": "Ibrahim Traoré",
+      "since": "2022-10-02",
+      "partyQid": null,
+      "partyName": "MPSR-2 (Movimiento Patriótico para la Salvaguarda y la Restauración)",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/burkina-faso",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la Transición; segundo golpe de 2022 (tras el de enero 2022)"
+    },
+    "headOfGovernment": {
+      "name": "Ibrahim Traoré",
+      "since": "2022-10-02",
+      "partyQid": null,
+      "partyName": "MPSR-2",
+      "source": "Reuters / RFI",
+      "sourceUrl": "https://www.rfi.fr/fr/afrique/burkina-faso",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Junta militar: Traoré ejerce ambos poderes"
+    }
+  },
+  "TGO": {
+    "headOfState": {
+      "name": "Faure Gnassingbé",
+      "since": "2005-05-04",
+      "partyQid": null,
+      "partyName": "UNIR (Unión para la República)",
+      "source": "Cour Constitutionnelle du Togo",
+      "sourceUrl": "https://www.coursupreme.tg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 2005 (hijo de Gnassingbé Eyadéma, que gobernó 38 años)"
+    },
+    "headOfGovernment": {
+      "name": "Victoire Tomégah-Dogbé",
+      "since": "2020-09-28",
+      "partyQid": null,
+      "partyName": "UNIR",
+      "source": "Gobierno de Togo",
+      "sourceUrl": "https://www.gouvernement.tg",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra desde sep. 2020 (primera mujer en el cargo en Togo)"
+    }
+  },
+  "SLE": {
+    "headOfState": {
+      "name": "Julius Maada Bio",
+      "since": "2018-04-04",
+      "partyQid": null,
+      "partyName": "SLPP (Partido del Pueblo de Sierra Leona)",
+      "source": "National Electoral Commission Sierra Leone",
+      "sourceUrl": "https://www.necsl.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido jun. 2023)"
+    },
+    "headOfGovernment": {
+      "name": "Julius Maada Bio",
+      "since": "2018-04-04",
+      "partyQid": null,
+      "partyName": "SLPP",
+      "source": "National Electoral Commission Sierra Leone",
+      "sourceUrl": "https://www.necsl.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "LBR": {
+    "headOfState": {
+      "name": "Joseph Boakai",
+      "since": "2024-01-22",
+      "partyQid": null,
+      "partyName": "UP (Partido de la Unidad)",
+      "source": "National Elections Commission Liberia",
+      "sourceUrl": "https://www.necliberia.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde ene. 2024 (ganó la segunda vuelta de nov. 2023 contra George Weah)"
+    },
+    "headOfGovernment": {
+      "name": "Joseph Boakai",
+      "since": "2024-01-22",
+      "partyQid": null,
+      "partyName": "UP",
+      "source": "National Elections Commission Liberia",
+      "sourceUrl": "https://www.necliberia.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "ERI": {
+    "headOfState": {
+      "name": "Isaias Afwerki",
+      "since": "1993-04-27",
+      "partyQid": null,
+      "partyName": "PFDJ (Frente Popular para la Democracia y la Justicia)",
+      "source": "Human Rights Watch",
+      "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/eritrea",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde la independencia de 1993; régimen de partido único, uno de los más cerrados del mundo"
+    },
+    "headOfGovernment": {
+      "name": "Isaias Afwerki",
+      "since": "1993-04-27",
+      "partyQid": null,
+      "partyName": "PFDJ",
+      "source": "Human Rights Watch",
+      "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/eritrea",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Jefe de Estado y de Gobierno"
+    }
+  },
+  "DJI": {
+    "headOfState": {
+      "name": "Ismail Omar Guelleh",
+      "since": "1999-05-08",
+      "partyQid": null,
+      "partyName": "RPP (Rassemblement Populaire pour le Progrès)",
+      "source": "Gouvernement de Djibouti",
+      "sourceUrl": "https://www.presidence.dj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 1999 (cuarto mandato; ha gobernado más de 25 años)"
+    },
+    "headOfGovernment": {
+      "name": "Abdoulkader Kamil Mohamed",
+      "since": "2013-12-31",
+      "partyQid": null,
+      "partyName": "RPP",
+      "source": "Gouvernement de Djibouti",
+      "sourceUrl": "https://www.gouvernement.dj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde dic. 2013"
+    }
+  },
+  "CPV": {
+    "headOfState": {
+      "name": "José Maria Neves",
+      "since": "2021-11-09",
+      "partyQid": null,
+      "partyName": "PAICV (Partido Africano de la Independencia de Cabo Verde)",
+      "source": "Presidência da República de Cabo Verde",
+      "sourceUrl": "https://www.presidencia.cv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República desde nov. 2021"
+    },
+    "headOfGovernment": {
+      "name": "Ulisses Correia Silva",
+      "since": "2016-04-22",
+      "partyQid": null,
+      "partyName": "MpD (Movimiento para la Democracia)",
+      "source": "Governo de Cabo Verde",
+      "sourceUrl": "https://www.governo.cv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (reelegido 2021)"
+    }
   }
 }

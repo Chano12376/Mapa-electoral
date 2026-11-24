@@ -1,0 +1,44 @@
+{
+  "iso3": "FJI",
+  "name": "Fiyi",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Ratu Wiliame Katonivere",
+    "since": "2021-11-12",
+    "party": null,
+    "source": "Presidencia de Fiyi",
+    "sourceUrl": "https://www.fiji.gov.fj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Sitiveni Rabuka",
+    "since": "2022-12-24",
+    "party": null,
+    "source": "Gobierno de Fiyi",
+    "sourceUrl": "https://www.fiji.gov.fj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "FJI",
+    "date": "2026-11-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Parlamento (55 escaños)",
+    "source": "Fijian Elections Office",
+    "sourceUrl": "https://www.feo.org.fj",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

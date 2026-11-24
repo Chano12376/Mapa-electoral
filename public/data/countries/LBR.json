@@ -1,0 +1,44 @@
+{
+  "iso3": "LBR",
+  "name": "Liberia",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Joseph Boakai",
+    "since": "2024-01-22",
+    "party": null,
+    "source": "National Elections Commission Liberia",
+    "sourceUrl": "https://www.necliberia.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Joseph Boakai",
+    "since": "2024-01-22",
+    "party": null,
+    "source": "National Elections Commission Liberia",
+    "sourceUrl": "https://www.necliberia.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LBR",
+    "date": "2029-10-01",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Presidente, Cámara de Representantes (73 escaños)",
+    "source": "National Elections Commission Liberia",
+    "sourceUrl": "https://www.necliberia.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

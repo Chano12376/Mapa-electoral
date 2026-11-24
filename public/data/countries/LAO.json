@@ -1,0 +1,50 @@
+{
+  "iso3": "LAO",
+  "name": "Laos",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Thongloun Sisoulith",
+    "since": "2021-03-22",
+    "party": {
+      "qid": "Q188461",
+      "name": "LPRP (Partido Revolucionario Popular Lao)"
+    },
+    "source": "Asamblea Nacional de la RDP Lao",
+    "sourceUrl": "https://www.na.gov.la",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Sonexay Siphandon",
+    "since": "2022-01-22",
+    "party": {
+      "qid": "Q188461",
+      "name": "LPRP"
+    },
+    "source": "Gobierno de la RDP Lao",
+    "sourceUrl": "https://www.gov.la",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LAO",
+    "date": "2026-02-01",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Asamblea Nacional)",
+    "whatIsElected": "Asamblea Nacional (164 escaños)",
+    "source": "Comisión Electoral Nacional de Laos",
+    "sourceUrl": "https://www.na.gov.la",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

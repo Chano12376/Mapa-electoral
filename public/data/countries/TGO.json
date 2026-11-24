@@ -1,0 +1,44 @@
+{
+  "iso3": "TGO",
+  "name": "Togo",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Faure Gnassingbé",
+    "since": "2005-05-04",
+    "party": null,
+    "source": "Cour Constitutionnelle du Togo",
+    "sourceUrl": "https://www.coursupreme.tg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Victoire Tomégah-Dogbé",
+    "since": "2020-09-28",
+    "party": null,
+    "source": "Gobierno de Togo",
+    "sourceUrl": "https://www.gouvernement.tg",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TGO",
+    "date": "2029-04-13",
+    "dateStatus": "prevista",
+    "type": "Legislativas y locales",
+    "whatIsElected": "Asamblea Nacional (91 escaños) y consejos locales",
+    "source": "CENI — Commission Electorale Nationale Indépendante du Togo",
+    "sourceUrl": "https://www.ceni.tg",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

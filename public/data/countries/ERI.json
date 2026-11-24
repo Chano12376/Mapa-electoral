@@ -1,0 +1,44 @@
+{
+  "iso3": "ERI",
+  "name": "Eritrea",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Isaias Afwerki",
+    "since": "1993-04-27",
+    "party": null,
+    "source": "Human Rights Watch",
+    "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/eritrea",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Isaias Afwerki",
+    "since": "1993-04-27",
+    "party": null,
+    "source": "Human Rights Watch",
+    "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/eritrea",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ERI",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": null,
+    "whatIsElected": "Estado de partido único (PFDJ); no se han celebrado elecciones desde la independencia en 1993. La constitución de 1997 nunca ha entrado en vigor.",
+    "source": "Human Rights Watch / AI",
+    "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/eritrea",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

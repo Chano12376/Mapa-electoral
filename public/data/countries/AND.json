@@ -1,0 +1,44 @@
+{
+  "iso3": "AND",
+  "name": "Andorra",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Emmanuel Macron / Joan-Enric Vives",
+    "since": "2017-05-14",
+    "party": null,
+    "source": "Govern d'Andorra",
+    "sourceUrl": "https://www.govern.ad/es/el-govern/coprincipes",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Xavier Espot Zamora",
+    "since": "2019-05-16",
+    "party": null,
+    "source": "Govern d'Andorra",
+    "sourceUrl": "https://www.govern.ad/es/el-govern/cap-de-govern",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "AND",
+    "date": "2027-04-04",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Consell General)",
+    "whatIsElected": "Consell General (28 escaños)",
+    "source": "Govern d'Andorra",
+    "sourceUrl": "https://www.govern.ad",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

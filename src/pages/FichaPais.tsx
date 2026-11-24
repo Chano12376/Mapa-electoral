@@ -24,6 +24,12 @@ const FLAG: Record<string, string> = {
   TCD:"🇹🇩",SDN:"🇸🇩",COG:"🇨🇬",SSD:"🇸🇸",GAB:"🇬🇦",
   MDG:"🇲🇬",MWI:"🇲🇼",MRT:"🇲🇷",BEN:"🇧🇯",
   HTI:"🇭🇹",GUY:"🇬🇾",SUR:"🇸🇷",
+  LUX:"🇱🇺",MLT:"🇲🇹",AND:"🇦🇩",
+  BHR:"🇧🇭",TTO:"🇹🇹",BLZ:"🇧🇿",
+  BRN:"🇧🇳",LAO:"🇱🇦",BTN:"🇧🇹",TLS:"🇹🇱",
+  PNG:"🇵🇬",FJI:"🇫🇯",
+  GIN:"🇬🇳",BFA:"🇧🇫",TGO:"🇹🇬",SLE:"🇸🇱",LBR:"🇱🇷",
+  ERI:"🇪🇷",DJI:"🇩🇯",CPV:"🇨🇻",
 };
 
 // Colores conocidos de partidos por nombre/sigla
@@ -738,6 +744,12 @@ const ISO3_TO_ISO2: Record<string, string> = {
   TCD:"td",SDN:"sd",COG:"cg",SSD:"ss",GAB:"ga",
   MDG:"mg",MWI:"mw",MRT:"mr",BEN:"bj",
   HTI:"ht",GUY:"gy",SUR:"sr",
+  LUX:"lu",MLT:"mt",AND:"ad",
+  BHR:"bh",TTO:"tt",BLZ:"bz",
+  BRN:"bn",LAO:"la",BTN:"bt",TLS:"tl",
+  PNG:"pg",FJI:"fj",
+  GIN:"gn",BFA:"bf",TGO:"tg",SLE:"sl",LBR:"lr",
+  ERI:"er",DJI:"dj",CPV:"cv",
 };
 
 function FlagImg({ iso3, size = 64 }: { iso3: string; size?: number }) {

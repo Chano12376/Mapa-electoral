@@ -1,0 +1,44 @@
+{
+  "iso3": "BRN",
+  "name": "Brunéi",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Hassanal Bolkiah",
+    "since": "1967-10-04",
+    "party": null,
+    "source": "Gobierno de Brunéi Darussalam",
+    "sourceUrl": "https://www.gov.bn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Hassanal Bolkiah",
+    "since": "1967-10-04",
+    "party": null,
+    "source": "Gobierno de Brunéi Darussalam",
+    "sourceUrl": "https://www.gov.bn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BRN",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": null,
+    "whatIsElected": "Sultanato absoluto; no hay elecciones nacionales directas. Asamblea Legislativa suspendida desde 1984.",
+    "source": "Constitución de Brunéi",
+    "sourceUrl": "https://www.agc.gov.bn",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

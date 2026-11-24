@@ -1,0 +1,44 @@
+{
+  "iso3": "DJI",
+  "name": "Yibuti",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Ismail Omar Guelleh",
+    "since": "1999-05-08",
+    "party": null,
+    "source": "Gouvernement de Djibouti",
+    "sourceUrl": "https://www.presidence.dj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Abdoulkader Kamil Mohamed",
+    "since": "2013-12-31",
+    "party": null,
+    "source": "Gouvernement de Djibouti",
+    "sourceUrl": "https://www.gouvernement.dj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "DJI",
+    "date": "2026-04-08",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Commission Electorale Nationale Indépendante de Djibouti",
+    "sourceUrl": "https://www.presidence.dj",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

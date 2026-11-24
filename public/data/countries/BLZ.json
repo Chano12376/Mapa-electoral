@@ -1,0 +1,44 @@
+{
+  "iso3": "BLZ",
+  "name": "Belice",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Belice",
+    "sourceUrl": "https://www.belize.gov.bz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "John Briceño",
+    "since": "2020-11-12",
+    "party": null,
+    "source": "Gobierno de Belice",
+    "sourceUrl": "https://www.belize.gov.bz/office-of-the-prime-minister/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BLZ",
+    "date": "2025-11-12",
+    "dateStatus": "confirmada",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de Representantes (31 escaños)",
+    "source": "Elections and Boundaries Commission Belize",
+    "sourceUrl": "https://www.elections.gov.bz",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

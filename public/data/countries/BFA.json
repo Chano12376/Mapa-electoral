@@ -1,0 +1,35 @@
+{
+  "iso3": "BFA",
+  "name": "Burkina Faso",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Ibrahim Traoré",
+    "since": "2022-10-02",
+    "party": null,
+    "source": "Reuters / RFI",
+    "sourceUrl": "https://www.rfi.fr/fr/afrique/burkina-faso",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ibrahim Traoré",
+    "since": "2022-10-02",
+    "party": null,
+    "source": "Reuters / RFI",
+    "sourceUrl": "https://www.rfi.fr/fr/afrique/burkina-faso",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

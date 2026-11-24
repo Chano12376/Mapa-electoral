@@ -1400,6 +1400,206 @@
       "source": "Consejo Electoral Independiente de Surinam",
       "sourceUrl": "https://www.sur-elections.sr",
       "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LUX",
+      "date": "2028-10-08",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Cámara de Diputados (60 escaños)",
+      "source": "Service des médias et des communications — Luxembourg",
+      "sourceUrl": "https://elections.public.lu",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MLT",
+      "date": "2027-03-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Parlamento (65 escaños)",
+      "source": "Electoral Commission Malta",
+      "sourceUrl": "https://electoral.gov.mt",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "AND",
+      "date": "2027-04-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Consell General)",
+      "whatIsElected": "Consell General (28 escaños)",
+      "source": "Govern d'Andorra",
+      "sourceUrl": "https://www.govern.ad",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BHR",
+      "date": "2026-10-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Majlis Al-Nawab)",
+      "whatIsElected": "Cámara de Representantes (40 escaños)",
+      "source": "High Electoral Commission Bahrain",
+      "sourceUrl": "https://www.elections.gov.bh",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TTO",
+      "date": "2025-09-01",
+      "dateStatus": "confirmada",
+      "type": "Legislativas generales",
+      "whatIsElected": "Cámara de Representantes (41 escaños)",
+      "source": "Elections and Boundaries Commission Trinidad and Tobago",
+      "sourceUrl": "https://www.ebctt.com",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BLZ",
+      "date": "2025-11-12",
+      "dateStatus": "confirmada",
+      "type": "Legislativas generales",
+      "whatIsElected": "Cámara de Representantes (31 escaños)",
+      "source": "Elections and Boundaries Commission Belize",
+      "sourceUrl": "https://www.elections.gov.bz",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BRN",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": null,
+      "whatIsElected": "Sultanato absoluto; no hay elecciones nacionales directas. Asamblea Legislativa suspendida desde 1984.",
+      "source": "Constitución de Brunéi",
+      "sourceUrl": "https://www.agc.gov.bn",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LAO",
+      "date": "2026-02-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional)",
+      "whatIsElected": "Asamblea Nacional (164 escaños)",
+      "source": "Comisión Electoral Nacional de Laos",
+      "sourceUrl": "https://www.na.gov.la",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BTN",
+      "date": "2028-01-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas (Asamblea Nacional)",
+      "whatIsElected": "Asamblea Nacional (47 escaños)",
+      "source": "Election Commission of Bhutan",
+      "sourceUrl": "https://www.ecb.bt",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TLS",
+      "date": "2027-05-20",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Parlamento Nacional)",
+      "whatIsElected": "Parlamento Nacional (65 escaños)",
+      "source": "STAE — Secretariado Técnico da Administração Eleitoral",
+      "sourceUrl": "https://www.stae.tl",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "PNG",
+      "date": "2027-06-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas generales",
+      "whatIsElected": "Parlamento Nacional (118 escaños)",
+      "source": "Electoral Commission of Papua New Guinea",
+      "sourceUrl": "https://www.electoral.gov.pg",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "FJI",
+      "date": "2026-11-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Parlamento (55 escaños)",
+      "source": "Fijian Elections Office",
+      "sourceUrl": "https://www.feo.org.fj",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "GIN",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (junta militar desde sep. 2021)",
+      "whatIsElected": "El CNRD tomó el poder en sep. 2021; transición en curso con cronograma incierto",
+      "source": "CEDEAO / Reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/guinea-junta-sets-transition-timeline-2022-10-04/",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BFA",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (junta militar desde sep. 2022)",
+      "whatIsElected": "Ibrahim Traoré tomó el poder en sep. 2022; sin cronograma electoral definido",
+      "source": "CEDEAO / Reuters",
+      "sourceUrl": "https://www.reuters.com/world/africa/burkina-fasos-junta-extends-transition-period-by-five-years-2023-07-02/",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TGO",
+      "date": "2029-04-13",
+      "dateStatus": "prevista",
+      "type": "Legislativas y locales",
+      "whatIsElected": "Asamblea Nacional (91 escaños) y consejos locales",
+      "source": "CENI — Commission Electorale Nationale Indépendante du Togo",
+      "sourceUrl": "https://www.ceni.tg",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SLE",
+      "date": "2028-06-24",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Parlamento (146 escaños)",
+      "source": "National Electoral Commission Sierra Leone",
+      "sourceUrl": "https://www.necsl.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LBR",
+      "date": "2029-10-01",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Cámara de Representantes (73 escaños)",
+      "source": "National Elections Commission Liberia",
+      "sourceUrl": "https://www.necliberia.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "ERI",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": null,
+      "whatIsElected": "Estado de partido único (PFDJ); no se han celebrado elecciones desde la independencia en 1993. La constitución de 1997 nunca ha entrado en vigor.",
+      "source": "Human Rights Watch / AI",
+      "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/eritrea",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "DJI",
+      "date": "2026-04-08",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Commission Electorale Nationale Indépendante de Djibouti",
+      "sourceUrl": "https://www.presidence.dj",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "CPV",
+      "date": "2026-03-22",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional)",
+      "whatIsElected": "Asamblea Nacional (72 escaños)",
+      "source": "Comissão Nacional de Eleições — Cabo Verde",
+      "sourceUrl": "https://www.cne.cv",
+      "checkedAt": "2026-11-24"
     }
   ]
 }

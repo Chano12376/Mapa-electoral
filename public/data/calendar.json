@@ -90,6 +90,17 @@
       "checkedAt": "2026-11-22"
     },
     {
+      "iso3": "MLT",
+      "name": "Malta",
+      "date": "2027-03-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Parlamento (65 escaños)",
+      "source": "Electoral Commission Malta",
+      "sourceUrl": "https://electoral.gov.mt",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "EST",
       "name": "Estonia",
       "date": "2027-03-07",
@@ -131,6 +142,17 @@
       "whatIsElected": "Asamblea Nacional (50 escaños elegidos)",
       "source": "Comisión Electoral de Kuwait",
       "sourceUrl": "https://www.elections.gov.kw",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "AND",
+      "name": "Andorra",
+      "date": "2027-04-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Consell General)",
+      "whatIsElected": "Consell General (28 escaños)",
+      "source": "Govern d'Andorra",
+      "sourceUrl": "https://www.govern.ad",
       "checkedAt": "2026-11-24"
     },
     {
@@ -178,6 +200,17 @@
       "checkedAt": "2026-11-23"
     },
     {
+      "iso3": "TLS",
+      "name": "Timor Oriental",
+      "date": "2027-05-20",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Parlamento Nacional)",
+      "whatIsElected": "Parlamento Nacional (65 escaños)",
+      "source": "STAE — Secretariado Técnico da Administração Eleitoral",
+      "sourceUrl": "https://www.stae.tl",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "SRB",
       "name": "Serbia",
       "date": "2027-06-01",
@@ -187,6 +220,17 @@
       "source": "Republic Electoral Commission Serbia",
       "sourceUrl": "https://www.rik.parlament.gov.rs",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "PNG",
+      "name": "Papúa Nueva Guinea",
+      "date": "2027-06-01",
+      "dateStatus": "prevista",
+      "type": "Legislativas generales",
+      "whatIsElected": "Parlamento Nacional (118 escaños)",
+      "source": "Electoral Commission of Papua New Guinea",
+      "sourceUrl": "https://www.electoral.gov.pg",
+      "checkedAt": "2026-11-24"
     },
     {
       "iso3": "MEX",

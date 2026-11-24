@@ -1,0 +1,44 @@
+{
+  "iso3": "BTN",
+  "name": "Bután",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Jigme Khesar Namgyel Wangchuck",
+    "since": "2008-11-01",
+    "party": null,
+    "source": "Real Gobierno de Bután",
+    "sourceUrl": "https://www.bhutan.gov.bt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Tshering Tobgay",
+    "since": "2024-01-28",
+    "party": null,
+    "source": "Comisión Electoral de Bután",
+    "sourceUrl": "https://www.ecb.bt",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BTN",
+    "date": "2028-01-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas (Asamblea Nacional)",
+    "whatIsElected": "Asamblea Nacional (47 escaños)",
+    "source": "Election Commission of Bhutan",
+    "sourceUrl": "https://www.ecb.bt",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}
