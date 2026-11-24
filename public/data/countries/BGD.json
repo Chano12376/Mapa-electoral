@@ -1,0 +1,256 @@
+{
+  "iso3": "BGD",
+  "name": "Bangladés",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Mohammed Shahabuddin",
+    "since": "2023-04-24",
+    "party": null,
+    "source": "Presidencia de Bangladés",
+    "sourceUrl": "https://www.bangabhaban.gov.bd/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Muhammad Yunus",
+    "since": "2024-08-08",
+    "party": null,
+    "source": "Gobierno Provisional de Bangladés",
+    "sourceUrl": "https://www.cabinet.gov.bd/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BGD",
+    "date": "2029-01-07",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Parlamento (350 escaños)",
+    "source": "Bangladesh Election Commission",
+    "sourceUrl": "https://www.ecs.gov.bd",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 195146608978.131
+        },
+        {
+          "year": 2016,
+          "value": 265224515675.034
+        },
+        {
+          "year": 2017,
+          "value": 293732446624.596
+        },
+        {
+          "year": 2018,
+          "value": 321362752441.78
+        },
+        {
+          "year": 2019,
+          "value": 351231654603.692
+        },
+        {
+          "year": 2020,
+          "value": 373979442362.193
+        },
+        {
+          "year": 2021,
+          "value": 416271647911.014
+        },
+        {
+          "year": 2022,
+          "value": 460131689083.083
+        },
+        {
+          "year": 2023,
+          "value": 437415333018.291
+        },
+        {
+          "year": 2024,
+          "value": 450119432068.852
+        },
+        {
+          "year": 2025,
+          "value": 456319229255.578
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BGD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.55263987816197
+        },
+        {
+          "year": 2016,
+          "value": 7.11347821270093
+        },
+        {
+          "year": 2017,
+          "value": 6.59024999794057
+        },
+        {
+          "year": 2018,
+          "value": 7.31941263014136
+        },
+        {
+          "year": 2019,
+          "value": 7.88191515117722
+        },
+        {
+          "year": 2020,
+          "value": 3.44801755122445
+        },
+        {
+          "year": 2021,
+          "value": 6.93867912442445
+        },
+        {
+          "year": 2022,
+          "value": 7.09982877575158
+        },
+        {
+          "year": 2023,
+          "value": 5.77511237007889
+        },
+        {
+          "year": 2024,
+          "value": 4.22325911250161
+        },
+        {
+          "year": 2025,
+          "value": 3.48990671836833
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BGD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.19428022984983
+        },
+        {
+          "year": 2016,
+          "value": 5.51352572692995
+        },
+        {
+          "year": 2017,
+          "value": 5.70207015717238
+        },
+        {
+          "year": 2018,
+          "value": 5.54362139486476
+        },
+        {
+          "year": 2019,
+          "value": 5.59199639930629
+        },
+        {
+          "year": 2020,
+          "value": 5.69107474746211
+        },
+        {
+          "year": 2021,
+          "value": 5.54565430773473
+        },
+        {
+          "year": 2022,
+          "value": 7.69695437176898
+        },
+        {
+          "year": 2023,
+          "value": 9.8835030377921
+        },
+        {
+          "year": 2024,
+          "value": 10.4657482763412
+        },
+        {
+          "year": 2025,
+          "value": 8.7687628116114
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BGD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 4.397
+        },
+        {
+          "year": 2016,
+          "value": 4.35
+        },
+        {
+          "year": 2017,
+          "value": 4.372
+        },
+        {
+          "year": 2018,
+          "value": 4.439
+        },
+        {
+          "year": 2019,
+          "value": 4.504
+        },
+        {
+          "year": 2020,
+          "value": 5.539
+        },
+        {
+          "year": 2021,
+          "value": 5.457
+        },
+        {
+          "year": 2022,
+          "value": 4.593
+        },
+        {
+          "year": 2023,
+          "value": 3.352
+        },
+        {
+          "year": 2024,
+          "value": 3.635
+        },
+        {
+          "year": 2025,
+          "value": 3.778
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BGD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

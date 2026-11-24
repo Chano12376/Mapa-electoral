@@ -1,0 +1,256 @@
+{
+  "iso3": "GHA",
+  "name": "Ghana",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "John Mahama",
+    "since": "2025-01-07",
+    "party": null,
+    "source": "Presidencia de Ghana",
+    "sourceUrl": "https://www.presidency.gov.gh/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "John Mahama",
+    "since": "2025-01-07",
+    "party": null,
+    "source": "Presidencia de Ghana",
+    "sourceUrl": "https://www.presidency.gov.gh/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GHA",
+    "date": "2028-12-07",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Presidente, Parlamento",
+    "source": "Electoral Commission of Ghana",
+    "sourceUrl": "https://www.ec.gov.gh",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 49436806230.4839
+        },
+        {
+          "year": 2016,
+          "value": 56144179397.8516
+        },
+        {
+          "year": 2017,
+          "value": 60385409434.8567
+        },
+        {
+          "year": 2018,
+          "value": 67259353965.6087
+        },
+        {
+          "year": 2019,
+          "value": 68352629246.1555
+        },
+        {
+          "year": 2020,
+          "value": 70008243859.8666
+        },
+        {
+          "year": 2021,
+          "value": 79514204730.3979
+        },
+        {
+          "year": 2022,
+          "value": 73919003212.1998
+        },
+        {
+          "year": 2023,
+          "value": 80547146875.9526
+        },
+        {
+          "year": 2024,
+          "value": 83288585604.0268
+        },
+        {
+          "year": 2025,
+          "value": 114209905278.717
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GHA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.12075933817334
+        },
+        {
+          "year": 2016,
+          "value": 3.37346574966936
+        },
+        {
+          "year": 2017,
+          "value": 8.12889488100956
+        },
+        {
+          "year": 2018,
+          "value": 6.20007768127284
+        },
+        {
+          "year": 2019,
+          "value": 6.5077747939152
+        },
+        {
+          "year": 2020,
+          "value": 0.513941670628171
+        },
+        {
+          "year": 2021,
+          "value": 5.07646643533542
+        },
+        {
+          "year": 2022,
+          "value": 3.80484978178042
+        },
+        {
+          "year": 2023,
+          "value": 3.14009100080186
+        },
+        {
+          "year": 2024,
+          "value": 5.84746854280382
+        },
+        {
+          "year": 2025,
+          "value": 5.95441714756899
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GHA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 17.1499695007877
+        },
+        {
+          "year": 2016,
+          "value": 17.4546347070867
+        },
+        {
+          "year": 2017,
+          "value": 12.3719215507048
+        },
+        {
+          "year": 2018,
+          "value": 7.80876516610703
+        },
+        {
+          "year": 2019,
+          "value": 7.14364003330856
+        },
+        {
+          "year": 2020,
+          "value": 9.88728956269944
+        },
+        {
+          "year": 2021,
+          "value": 9.97108867504439
+        },
+        {
+          "year": 2022,
+          "value": 31.2558951049016
+        },
+        {
+          "year": 2023,
+          "value": 38.1069656296501
+        },
+        {
+          "year": 2024,
+          "value": 22.8483281157842
+        },
+        {
+          "year": 2025,
+          "value": 14.2046755548989
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GHA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.806
+        },
+        {
+          "year": 2016,
+          "value": 5.256
+        },
+        {
+          "year": 2017,
+          "value": 3.369
+        },
+        {
+          "year": 2018,
+          "value": 3.204
+        },
+        {
+          "year": 2019,
+          "value": 3.067
+        },
+        {
+          "year": 2020,
+          "value": 3.178
+        },
+        {
+          "year": 2021,
+          "value": 3.2
+        },
+        {
+          "year": 2022,
+          "value": 2.87
+        },
+        {
+          "year": 2023,
+          "value": 2.829
+        },
+        {
+          "year": 2024,
+          "value": 2.82
+        },
+        {
+          "year": 2025,
+          "value": 2.979
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GHA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

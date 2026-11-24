@@ -1,0 +1,60 @@
+name: Actualización diaria de datos
+
+on:
+  schedule:
+    # Cada día a las 06:00 UTC (08:00 hora española en invierno)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Permite lanzarlo manualmente desde GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Actualizar datos
+        run: npm run data:ci
+
+      - name: Comprobar cambios
+        id: changes
+        run: |
+          git diff --quiet public/data/ data/raw/ || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit datos actualizados
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/ data/raw/
+          git commit -m "chore: actualización automática de datos $(date -u +%Y-%m-%d)"
+
+      - name: Push cambios
+        if: steps.changes.outputs.changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      - name: Build frontend
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run build
+
+      - name: Deploy a Vercel
+        if: steps.changes.outputs.changed == 'true'
+        run: npx vercel --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}

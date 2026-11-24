@@ -1,0 +1,805 @@
+{
+  "_doc": "dateStatus: confirmada (convocada oficialmente) | prevista (fecha fija por ley/calendario oficial) | limite_legal (solo se sabe la fecha máxima) | sin_eleccion_nacional_directa | pendiente. Sin sourceUrl no se publica.",
+  "elections": [
+    {
+      "iso3": "USA",
+      "date": "2028-11-07",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Cámara de Representantes (todos), Senado (1/3)",
+      "source": "U.S. Election Assistance Commission",
+      "sourceUrl": "https://www.eac.gov/voters/election-dates",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "CAN",
+      "date": "2029-10-20",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas federales",
+      "whatIsElected": "Cámara de los Comunes (338 escaños)",
+      "source": "Elections Canada",
+      "sourceUrl": "https://www.elections.ca/content.aspx?section=ele&dir=pas&document=index&lang=e",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "MEX",
+      "date": "2027-06-06",
+      "dateStatus": "prevista",
+      "type": "Legislativas intermedias",
+      "whatIsElected": "Cámara de Diputados (500 escaños)",
+      "source": "Instituto Nacional Electoral",
+      "sourceUrl": "https://www.ine.mx/voto-y-elecciones/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "BRA",
+      "date": "2026-10-04",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Cámara, Senado (1/3), gobernadores",
+      "source": "Tribunal Superior Electoral",
+      "sourceUrl": "https://www.tse.jus.br/eleicoes/eleicoes-2026",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "ARG",
+      "date": "2027-10-24",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Cámara de Diputados (mitad), Senado (1/3)",
+      "source": "Cámara Nacional Electoral",
+      "sourceUrl": "https://www.electoral.gob.ar",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "COL",
+      "date": "2026-03-08",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Congreso (Senado y Cámara)",
+      "source": "Registraduría Nacional del Estado Civil",
+      "sourceUrl": "https://www.registraduria.gov.co/Elecciones.html",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "CHL",
+      "date": "2025-11-16",
+      "dateStatus": "confirmada",
+      "type": "Presidenciales y parlamentarias",
+      "whatIsElected": "Presidente, Cámara de Diputados, Senado (mitad)",
+      "source": "Servicio Electoral de Chile",
+      "sourceUrl": "https://www.servel.cl/elecciones/elecciones-2025/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "PER",
+      "date": "2026-04-11",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Congreso",
+      "source": "Jurado Nacional de Elecciones",
+      "sourceUrl": "https://portal.jne.gob.pe/portal/Pagina/Ver/1055",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "ESP",
+      "date": "2026-11-29",
+      "dateStatus": "confirmada",
+      "type": "Generales (anticipadas)",
+      "whatIsElected": "Congreso y Senado",
+      "source": "Ministerio del Interior",
+      "sourceUrl": "https://www.interior.gob.es/opencms/es/detalle/articulo/Interior-presenta-la-web-y-el-logo-oficiales-de-las-elecciones-generales-del-29-de-noviembre/",
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "iso3": "PRT",
+      "date": "2029-01-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea de la República (230 escaños)",
+      "source": "Comissão Nacional de Eleições",
+      "sourceUrl": "https://www.cne.pt/content/eleicoes",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "FRA",
+      "date": "2027-04-27",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Conseil Constitutionnel",
+      "sourceUrl": "https://www.conseil-constitutionnel.fr/les-decisions/elections-presidentielles",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "DEU",
+      "date": "2029-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas federales",
+      "whatIsElected": "Bundestag",
+      "source": "Bundeswahlleiterin",
+      "sourceUrl": "https://www.bundeswahlleiterin.de/bundestagswahlen.html",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "ITA",
+      "date": "2027-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Parlamento (Cámara y Senado)",
+      "source": "Ministero dell'Interno",
+      "sourceUrl": "https://elezioni.interno.gov.it",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "GBR",
+      "date": "2029-08-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Cámara de los Comunes (650 escaños)",
+      "source": "Electoral Commission UK",
+      "sourceUrl": "https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/upcoming-elections-and-referendums",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "NLD",
+      "date": "2029-03-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Tweede Kamer (150 escaños)",
+      "source": "Kiesraad",
+      "sourceUrl": "https://www.kiesraad.nl/verkiezingen",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "POL",
+      "date": "2027-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Sejm y Senado",
+      "source": "Państwowa Komisja Wyborcza",
+      "sourceUrl": "https://pkw.gov.pl/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "SWE",
+      "date": "2026-09-13",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Riksdag (349 escaños)",
+      "source": "Valmyndigheten",
+      "sourceUrl": "https://www.val.se/val/val2026.html",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "UKR",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Pendiente de levantamiento de ley marcial",
+      "source": "Comisión Electoral Central de Ucrania",
+      "sourceUrl": "https://www.cvk.gov.ua/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "TUR",
+      "date": "2028-05-18",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente y Gran Asamblea Nacional",
+      "source": "Yüksek Seçim Kurulu",
+      "sourceUrl": "https://www.ysk.gov.tr/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "RUS",
+      "date": "2026-09-13",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Duma)",
+      "whatIsElected": "Duma Estatal (450 escaños)",
+      "source": "Comisión Electoral Central de Rusia",
+      "sourceUrl": "http://www.cikrf.ru/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "CHN",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": null,
+      "whatIsElected": "El Congreso Nacional del Pueblo se renueva indirectamente; sin elección nacional directa por sufragio universal",
+      "source": "Constitución de la República Popular China",
+      "sourceUrl": "https://www.gov.cn/guoqing/2018-03/22/content_5276318.htm",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "IND",
+      "date": "2029-05-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Lok Sabha (543 escaños)",
+      "source": "Election Commission of India",
+      "sourceUrl": "https://eci.gov.in/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "JPN",
+      "date": "2028-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas (Cámara de Representantes)",
+      "whatIsElected": "Cámara de Representantes (465 escaños)",
+      "source": "Comisión de Gestión Electoral de Japón",
+      "sourceUrl": "https://www.soumu.go.jp/senkyo/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "KOR",
+      "date": "2027-03-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Nacional (300 escaños)",
+      "source": "National Election Commission of Korea",
+      "sourceUrl": "https://www.nec.go.kr/site/eng/main.do",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "IDN",
+      "date": "2029-02-14",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, DPR, DPD y DPRD",
+      "source": "Komisi Pemilihan Umum",
+      "sourceUrl": "https://www.kpu.go.id/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "AUS",
+      "date": "2028-05-27",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas federales",
+      "whatIsElected": "Cámara de Representantes y Senado (mitad)",
+      "source": "Australian Electoral Commission",
+      "sourceUrl": "https://www.aec.gov.au/Elections/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "SAU",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": null,
+      "whatIsElected": "Monarquía absoluta; el Consejo de Ministros es designado por el Rey. Sin elecciones nacionales directas",
+      "source": "Ley Fundamental de Gobernanza de Arabia Saudí",
+      "sourceUrl": "https://www.saudiembassy.net/basic-law-governance",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "EGY",
+      "date": "2030-01-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Alta Comisión Electoral de Egipto",
+      "sourceUrl": "https://elections.eg/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "NGA",
+      "date": "2027-02-20",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Asamblea Nacional y gobernadores",
+      "source": "Independent National Electoral Commission",
+      "sourceUrl": "https://www.inecnigeria.org/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "ZAF",
+      "date": "2029-05-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Asamblea Nacional (400 escaños) y legislaturas provinciales",
+      "source": "Electoral Commission of South Africa",
+      "sourceUrl": "https://www.elections.org.za/",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "VEN",
+      "date": "2030-01-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Consejo Nacional Electoral de Venezuela",
+      "sourceUrl": "https://www.cne.gob.ve",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "ECU",
+      "date": "2029-02-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional",
+      "source": "Consejo Nacional Electoral de Ecuador",
+      "sourceUrl": "https://www.cne.gob.ec",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "BOL",
+      "date": "2025-10-19",
+      "dateStatus": "confirmada",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Vicepresidente, Asamblea Legislativa",
+      "source": "Tribunal Supremo Electoral de Bolivia",
+      "sourceUrl": "https://www.oep.org.bo/",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "URY",
+      "date": "2029-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Parlamento",
+      "source": "Corte Electoral de Uruguay",
+      "sourceUrl": "https://www.corteelectoral.gub.uy",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "PRY",
+      "date": "2028-04-30",
+      "dateStatus": "limite_legal",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Congreso Nacional",
+      "source": "Tribunal Superior de Justicia Electoral de Paraguay",
+      "sourceUrl": "https://tsje.gov.py",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "CRI",
+      "date": "2026-02-01",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Legislativa (57 diputados)",
+      "source": "Tribunal Supremo de Elecciones de Costa Rica",
+      "sourceUrl": "https://www.tse.go.cr",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "CUB",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": null,
+      "whatIsElected": "Sistema de partido único; las elecciones son indirectas y sin pluralismo político real",
+      "source": "Constitución de Cuba (2019)",
+      "sourceUrl": "http://www.cubagob.cu/otras_info/constitucion.htm",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "BEL",
+      "date": "2029-05-25",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas federales",
+      "whatIsElected": "Cámara de Representantes (150 escaños)",
+      "source": "Service Public Fédéral Intérieur",
+      "sourceUrl": "https://elections.fgov.be",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "AUT",
+      "date": "2029-09-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Consejo Nacional (Nationalrat, 183 escaños)",
+      "source": "Bundesministerium für Inneres",
+      "sourceUrl": "https://www.bmi.gv.at/412/Nationalratswahlen/",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "CHE",
+      "date": "2027-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas federales",
+      "whatIsElected": "Consejo Nacional y Consejo de los Estados",
+      "source": "Cancillería Federal Suiza",
+      "sourceUrl": "https://www.bk.admin.ch/bk/fr/home/politische-rechte/volksrechte-wahlen.html",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "NOR",
+      "date": "2025-09-08",
+      "dateStatus": "confirmada",
+      "type": "Legislativas",
+      "whatIsElected": "Storting (169 escaños)",
+      "source": "Valgdirektoratet",
+      "sourceUrl": "https://www.valg.no/stortingsvalget-2025/",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "DNK",
+      "date": "2027-11-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Folketing (179 escaños)",
+      "source": "Indenrigs- og Sundhedsministeriet",
+      "sourceUrl": "https://www.im.dk/arbejdsomraader/valg/",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "GRC",
+      "date": "2027-05-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Parlamento Helénico (300 escaños)",
+      "source": "Ministerio del Interior de Grecia",
+      "sourceUrl": "https://www.ypes.gr/ekloges/",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "HUN",
+      "date": "2026-04-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Nacional (199 escaños)",
+      "source": "Nemzeti Választási Iroda",
+      "sourceUrl": "https://www.valasztas.hu",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "ROU",
+      "date": "2028-12-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Parlamento",
+      "source": "Autoritatea Electorală Permanentă",
+      "sourceUrl": "https://www.roaep.ro",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "PAK",
+      "date": "2029-02-08",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Asamblea Nacional (336 escaños)",
+      "source": "Election Commission of Pakistan",
+      "sourceUrl": "https://www.ecp.gov.pk",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "THA",
+      "date": "2027-05-14",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Cámara de Representantes (500 escaños)",
+      "source": "Election Commission of Thailand",
+      "sourceUrl": "https://www.ect.go.th",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "PHL",
+      "date": "2028-05-08",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Congreso",
+      "source": "Commission on Elections (COMELEC)",
+      "sourceUrl": "https://comelec.gov.ph",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "IRN",
+      "date": "2028-06-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República Islámica",
+      "source": "Ministerio del Interior de Irán",
+      "sourceUrl": "https://www.moi.ir",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "ISR",
+      "date": "2026-10-27",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Knéset (120 escaños)",
+      "source": "Comité Electoral Central de Israel",
+      "sourceUrl": "https://www.gov.il/en/departments/the_central_elections_committee",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "MAR",
+      "date": "2026-09-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Cámara de Representantes (395 escaños)",
+      "source": "Ministerio del Interior de Marruecos",
+      "sourceUrl": "https://www.elections.ma",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "ETH",
+      "date": "2026-06-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas y regionales",
+      "whatIsElected": "Cámara de Representantes del Pueblo",
+      "source": "Junta Electoral Nacional de Etiopía",
+      "sourceUrl": "https://www.nebe.org.et",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "KEN",
+      "date": "2027-08-09",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Asamblea Nacional, Senado",
+      "source": "Independent Electoral and Boundaries Commission",
+      "sourceUrl": "https://www.iebc.or.ke",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "FIN",
+      "date": "2027-04-02",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Parlamento (200 escaños)",
+      "source": "Ministry of Justice Finland",
+      "sourceUrl": "https://vaalit.fi/en/home",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "CZE",
+      "date": "2025-10-03",
+      "dateStatus": "confirmada",
+      "type": "Legislativas",
+      "whatIsElected": "Cámara de Diputados (200 escaños)",
+      "source": "Czech Statistical Office",
+      "sourceUrl": "https://www.volby.cz",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "SVK",
+      "date": "2027-02-28",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Consejo Nacional (150 escaños)",
+      "source": "Statistical Office of the Slovak Republic",
+      "sourceUrl": "https://www.statistics.sk/volby",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "BGR",
+      "date": "2027-10-26",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Nacional (240 escaños)",
+      "source": "Central Election Commission Bulgaria",
+      "sourceUrl": "https://www.cik.bg",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "HRV",
+      "date": "2027-04-15",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "State Electoral Commission Croatia",
+      "sourceUrl": "https://www.izbori.hr",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "SRB",
+      "date": "2027-06-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Nacional (250 escaños)",
+      "source": "Republic Electoral Commission Serbia",
+      "sourceUrl": "https://www.rik.parlament.gov.rs",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "MDA",
+      "date": "2029-02-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Parlamento (101 escaños)",
+      "source": "Central Electoral Commission Moldova",
+      "sourceUrl": "https://cec.md",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "BLR",
+      "date": "2026-11-26",
+      "dateStatus": "confirmada",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Central Election Commission of Belarus",
+      "sourceUrl": "https://rec.gov.by",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "VNM",
+      "date": "2026-05-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Nacional (500 escaños)",
+      "source": "National Election Council Vietnam",
+      "sourceUrl": "https://quochoi.vn",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "MYS",
+      "date": "2027-11-16",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas federales",
+      "whatIsElected": "Cámara de Representantes (222 escaños)",
+      "source": "Election Commission of Malaysia",
+      "sourceUrl": "https://www.spr.gov.my",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "BGD",
+      "date": "2029-01-07",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Parlamento (350 escaños)",
+      "source": "Bangladesh Election Commission",
+      "sourceUrl": "https://www.ecs.gov.bd",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "NZL",
+      "date": "2026-10-24",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Parlamento (120 escaños)",
+      "source": "Electoral Commission New Zealand",
+      "sourceUrl": "https://elections.nz",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "SGP",
+      "date": "2030-07-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Parlamento (97 escaños)",
+      "source": "Elections Department Singapore",
+      "sourceUrl": "https://www.eld.gov.sg",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "KAZ",
+      "date": "2029-11-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Central Election Commission Kazakhstan",
+      "sourceUrl": "https://www.election.gov.kz",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "MMR",
+      "date": "2025-12-01",
+      "dateStatus": "pendiente",
+      "type": "Generales (prometidas por la junta militar)",
+      "whatIsElected": "Parlamento",
+      "source": "Union Election Commission Myanmar",
+      "sourceUrl": "https://www.uec.gov.mm",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "IRQ",
+      "date": "2029-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Consejo de Representantes (329 escaños)",
+      "source": "Independent High Electoral Commission Iraq",
+      "sourceUrl": "https://ihec.iq",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "JOR",
+      "date": "2028-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas",
+      "whatIsElected": "Cámara de Diputados (138 escaños)",
+      "source": "Independent Election Commission Jordan",
+      "sourceUrl": "https://www.iec.jo",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "ARE",
+      "date": "2027-10-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas (parciales)",
+      "whatIsElected": "Consejo Nacional Federal (20 de 40 escaños elegidos)",
+      "source": "National Elections Committee UAE",
+      "sourceUrl": "https://www.elections.ae",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "TUN",
+      "date": "2029-10-06",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Instance Supérieure Indépendante pour les Élections",
+      "sourceUrl": "https://www.isie.tn",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "LBN",
+      "date": "2026-05-17",
+      "dateStatus": "prevista",
+      "type": "Legislativas",
+      "whatIsElected": "Asamblea Nacional (128 escaños)",
+      "source": "Ministry of Interior Lebanon",
+      "sourceUrl": "https://elections.gov.lb",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "DZA",
+      "date": "2029-04-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Autorité Nationale Indépendante des Élections",
+      "sourceUrl": "https://www.anie.dz",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "TZA",
+      "date": "2025-10-29",
+      "dateStatus": "confirmada",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Asamblea Nacional",
+      "source": "National Electoral Commission Tanzania",
+      "sourceUrl": "https://www.nec.go.tz",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "GHA",
+      "date": "2028-12-07",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Parlamento",
+      "source": "Electoral Commission of Ghana",
+      "sourceUrl": "https://www.ec.gov.gh",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "SEN",
+      "date": "2029-02-01",
+      "dateStatus": "limite_legal",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente de la República",
+      "source": "Commission Electorale Nationale Autonome",
+      "sourceUrl": "https://www.cena.sn",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "ZWE",
+      "date": "2028-08-01",
+      "dateStatus": "limite_legal",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Asamblea Nacional, Senado",
+      "source": "Zimbabwe Electoral Commission",
+      "sourceUrl": "https://www.zec.org.zw",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "DOM",
+      "date": "2028-05-21",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Congreso Nacional",
+      "source": "Junta Central Electoral República Dominicana",
+      "sourceUrl": "https://jce.gob.do",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "GTM",
+      "date": "2027-06-25",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidente, Congreso de la República",
+      "source": "Tribunal Supremo Electoral Guatemala",
+      "sourceUrl": "https://tse.org.gt",
+      "checkedAt": "2026-11-23"
+    }
+  ]
+}

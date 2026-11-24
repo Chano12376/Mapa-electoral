@@ -1,0 +1,259 @@
+{
+  "iso3": "BEL",
+  "name": "Bélgica",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Felipe de Bélgica",
+    "since": "2013-07-21",
+    "party": null,
+    "source": "Palacio Real de Bélgica",
+    "sourceUrl": "https://www.monarchie.be/fr/monarchie/le-roi",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Bart De Wever",
+    "since": "2025-02-03",
+    "party": {
+      "qid": "Q483392",
+      "name": "N-VA"
+    },
+    "source": "Gobierno Federal Belga",
+    "sourceUrl": "https://www.belgium.be/fr/la_belgique/gouvernement/premier_ministre",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BEL",
+    "date": "2029-05-25",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas federales",
+    "whatIsElected": "Cámara de Representantes (150 escaños)",
+    "source": "Service Public Fédéral Intérieur",
+    "sourceUrl": "https://elections.fgov.be",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 461044767544.531
+        },
+        {
+          "year": 2016,
+          "value": 474271566739.729
+        },
+        {
+          "year": 2017,
+          "value": 500908767351.53
+        },
+        {
+          "year": 2018,
+          "value": 542638913427.921
+        },
+        {
+          "year": 2019,
+          "value": 536726344405.489
+        },
+        {
+          "year": 2020,
+          "value": 529694473501.791
+        },
+        {
+          "year": 2021,
+          "value": 598522422241.851
+        },
+        {
+          "year": 2022,
+          "value": 591474463578.602
+        },
+        {
+          "year": 2023,
+          "value": 650779364363.737
+        },
+        {
+          "year": 2024,
+          "value": 670983130618.828
+        },
+        {
+          "year": 2025,
+          "value": 725466462859.646
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BEL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.47416433731927
+        },
+        {
+          "year": 2016,
+          "value": 1.19350273007754
+        },
+        {
+          "year": 2017,
+          "value": 1.47446761556785
+        },
+        {
+          "year": 2018,
+          "value": 1.87796847383565
+        },
+        {
+          "year": 2019,
+          "value": 2.4428900448156
+        },
+        {
+          "year": 2020,
+          "value": -4.7929839083518
+        },
+        {
+          "year": 2021,
+          "value": 6.25445686466593
+        },
+        {
+          "year": 2022,
+          "value": 4.02460852835887
+        },
+        {
+          "year": 2023,
+          "value": 1.56125539542029
+        },
+        {
+          "year": 2024,
+          "value": 1.09775383828703
+        },
+        {
+          "year": 2025,
+          "value": 0.983117967125935
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BEL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.561835629368236
+        },
+        {
+          "year": 2016,
+          "value": 1.97443404027092
+        },
+        {
+          "year": 2017,
+          "value": 2.1246753815978
+        },
+        {
+          "year": 2018,
+          "value": 2.05257510729613
+        },
+        {
+          "year": 2019,
+          "value": 1.43828919285485
+        },
+        {
+          "year": 2020,
+          "value": 0.736932660316535
+        },
+        {
+          "year": 2021,
+          "value": 2.4425878673141
+        },
+        {
+          "year": 2022,
+          "value": 9.59765381756827
+        },
+        {
+          "year": 2023,
+          "value": 4.04867945968735
+        },
+        {
+          "year": 2024,
+          "value": 3.14426633785448
+        },
+        {
+          "year": 2025,
+          "value": 2.46605755272817
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BEL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 8.482
+        },
+        {
+          "year": 2016,
+          "value": 7.83
+        },
+        {
+          "year": 2017,
+          "value": 7.09
+        },
+        {
+          "year": 2018,
+          "value": 5.941
+        },
+        {
+          "year": 2019,
+          "value": 5.364
+        },
+        {
+          "year": 2020,
+          "value": 5.545
+        },
+        {
+          "year": 2021,
+          "value": 6.248
+        },
+        {
+          "year": 2022,
+          "value": 5.57
+        },
+        {
+          "year": 2023,
+          "value": 5.547
+        },
+        {
+          "year": 2024,
+          "value": 5.7
+        },
+        {
+          "year": 2025,
+          "value": 5.906
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BEL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

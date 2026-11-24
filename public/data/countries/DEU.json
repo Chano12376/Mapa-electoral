@@ -1,0 +1,280 @@
+{
+  "iso3": "DEU",
+  "name": "Alemania",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Frank-Walter Steinmeier",
+    "since": "2017-03-19",
+    "party": {
+      "qid": "Q49762",
+      "name": "SPD"
+    },
+    "source": "Bundespräsident",
+    "sourceUrl": "https://www.bundespraesident.de",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Friedrich Merz",
+    "since": "2025-04-09",
+    "party": {
+      "qid": "Q49763",
+      "name": "CDU"
+    },
+    "source": "Bundesregierung",
+    "sourceUrl": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzler",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": {
+      "parlgovPartyId": 558,
+      "partyName": "Social Democratic Party of Germany",
+      "country": "DEU",
+      "score": 3.6451,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    },
+    "headOfGovernment": {
+      "parlgovPartyId": 808,
+      "partyName": "Christian Democratic Union",
+      "country": "DEU",
+      "score": 6.2503,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "nextElection": {
+    "iso3": "DEU",
+    "date": "2029-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas federales",
+    "whatIsElected": "Bundestag",
+    "source": "Bundeswahlleiterin",
+    "sourceUrl": "https://www.bundeswahlleiterin.de/bundestagswahlen.html",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 3425099578746.09
+        },
+        {
+          "year": 2016,
+          "value": 3536787895179
+        },
+        {
+          "year": 2017,
+          "value": 3765351626105.89
+        },
+        {
+          "year": 2018,
+          "value": 4055433215301.96
+        },
+        {
+          "year": 2019,
+          "value": 3959894794039.21
+        },
+        {
+          "year": 2020,
+          "value": 3941398957073.94
+        },
+        {
+          "year": 2021,
+          "value": 4355251953410.78
+        },
+        {
+          "year": 2022,
+          "value": 4201021706478.62
+        },
+        {
+          "year": 2023,
+          "value": 4562207532490.28
+        },
+        {
+          "year": 2024,
+          "value": 4685592577804.69
+        },
+        {
+          "year": 2025,
+          "value": 5050922925047.05
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DEU",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.66300602334775
+        },
+        {
+          "year": 2016,
+          "value": 2.22222216259371
+        },
+        {
+          "year": 2017,
+          "value": 2.797906720551
+        },
+        {
+          "year": 2018,
+          "value": 1.13569604599849
+        },
+        {
+          "year": 2019,
+          "value": 0.977734697038784
+        },
+        {
+          "year": 2020,
+          "value": -4.13191443239947
+        },
+        {
+          "year": 2021,
+          "value": 3.90999994204108
+        },
+        {
+          "year": 2022,
+          "value": 1.8092581243061
+        },
+        {
+          "year": 2023,
+          "value": -0.869647578573321
+        },
+        {
+          "year": 2024,
+          "value": -0.495851897260366
+        },
+        {
+          "year": 2025,
+          "value": 0.239578342117881
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DEU",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.514426137125456
+        },
+        {
+          "year": 2016,
+          "value": 0.491747008445174
+        },
+        {
+          "year": 2017,
+          "value": 1.50949485109628
+        },
+        {
+          "year": 2018,
+          "value": 1.73216879766941
+        },
+        {
+          "year": 2019,
+          "value": 1.44565976888253
+        },
+        {
+          "year": 2020,
+          "value": 0.144877925813981
+        },
+        {
+          "year": 2021,
+          "value": 3.06666666666673
+        },
+        {
+          "year": 2022,
+          "value": 6.87257438551096
+        },
+        {
+          "year": 2023,
+          "value": 5.94643667725823
+        },
+        {
+          "year": 2024,
+          "value": 2.2564981433876
+        },
+        {
+          "year": 2025,
+          "value": 2.17178770949721
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DEU",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 4.612
+        },
+        {
+          "year": 2016,
+          "value": 4.104
+        },
+        {
+          "year": 2017,
+          "value": 3.781
+        },
+        {
+          "year": 2018,
+          "value": 3.384
+        },
+        {
+          "year": 2019,
+          "value": 3.163
+        },
+        {
+          "year": 2020,
+          "value": 3.881
+        },
+        {
+          "year": 2021,
+          "value": 3.594
+        },
+        {
+          "year": 2022,
+          "value": 3.137
+        },
+        {
+          "year": 2023,
+          "value": 3.071
+        },
+        {
+          "year": 2024,
+          "value": 3.4
+        },
+        {
+          "year": 2025,
+          "value": 3.711
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DEU",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

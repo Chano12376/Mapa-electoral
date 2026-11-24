@@ -1,0 +1,1210 @@
+{
+  "_meta": {
+    "sources": {
+      "freedomHouse": "Freedom House — Freedom in the World 2024 (datos de 2023). https://freedomhouse.org/report/freedom-world",
+      "eiu": "Economist Intelligence Unit — Democracy Index 2023. https://www.eiu.com/n/campaigns/democracy-index-2023/"
+    },
+    "retrievedAt": "2026-11-23",
+    "notes": "Freedom House: escala 0-100 (PR 0-40 + CL 0-60). EIU: escala 0-10. Ambas fuentes publican anualmente; los valores reflejan el informe más reciente disponible."
+  },
+  "USA": {
+    "freedomHouse": {
+      "year": 2024, "score": 83, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 45,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/united-states/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.85, "category": "Flawed democracy", "rank": 30,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CAN": {
+    "freedomHouse": {
+      "year": 2024, "score": 98, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 58,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/canada/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.88, "category": "Full democracy", "rank": 12,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "MEX": {
+    "freedomHouse": {
+      "year": 2024, "score": 60, "status": "Partly Free",
+      "politicalRights": 27, "civilLiberties": 33,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/mexico/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.66, "category": "Hybrid regime", "rank": 86,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "BRA": {
+    "freedomHouse": {
+      "year": 2024, "score": 73, "status": "Free",
+      "politicalRights": 31, "civilLiberties": 42,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/brazil/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.19, "category": "Flawed democracy", "rank": 51,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ARG": {
+    "freedomHouse": {
+      "year": 2024, "score": 85, "status": "Free",
+      "politicalRights": 37, "civilLiberties": 48,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/argentina/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.02, "category": "Flawed democracy", "rank": 55,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "COL": {
+    "freedomHouse": {
+      "year": 2024, "score": 60, "status": "Partly Free",
+      "politicalRights": 27, "civilLiberties": 33,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/colombia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.49, "category": "Flawed democracy", "rank": 68,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CHL": {
+    "freedomHouse": {
+      "year": 2024, "score": 94, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 56,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/chile/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.18, "category": "Full democracy", "rank": 22,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "PER": {
+    "freedomHouse": {
+      "year": 2024, "score": 71, "status": "Free",
+      "politicalRights": 30, "civilLiberties": 41,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/peru/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.60, "category": "Flawed democracy", "rank": 64,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "VEN": {
+    "freedomHouse": {
+      "year": 2024, "score": 16, "status": "Not Free",
+      "politicalRights": 5, "civilLiberties": 11,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/venezuela/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.25, "category": "Authoritarian", "rank": 148,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ECU": {
+    "freedomHouse": {
+      "year": 2024, "score": 56, "status": "Partly Free",
+      "politicalRights": 25, "civilLiberties": 31,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/ecuador/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.78, "category": "Hybrid regime", "rank": 82,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "BOL": {
+    "freedomHouse": {
+      "year": 2024, "score": 68, "status": "Partly Free",
+      "politicalRights": 29, "civilLiberties": 39,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/bolivia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.09, "category": "Hybrid regime", "rank": 100,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "URY": {
+    "freedomHouse": {
+      "year": 2024, "score": 98, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 58,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/uruguay/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.82, "category": "Full democracy", "rank": 14,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "PRY": {
+    "freedomHouse": {
+      "year": 2024, "score": 65, "status": "Partly Free",
+      "politicalRights": 28, "civilLiberties": 37,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/paraguay/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.08, "category": "Flawed democracy", "rank": 77,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CRI": {
+    "freedomHouse": {
+      "year": 2024, "score": 91, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 53,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/costa-rica/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.16, "category": "Full democracy", "rank": 23,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CUB": {
+    "freedomHouse": {
+      "year": 2024, "score": 12, "status": "Not Free",
+      "politicalRights": 2, "civilLiberties": 10,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/cuba/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.95, "category": "Authoritarian", "rank": 139,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ESP": {
+    "freedomHouse": {
+      "year": 2024, "score": 94, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 56,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/spain/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.00, "category": "Full democracy", "rank": 26,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "PRT": {
+    "freedomHouse": {
+      "year": 2024, "score": 97, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/portugal/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.10, "category": "Full democracy", "rank": 25,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "FRA": {
+    "freedomHouse": {
+      "year": 2024, "score": 90, "status": "Free",
+      "politicalRights": 37, "civilLiberties": 53,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/france/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.07, "category": "Full democracy", "rank": 24,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "DEU": {
+    "freedomHouse": {
+      "year": 2024, "score": 94, "status": "Free",
+      "politicalRights": 39, "civilLiberties": 55,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/germany/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.80, "category": "Full democracy", "rank": 13,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ITA": {
+    "freedomHouse": {
+      "year": 2024, "score": 90, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 52,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/italy/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.69, "category": "Flawed democracy", "rank": 34,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "GBR": {
+    "freedomHouse": {
+      "year": 2024, "score": 93, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 55,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/united-kingdom/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.26, "category": "Full democracy", "rank": 18,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "NLD": {
+    "freedomHouse": {
+      "year": 2024, "score": 97, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/netherlands/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.01, "category": "Full democracy", "rank": 10,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "POL": {
+    "freedomHouse": {
+      "year": 2024, "score": 83, "status": "Free",
+      "politicalRights": 35, "civilLiberties": 48,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/poland/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.80, "category": "Flawed democracy", "rank": 60,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "SWE": {
+    "freedomHouse": {
+      "year": 2024, "score": 100, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 60,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/sweden/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.39, "category": "Full democracy", "rank": 3,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "UKR": {
+    "freedomHouse": {
+      "year": 2024, "score": 61, "status": "Partly Free",
+      "politicalRights": 27, "civilLiberties": 34,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/ukraine/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.57, "category": "Hybrid regime", "rank": 87,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "TUR": {
+    "freedomHouse": {
+      "year": 2024, "score": 32, "status": "Not Free",
+      "politicalRights": 14, "civilLiberties": 18,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/turkey/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.52, "category": "Hybrid regime", "rank": 103,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "RUS": {
+    "freedomHouse": {
+      "year": 2024, "score": 5, "status": "Not Free",
+      "politicalRights": 1, "civilLiberties": 4,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/russia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.22, "category": "Authoritarian", "rank": 144,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "BEL": {
+    "freedomHouse": {
+      "year": 2024, "score": 96, "status": "Free",
+      "politicalRights": 39, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/belgium/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.92, "category": "Flawed democracy", "rank": 29,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "AUT": {
+    "freedomHouse": {
+      "year": 2024, "score": 93, "status": "Free",
+      "politicalRights": 38, "civilLiberties": 55,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/austria/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.20, "category": "Full democracy", "rank": 20,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CHE": {
+    "freedomHouse": {
+      "year": 2024, "score": 97, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/switzerland/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.14, "category": "Full democracy", "rank": 7,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "NOR": {
+    "freedomHouse": {
+      "year": 2024, "score": 100, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 60,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/norway/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.81, "category": "Full democracy", "rank": 1,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "DNK": {
+    "freedomHouse": {
+      "year": 2024, "score": 97, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/denmark/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.28, "category": "Full democracy", "rank": 5,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "GRC": {
+    "freedomHouse": {
+      "year": 2024, "score": 84, "status": "Free",
+      "politicalRights": 36, "civilLiberties": 48,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/greece/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.76, "category": "Flawed democracy", "rank": 32,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "HUN": {
+    "freedomHouse": {
+      "year": 2024, "score": 66, "status": "Partly Free",
+      "politicalRights": 28, "civilLiberties": 38,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/hungary/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.69, "category": "Hybrid regime", "rank": 85,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ROU": {
+    "freedomHouse": {
+      "year": 2024, "score": 83, "status": "Free",
+      "politicalRights": 35, "civilLiberties": 48,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/romania/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.61, "category": "Flawed democracy", "rank": 63,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CHN": {
+    "freedomHouse": {
+      "year": 2024, "score": 9, "status": "Not Free",
+      "politicalRights": 2, "civilLiberties": 7,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/china/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 1.92, "category": "Authoritarian", "rank": 148,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "IND": {
+    "freedomHouse": {
+      "year": 2024, "score": 66, "status": "Partly Free",
+      "politicalRights": 32, "civilLiberties": 34,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/india/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.65, "category": "Flawed democracy", "rank": 41,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "JPN": {
+    "freedomHouse": {
+      "year": 2024, "score": 96, "status": "Free",
+      "politicalRights": 39, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/japan/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.40, "category": "Full democracy", "rank": 16,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "KOR": {
+    "freedomHouse": {
+      "year": 2024, "score": 83, "status": "Free",
+      "politicalRights": 35, "civilLiberties": 48,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/south-korea/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.09, "category": "Full democracy", "rank": 24,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "IDN": {
+    "freedomHouse": {
+      "year": 2024, "score": 59, "status": "Partly Free",
+      "politicalRights": 27, "civilLiberties": 32,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/indonesia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.53, "category": "Flawed democracy", "rank": 65,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "AUS": {
+    "freedomHouse": {
+      "year": 2024, "score": 97, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 57,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/australia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 8.86, "category": "Full democracy", "rank": 11,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "PAK": {
+    "freedomHouse": {
+      "year": 2024, "score": 37, "status": "Not Free",
+      "politicalRights": 15, "civilLiberties": 22,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/pakistan/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.26, "category": "Hybrid regime", "rank": 107,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "THA": {
+    "freedomHouse": {
+      "year": 2024, "score": 29, "status": "Not Free",
+      "politicalRights": 11, "civilLiberties": 18,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/thailand/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.06, "category": "Authoritarian", "rank": 128,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "PHL": {
+    "freedomHouse": {
+      "year": 2024, "score": 55, "status": "Partly Free",
+      "politicalRights": 25, "civilLiberties": 30,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/philippines/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.21, "category": "Flawed democracy", "rank": 73,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "IRN": {
+    "freedomHouse": {
+      "year": 2024, "score": 14, "status": "Not Free",
+      "politicalRights": 4, "civilLiberties": 10,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/iran/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.20, "category": "Authoritarian", "rank": 145,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ISR": {
+    "freedomHouse": {
+      "year": 2024, "score": 76, "status": "Free",
+      "politicalRights": 33, "civilLiberties": 43,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/israel/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.69, "category": "Flawed democracy", "rank": 34,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "SAU": {
+    "freedomHouse": {
+      "year": 2024, "score": 8, "status": "Not Free",
+      "politicalRights": 1, "civilLiberties": 7,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/saudi-arabia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 1.08, "category": "Authoritarian", "rank": 165,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "EGY": {
+    "freedomHouse": {
+      "year": 2024, "score": 18, "status": "Not Free",
+      "politicalRights": 6, "civilLiberties": 12,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/egypt/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.93, "category": "Authoritarian", "rank": 138,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "NGA": {
+    "freedomHouse": {
+      "year": 2024, "score": 44, "status": "Partly Free",
+      "politicalRights": 19, "civilLiberties": 25,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/nigeria/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.35, "category": "Hybrid regime", "rank": 105,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ZAF": {
+    "freedomHouse": {
+      "year": 2024, "score": 79, "status": "Free",
+      "politicalRights": 34, "civilLiberties": 45,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/south-africa/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.05, "category": "Flawed democracy", "rank": 54,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "MAR": {
+    "freedomHouse": {
+      "year": 2024, "score": 37, "status": "Not Free",
+      "politicalRights": 14, "civilLiberties": 23,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/morocco/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.27, "category": "Hybrid regime", "rank": 106,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ETH": {
+    "freedomHouse": {
+      "year": 2024, "score": 20, "status": "Not Free",
+      "politicalRights": 7, "civilLiberties": 13,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/ethiopia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.42, "category": "Authoritarian", "rank": 123,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "FIN": {
+    "freedomHouse": {
+      "year": 2024, "score": 100, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 60,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/finland/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.30, "category": "Full democracy", "rank": 4,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "CZE": {
+    "freedomHouse": {
+      "year": 2024, "score": 95, "status": "Free",
+      "politicalRights": 39, "civilLiberties": 56,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/czech-republic/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.68, "category": "Flawed democracy", "rank": 35,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "SVK": {
+    "freedomHouse": {
+      "year": 2024, "score": 90, "status": "Free",
+      "politicalRights": 37, "civilLiberties": 53,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/slovakia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.17, "category": "Flawed democracy", "rank": 52,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "BGR": {
+    "freedomHouse": {
+      "year": 2024, "score": 79, "status": "Free",
+      "politicalRights": 34, "civilLiberties": 45,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/bulgaria/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.64, "category": "Flawed democracy", "rank": 62,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "HRV": {
+    "freedomHouse": {
+      "year": 2024, "score": 90, "status": "Free",
+      "politicalRights": 37, "civilLiberties": 53,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/croatia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.57, "category": "Flawed democracy", "rank": 65,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "SRB": {
+    "freedomHouse": {
+      "year": 2024, "score": 57, "status": "Partly Free",
+      "politicalRights": 25, "civilLiberties": 32,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/serbia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.45, "category": "Flawed democracy", "rank": 70,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "MDA": {
+    "freedomHouse": {
+      "year": 2024, "score": 62, "status": "Partly Free",
+      "politicalRights": 28, "civilLiberties": 34,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/moldova/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.49, "category": "Flawed democracy", "rank": 68,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "BLR": {
+    "freedomHouse": {
+      "year": 2024, "score": 11, "status": "Not Free",
+      "politicalRights": 1, "civilLiberties": 10,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/belarus/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.38, "category": "Authoritarian", "rank": 142,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "VNM": {
+    "freedomHouse": {
+      "year": 2024, "score": 19, "status": "Not Free",
+      "politicalRights": 3, "civilLiberties": 16,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/vietnam/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.63, "category": "Authoritarian", "rank": 141,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "MYS": {
+    "freedomHouse": {
+      "year": 2024, "score": 54, "status": "Partly Free",
+      "politicalRights": 24, "civilLiberties": 30,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/malaysia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 7.30, "category": "Flawed democracy", "rank": 46,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "BGD": {
+    "freedomHouse": {
+      "year": 2024, "score": 40, "status": "Partly Free",
+      "politicalRights": 15, "civilLiberties": 25,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/bangladesh/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.99, "category": "Hybrid regime", "rank": 78,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "NZL": {
+    "freedomHouse": {
+      "year": 2024, "score": 99, "status": "Free",
+      "politicalRights": 40, "civilLiberties": 59,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/new-zealand/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 9.61, "category": "Full democracy", "rank": 2,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "SGP": {
+    "freedomHouse": {
+      "year": 2024, "score": 47, "status": "Partly Free",
+      "politicalRights": 19, "civilLiberties": 28,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/singapore/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.22, "category": "Flawed democracy", "rank": 72,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "KAZ": {
+    "freedomHouse": {
+      "year": 2024, "score": 23, "status": "Not Free",
+      "politicalRights": 7, "civilLiberties": 16,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/kazakhstan/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.05, "category": "Authoritarian", "rank": 129,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "MMR": {
+    "freedomHouse": {
+      "year": 2024, "score": 10, "status": "Not Free",
+      "politicalRights": 2, "civilLiberties": 8,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/myanmar/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 1.79, "category": "Authoritarian", "rank": 157,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "IRQ": {
+    "freedomHouse": {
+      "year": 2024, "score": 29, "status": "Not Free",
+      "politicalRights": 11, "civilLiberties": 18,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/iraq/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.00, "category": "Hybrid regime", "rank": 113,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "JOR": {
+    "freedomHouse": {
+      "year": 2024, "score": 33, "status": "Not Free",
+      "politicalRights": 11, "civilLiberties": 22,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/jordan/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.85, "category": "Hybrid regime", "rank": 115,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ARE": {
+    "freedomHouse": {
+      "year": 2024, "score": 17, "status": "Not Free",
+      "politicalRights": 5, "civilLiberties": 12,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/united-arab-emirates/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 2.76, "category": "Authoritarian", "rank": 140,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "TUN": {
+    "freedomHouse": {
+      "year": 2024, "score": 36, "status": "Not Free",
+      "politicalRights": 15, "civilLiberties": 21,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/tunisia/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.84, "category": "Hybrid regime", "rank": 101,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "LBN": {
+    "freedomHouse": {
+      "year": 2024, "score": 44, "status": "Partly Free",
+      "politicalRights": 18, "civilLiberties": 26,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/lebanon/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.56, "category": "Authoritarian", "rank": 119,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "DZA": {
+    "freedomHouse": {
+      "year": 2024, "score": 33, "status": "Not Free",
+      "politicalRights": 13, "civilLiberties": 20,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/algeria/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.66, "category": "Authoritarian", "rank": 118,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "TZA": {
+    "freedomHouse": {
+      "year": 2024, "score": 37, "status": "Not Free",
+      "politicalRights": 14, "civilLiberties": 23,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/tanzania/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 4.63, "category": "Hybrid regime", "rank": 102,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "GHA": {
+    "freedomHouse": {
+      "year": 2024, "score": 83, "status": "Free",
+      "politicalRights": 36, "civilLiberties": 47,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/ghana/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.43, "category": "Flawed democracy", "rank": 71,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "SEN": {
+    "freedomHouse": {
+      "year": 2024, "score": 71, "status": "Free",
+      "politicalRights": 31, "civilLiberties": 40,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/senegal/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.25, "category": "Flawed democracy", "rank": 73,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "ZWE": {
+    "freedomHouse": {
+      "year": 2024, "score": 29, "status": "Not Free",
+      "politicalRights": 10, "civilLiberties": 19,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/zimbabwe/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 3.16, "category": "Authoritarian", "rank": 127,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "DOM": {
+    "freedomHouse": {
+      "year": 2024, "score": 72, "status": "Free",
+      "politicalRights": 31, "civilLiberties": 41,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/dominican-republic/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 6.57, "category": "Flawed democracy", "rank": 65,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "GTM": {
+    "freedomHouse": {
+      "year": 2024, "score": 54, "status": "Partly Free",
+      "politicalRights": 22, "civilLiberties": 32,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/guatemala/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.60, "category": "Hybrid regime", "rank": 88,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "KEN": {
+    "freedomHouse": {
+      "year": 2024, "score": 45, "status": "Partly Free",
+      "politicalRights": 20, "civilLiberties": 25,
+      "source": "Freedom House — Freedom in the World 2024",
+      "sourceUrl": "https://freedomhouse.org/country/kenya/freedom-world/2024",
+      "retrievedAt": "2026-11-23"
+    },
+    "eiu": {
+      "year": 2023, "score": 5.49, "category": "Hybrid regime", "rank": 90,
+      "source": "EIU Democracy Index 2023",
+      "sourceUrl": "https://www.eiu.com/n/campaigns/democracy-index-2023/",
+      "retrievedAt": "2026-11-23"
+    }
+  }
+}

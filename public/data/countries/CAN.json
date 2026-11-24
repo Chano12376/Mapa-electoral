@@ -1,0 +1,268 @@
+{
+  "iso3": "CAN",
+  "name": "Canadá",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Canadá",
+    "sourceUrl": "https://www.canada.ca/en/privy-council/services/queen-canada.html",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mark Carney",
+    "since": "2025-03-14",
+    "party": {
+      "qid": "Q138345",
+      "name": "Partido Liberal de Canadá"
+    },
+    "source": "Oficina del Primer Ministro de Canadá",
+    "sourceUrl": "https://pm.gc.ca/en",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": {
+      "parlgovPartyId": 368,
+      "partyName": "Liberal Party of Canada",
+      "country": "CAN",
+      "score": 5.0552,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "nextElection": {
+    "iso3": "CAN",
+    "date": "2029-10-20",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas federales",
+    "whatIsElected": "Cámara de los Comunes (338 escaños)",
+    "source": "Elections Canada",
+    "sourceUrl": "https://www.elections.ca/content.aspx?section=ele&dir=pas&document=index&lang=e",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1556510380200.23
+        },
+        {
+          "year": 2016,
+          "value": 1527996250640.92
+        },
+        {
+          "year": 2017,
+          "value": 1649269496514.62
+        },
+        {
+          "year": 2018,
+          "value": 1725330736237.69
+        },
+        {
+          "year": 2019,
+          "value": 1743728952156.85
+        },
+        {
+          "year": 2020,
+          "value": 1655686966881.99
+        },
+        {
+          "year": 2021,
+          "value": 2022377950896.78
+        },
+        {
+          "year": 2022,
+          "value": 2200562785046.32
+        },
+        {
+          "year": 2023,
+          "value": 2196593836347.42
+        },
+        {
+          "year": 2024,
+          "value": 2270076189683.46
+        },
+        {
+          "year": 2025,
+          "value": 2319899772425.92
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CAN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.64997101491096
+        },
+        {
+          "year": 2016,
+          "value": 1.03855091989323
+        },
+        {
+          "year": 2017,
+          "value": 3.03383491841392
+        },
+        {
+          "year": 2018,
+          "value": 2.74296341402246
+        },
+        {
+          "year": 2019,
+          "value": 1.90843193887251
+        },
+        {
+          "year": 2020,
+          "value": -5.03823342794087
+        },
+        {
+          "year": 2021,
+          "value": 5.95052804984759
+        },
+        {
+          "year": 2022,
+          "value": 4.69541985045903
+        },
+        {
+          "year": 2023,
+          "value": 1.95308552199025
+        },
+        {
+          "year": 2024,
+          "value": 2.04626605401701
+        },
+        {
+          "year": 2025,
+          "value": 1.74268536175708
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CAN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.12524136094277
+        },
+        {
+          "year": 2016,
+          "value": 1.42875954701085
+        },
+        {
+          "year": 2017,
+          "value": 1.59688412852976
+        },
+        {
+          "year": 2018,
+          "value": 2.26822567248103
+        },
+        {
+          "year": 2019,
+          "value": 1.94926902411592
+        },
+        {
+          "year": 2020,
+          "value": 0.716999632307827
+        },
+        {
+          "year": 2021,
+          "value": 3.39519318527527
+        },
+        {
+          "year": 2022,
+          "value": 6.80280115341612
+        },
+        {
+          "year": 2023,
+          "value": 3.87900159788425
+        },
+        {
+          "year": 2024,
+          "value": 2.38158383281173
+        },
+        {
+          "year": 2025,
+          "value": 2.07232411149103
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CAN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.945
+        },
+        {
+          "year": 2016,
+          "value": 7.038
+        },
+        {
+          "year": 2017,
+          "value": 6.426
+        },
+        {
+          "year": 2018,
+          "value": 5.837
+        },
+        {
+          "year": 2019,
+          "value": 5.69
+        },
+        {
+          "year": 2020,
+          "value": 9.657
+        },
+        {
+          "year": 2021,
+          "value": 7.527
+        },
+        {
+          "year": 2022,
+          "value": 5.279
+        },
+        {
+          "year": 2023,
+          "value": 5.415
+        },
+        {
+          "year": 2024,
+          "value": 6.351
+        },
+        {
+          "year": 2025,
+          "value": 6.907
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CAN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

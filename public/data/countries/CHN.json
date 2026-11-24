@@ -1,0 +1,262 @@
+{
+  "iso3": "CHN",
+  "name": "China",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Xi Jinping",
+    "since": "2013-03-14",
+    "party": {
+      "qid": "Q188461",
+      "name": "Partido Comunista de China"
+    },
+    "source": "Gobierno de China",
+    "sourceUrl": "http://www.gov.cn/guowuyuan/index.htm",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Li Qiang",
+    "since": "2023-03-11",
+    "party": {
+      "qid": "Q188461",
+      "name": "Partido Comunista de China"
+    },
+    "source": "Consejo de Estado de China",
+    "sourceUrl": "http://english.www.gov.cn/statecouncil/",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CHN",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": null,
+    "whatIsElected": "El Congreso Nacional del Pueblo se renueva indirectamente; sin elección nacional directa por sufragio universal",
+    "source": "Constitución de la República Popular China",
+    "sourceUrl": "https://www.gov.cn/guoqing/2018-03/22/content_5276318.htm",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 11280814787468.9
+        },
+        {
+          "year": 2016,
+          "value": 11456024084962
+        },
+        {
+          "year": 2017,
+          "value": 12537559062282.9
+        },
+        {
+          "year": 2018,
+          "value": 14147765772963.8
+        },
+        {
+          "year": 2019,
+          "value": 14560167101283.4
+        },
+        {
+          "year": 2020,
+          "value": 14996414166715.1
+        },
+        {
+          "year": 2021,
+          "value": 18201698719564
+        },
+        {
+          "year": 2022,
+          "value": 18316765021690.2
+        },
+        {
+          "year": 2023,
+          "value": 18270356654533.2
+        },
+        {
+          "year": 2024,
+          "value": 18729668435848
+        },
+        {
+          "year": 2025,
+          "value": 19498039388042.6
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CHN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.98162255562367
+        },
+        {
+          "year": 2016,
+          "value": 6.7736886867727
+        },
+        {
+          "year": 2017,
+          "value": 6.89123916636191
+        },
+        {
+          "year": 2018,
+          "value": 6.757806142324
+        },
+        {
+          "year": 2019,
+          "value": 6.06737806333672
+        },
+        {
+          "year": 2020,
+          "value": 2.33950385203023
+        },
+        {
+          "year": 2021,
+          "value": 8.57038414981781
+        },
+        {
+          "year": 2022,
+          "value": 3.13385438394069
+        },
+        {
+          "year": 2023,
+          "value": 5.41600334492955
+        },
+        {
+          "year": 2024,
+          "value": 4.95830378788091
+        },
+        {
+          "year": 2025,
+          "value": 4.95994886240992
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CHN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.43702380935654
+        },
+        {
+          "year": 2016,
+          "value": 2.00000182191943
+        },
+        {
+          "year": 2017,
+          "value": 1.59313600071435
+        },
+        {
+          "year": 2018,
+          "value": 2.07479039965576
+        },
+        {
+          "year": 2019,
+          "value": 2.89923416358226
+        },
+        {
+          "year": 2020,
+          "value": 2.41942189457782
+        },
+        {
+          "year": 2021,
+          "value": 0.981015135544881
+        },
+        {
+          "year": 2022,
+          "value": 1.9735755573905
+        },
+        {
+          "year": 2023,
+          "value": 0.23483682889305
+        },
+        {
+          "year": 2024,
+          "value": 0.218128938439177
+        },
+        {
+          "year": 2025,
+          "value": 0.0595646916565402
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CHN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 4.65
+        },
+        {
+          "year": 2016,
+          "value": 4.56
+        },
+        {
+          "year": 2017,
+          "value": 4.47
+        },
+        {
+          "year": 2018,
+          "value": 4.31
+        },
+        {
+          "year": 2019,
+          "value": 4.56
+        },
+        {
+          "year": 2020,
+          "value": 5
+        },
+        {
+          "year": 2021,
+          "value": 4.55
+        },
+        {
+          "year": 2022,
+          "value": 4.98
+        },
+        {
+          "year": 2023,
+          "value": 4.67
+        },
+        {
+          "year": 2024,
+          "value": 4.59
+        },
+        {
+          "year": 2025,
+          "value": 4.615
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CHN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

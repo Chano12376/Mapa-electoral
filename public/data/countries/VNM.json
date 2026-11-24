@@ -1,0 +1,256 @@
+{
+  "iso3": "VNM",
+  "name": "Vietnam",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Lương Cường",
+    "since": "2024-10-21",
+    "party": null,
+    "source": "Gobierno de Vietnam",
+    "sourceUrl": "https://www.chinhphu.vn/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Phạm Minh Chính",
+    "since": "2021-04-05",
+    "party": null,
+    "source": "Gobierno de Vietnam",
+    "sourceUrl": "https://www.chinhphu.vn/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "VNM",
+    "date": "2026-05-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Asamblea Nacional (500 escaños)",
+    "source": "National Election Council Vietnam",
+    "sourceUrl": "https://quochoi.vn",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 239258328381.741
+        },
+        {
+          "year": 2016,
+          "value": 257096001177.982
+        },
+        {
+          "year": 2017,
+          "value": 281353605986.903
+        },
+        {
+          "year": 2018,
+          "value": 310106478394.659
+        },
+        {
+          "year": 2019,
+          "value": 334365270496.667
+        },
+        {
+          "year": 2020,
+          "value": 346615738537.796
+        },
+        {
+          "year": 2021,
+          "value": 366474752771.009
+        },
+        {
+          "year": 2022,
+          "value": 413445230668.578
+        },
+        {
+          "year": 2023,
+          "value": 433805036898.465
+        },
+        {
+          "year": 2024,
+          "value": 476324572783.807
+        },
+        {
+          "year": 2025,
+          "value": 514697215165.065
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VNM",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.98715430598611
+        },
+        {
+          "year": 2016,
+          "value": 6.69000892660424
+        },
+        {
+          "year": 2017,
+          "value": 6.94019037359206
+        },
+        {
+          "year": 2018,
+          "value": 7.46500685572751
+        },
+        {
+          "year": 2019,
+          "value": 7.35926270105006
+        },
+        {
+          "year": 2020,
+          "value": 2.86541320912272
+        },
+        {
+          "year": 2021,
+          "value": 2.55372852648131
+        },
+        {
+          "year": 2022,
+          "value": 8.53750041218142
+        },
+        {
+          "year": 2023,
+          "value": 4.97865959483225
+        },
+        {
+          "year": 2024,
+          "value": 7.03955197123018
+        },
+        {
+          "year": 2025,
+          "value": 8.01882998978245
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=VNM",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.631200905175684
+        },
+        {
+          "year": 2016,
+          "value": 2.66824816969082
+        },
+        {
+          "year": 2017,
+          "value": 3.52025688811617
+        },
+        {
+          "year": 2018,
+          "value": 3.53962805942641
+        },
+        {
+          "year": 2019,
+          "value": 2.79582367452243
+        },
+        {
+          "year": 2020,
+          "value": 3.22093436652514
+        },
+        {
+          "year": 2021,
+          "value": 1.83471554810461
+        },
+        {
+          "year": 2022,
+          "value": 3.15650749963111
+        },
+        {
+          "year": 2023,
+          "value": 3.25289282667662
+        },
+        {
+          "year": 2024,
+          "value": 3.62109273885843
+        },
+        {
+          "year": 2025,
+          "value": 3.30999314219739
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=VNM",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.848
+        },
+        {
+          "year": 2016,
+          "value": 1.848
+        },
+        {
+          "year": 2017,
+          "value": 1.874
+        },
+        {
+          "year": 2018,
+          "value": 1.161
+        },
+        {
+          "year": 2019,
+          "value": 1.681
+        },
+        {
+          "year": 2020,
+          "value": 2.103
+        },
+        {
+          "year": 2021,
+          "value": 2.383
+        },
+        {
+          "year": 2022,
+          "value": 1.57
+        },
+        {
+          "year": 2023,
+          "value": 1.645
+        },
+        {
+          "year": 2024,
+          "value": 1.602
+        },
+        {
+          "year": 2025,
+          "value": 1.523
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=VNM",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

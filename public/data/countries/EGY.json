@@ -1,0 +1,262 @@
+{
+  "iso3": "EGY",
+  "name": "Egipto",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Abdel Fattah el-Sisi",
+    "since": "2014-06-08",
+    "party": {
+      "qid": "Q7036230",
+      "name": "Nación del Futuro"
+    },
+    "source": "Presidencia de la República Árabe de Egipto",
+    "sourceUrl": "https://www.presidency.eg",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Abdel Fattah el-Sisi",
+    "since": "2014-06-08",
+    "party": {
+      "qid": "Q7036230",
+      "name": "Nación del Futuro"
+    },
+    "source": "Presidencia de la República Árabe de Egipto",
+    "sourceUrl": "https://www.presidency.eg",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "EGY",
+    "date": "2030-01-01",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Alta Comisión Electoral de Egipto",
+    "sourceUrl": "https://elections.eg/",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 329366576819.407
+        },
+        {
+          "year": 2016,
+          "value": 332441717791.411
+        },
+        {
+          "year": 2017,
+          "value": 248362771739.13
+        },
+        {
+          "year": 2018,
+          "value": 262588632526.73
+        },
+        {
+          "year": 2019,
+          "value": 318678815489.749
+        },
+        {
+          "year": 2020,
+          "value": 383817841547.099
+        },
+        {
+          "year": 2021,
+          "value": 424671765455.704
+        },
+        {
+          "year": 2022,
+          "value": 476747720364.742
+        },
+        {
+          "year": 2023,
+          "value": 395926071447.591
+        },
+        {
+          "year": 2024,
+          "value": 389059910593.1
+        },
+        {
+          "year": 2025,
+          "value": 365254630179.737
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=EGY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 4.37201907781687
+        },
+        {
+          "year": 2016,
+          "value": 4.34664345601914
+        },
+        {
+          "year": 2017,
+          "value": 4.18122099961562
+        },
+        {
+          "year": 2018,
+          "value": 5.33110861887155
+        },
+        {
+          "year": 2019,
+          "value": 5.55209307084222
+        },
+        {
+          "year": 2020,
+          "value": 3.55016483883115
+        },
+        {
+          "year": 2021,
+          "value": 3.29064601193245
+        },
+        {
+          "year": 2022,
+          "value": 6.58784560870467
+        },
+        {
+          "year": 2023,
+          "value": 3.76028052279247
+        },
+        {
+          "year": 2024,
+          "value": 2.3991692678251
+        },
+        {
+          "year": 2025,
+          "value": 4.39201068570188
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=EGY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 10.370490343517
+        },
+        {
+          "year": 2016,
+          "value": 13.8136062148289
+        },
+        {
+          "year": 2017,
+          "value": 29.5066083940038
+        },
+        {
+          "year": 2018,
+          "value": 14.4014657807421
+        },
+        {
+          "year": 2019,
+          "value": 9.15279959324803
+        },
+        {
+          "year": 2020,
+          "value": 5.04493288977538
+        },
+        {
+          "year": 2021,
+          "value": 5.21404940513042
+        },
+        {
+          "year": 2022,
+          "value": 13.8956609775177
+        },
+        {
+          "year": 2023,
+          "value": 33.8847763115546
+        },
+        {
+          "year": 2024,
+          "value": 28.2705899322082
+        },
+        {
+          "year": 2025,
+          "value": 14.0735136645933
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=EGY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 13.052
+        },
+        {
+          "year": 2016,
+          "value": 12.45
+        },
+        {
+          "year": 2017,
+          "value": 11.767
+        },
+        {
+          "year": 2018,
+          "value": 9.855
+        },
+        {
+          "year": 2019,
+          "value": 7.851
+        },
+        {
+          "year": 2020,
+          "value": 7.974
+        },
+        {
+          "year": 2021,
+          "value": 7.441
+        },
+        {
+          "year": 2022,
+          "value": 6.546
+        },
+        {
+          "year": 2023,
+          "value": 6.753
+        },
+        {
+          "year": 2024,
+          "value": 6.817
+        },
+        {
+          "year": 2025,
+          "value": 6.781
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=EGY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

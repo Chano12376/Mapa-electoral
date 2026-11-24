@@ -1,0 +1,256 @@
+{
+  "iso3": "NLD",
+  "name": "Países Bajos",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Guillermo Alejandro",
+    "since": "2013-04-30",
+    "party": null,
+    "source": "Casa Real de los Países Bajos",
+    "sourceUrl": "https://www.royal-house.nl/members-of-the-royal-house/his-majesty-the-king",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Dick Schoof",
+    "since": "2024-07-02",
+    "party": null,
+    "source": "Gobierno de los Países Bajos",
+    "sourceUrl": "https://www.government.nl/government/members-of-cabinet/dick-schoof",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "NLD",
+    "date": "2029-03-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Tweede Kamer (150 escaños)",
+    "source": "Kiesraad",
+    "sourceUrl": "https://www.kiesraad.nl/verkiezingen",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 775743675302.734
+        },
+        {
+          "year": 2016,
+          "value": 797163949289.885
+        },
+        {
+          "year": 2017,
+          "value": 848233537845.884
+        },
+        {
+          "year": 2018,
+          "value": 929733599796.862
+        },
+        {
+          "year": 2019,
+          "value": 928903005576.469
+        },
+        {
+          "year": 2020,
+          "value": 932560861701.17
+        },
+        {
+          "year": 2021,
+          "value": 1054472123449.6
+        },
+        {
+          "year": 2022,
+          "value": 1046540797548.64
+        },
+        {
+          "year": 2023,
+          "value": 1135475867551
+        },
+        {
+          "year": 2024,
+          "value": 1213936238063.28
+        },
+        {
+          "year": 2025,
+          "value": 1332767651100.39
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NLD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.12064007193544
+        },
+        {
+          "year": 2016,
+          "value": 2.42428065449427
+        },
+        {
+          "year": 2017,
+          "value": 2.78150834679987
+        },
+        {
+          "year": 2018,
+          "value": 2.25873158164956
+        },
+        {
+          "year": 2019,
+          "value": 2.3001616053659
+        },
+        {
+          "year": 2020,
+          "value": -3.86799714191608
+        },
+        {
+          "year": 2021,
+          "value": 6.27683593745216
+        },
+        {
+          "year": 2022,
+          "value": 5.00723453395074
+        },
+        {
+          "year": 2023,
+          "value": -0.598061017580278
+        },
+        {
+          "year": 2024,
+          "value": 1.07383137319854
+        },
+        {
+          "year": 2025,
+          "value": 1.78463214703797
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NLD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.600935791194569
+        },
+        {
+          "year": 2016,
+          "value": 0.319406464338503
+        },
+        {
+          "year": 2017,
+          "value": 1.37968786656694
+        },
+        {
+          "year": 2018,
+          "value": 1.70361881253579
+        },
+        {
+          "year": 2019,
+          "value": 2.63397403948254
+        },
+        {
+          "year": 2020,
+          "value": 1.26788070731057
+        },
+        {
+          "year": 2021,
+          "value": 2.68123345078501
+        },
+        {
+          "year": 2022,
+          "value": 9.99817255172687
+        },
+        {
+          "year": 2023,
+          "value": 3.84231997489532
+        },
+        {
+          "year": 2024,
+          "value": 3.34639895475025
+        },
+        {
+          "year": 2025,
+          "value": 3.20363967869003
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NLD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.872
+        },
+        {
+          "year": 2016,
+          "value": 6.007
+        },
+        {
+          "year": 2017,
+          "value": 4.837
+        },
+        {
+          "year": 2018,
+          "value": 3.832
+        },
+        {
+          "year": 2019,
+          "value": 3.379
+        },
+        {
+          "year": 2020,
+          "value": 3.82
+        },
+        {
+          "year": 2021,
+          "value": 4.209
+        },
+        {
+          "year": 2022,
+          "value": 3.526
+        },
+        {
+          "year": 2023,
+          "value": 3.535
+        },
+        {
+          "year": 2024,
+          "value": 3.7
+        },
+        {
+          "year": 2025,
+          "value": 3.874
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NLD",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,1008 @@
+{
+  "USA": {
+    "electionDate": "2024-11-05",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "seatsLabel": "votos electorales",
+    "totalSeats": 538,
+    "turnoutPct": 63.9,
+    "note": "EE. UU. usa el Colegio Electoral (538 grandes electores). El ganador de cada estado se lleva todos sus electores (excepto Maine y Nebraska). El voto popular nacional no determina al ganador.",
+    "source": "Federal Election Commission",
+    "sourceUrl": "https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Republicano", "fullName": "Partido Republicano", "candidate": "Donald Trump", "votePct": 49.9, "seats": 312, "color": "#E81B23", "inGovt": true },
+      { "name": "Demócrata", "fullName": "Partido Demócrata", "candidate": "Kamala Harris", "votePct": 48.4, "seats": 226, "color": "#1877C6", "inGovt": false }
+    ]
+  },
+  "CAN": {
+    "electionDate": "2025-04-28",
+    "electionType": "Legislativas federales",
+    "resultType": "legislativo",
+    "totalSeats": 343,
+    "turnoutPct": 68.7,
+    "source": "Élections Canada",
+    "sourceUrl": "https://www.elections.ca/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Liberal", "fullName": "Partido Liberal", "candidate": "Mark Carney", "votePct": 43.7, "seats": 169, "color": "#D71920", "inGovt": true },
+      { "name": "Conservador", "fullName": "Partido Conservador", "candidate": "Pierre Poilievre", "votePct": 41.3, "seats": 144, "color": "#1A4782", "inGovt": false },
+      { "name": "BQ", "fullName": "Bloc Québécois", "votePct": 7.4, "seats": 22, "color": "#33B2CC", "inGovt": false },
+      { "name": "NDP", "fullName": "Nuevo Partido Democrático", "votePct": 6.3, "seats": 7, "color": "#F37021", "inGovt": false },
+      { "name": "Verde", "fullName": "Partido Verde", "votePct": 1.3, "seats": 1, "color": "#3D9B35", "inGovt": false }
+    ]
+  },
+  "MEX": {
+    "electionDate": "2024-06-02",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 61.1,
+    "source": "Instituto Nacional Electoral (INE)",
+    "sourceUrl": "https://prep2024.ine.mx/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Morena+PT+PVEM", "fullName": "Morena–Partido del Trabajo–PVEM", "candidate": "Claudia Sheinbaum", "votePct": 59.0, "color": "#6B2D8B", "inGovt": true },
+      { "name": "PAN+PRI+PRD", "fullName": "PAN–PRI–PRD (Fuerza y Corazón por México)", "candidate": "Xóchitl Gálvez", "votePct": 28.1, "color": "#0066CC", "inGovt": false },
+      { "name": "MC", "fullName": "Movimiento Ciudadano", "candidate": "Jorge Álvarez Máynez", "votePct": 10.4, "color": "#FF6600", "inGovt": false }
+    ]
+  },
+  "BRA": {
+    "electionDate": "2022-10-30",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 79.3,
+    "source": "Tribunal Superior Electoral (TSE)",
+    "sourceUrl": "https://resultados.tse.jus.br/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PT", "fullName": "Partido dos Trabalhadores", "candidate": "Luiz Inácio Lula da Silva", "votePct": 50.9, "color": "#E10600", "inGovt": true },
+      { "name": "PL", "fullName": "Partido Liberal", "candidate": "Jair Bolsonaro", "votePct": 49.1, "color": "#003366", "inGovt": false }
+    ]
+  },
+  "ARG": {
+    "electionDate": "2023-11-19",
+    "electionType": "Presidencial (ballotage)",
+    "resultType": "presidencial",
+    "turnoutPct": 76.3,
+    "source": "Dirección Nacional Electoral",
+    "sourceUrl": "https://resultados.gob.ar/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "LLA", "fullName": "La Libertad Avanza", "candidate": "Javier Milei", "votePct": 55.7, "color": "#6B2D8B", "inGovt": true },
+      { "name": "UP", "fullName": "Unión por la Patria", "candidate": "Sergio Massa", "votePct": 44.3, "color": "#0A6BB8", "inGovt": false }
+    ]
+  },
+  "COL": {
+    "electionDate": "2022-06-19",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 58.1,
+    "source": "Registraduría Nacional del Estado Civil",
+    "sourceUrl": "https://www.registraduria.gov.co/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Pacto Histórico", "fullName": "Pacto Histórico", "candidate": "Gustavo Petro", "votePct": 50.4, "color": "#00A95C", "inGovt": true },
+      { "name": "Liga Gobernantes", "fullName": "Liga Gobernantes Anticorrupción", "candidate": "Rodolfo Hernández", "votePct": 47.3, "color": "#F5A623", "inGovt": false }
+    ]
+  },
+  "CHL": {
+    "electionDate": "2021-12-19",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 55.6,
+    "source": "Servicio Electoral de Chile (SERVEL)",
+    "sourceUrl": "https://www.servel.cl/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Apruebo Dignidad", "fullName": "Apruebo Dignidad", "candidate": "Gabriel Boric", "votePct": 55.9, "color": "#00A95C", "inGovt": true },
+      { "name": "Republicano", "fullName": "Partido Republicano", "candidate": "José Antonio Kast", "votePct": 44.1, "color": "#1A1A6C", "inGovt": false }
+    ]
+  },
+  "PER": {
+    "electionDate": "2021-06-06",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 74.4,
+    "note": "Pedro Castillo ganó la 2.ª vuelta pero fue destituido por el Congreso en diciembre de 2022. Dina Boluarte (VP) asumió la presidencia.",
+    "source": "Jurado Nacional de Elecciones (JNE)",
+    "sourceUrl": "https://www.jne.gob.pe/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Perú Libre", "fullName": "Perú Libre", "candidate": "Pedro Castillo", "votePct": 50.1, "color": "#CC0000", "inGovt": false },
+      { "name": "Fuerza Popular", "fullName": "Fuerza Popular", "candidate": "Keiko Fujimori", "votePct": 49.9, "color": "#F5A623", "inGovt": false }
+    ]
+  },
+  "ECU": {
+    "electionDate": "2023-10-15",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 83.9,
+    "source": "Consejo Nacional Electoral (CNE)",
+    "sourceUrl": "https://www.cne.gob.ec/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "ADN", "fullName": "Acción Democrática Nacional", "candidate": "Daniel Noboa", "votePct": 51.8, "color": "#0070C0", "inGovt": true },
+      { "name": "RC", "fullName": "Revolución Ciudadana", "candidate": "Luisa González", "votePct": 48.2, "color": "#00A95C", "inGovt": false }
+    ]
+  },
+  "URY": {
+    "electionDate": "2024-11-24",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 90.1,
+    "source": "Corte Electoral de Uruguay",
+    "sourceUrl": "https://www.corteelectoral.gub.uy/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Frente Amplio", "fullName": "Frente Amplio", "candidate": "Yamandú Orsi", "votePct": 51.0, "color": "#E30613", "inGovt": true },
+      { "name": "PN", "fullName": "Partido Nacional", "candidate": "Álvaro Delgado", "votePct": 49.0, "color": "#003189", "inGovt": false }
+    ]
+  },
+  "BOL": {
+    "electionDate": "2020-10-18",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 87.7,
+    "source": "Tribunal Supremo Electoral (TSE)",
+    "sourceUrl": "https://www.oep.org.bo/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "MAS", "fullName": "Movimiento Al Socialismo", "candidate": "Luis Arce", "votePct": 55.1, "color": "#003189", "inGovt": true },
+      { "name": "CC", "fullName": "Comunidad Ciudadana", "candidate": "Carlos Mesa", "votePct": 28.8, "color": "#0070C0", "inGovt": false },
+      { "name": "Creemos", "fullName": "Creemos", "candidate": "Luis Fernando Camacho", "votePct": 14.0, "color": "#00A95C", "inGovt": false }
+    ]
+  },
+  "PRY": {
+    "electionDate": "2023-04-30",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 63.2,
+    "source": "Tribunal Superior de Justicia Electoral (TSJE)",
+    "sourceUrl": "https://tsje.gov.py/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "ANR/Colorado", "fullName": "Asociación Nacional Republicana", "candidate": "Santiago Peña", "votePct": 42.7, "color": "#E30613", "inGovt": true },
+      { "name": "CREO", "fullName": "Concertación Renovada Estratégica para la Oposición", "candidate": "Efraín Alegre", "votePct": 27.5, "color": "#0070C0", "inGovt": false },
+      { "name": "Cruzada Nacional", "fullName": "Cruzada Nacional", "candidate": "Paraguayo Cubas", "votePct": 22.9, "color": "#F5A623", "inGovt": false }
+    ]
+  },
+  "CRI": {
+    "electionDate": "2022-04-03",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 57.4,
+    "source": "Tribunal Supremo de Elecciones (TSE)",
+    "sourceUrl": "https://www.tse.go.cr/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PPSD", "fullName": "Partido Progreso Social Democrático", "candidate": "Rodrigo Chaves", "votePct": 52.8, "color": "#F5A623", "inGovt": true },
+      { "name": "PLN", "fullName": "Partido Liberación Nacional", "candidate": "José María Figueres", "votePct": 47.2, "color": "#00A95C", "inGovt": false }
+    ]
+  },
+  "ESP": {
+    "electionDate": "2023-07-23",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 350,
+    "turnoutPct": 70.4,
+    "source": "Ministerio del Interior",
+    "sourceUrl": "https://resultados.elecciones.interior.gob.es/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PP", "fullName": "Partido Popular", "votePct": 33.1, "seats": 137, "color": "#0070C0", "inGovt": false },
+      { "name": "PSOE", "fullName": "Partido Socialista Obrero Español", "votePct": 31.7, "seats": 121, "color": "#E30613", "inGovt": true },
+      { "name": "Vox", "fullName": "Vox", "votePct": 12.4, "seats": 33, "color": "#63BE21", "inGovt": false },
+      { "name": "Sumar", "fullName": "Sumar", "votePct": 12.3, "seats": 31, "color": "#E4007C", "inGovt": true },
+      { "name": "ERC", "fullName": "Esquerra Republicana de Catalunya", "votePct": 1.6, "seats": 7, "color": "#F5A623", "inGovt": false },
+      { "name": "Junts", "fullName": "Junts per Catalunya", "votePct": 1.6, "seats": 7, "color": "#00AAEF", "inGovt": false },
+      { "name": "EH Bildu", "fullName": "EH Bildu", "votePct": 1.5, "seats": 6, "color": "#B5CF18", "inGovt": false },
+      { "name": "PNV", "fullName": "Partido Nacionalista Vasco", "votePct": 1.1, "seats": 5, "color": "#007A33", "inGovt": false },
+      { "name": "Otros", "votePct": 4.7, "seats": 3, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "PRT": {
+    "electionDate": "2024-03-10",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 230,
+    "turnoutPct": 60.5,
+    "source": "SGMAI – Secretaria-Geral do MAI",
+    "sourceUrl": "https://www.sg.mai.gov.pt/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "AD", "fullName": "Aliança Democrática (PSD+CDS+PPM)", "votePct": 28.8, "seats": 80, "color": "#F5A623", "inGovt": true },
+      { "name": "PS", "fullName": "Partido Socialista", "votePct": 28.1, "seats": 78, "color": "#E91E8C", "inGovt": false },
+      { "name": "Chega", "fullName": "Chega", "votePct": 18.1, "seats": 50, "color": "#0D378A", "inGovt": false },
+      { "name": "IL", "fullName": "Iniciativa Liberal", "votePct": 4.5, "seats": 8, "color": "#00AAEF", "inGovt": false },
+      { "name": "BE", "fullName": "Bloco de Esquerda", "votePct": 4.5, "seats": 5, "color": "#FF0000", "inGovt": false },
+      { "name": "CDU", "fullName": "CDU (PCP+PEV)", "votePct": 3.2, "seats": 4, "color": "#CC0000", "inGovt": false },
+      { "name": "Livre", "fullName": "Livre", "votePct": 3.2, "seats": 4, "color": "#00A95C", "inGovt": false },
+      { "name": "Otros", "votePct": 9.6, "seats": 1, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "FRA": {
+    "electionDate": "2024-07-07",
+    "electionType": "Legislativas (2.ª vuelta)",
+    "resultType": "legislativo",
+    "totalSeats": 577,
+    "note": "Los porcentajes son de la 1.ª vuelta (30 jun). La 2.ª vuelta con sistema mayoritario uninominal produjo una distribución de escaños diferente: el RN, pese a ir primero en votos, obtuvo menos escaños que el NFP.",
+    "source": "Ministère de l'Intérieur",
+    "sourceUrl": "https://www.resultats-elections.interieur.gouv.fr/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "NFP", "fullName": "Nouveau Front Populaire (LFI+PS+PC+Verts)", "votePct": 25.7, "seats": 193, "color": "#E91E8C", "inGovt": false },
+      { "name": "Ensemble", "fullName": "Ensemble (Renaissance+MoDem+Horizons)", "votePct": 20.0, "seats": 166, "color": "#FFA500", "inGovt": true },
+      { "name": "RN", "fullName": "Rassemblement National + aliados", "votePct": 29.3, "seats": 143, "color": "#0D378A", "inGovt": false },
+      { "name": "LR+droite", "fullName": "Les Républicains + divers droite", "votePct": 10.1, "seats": 65, "color": "#003189", "inGovt": false },
+      { "name": "Otros", "votePct": 14.9, "seats": 10, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "DEU": {
+    "electionDate": "2025-02-23",
+    "electionType": "Legislativas federales (Bundestag)",
+    "resultType": "legislativo",
+    "totalSeats": 630,
+    "turnoutPct": 83.5,
+    "note": "FDP (4,3%) y BSW (5,0%) no superaron el umbral del 5%. El nuevo Bundestag reformado tiene un máximo de 630 escaños.",
+    "source": "Der Bundeswahlleiter",
+    "sourceUrl": "https://www.bundeswahlleiter.de/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "CDU/CSU", "fullName": "CDU/CSU – Unión Cristiano-Demócrata/Social", "votePct": 28.6, "seats": 208, "color": "#1A1A1A", "inGovt": true },
+      { "name": "AfD", "fullName": "Alternativa para Alemania", "votePct": 20.8, "seats": 152, "color": "#009EE0", "inGovt": false },
+      { "name": "SPD", "fullName": "Partido Socialdemócrata de Alemania", "votePct": 16.4, "seats": 120, "color": "#E3000F", "inGovt": true },
+      { "name": "Grüne", "fullName": "Los Verdes (Bündnis 90/Die Grünen)", "votePct": 11.6, "seats": 85, "color": "#46962B", "inGovt": false },
+      { "name": "Otros", "fullName": "Otros (ninguno superó el 5%)", "votePct": 22.6, "seats": 65, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "GBR": {
+    "electionDate": "2024-07-04",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 650,
+    "turnoutPct": 59.9,
+    "source": "Electoral Commission",
+    "sourceUrl": "https://www.electoralcommission.org.uk/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Labour", "fullName": "Labour Party", "votePct": 33.7, "seats": 412, "color": "#E4003B", "inGovt": true },
+      { "name": "Conservador", "fullName": "Conservative Party", "votePct": 23.7, "seats": 121, "color": "#0087DC", "inGovt": false },
+      { "name": "Reform UK", "fullName": "Reform UK", "votePct": 14.3, "seats": 5, "color": "#12B6CF", "inGovt": false },
+      { "name": "LibDems", "fullName": "Liberal Democrats", "votePct": 12.2, "seats": 72, "color": "#FAA61A", "inGovt": false },
+      { "name": "Greens", "fullName": "Green Party", "votePct": 6.7, "seats": 4, "color": "#02A95B", "inGovt": false },
+      { "name": "SNP", "fullName": "Scottish National Party", "votePct": 2.5, "seats": 9, "color": "#FDF38E", "inGovt": false },
+      { "name": "Otros", "votePct": 6.9, "seats": 27, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "ITA": {
+    "electionDate": "2022-09-25",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 400,
+    "note": "Camera dei Deputati (400 escaños). El Senado (200 escaños) se eligió simultáneamente con resultados proporcionales similares.",
+    "turnoutPct": 63.9,
+    "source": "Ministero dell'Interno",
+    "sourceUrl": "https://elezioni.interno.gov.it/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "FdI", "fullName": "Fratelli d'Italia", "votePct": 26.0, "seats": 118, "color": "#1A1A6C", "inGovt": true },
+      { "name": "PD+", "fullName": "Partito Democratico + Alleanza Verdi e Sinistra + +Europa", "votePct": 19.1, "seats": 69, "color": "#E30613", "inGovt": false },
+      { "name": "M5S", "fullName": "Movimento 5 Stelle", "votePct": 15.4, "seats": 52, "color": "#F5C400", "inGovt": false },
+      { "name": "FI", "fullName": "Forza Italia", "votePct": 8.1, "seats": 45, "color": "#0066FF", "inGovt": true },
+      { "name": "Lega", "fullName": "Lega per Salvini Premier", "votePct": 8.8, "seats": 29, "color": "#1A8A33", "inGovt": true },
+      { "name": "Az+IV", "fullName": "Azione + Italia Viva", "votePct": 7.8, "seats": 21, "color": "#FF6600", "inGovt": false },
+      { "name": "Otros", "votePct": 14.8, "seats": 66, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "NLD": {
+    "electionDate": "2023-11-22",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 150,
+    "turnoutPct": 77.7,
+    "source": "Kiesraad",
+    "sourceUrl": "https://www.kiesraad.nl/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PVV", "fullName": "Partij voor de Vrijheid (Wilders)", "votePct": 23.5, "seats": 37, "color": "#003CB3", "inGovt": true },
+      { "name": "GL-PvdA", "fullName": "GroenLinks–Partij van de Arbeid", "votePct": 15.8, "seats": 25, "color": "#E30613", "inGovt": false },
+      { "name": "VVD", "fullName": "Volkspartij voor Vrijheid en Democratie", "votePct": 15.2, "seats": 24, "color": "#0070C0", "inGovt": true },
+      { "name": "NSC", "fullName": "Nieuw Sociaal Contract", "votePct": 12.9, "seats": 20, "color": "#66AA44", "inGovt": true },
+      { "name": "D66", "fullName": "Democraten 66", "votePct": 6.3, "seats": 10, "color": "#00BB33", "inGovt": false },
+      { "name": "BBB", "fullName": "BoerBurgerBeweging", "votePct": 4.7, "seats": 7, "color": "#7AC432", "inGovt": true },
+      { "name": "Otros", "votePct": 21.6, "seats": 27, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "POL": {
+    "electionDate": "2023-10-15",
+    "electionType": "Legislativas (Sejm)",
+    "resultType": "legislativo",
+    "totalSeats": 460,
+    "turnoutPct": 74.4,
+    "note": "PiS obtuvo más votos pero no pudo formar mayoría. KO+TD+Lewica (248 esc.) formaron gobierno de coalición con Donald Tusk como PM.",
+    "source": "Państwowa Komisja Wyborcza (PKW)",
+    "sourceUrl": "https://wybory.gov.pl/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PiS", "fullName": "Prawo i Sprawiedliwość (Ley y Justicia)", "votePct": 35.4, "seats": 194, "color": "#003189", "inGovt": false },
+      { "name": "KO", "fullName": "Koalicja Obywatelska (Tusk)", "votePct": 30.7, "seats": 157, "color": "#F5A623", "inGovt": true },
+      { "name": "TD", "fullName": "Trzecia Droga (PSL + Polska 2050)", "votePct": 14.4, "seats": 65, "color": "#66AA44", "inGovt": true },
+      { "name": "Lewica", "fullName": "Lewica (Izquierda)", "votePct": 8.6, "seats": 26, "color": "#E30613", "inGovt": true },
+      { "name": "Konfederacja", "fullName": "Konfederacja", "votePct": 7.2, "seats": 18, "color": "#1A1A6C", "inGovt": false }
+    ]
+  },
+  "SWE": {
+    "electionDate": "2022-09-11",
+    "electionType": "Legislativas (Riksdag)",
+    "resultType": "legislativo",
+    "totalSeats": 349,
+    "turnoutPct": 84.2,
+    "source": "Valmyndigheten",
+    "sourceUrl": "https://www.val.se/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "S", "fullName": "Socialdemokraterna", "votePct": 30.3, "seats": 107, "color": "#E30613", "inGovt": false },
+      { "name": "SD", "fullName": "Sverigedemokraterna", "votePct": 20.5, "seats": 73, "color": "#1A1A6C", "inGovt": false },
+      { "name": "M", "fullName": "Moderaterna", "votePct": 19.1, "seats": 68, "color": "#52BDEC", "inGovt": true },
+      { "name": "C", "fullName": "Centerpartiet", "votePct": 6.7, "seats": 24, "color": "#009933", "inGovt": false },
+      { "name": "V", "fullName": "Vänsterpartiet", "votePct": 6.7, "seats": 24, "color": "#CC1111", "inGovt": false },
+      { "name": "MP", "fullName": "Miljöpartiet de Gröna", "votePct": 5.1, "seats": 18, "color": "#83CF39", "inGovt": false },
+      { "name": "KD", "fullName": "Kristdemokraterna", "votePct": 5.3, "seats": 19, "color": "#003189", "inGovt": true },
+      { "name": "L", "fullName": "Liberalerna", "votePct": 4.7, "seats": 16, "color": "#006AB3", "inGovt": true }
+    ]
+  },
+  "BEL": {
+    "electionDate": "2024-06-09",
+    "electionType": "Legislativas (Cámara de Representantes)",
+    "resultType": "legislativo",
+    "totalSeats": 150,
+    "turnoutPct": 90.3,
+    "note": "Elecciones simultáneas al Parlamento Europeo y a los Parlamentos regionales. Sistema de voto obligatorio.",
+    "source": "Ibz.be – Ministerio del Interior de Bélgica",
+    "sourceUrl": "https://elections2024.belgium.be/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "N-VA", "fullName": "Nieuw-Vlaamse Alliantie", "votePct": 16.7, "seats": 24, "color": "#F5A623", "inGovt": true },
+      { "name": "MR", "fullName": "Mouvement Réformateur", "votePct": 10.9, "seats": 20, "color": "#0070C0", "inGovt": true },
+      { "name": "Vlaams Belang", "fullName": "Vlaams Belang", "votePct": 13.7, "seats": 20, "color": "#1A1A6C", "inGovt": false },
+      { "name": "PS", "fullName": "Parti Socialiste", "votePct": 8.2, "seats": 16, "color": "#E30613", "inGovt": true },
+      { "name": "Vooruit", "fullName": "Vooruit (socialdemócratas flamencos)", "votePct": 8.5, "seats": 13, "color": "#FF6600", "inGovt": true },
+      { "name": "Les Engagés", "fullName": "Les Engagés (CD&V+)", "votePct": 6.6, "seats": 14, "color": "#003189", "inGovt": true },
+      { "name": "Otros", "votePct": 35.4, "seats": 43, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "AUT": {
+    "electionDate": "2024-09-29",
+    "electionType": "Legislativas (Nationalrat)",
+    "resultType": "legislativo",
+    "totalSeats": 183,
+    "turnoutPct": 77.9,
+    "note": "FPÖ ganó las elecciones pero fue excluida de la coalición. ÖVP, SPÖ y NEOS negociaron gobierno, que fracasó. Finalmente FPÖ accedió al gobierno en 2025.",
+    "source": "Bundesministerium Inneres (BMI)",
+    "sourceUrl": "https://www.bmi.gv.at/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "FPÖ", "fullName": "Freiheitliche Partei Österreichs", "votePct": 29.0, "seats": 57, "color": "#003189", "inGovt": true },
+      { "name": "ÖVP", "fullName": "Österreichische Volkspartei", "votePct": 26.3, "seats": 51, "color": "#1A1A1A", "inGovt": true },
+      { "name": "SPÖ", "fullName": "Sozialdemokratische Partei Österreichs", "votePct": 21.1, "seats": 41, "color": "#E30613", "inGovt": false },
+      { "name": "NEOS", "fullName": "NEOS – Das Neue Österreich", "votePct": 9.2, "seats": 18, "color": "#E91E8C", "inGovt": false },
+      { "name": "Greens", "fullName": "Die Grünen", "votePct": 8.2, "seats": 16, "color": "#46962B", "inGovt": false }
+    ]
+  },
+  "CHE": {
+    "electionDate": "2023-10-22",
+    "electionType": "Legislativas (Consejo Nacional)",
+    "resultType": "legislativo",
+    "totalSeats": 200,
+    "turnoutPct": 46.6,
+    "source": "Cancillería Federal de Suiza",
+    "sourceUrl": "https://www.bk.admin.ch/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "SVP/UDC", "fullName": "Schweizerische Volkspartei / Union Démocratique du Centre", "votePct": 27.9, "seats": 62, "color": "#00843D", "inGovt": true },
+      { "name": "SP/PS", "fullName": "Sozialdemokratische Partei / Parti Socialiste", "votePct": 18.3, "seats": 41, "color": "#E30613", "inGovt": true },
+      { "name": "FDP/PLR", "fullName": "FDP.Die Liberalen / PLR.Les Libéraux-Radicaux", "votePct": 14.4, "seats": 28, "color": "#0070C0", "inGovt": true },
+      { "name": "Mitte/Le Centre", "fullName": "Die Mitte / Le Centre", "votePct": 14.6, "seats": 29, "color": "#F5A623", "inGovt": true },
+      { "name": "GPS/PES", "fullName": "Grüne Partei Schweiz / Parti Écologiste Suisse", "votePct": 9.4, "seats": 23, "color": "#46962B", "inGovt": false },
+      { "name": "GLP/PVL", "fullName": "Grünliberale Partei / Parti Vert'libéral", "votePct": 7.2, "seats": 10, "color": "#83CF39", "inGovt": false },
+      { "name": "Otros", "votePct": 8.2, "seats": 7, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "NOR": {
+    "electionDate": "2021-09-13",
+    "electionType": "Legislativas (Storting)",
+    "resultType": "legislativo",
+    "totalSeats": 169,
+    "turnoutPct": 77.2,
+    "source": "Valgdirektoratet (Autoridad Electoral de Noruega)",
+    "sourceUrl": "https://www.valg.no/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Ap", "fullName": "Arbeiderpartiet (Laboristas)", "votePct": 26.3, "seats": 48, "color": "#E30613", "inGovt": true },
+      { "name": "H", "fullName": "Høyre (Conservadores)", "votePct": 20.4, "seats": 36, "color": "#0070C0", "inGovt": false },
+      { "name": "Sp", "fullName": "Senterpartiet", "votePct": 13.6, "seats": 28, "color": "#00A95C", "inGovt": true },
+      { "name": "FrP", "fullName": "Fremskrittspartiet", "votePct": 11.6, "seats": 21, "color": "#003189", "inGovt": false },
+      { "name": "SV", "fullName": "Sosialistisk Venstreparti", "votePct": 7.6, "seats": 13, "color": "#CC0000", "inGovt": false },
+      { "name": "Otros", "votePct": 20.5, "seats": 23, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "DNK": {
+    "electionDate": "2022-11-01",
+    "electionType": "Legislativas (Folketing)",
+    "resultType": "legislativo",
+    "totalSeats": 179,
+    "turnoutPct": 84.3,
+    "source": "Indenrigs- og Sundhedsministeriet",
+    "sourceUrl": "https://www.elections.dk/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "S", "fullName": "Socialdemokratiet", "votePct": 27.5, "seats": 50, "color": "#E30613", "inGovt": true },
+      { "name": "V", "fullName": "Venstre", "votePct": 13.3, "seats": 23, "color": "#003189", "inGovt": true },
+      { "name": "M", "fullName": "Moderaterne", "votePct": 9.3, "seats": 16, "color": "#6B2D8B", "inGovt": true },
+      { "name": "DF", "fullName": "Dansk Folkeparti", "votePct": 2.6, "seats": 7, "color": "#F5A623", "inGovt": false },
+      { "name": "SF", "fullName": "Socialistisk Folkeparti", "votePct": 8.3, "seats": 15, "color": "#CC0000", "inGovt": false },
+      { "name": "Otros", "votePct": 39.0, "seats": 68, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "GRC": {
+    "electionDate": "2023-06-25",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 300,
+    "turnoutPct": 53.0,
+    "note": "Segunda elección de 2023 (la primera en mayo no produjo gobierno viable). La prima electoral al primer partido otorgó a ND mayoría absoluta.",
+    "source": "Υπουργείο Εσωτερικών (Ministerio del Interior de Grecia)",
+    "sourceUrl": "https://www.ypes.gr/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "ND", "fullName": "Nueva Democracia", "votePct": 40.5, "seats": 158, "color": "#0070C0", "inGovt": true },
+      { "name": "SYRIZA", "fullName": "SYRIZA–Alianza Progresista", "votePct": 17.8, "seats": 48, "color": "#CC0000", "inGovt": false },
+      { "name": "PASOK", "fullName": "PASOK–KINAL", "votePct": 11.9, "seats": 32, "color": "#00A95C", "inGovt": false },
+      { "name": "KKE", "fullName": "Partido Comunista de Grecia", "votePct": 7.7, "seats": 21, "color": "#8B0000", "inGovt": false },
+      { "name": "Spartiates", "fullName": "Spartiates", "votePct": 4.7, "seats": 12, "color": "#003189", "inGovt": false },
+      { "name": "Otros", "votePct": 17.4, "seats": 29, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "HUN": {
+    "electionDate": "2022-04-03",
+    "electionType": "Legislativas (Országgyűlés)",
+    "resultType": "legislativo",
+    "totalSeats": 199,
+    "turnoutPct": 69.6,
+    "source": "Nemzeti Választási Iroda (NVI)",
+    "sourceUrl": "https://www.valasztas.hu/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Fidesz–KDNP", "fullName": "Fidesz–Kereszténydemokrata Néppárt", "votePct": 54.1, "seats": 135, "color": "#F5A623", "inGovt": true },
+      { "name": "Egységben", "fullName": "Egységben Magyarországért (coalición opositora)", "votePct": 34.4, "seats": 57, "color": "#0070C0", "inGovt": false },
+      { "name": "Mi Hazánk", "fullName": "Mi Hazánk Mozgalom", "votePct": 5.9, "seats": 6, "color": "#1A1A6C", "inGovt": false },
+      { "name": "Otros", "votePct": 5.6, "seats": 1, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "ROU": {
+    "electionDate": "2024-11-24",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 330,
+    "turnoutPct": 52.4,
+    "note": "Elecciones simultáneas presidenciales y legislativas. La primera vuelta presidencial fue anulada por el Tribunal Constitucional. Nicuşor Dan ganó la presidencia en segunda vuelta (mayo 2025).",
+    "source": "Autoridad Electoral Permanente de Rumanía (AEP)",
+    "sourceUrl": "https://www.roaep.ro/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PSD", "fullName": "Partidul Social Democrat", "votePct": 22.3, "seats": 86, "color": "#E30613", "inGovt": true },
+      { "name": "PNL", "fullName": "Partidul Național Liberal", "votePct": 14.3, "seats": 49, "color": "#F5A623", "inGovt": true },
+      { "name": "AUR", "fullName": "Aliança pentru Unirea Românilor", "votePct": 18.3, "seats": 64, "color": "#F5C400", "inGovt": false },
+      { "name": "USR", "fullName": "Uniunea Salvați România", "votePct": 12.4, "seats": 40, "color": "#0070C0", "inGovt": false },
+      { "name": "POT", "fullName": "Partidul Oamenilor Tineri", "votePct": 6.5, "seats": 40, "color": "#003189", "inGovt": false },
+      { "name": "Otros", "votePct": 26.2, "seats": 51, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "TUR": {
+    "electionDate": "2023-05-28",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 84.2,
+    "source": "Yüksek Seçim Kurulu (YSK)",
+    "sourceUrl": "https://www.ysk.gov.tr/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Alianza Popular", "fullName": "Alianza Popular (AKP+MHP+Yeniden Refah+…)", "candidate": "Recep Tayyip Erdoğan", "votePct": 52.2, "color": "#F5A623", "inGovt": true },
+      { "name": "Alianza de la Nación", "fullName": "Alianza de la Nación (CHP+IYI+…)", "candidate": "Kemal Kılıçdaroğlu", "votePct": 47.8, "color": "#E30613", "inGovt": false }
+    ]
+  },
+  "RUS": {
+    "electionDate": "2024-03-17",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 77.4,
+    "note": "Observadores internacionales independientes no pudieron operar libremente. La OSCE/ODIHR no fue invitada. Candidatos críticos con el Kremlin no pudieron presentarse. Los resultados no son comparables con estándares democráticos internacionales.",
+    "source": "Comisión Electoral Central de Rusia (ЦИК)",
+    "sourceUrl": "https://www.cikrf.ru/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Independiente", "fullName": "Independiente (apoyado por Rusia Unida)", "candidate": "Vladímir Putin", "votePct": 87.3, "color": "#003189", "inGovt": true },
+      { "name": "LDPR", "fullName": "Partido Liberal Democrático de Rusia", "candidate": "Leonid Slutsky", "votePct": 4.3, "color": "#0070C0", "inGovt": false },
+      { "name": "NPLP", "fullName": "Partido Comunista de Rusia (KPRF) – Kharitónov", "candidate": "Nikolái Kharitónov", "votePct": 4.3, "color": "#CC0000", "inGovt": false },
+      { "name": "Davankov (NL)", "fullName": "Nueva Gente (Novye Lyudi)", "candidate": "Vladislav Davankov", "votePct": 3.9, "color": "#00A95C", "inGovt": false }
+    ]
+  },
+  "IND": {
+    "electionDate": "2024-06-04",
+    "electionType": "Generales (Lok Sabha)",
+    "resultType": "legislativo",
+    "totalSeats": 543,
+    "turnoutPct": 65.8,
+    "source": "Election Commission of India",
+    "sourceUrl": "https://results.eci.gov.in/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "BJP", "fullName": "Bharatiya Janata Party", "votePct": 36.6, "seats": 240, "color": "#FF9500", "inGovt": true },
+      { "name": "INC", "fullName": "Indian National Congress", "votePct": 21.2, "seats": 99, "color": "#0070C0", "inGovt": false },
+      { "name": "SP", "fullName": "Samajwadi Party", "votePct": 6.9, "seats": 37, "color": "#E30613", "inGovt": false },
+      { "name": "AITC", "fullName": "All India Trinamool Congress", "votePct": 7.4, "seats": 29, "color": "#00A95C", "inGovt": false },
+      { "name": "Otros", "votePct": 27.9, "seats": 138, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "JPN": {
+    "electionDate": "2024-10-27",
+    "electionType": "Cámara de Representantes (Shūgiin)",
+    "resultType": "legislativo",
+    "totalSeats": 465,
+    "turnoutPct": 53.9,
+    "note": "El PLD perdió su mayoría absoluta por primera vez desde 2009. El gobierno de coalición PLD+Komeito quedó en minoría (215 esc.), necesitando apoyo externo.",
+    "source": "Comisión Electoral Central de Japón (Jichishō)",
+    "sourceUrl": "https://www.soumu.go.jp/senkyo/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PLD", "fullName": "Partido Liberal Democrático (自民党)", "votePct": 28.3, "seats": 191, "color": "#009EE0", "inGovt": true },
+      { "name": "CDP", "fullName": "Partido Democrático Constitucional (立憲民主党)", "votePct": 21.3, "seats": 148, "color": "#E30613", "inGovt": false },
+      { "name": "Komeito", "fullName": "Komeito (公明党)", "votePct": 11.4, "seats": 24, "color": "#F5A623", "inGovt": true },
+      { "name": "Ishin", "fullName": "Nippon Ishin no Kai (日本維新の会)", "votePct": 9.2, "seats": 38, "color": "#00A95C", "inGovt": false },
+      { "name": "DPP", "fullName": "Partido Democrático Popular (国民民主党)", "votePct": 7.2, "seats": 28, "color": "#0070C0", "inGovt": false },
+      { "name": "Reiwa", "fullName": "Reiwa Shinsengumi (れいわ新選組)", "votePct": 4.0, "seats": 9, "color": "#FF6600", "inGovt": false },
+      { "name": "Otros", "votePct": 18.6, "seats": 27, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "KOR": {
+    "electionDate": "2024-04-10",
+    "electionType": "Legislativas (Asamblea Nacional)",
+    "resultType": "legislativo",
+    "totalSeats": 300,
+    "turnoutPct": 67.0,
+    "note": "La oposición obtuvo mayoría amplia. El presidente Yoon fue sometido a impeachment en diciembre de 2024 por declarar la ley marcial, siendo finalmente destituido.",
+    "source": "Comisión Electoral Nacional de Corea (NEC)",
+    "sourceUrl": "https://www.nec.go.kr/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "DP", "fullName": "Partido Democrático (더불어민주당)", "votePct": 36.2, "seats": 175, "color": "#0070C0", "inGovt": false },
+      { "name": "PPP", "fullName": "Partido del Poder Popular (국민의힘)", "votePct": 36.4, "seats": 108, "color": "#E30613", "inGovt": true },
+      { "name": "RKP", "fullName": "Partido de Reconstrucción de Corea (조국혁신당)", "votePct": 24.3, "seats": 12, "color": "#00A95C", "inGovt": false },
+      { "name": "Otros", "votePct": 3.1, "seats": 5, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "IDN": {
+    "electionDate": "2024-02-14",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 81.8,
+    "source": "Komisi Pemilihan Umum (KPU)",
+    "sourceUrl": "https://pemilu2024.kpu.go.id/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Prabowo–Gibran", "fullName": "Gerindra + aliados", "candidate": "Prabowo Subianto", "votePct": 58.6, "color": "#003189", "inGovt": true },
+      { "name": "Anies–Muhaimin", "fullName": "NasDem + PKS + PKB", "candidate": "Anies Baswedan", "votePct": 24.9, "color": "#00A95C", "inGovt": false },
+      { "name": "Ganjar–Mahfud", "fullName": "PDI-P + PPP", "candidate": "Ganjar Pranowo", "votePct": 16.5, "color": "#E30613", "inGovt": false }
+    ]
+  },
+  "AUS": {
+    "electionDate": "2025-05-03",
+    "electionType": "Legislativas (House of Representatives)",
+    "resultType": "legislativo",
+    "totalSeats": 151,
+    "turnoutPct": 90.5,
+    "source": "Australian Electoral Commission (AEC)",
+    "sourceUrl": "https://www.aec.gov.au/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "ALP", "fullName": "Australian Labor Party", "votePct": 34.7, "seats": 94, "color": "#E30613", "inGovt": true },
+      { "name": "LNP", "fullName": "Liberal-National Coalition", "votePct": 31.8, "seats": 40, "color": "#0070C0", "inGovt": false },
+      { "name": "Greens", "fullName": "Australian Greens", "votePct": 12.3, "seats": 4, "color": "#009933", "inGovt": false },
+      { "name": "Teal/Ind.", "fullName": "Independientes Teal y otros", "votePct": 21.2, "seats": 13, "color": "#008080", "inGovt": false }
+    ]
+  },
+  "PAK": {
+    "electionDate": "2024-02-08",
+    "electionType": "Legislativas (Asamblea Nacional)",
+    "resultType": "legislativo",
+    "totalSeats": 266,
+    "turnoutPct": 47.4,
+    "note": "Los candidatos del PTI de Imran Khan concurrieron como independientes (el PTI fue suspendido del símbolo electoral). Los independientes PTI-afines ganaron el mayor bloque.",
+    "source": "Comisión Electoral de Pakistán (ECP)",
+    "sourceUrl": "https://www.ecp.gov.pk/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Ind. (PTI)", "fullName": "Independientes apoyados por PTI (Imran Khan)", "votePct": 35.0, "seats": 93, "color": "#CC0000", "inGovt": false },
+      { "name": "PML-N", "fullName": "Pakistan Muslim League – Nawaz", "votePct": 21.4, "seats": 75, "color": "#003189", "inGovt": true },
+      { "name": "PPP", "fullName": "Pakistan Peoples Party", "votePct": 15.4, "seats": 54, "color": "#E30613", "inGovt": true },
+      { "name": "MQM-P", "fullName": "Muttahida Qaumi Movement–Pakistan", "votePct": 4.9, "seats": 17, "color": "#00A95C", "inGovt": true },
+      { "name": "Otros", "votePct": 23.3, "seats": 27, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "THA": {
+    "electionDate": "2023-05-14",
+    "electionType": "Legislativas (Cámara de Representantes)",
+    "resultType": "legislativo",
+    "totalSeats": 500,
+    "note": "Move Forward ganó más escaños pero fue bloqueado para gobernar por el Senado. El Tribunal Constitucional disolvió el partido en 2024. Pheu Thai formó gobierno.",
+    "source": "Comisión Electoral de Tailandia (ECT)",
+    "sourceUrl": "https://www.ect.go.th/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Move Forward", "fullName": "Move Forward Party (พรรคก้าวไกล)", "votePct": 36.2, "seats": 151, "color": "#FF6600", "inGovt": false },
+      { "name": "Pheu Thai", "fullName": "Pheu Thai (เพื่อไทย)", "votePct": 29.0, "seats": 141, "color": "#E30613", "inGovt": true },
+      { "name": "Bhumjaithai", "fullName": "Bhumjaithai (ภูมิใจไทย)", "votePct": 10.5, "seats": 71, "color": "#003189", "inGovt": true },
+      { "name": "PPRP", "fullName": "Palang Pracharath (พลังประชารัฐ)", "votePct": 8.2, "seats": 40, "color": "#0070C0", "inGovt": false },
+      { "name": "Otros", "votePct": 16.1, "seats": 97, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "PHL": {
+    "electionDate": "2022-05-09",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 83.0,
+    "source": "Commission on Elections (COMELEC)",
+    "sourceUrl": "https://comelec.gov.ph/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "UniTeam", "fullName": "UniTeam (Marcos–Duterte)", "candidate": "Ferdinand Marcos Jr.", "votePct": 58.8, "color": "#003189", "inGovt": true },
+      { "name": "1Sambayan", "fullName": "1Sambayan / VP Robredo", "candidate": "Leni Robredo", "votePct": 27.9, "color": "#E91E8C", "inGovt": false },
+      { "name": "Manny Pacquiao", "fullName": "Independiente", "candidate": "Manny Pacquiao", "votePct": 6.8, "color": "#F5A623", "inGovt": false },
+      { "name": "Otros", "votePct": 6.5, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "IRN": {
+    "electionDate": "2024-07-05",
+    "electionType": "Presidencial (2.ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 49.8,
+    "note": "Los candidatos son previamente aprobados por el Consejo de Guardianes. Solo se permitió presentarse a un candidato reformista (Pezeshkian) frente a 3 conservadores. No cumple los estándares de competencia electoral libre.",
+    "source": "Ministerio del Interior de Irán",
+    "sourceUrl": "https://www.moi.ir/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Reformistas", "fullName": "Reformistas – Jebhe Eslah", "candidate": "Masoud Pezeshkian", "votePct": 54.4, "color": "#00A95C", "inGovt": true },
+      { "name": "Conservadores", "fullName": "Conservadores – Principalistas", "candidate": "Saeed Jalili", "votePct": 44.4, "color": "#003189", "inGovt": false }
+    ]
+  },
+  "ISR": {
+    "electionDate": "2022-11-01",
+    "electionType": "Legislativas (Knesset)",
+    "resultType": "legislativo",
+    "totalSeats": 120,
+    "turnoutPct": 70.6,
+    "source": "Comité Electoral Central de Israel",
+    "sourceUrl": "https://www.gov.il/en/departments/central_elections_committee",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Likud", "fullName": "Likud", "votePct": 23.4, "seats": 32, "color": "#003189", "inGovt": true },
+      { "name": "Yesh Atid", "fullName": "Yesh Atid", "votePct": 17.8, "seats": 24, "color": "#0070C0", "inGovt": false },
+      { "name": "Sionismo Religioso", "fullName": "Sionismo Religioso–Otzma Yehudit–Noam", "votePct": 10.8, "seats": 14, "color": "#1A1A6C", "inGovt": true },
+      { "name": "Unidad Nacional", "fullName": "HaMahane HaMamlachti (Unidad Nacional)", "votePct": 9.1, "seats": 12, "color": "#52BDEC", "inGovt": false },
+      { "name": "Shas", "fullName": "Shas", "votePct": 8.3, "seats": 11, "color": "#F5A623", "inGovt": true },
+      { "name": "UTJ", "fullName": "Unión del Judaísmo Torah", "votePct": 5.9, "seats": 7, "color": "#1A1A1A", "inGovt": true },
+      { "name": "Israel Beiteinu", "fullName": "Israel Beteinu", "votePct": 4.5, "seats": 6, "color": "#0070C0", "inGovt": false },
+      { "name": "Ra'am", "fullName": "Ra'am (Lista Árabe Unida)", "votePct": 4.1, "seats": 5, "color": "#00A95C", "inGovt": false },
+      { "name": "Hadash–Ta'al", "fullName": "Hadash–Ta'al", "votePct": 3.8, "seats": 5, "color": "#CC0000", "inGovt": false },
+      { "name": "Labor", "fullName": "Partido Laborista", "votePct": 3.7, "seats": 4, "color": "#E30613", "inGovt": false }
+    ]
+  },
+  "EGY": {
+    "electionDate": "2023-12-10",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 66.8,
+    "note": "Elección con candidaturas muy limitadas. Partidos de oposición significativos no pudieron presentar candidatos viables. Los observadores internacionales señalaron restricciones al espacio democrático.",
+    "source": "Alta Comisión Electoral de Egipto",
+    "sourceUrl": "https://www.elections.eg/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Independiente", "fullName": "Independiente (apoyado por Nación del Futuro)", "candidate": "Abdel Fatah Al-Sisi", "votePct": 89.6, "color": "#003189", "inGovt": true },
+      { "name": "Hazem Omar", "fullName": "Partido Republicano del Pueblo", "candidate": "Hazem Omar", "votePct": 4.5, "color": "#F5A623", "inGovt": false },
+      { "name": "Farid Zahran", "fullName": "Partido Democrático Social Egipcio", "candidate": "Farid Zahran", "votePct": 3.8, "color": "#00A95C", "inGovt": false }
+    ]
+  },
+  "NGA": {
+    "electionDate": "2023-02-25",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 29.0,
+    "note": "Resultado impugnado judicialmente por los candidatos Atiku Abubakar y Peter Obi. El Tribunal Supremo confirmó la victoria de Tinubu en febrero de 2024.",
+    "source": "Independent National Electoral Commission (INEC)",
+    "sourceUrl": "https://inecnigeria.org/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "APC", "fullName": "All Progressives Congress", "candidate": "Bola Tinubu", "votePct": 36.6, "color": "#003189", "inGovt": true },
+      { "name": "PDP", "fullName": "Peoples Democratic Party", "candidate": "Atiku Abubakar", "votePct": 29.1, "color": "#E30613", "inGovt": false },
+      { "name": "LP", "fullName": "Labour Party", "candidate": "Peter Obi", "votePct": 25.1, "color": "#00A95C", "inGovt": false },
+      { "name": "NNPP", "fullName": "New Nigeria Peoples Party", "candidate": "Rabiu Kwankwaso", "votePct": 6.4, "color": "#F5A623", "inGovt": false }
+    ]
+  },
+  "ZAF": {
+    "electionDate": "2024-05-29",
+    "electionType": "Legislativas (Asamblea Nacional)",
+    "resultType": "legislativo",
+    "totalSeats": 400,
+    "turnoutPct": 58.6,
+    "note": "Primera vez desde 1994 que el ANC no obtiene mayoría absoluta. Formó un Gobierno de Unidad Nacional (GNU) con DA, IFP y otros partidos.",
+    "source": "Electoral Commission of South Africa (IEC)",
+    "sourceUrl": "https://www.elections.org.za/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "ANC", "fullName": "African National Congress", "votePct": 40.2, "seats": 159, "color": "#00A95C", "inGovt": true },
+      { "name": "DA", "fullName": "Democratic Alliance", "votePct": 21.8, "seats": 87, "color": "#0070C0", "inGovt": true },
+      { "name": "MKP", "fullName": "uMkhonto we Sizwe Party (Zuma)", "votePct": 14.6, "seats": 58, "color": "#003189", "inGovt": false },
+      { "name": "EFF", "fullName": "Economic Freedom Fighters", "votePct": 9.5, "seats": 39, "color": "#CC0000", "inGovt": false },
+      { "name": "IFP", "fullName": "Inkatha Freedom Party", "votePct": 3.8, "seats": 17, "color": "#F5A623", "inGovt": true },
+      { "name": "Otros", "votePct": 10.1, "seats": 40, "color": "#888888", "inGovt": false }
+    ]
+  },
+  "KEN": {
+    "electionDate": "2022-08-09",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 65.4,
+    "note": "Resultado impugnado ante el Tribunal Supremo de Kenia, que lo confirmó en septiembre de 2022.",
+    "source": "Independent Electoral and Boundaries Commission (IEBC)",
+    "sourceUrl": "https://www.iebc.or.ke/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Kenya Kwanza", "fullName": "Kenya Kwanza (UDA+Amani+…)", "candidate": "William Ruto", "votePct": 50.5, "color": "#F5A623", "inGovt": true },
+      { "name": "Azimio", "fullName": "Azimio la Umoja (ODM+Jubilee+…)", "candidate": "Raila Odinga", "votePct": 48.8, "color": "#0070C0", "inGovt": false }
+    ]
+  },
+  "SAU": {
+    "electionDate": "2021-03-29",
+    "electionType": "Municipales (Consejos locales)",
+    "resultType": "legislativo",
+    "totalSeats": 1000,
+    "note": "Arabia Saudí no celebra elecciones nacionales legislativas ni presidenciales. Las únicas elecciones son municipales con candidaturas individuales, sin partidos políticos autorizados. El gobierno es una monarquía absoluta.",
+    "source": "Comisión Electoral General de Arabia Saudí",
+    "sourceUrl": "https://www.elections.gov.sa/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Candidaturas independientes", "fullName": "Sin partidos políticos — candidaturas individuales", "votePct": 100.0, "color": "#00843D", "inGovt": true }
+    ]
+  },
+  "FIN": {
+    "electionDate": "2023-04-02",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 200,
+    "turnoutPct": 71.9,
+    "note": null,
+    "source": "Ministry of Justice Finland",
+    "sourceUrl": "https://tulospalvelu.vaalit.fi/FI-2023/en/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "NCP", "fullName": "Partido de la Coalición Nacional", "votePct": 20.8, "seats": 48, "color": "#003580", "inGovt": true },
+      { "name": "PS", "fullName": "Verdaderos Finlandeses", "votePct": 20.1, "seats": 46, "color": "#002F6C", "inGovt": true },
+      { "name": "SDP", "fullName": "Partido Socialdemócrata", "votePct": 19.9, "seats": 43, "color": "#E8112D", "inGovt": false },
+      { "name": "Kesk", "fullName": "Partido del Centro", "votePct": 11.3, "seats": 23, "color": "#006633", "inGovt": true },
+      { "name": "Vihr", "fullName": "Liga Verde", "votePct": 7.1, "seats": 13, "color": "#009900", "inGovt": false },
+      { "name": "Vas", "fullName": "Alianza de la Izquierda", "votePct": 7.1, "seats": 11, "color": "#990000", "inGovt": false },
+      { "name": "RKP/SFP", "fullName": "Partido Popular Sueco", "votePct": 4.9, "seats": 10, "color": "#FFDD00", "inGovt": true }
+    ]
+  },
+  "CZE": {
+    "electionDate": "2021-10-08",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 200,
+    "turnoutPct": 65.4,
+    "note": null,
+    "source": "Czech Statistical Office",
+    "sourceUrl": "https://www.volby.cz/pls/ps2021/ps2?xjazyk=EN",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "SPOLU", "fullName": "Coalición SPOLU (ODS+KDU-ČSL+TOP 09)", "votePct": 27.8, "seats": 71, "color": "#034EA2", "inGovt": true },
+      { "name": "ANO", "fullName": "ANO 2011", "votePct": 27.1, "seats": 72, "color": "#1875BC", "inGovt": false },
+      { "name": "PirStan", "fullName": "Piratas y Alcaldes", "votePct": 15.6, "seats": 37, "color": "#FF6600", "inGovt": true },
+      { "name": "SPD", "fullName": "Libertad y Democracia Directa", "votePct": 9.6, "seats": 20, "color": "#4A0404", "inGovt": false }
+    ]
+  },
+  "SVK": {
+    "electionDate": "2023-09-30",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 150,
+    "turnoutPct": 68.5,
+    "note": null,
+    "source": "Statistical Office of the Slovak Republic",
+    "sourceUrl": "https://volby.statistics.sk/nrsr/nrsr2023/en/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Smer", "fullName": "Smer – Socialdemocracia", "votePct": 22.9, "seats": 42, "color": "#E63E11", "inGovt": true },
+      { "name": "PS", "fullName": "Eslovaquia Progresista", "votePct": 18.0, "seats": 32, "color": "#0088CC", "inGovt": false },
+      { "name": "Hlas", "fullName": "Hlas – Socialdemocracia", "votePct": 14.7, "seats": 27, "color": "#CC0000", "inGovt": true },
+      { "name": "OĽaNO", "fullName": "Gente Ordinaria e Independientes", "votePct": 8.9, "seats": 16, "color": "#1E8449", "inGovt": false },
+      { "name": "KDH", "fullName": "Movimiento Democristiano", "votePct": 6.8, "seats": 12, "color": "#003399", "inGovt": true },
+      { "name": "SNS", "fullName": "Partido Nacional Eslovaco", "votePct": 5.6, "seats": 10, "color": "#003366", "inGovt": true }
+    ]
+  },
+  "BGR": {
+    "electionDate": "2024-10-27",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 240,
+    "turnoutPct": 38.6,
+    "note": "Bulgaria celebró 7 elecciones entre 2021-2024 por inestabilidad política. Resultado preliminar: elecciones más recientes.",
+    "source": "Central Election Commission Bulgaria",
+    "sourceUrl": "https://results.cik.bg/pi2024/rezultati/index.html",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "GERB", "fullName": "Ciudadanos para el Desarrollo Europeo de Bulgaria", "votePct": 25.0, "seats": 59, "color": "#003580", "inGovt": true },
+      { "name": "PP-DB", "fullName": "Continuamos el Cambio – Bulgaria Democrática", "votePct": 14.2, "seats": 36, "color": "#FF6600", "inGovt": false },
+      { "name": "DPS", "fullName": "Movimiento por los Derechos y Libertades", "votePct": 14.0, "seats": 29, "color": "#1875BC", "inGovt": false },
+      { "name": "BSP", "fullName": "Partido Socialista Búlgaro", "votePct": 10.1, "seats": 23, "color": "#E8112D", "inGovt": false },
+      { "name": "Vazrazhdane", "fullName": "Renacimiento", "votePct": 13.4, "seats": 30, "color": "#006400", "inGovt": false }
+    ]
+  },
+  "HRV": {
+    "electionDate": "2024-04-17",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 151,
+    "turnoutPct": 60.0,
+    "note": null,
+    "source": "State Electoral Commission Croatia",
+    "sourceUrl": "https://www.izbori.hr/site/en",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "HDZ", "fullName": "Unión Democrática Croata", "votePct": 34.5, "seats": 61, "color": "#003580", "inGovt": true },
+      { "name": "SDP", "fullName": "Partido Socialdemócrata de Croacia", "votePct": 24.9, "seats": 42, "color": "#E8112D", "inGovt": false },
+      { "name": "Domovinski pokret", "fullName": "Movimiento Patria", "votePct": 9.0, "seats": 14, "color": "#006400", "inGovt": true },
+      { "name": "Most", "fullName": "Puente de Listas Independientes", "votePct": 8.7, "seats": 11, "color": "#FF6600", "inGovt": false }
+    ]
+  },
+  "SRB": {
+    "electionDate": "2023-12-17",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 250,
+    "turnoutPct": 59.9,
+    "note": "Elecciones cuestionadas por observadores de la OSCE por irregularidades en el transporte de votantes.",
+    "source": "Republic Electoral Commission Serbia",
+    "sourceUrl": "https://www.rik.parlament.gov.rs/latinica/tekst/5244/rezultati-glasanja.php",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "SNS-led", "fullName": "Partido Progresista Serbio (coalición 'Serbia no debe parar')", "votePct": 46.1, "seats": 129, "color": "#F5A623", "inGovt": true },
+      { "name": "Serbia vs. violencia", "fullName": "Coalición Serbia contra la Violencia", "votePct": 23.5, "seats": 65, "color": "#0088CC", "inGovt": false },
+      { "name": "SPS", "fullName": "Partido Socialista de Serbia (coalición)", "votePct": 7.0, "seats": 20, "color": "#E8112D", "inGovt": true }
+    ]
+  },
+  "MDA": {
+    "electionDate": "2024-10-20",
+    "electionType": "Presidencial",
+    "resultType": "presidencial",
+    "turnoutPct": 51.7,
+    "note": "Segunda vuelta: 03-11-2024. Maia Sandu (PAS) reelegida con 55.3% en segunda vuelta. Simultánea con referéndum de adhesión a la UE (aprobado por 50.4%).",
+    "source": "Central Electoral Commission Moldova",
+    "sourceUrl": "https://alegeri.md",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Maia Sandu (PAS)", "fullName": "Partido Acción y Solidaridad — Maia Sandu", "candidate": "Maia Sandu", "votePct": 42.5, "color": "#0070C0", "inGovt": true },
+      { "name": "Alexandr Stoianoglo (PSRM)", "fullName": "Partido Socialista — Alexandr Stoianoglo", "candidate": "Alexandr Stoianoglo", "votePct": 25.9, "color": "#E8112D", "inGovt": false },
+      { "name": "Renato Usatii (NP)", "fullName": "Nuestro Partido — Renato Usatii", "candidate": "Renato Usatii", "votePct": 13.8, "color": "#FF6600", "inGovt": false }
+    ]
+  },
+  "NZL": {
+    "electionDate": "2023-10-14",
+    "electionType": "Generales",
+    "resultType": "legislativo",
+    "totalSeats": 122,
+    "turnoutPct": 78.2,
+    "note": null,
+    "source": "Electoral Commission New Zealand",
+    "sourceUrl": "https://www.electionresults.govt.nz/electionresults_2023/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "National", "fullName": "Partido Nacional de Nueva Zelanda", "votePct": 38.1, "seats": 48, "color": "#003580", "inGovt": true },
+      { "name": "Labour", "fullName": "Partido Laborista", "votePct": 26.9, "seats": 34, "color": "#E8112D", "inGovt": false },
+      { "name": "Green", "fullName": "Partido Verde", "votePct": 11.6, "seats": 15, "color": "#00A651", "inGovt": false },
+      { "name": "ACT", "fullName": "ACT Nueva Zelanda", "votePct": 8.6, "seats": 11, "color": "#FFCC00", "inGovt": true },
+      { "name": "NZ First", "fullName": "Nueva Zelanda Primero", "votePct": 6.1, "seats": 8, "color": "#1A1A1A", "inGovt": true }
+    ]
+  },
+  "MYS": {
+    "electionDate": "2022-11-19",
+    "electionType": "Legislativas federales",
+    "resultType": "legislativo",
+    "totalSeats": 222,
+    "turnoutPct": 73.0,
+    "note": null,
+    "source": "Election Commission of Malaysia",
+    "sourceUrl": "https://www.spr.gov.my/en/node/5571",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PH", "fullName": "Pakatan Harapan (Esperanza de la Alianza)", "votePct": 36.9, "seats": 82, "color": "#E8112D", "inGovt": true },
+      { "name": "BN", "fullName": "Barisan Nasional (Frente Nacional)", "votePct": 23.7, "seats": 30, "color": "#003580", "inGovt": true },
+      { "name": "PN", "fullName": "Perikatan Nasional", "votePct": 30.0, "seats": 73, "color": "#006400", "inGovt": false },
+      { "name": "GPS", "fullName": "Gabungan Parti Sarawak", "votePct": 4.0, "seats": 23, "color": "#FF6600", "inGovt": true }
+    ]
+  },
+  "GHA": {
+    "electionDate": "2024-12-07",
+    "electionType": "Presidencial y legislativas",
+    "resultType": "presidencial",
+    "turnoutPct": 60.9,
+    "note": null,
+    "source": "Electoral Commission of Ghana",
+    "sourceUrl": "https://www.ec.gov.gh",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "NDC — John Mahama", "fullName": "Congreso Nacional Democrático — John Mahama", "candidate": "John Mahama", "votePct": 56.6, "color": "#006400", "inGovt": true },
+      { "name": "NPP — Bawumia", "fullName": "Nuevo Partido Patriótico — Mahamudu Bawumia", "candidate": "Mahamudu Bawumia", "votePct": 41.6, "color": "#003580", "inGovt": false }
+    ]
+  },
+  "DOM": {
+    "electionDate": "2024-05-19",
+    "electionType": "Presidencial y legislativas",
+    "resultType": "presidencial",
+    "turnoutPct": 55.2,
+    "note": null,
+    "source": "Junta Central Electoral República Dominicana",
+    "sourceUrl": "https://jce.gob.do/Transparencia/ResultadosElectorales",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "PRM — Abinader", "fullName": "Partido Revolucionario Moderno — Luis Abinader", "candidate": "Luis Abinader", "votePct": 57.5, "color": "#003580", "inGovt": true },
+      { "name": "PLD — Abel Martínez", "fullName": "Partido de la Liberación Dominicana — Abel Martínez", "candidate": "Abel Martínez", "votePct": 28.2, "color": "#8B0000", "inGovt": false },
+      { "name": "FP — Guillermo Moreno", "fullName": "Fuerza del Pueblo — Guillermo Moreno", "candidate": "Guillermo Moreno", "votePct": 10.4, "color": "#FF6600", "inGovt": false }
+    ]
+  },
+  "GTM": {
+    "electionDate": "2023-08-20",
+    "electionType": "Presidencial (2ª vuelta)",
+    "resultType": "presidencial",
+    "turnoutPct": 45.1,
+    "note": null,
+    "source": "Tribunal Supremo Electoral Guatemala",
+    "sourceUrl": "https://resultados2023.tse.org.gt",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Semilla — Arévalo", "fullName": "Movimiento Semilla — Bernardo Arévalo", "candidate": "Bernardo Arévalo", "votePct": 60.9, "color": "#00A651", "inGovt": true },
+      { "name": "UNE — Torres", "fullName": "Unidad Nacional de la Esperanza — Sandra Torres", "candidate": "Sandra Torres", "votePct": 37.3, "color": "#E8112D", "inGovt": false }
+    ]
+  },
+  "IRQ": {
+    "electionDate": "2021-10-10",
+    "electionType": "Legislativas",
+    "resultType": "legislativo",
+    "totalSeats": 329,
+    "turnoutPct": 41.0,
+    "note": "La participación fue la más baja desde 2003. El líder del bloque ganador Muqtada al-Sadr se retiró del parlamento en 2022.",
+    "source": "Independent High Electoral Commission Iraq",
+    "sourceUrl": "https://ihec.iq/en/",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "Sairun (al-Sadr)", "fullName": "Alianza Sairun — Muqtada al-Sadr", "votePct": 19.4, "seats": 73, "color": "#006400", "inGovt": false },
+      { "name": "Taqadum", "fullName": "Alianza Taqadum (sunní)", "votePct": 10.8, "seats": 37, "color": "#003580", "inGovt": true },
+      { "name": "Estado de Ley", "fullName": "Coalición Estado de Ley — Nouri al-Maliki", "votePct": 10.2, "seats": 33, "color": "#8B0000", "inGovt": true },
+      { "name": "FNC (Kurdistan)", "fullName": "Frente Nacional del Kurdistán (PDK+UPK)", "votePct": 15.6, "seats": 58, "color": "#FF6600", "inGovt": true }
+    ]
+  },
+  "TZA": {
+    "electionDate": "2025-10-29",
+    "electionType": "Generales",
+    "resultType": "presidencial",
+    "turnoutPct": 67.5,
+    "note": "Resultados oficiales preliminares. Elecciones celebradas en octubre 2025.",
+    "source": "National Electoral Commission Tanzania",
+    "sourceUrl": "https://www.nec.go.tz",
+    "retrievedAt": "2026-11-23",
+    "parties": [
+      { "name": "CCM — Samia Hassan", "fullName": "Chama Cha Mapinduzi — Samia Suluhu Hassan", "candidate": "Samia Suluhu Hassan", "votePct": 76.6, "color": "#006400", "inGovt": true },
+      { "name": "Chadema — Mbowe", "fullName": "CHADEMA — Freeman Mbowe", "candidate": "Freeman Mbowe", "votePct": 15.9, "color": "#FF6600", "inGovt": false }
+    ]
+  }
+}

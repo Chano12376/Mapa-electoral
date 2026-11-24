@@ -1,0 +1,259 @@
+{
+  "iso3": "GRC",
+  "name": "Grecia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Katerina Sakellaropoulou",
+    "since": "2020-03-13",
+    "party": null,
+    "source": "Presidencia de la República Helénica",
+    "sourceUrl": "https://www.presidency.gr",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Kyriakos Mitsotakis",
+    "since": "2019-07-08",
+    "party": {
+      "qid": "Q200546",
+      "name": "Nueva Democracia"
+    },
+    "source": "Gobierno de Grecia",
+    "sourceUrl": "https://primeminister.gr/en/prime-minister/",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GRC",
+    "date": "2027-05-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Parlamento Helénico (300 escaños)",
+    "source": "Ministerio del Interior de Grecia",
+    "sourceUrl": "https://www.ypes.gr/ekloges/",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 194567373678.099
+        },
+        {
+          "year": 2016,
+          "value": 193097239005.87
+        },
+        {
+          "year": 2017,
+          "value": 200381103984.298
+        },
+        {
+          "year": 2018,
+          "value": 213298873494.394
+        },
+        {
+          "year": 2019,
+          "value": 207305649887.019
+        },
+        {
+          "year": 2020,
+          "value": 191362985554.861
+        },
+        {
+          "year": 2021,
+          "value": 218303801895.326
+        },
+        {
+          "year": 2022,
+          "value": 217990189600.69
+        },
+        {
+          "year": 2023,
+          "value": 242946187738.269
+        },
+        {
+          "year": 2024,
+          "value": 256238371778.118
+        },
+        {
+          "year": 2025,
+          "value": 280635521324.441
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GRC",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -0.228301892172851
+        },
+        {
+          "year": 2016,
+          "value": -0.0317947678412054
+        },
+        {
+          "year": 2017,
+          "value": 1.47312472702352
+        },
+        {
+          "year": 2018,
+          "value": 2.06467207892409
+        },
+        {
+          "year": 2019,
+          "value": 2.27718065334808
+        },
+        {
+          "year": 2020,
+          "value": -9.19623149726978
+        },
+        {
+          "year": 2021,
+          "value": 8.65449786002131
+        },
+        {
+          "year": 2022,
+          "value": 5.52198580589408
+        },
+        {
+          "year": 2023,
+          "value": 2.13591131996631
+        },
+        {
+          "year": 2024,
+          "value": 2.0865743380603
+        },
+        {
+          "year": 2025,
+          "value": 2.07306882481713
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GRC",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -1.72561164771509
+        },
+        {
+          "year": 2016,
+          "value": -0.837681877998503
+        },
+        {
+          "year": 2017,
+          "value": 1.12096202512904
+        },
+        {
+          "year": 2018,
+          "value": 0.625108501423381
+        },
+        {
+          "year": 2019,
+          "value": 0.255275185263553
+        },
+        {
+          "year": 2020,
+          "value": -1.24746757345197
+        },
+        {
+          "year": 2021,
+          "value": 1.22394673806362
+        },
+        {
+          "year": 2022,
+          "value": 9.64486176520366
+        },
+        {
+          "year": 2023,
+          "value": 3.46456960141384
+        },
+        {
+          "year": 2024,
+          "value": 2.74197509290368
+        },
+        {
+          "year": 2025,
+          "value": 2.48162694360829
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GRC",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 24.981
+        },
+        {
+          "year": 2016,
+          "value": 23.514
+        },
+        {
+          "year": 2017,
+          "value": 21.413
+        },
+        {
+          "year": 2018,
+          "value": 19.179
+        },
+        {
+          "year": 2019,
+          "value": 17.045
+        },
+        {
+          "year": 2020,
+          "value": 15.899
+        },
+        {
+          "year": 2021,
+          "value": 14.656
+        },
+        {
+          "year": 2022,
+          "value": 12.426
+        },
+        {
+          "year": 2023,
+          "value": 11.023
+        },
+        {
+          "year": 2024,
+          "value": 10.02
+        },
+        {
+          "year": 2025,
+          "value": 8.54
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GRC",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

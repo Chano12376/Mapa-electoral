@@ -1,0 +1,256 @@
+{
+  "iso3": "SEN",
+  "name": "Senegal",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Bassirou Diomaye Faye",
+    "since": "2024-04-02",
+    "party": null,
+    "source": "Presidencia de Senegal",
+    "sourceUrl": "https://www.presidence.sn/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ousmane Sonko",
+    "since": "2024-04-02",
+    "party": null,
+    "source": "Gobierno de Senegal",
+    "sourceUrl": "https://www.gouvernement.sn/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SEN",
+    "date": "2029-02-01",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Commission Electorale Nationale Autonome",
+    "sourceUrl": "https://www.cena.sn",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 17774766696.1759
+        },
+        {
+          "year": 2016,
+          "value": 19040312333.1864
+        },
+        {
+          "year": 2017,
+          "value": 20965069572.7168
+        },
+        {
+          "year": 2018,
+          "value": 23116701556.1381
+        },
+        {
+          "year": 2019,
+          "value": 23403995992.1354
+        },
+        {
+          "year": 2020,
+          "value": 24530513037.7518
+        },
+        {
+          "year": 2021,
+          "value": 27520784129.7508
+        },
+        {
+          "year": 2022,
+          "value": 27783332222.6759
+        },
+        {
+          "year": 2023,
+          "value": 30696331295.7826
+        },
+        {
+          "year": 2024,
+          "value": 32169996051.8502
+        },
+        {
+          "year": 2025,
+          "value": 37006536238.3731
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SEN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.36704365066983
+        },
+        {
+          "year": 2016,
+          "value": 6.35606857208136
+        },
+        {
+          "year": 2017,
+          "value": 7.40748618589598
+        },
+        {
+          "year": 2018,
+          "value": 6.20924103388887
+        },
+        {
+          "year": 2019,
+          "value": 4.6136280976221
+        },
+        {
+          "year": 2020,
+          "value": 1.34207377285524
+        },
+        {
+          "year": 2021,
+          "value": 6.5440010991951
+        },
+        {
+          "year": 2022,
+          "value": 3.85043193752725
+        },
+        {
+          "year": 2023,
+          "value": 4.25743083300657
+        },
+        {
+          "year": 2024,
+          "value": 6.46220577412338
+        },
+        {
+          "year": 2025,
+          "value": 6.68227744849194
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SEN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.135211933635164
+        },
+        {
+          "year": 2016,
+          "value": 0.837284942557434
+        },
+        {
+          "year": 2017,
+          "value": 1.31815314847789
+        },
+        {
+          "year": 2018,
+          "value": 0.460985642464188
+        },
+        {
+          "year": 2019,
+          "value": 1.76011151192938
+        },
+        {
+          "year": 2020,
+          "value": 2.54314685681661
+        },
+        {
+          "year": 2021,
+          "value": 2.18032278088146
+        },
+        {
+          "year": 2022,
+          "value": 9.69681899081073
+        },
+        {
+          "year": 2023,
+          "value": 5.93947798773214
+        },
+        {
+          "year": 2024,
+          "value": 0.804503298792438
+        },
+        {
+          "year": 2025,
+          "value": 1.45900719841384
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SEN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.757
+        },
+        {
+          "year": 2016,
+          "value": 4.455
+        },
+        {
+          "year": 2017,
+          "value": 4.078
+        },
+        {
+          "year": 2018,
+          "value": 3.453
+        },
+        {
+          "year": 2019,
+          "value": 2.863
+        },
+        {
+          "year": 2020,
+          "value": 3.432
+        },
+        {
+          "year": 2021,
+          "value": 3.436
+        },
+        {
+          "year": 2022,
+          "value": 2.837
+        },
+        {
+          "year": 2023,
+          "value": 2.784
+        },
+        {
+          "year": 2024,
+          "value": 2.788
+        },
+        {
+          "year": 2025,
+          "value": 2.735
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SEN",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

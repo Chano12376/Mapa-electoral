@@ -1,0 +1,142 @@
+{
+  "Q138345": {
+    "parlgovPartyId": 368,
+    "partyName": "Liberal Party of Canada",
+    "country": "CAN",
+    "score": 5.0552,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q79215": {
+    "parlgovPartyId": 902,
+    "partyName": "Spanish Socialist Workers Party",
+    "country": "ESP",
+    "score": 3.7377,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q847256": {
+    "parlgovPartyId": 1273,
+    "partyName": "Social Democratic Party",
+    "country": "PRT",
+    "score": 6.2949,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q22904558": {
+    "parlgovPartyId": 2643,
+    "partyName": "The Republic Onwards! | Renaissance",
+    "country": "FRA",
+    "score": 6,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q653362": {
+    "parlgovPartyId": 2643,
+    "partyName": "The Republic Onwards! | Renaissance",
+    "country": "FRA",
+    "score": 6,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q49763": {
+    "parlgovPartyId": 808,
+    "partyName": "Christian Democratic Union",
+    "country": "DEU",
+    "score": 6.2503,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q49762": {
+    "parlgovPartyId": 558,
+    "partyName": "Social Democratic Party of Germany",
+    "country": "DEU",
+    "score": 3.6451,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q21095752": {
+    "parlgovPartyId": 2154,
+    "partyName": "Brothers of Italy",
+    "country": "ITA",
+    "score": 8.8,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q9630": {
+    "parlgovPartyId": 1556,
+    "partyName": "Labour",
+    "country": "GBR",
+    "score": 4.3562,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q1522857": {
+    "parlgovPartyId": 512,
+    "partyName": "Civic Platform",
+    "country": "POL",
+    "score": 6.2355,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q1640004": {
+    "parlgovPartyId": 657,
+    "partyName": "Moderate Party",
+    "country": "SWE",
+    "score": 7.8907,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q83141": {
+    "parlgovPartyId": 901,
+    "partyName": "Justice and Development Party",
+    "country": "TUR",
+    "score": 6.9873,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q272300": {
+    "parlgovPartyId": 1193,
+    "partyName": "Liberal Democratic Party",
+    "country": "JPN",
+    "score": 8.0252,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  },
+  "Q428144": {
+    "parlgovPartyId": 1253,
+    "partyName": "Australian Labor Party",
+    "country": "AUS",
+    "score": 3.8833,
+    "scale": "0 izquierda – 10 derecha",
+    "source": "ParlGov (Döring, Huber y Manow)",
+    "sourceUrl": "https://www.parlgov.org/",
+    "retrievedAt": "2026-11-23"
+  }
+}

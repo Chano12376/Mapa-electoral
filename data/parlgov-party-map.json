@@ -1,0 +1,86 @@
+[
+  {
+    "wikidataParty": "Q138345",
+    "parlgovPartyId": 368,
+    "note": "Liberal Party of Canada — Mark Carney (PM de Canadá)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/368/"
+  },
+  {
+    "wikidataParty": "Q79215",
+    "parlgovPartyId": 902,
+    "note": "PSOE — Pedro Sánchez (PM de España)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/902/"
+  },
+  {
+    "wikidataParty": "Q847256",
+    "parlgovPartyId": 1273,
+    "note": "PSD Portugal — Luís Montenegro (PM de Portugal) y Marcelo Rebelo de Sousa (Presidente)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/1273/"
+  },
+  {
+    "wikidataParty": "Q22904558",
+    "parlgovPartyId": 2643,
+    "note": "Renaissance (LREM) — Emmanuel Macron (Presidente de Francia)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/2643/"
+  },
+  {
+    "wikidataParty": "Q653362",
+    "parlgovPartyId": 2643,
+    "note": "MoDem — François Bayrou (PM de Francia). ParlGov no tiene entrada propia; se aproxima por Renaissance (coalición de gobierno)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/2643/"
+  },
+  {
+    "wikidataParty": "Q49763",
+    "parlgovPartyId": 808,
+    "note": "CDU — Friedrich Merz (Canciller de Alemania)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/808/"
+  },
+  {
+    "wikidataParty": "Q49762",
+    "parlgovPartyId": 558,
+    "note": "SPD — Frank-Walter Steinmeier (Presidente de Alemania)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/558/"
+  },
+  {
+    "wikidataParty": "Q21095752",
+    "parlgovPartyId": 2154,
+    "note": "Fratelli d'Italia — Giorgia Meloni (PM de Italia)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/2154/"
+  },
+  {
+    "wikidataParty": "Q9630",
+    "parlgovPartyId": 1556,
+    "note": "Labour — Keir Starmer (PM del Reino Unido)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/1556/"
+  },
+  {
+    "wikidataParty": "Q1522857",
+    "parlgovPartyId": 512,
+    "note": "Plataforma Cívica (PO/KO) — Donald Tusk (PM de Polonia) y Rafał Trzaskowski (Presidente)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/512/"
+  },
+  {
+    "wikidataParty": "Q1640004",
+    "parlgovPartyId": 657,
+    "note": "Moderaterna — Ulf Kristersson (PM de Suecia)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/657/"
+  },
+  {
+    "wikidataParty": "Q83141",
+    "parlgovPartyId": 901,
+    "note": "AKP — Recep Tayyip Erdoğan (Presidente y jefe de Gobierno de Turquía)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/901/"
+  },
+  {
+    "wikidataParty": "Q272300",
+    "parlgovPartyId": 1193,
+    "note": "LDP — Shigeru Ishiba (PM de Japón)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/1193/"
+  },
+  {
+    "wikidataParty": "Q428144",
+    "parlgovPartyId": 1253,
+    "note": "Australian Labor Party — Anthony Albanese (PM de Australia)",
+    "mappingSourceUrl": "https://www.parlgov.org/party/1253/"
+  }
+]

@@ -1,0 +1,256 @@
+{
+  "iso3": "SRB",
+  "name": "Serbia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Aleksandar Vučić",
+    "since": "2017-05-31",
+    "party": null,
+    "source": "Presidencia de Serbia",
+    "sourceUrl": "https://www.predsednik.rs/en",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Miloš Vučević",
+    "since": "2024-05-02",
+    "party": null,
+    "source": "Gobierno de Serbia",
+    "sourceUrl": "https://www.srbija.gov.rs/en/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SRB",
+    "date": "2027-06-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Asamblea Nacional (250 escaños)",
+    "source": "Republic Electoral Commission Serbia",
+    "sourceUrl": "https://www.rik.parlament.gov.rs",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 41297410634.9586
+        },
+        {
+          "year": 2016,
+          "value": 42225495909.5633
+        },
+        {
+          "year": 2017,
+          "value": 45972834713.8077
+        },
+        {
+          "year": 2018,
+          "value": 52787520248.9242
+        },
+        {
+          "year": 2019,
+          "value": 53864693664.5568
+        },
+        {
+          "year": 2020,
+          "value": 55874017668.998
+        },
+        {
+          "year": 2021,
+          "value": 66159884072.5308
+        },
+        {
+          "year": 2022,
+          "value": 66809895701.2152
+        },
+        {
+          "year": 2023,
+          "value": 81343999280.0179
+        },
+        {
+          "year": 2024,
+          "value": 90088366320.4062
+        },
+        {
+          "year": 2025,
+          "value": 99953324472.9042
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SRB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.2957386351958
+        },
+        {
+          "year": 2016,
+          "value": 2.97519807160826
+        },
+        {
+          "year": 2017,
+          "value": 2.3634031250553
+        },
+        {
+          "year": 2018,
+          "value": 4.64935035491007
+        },
+        {
+          "year": 2019,
+          "value": 4.75020793899014
+        },
+        {
+          "year": 2020,
+          "value": -0.950023991851594
+        },
+        {
+          "year": 2021,
+          "value": 7.94905650472278
+        },
+        {
+          "year": 2022,
+          "value": 2.70347705543654
+        },
+        {
+          "year": 2023,
+          "value": 3.74793303561771
+        },
+        {
+          "year": 2024,
+          "value": 3.94992622592932
+        },
+        {
+          "year": 2025,
+          "value": 2.03039196235113
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SRB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.39235822000186
+        },
+        {
+          "year": 2016,
+          "value": 1.12231397417769
+        },
+        {
+          "year": 2017,
+          "value": 3.13106248590115
+        },
+        {
+          "year": 2018,
+          "value": 1.959840762938
+        },
+        {
+          "year": 2019,
+          "value": 1.84922984511086
+        },
+        {
+          "year": 2020,
+          "value": 1.57553290083414
+        },
+        {
+          "year": 2021,
+          "value": 4.08510285335102
+        },
+        {
+          "year": 2022,
+          "value": 11.9815117344702
+        },
+        {
+          "year": 2023,
+          "value": 12.3719043552519
+        },
+        {
+          "year": 2024,
+          "value": 4.6705297488997
+        },
+        {
+          "year": 2025,
+          "value": 3.89036786060009
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SRB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 17.66
+        },
+        {
+          "year": 2016,
+          "value": 15.257
+        },
+        {
+          "year": 2017,
+          "value": 13.477
+        },
+        {
+          "year": 2018,
+          "value": 12.733
+        },
+        {
+          "year": 2019,
+          "value": 10.395
+        },
+        {
+          "year": 2020,
+          "value": 9.011
+        },
+        {
+          "year": 2021,
+          "value": 9.843
+        },
+        {
+          "year": 2022,
+          "value": 8.439
+        },
+        {
+          "year": 2023,
+          "value": 8.268
+        },
+        {
+          "year": 2024,
+          "value": 7.24
+        },
+        {
+          "year": 2025,
+          "value": 7.123
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SRB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

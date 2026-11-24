@@ -1,0 +1,256 @@
+{
+  "iso3": "TZA",
+  "name": "Tanzania",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Samia Suluhu Hassan",
+    "since": "2021-03-19",
+    "party": null,
+    "source": "Presidencia de Tanzania",
+    "sourceUrl": "https://www.statehouse.go.tz/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Samia Suluhu Hassan",
+    "since": "2021-03-19",
+    "party": null,
+    "source": "Presidencia de Tanzania",
+    "sourceUrl": "https://www.statehouse.go.tz/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TZA",
+    "date": "2025-10-29",
+    "dateStatus": "confirmada",
+    "type": "Generales",
+    "whatIsElected": "Presidente, Asamblea Nacional",
+    "source": "National Electoral Commission Tanzania",
+    "sourceUrl": "https://www.nec.go.tz",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 47413919817.124
+        },
+        {
+          "year": 2016,
+          "value": 49774409374.4538
+        },
+        {
+          "year": 2017,
+          "value": 53274884532.7886
+        },
+        {
+          "year": 2018,
+          "value": 57003712892.0858
+        },
+        {
+          "year": 2019,
+          "value": 61026731925.9213
+        },
+        {
+          "year": 2020,
+          "value": 66068737786.0639
+        },
+        {
+          "year": 2021,
+          "value": 70655628147.8986
+        },
+        {
+          "year": 2022,
+          "value": 75749121846.9703
+        },
+        {
+          "year": 2023,
+          "value": 79030935638.1317
+        },
+        {
+          "year": 2024,
+          "value": 79235713444.9777
+        },
+        {
+          "year": 2025,
+          "value": 90143496090.4411
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TZA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 6.16062877406682
+        },
+        {
+          "year": 2016,
+          "value": 6.86711619644551
+        },
+        {
+          "year": 2017,
+          "value": 6.72726996832438
+        },
+        {
+          "year": 2018,
+          "value": 5.50267599384966
+        },
+        {
+          "year": 2019,
+          "value": 5.79999999996723
+        },
+        {
+          "year": 2020,
+          "value": 1.99196460647855
+        },
+        {
+          "year": 2021,
+          "value": 4.32138429480482
+        },
+        {
+          "year": 2022,
+          "value": 4.56600576430955
+        },
+        {
+          "year": 2023,
+          "value": 5.06952353203394
+        },
+        {
+          "year": 2024,
+          "value": 5.5263138305945
+        },
+        {
+          "year": 2025,
+          "value": 5.85286828692739
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TZA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 5.58816952959298
+        },
+        {
+          "year": 2016,
+          "value": 5.17476629301493
+        },
+        {
+          "year": 2017,
+          "value": 5.3187160522893
+        },
+        {
+          "year": 2018,
+          "value": 3.49445848856181
+        },
+        {
+          "year": 2019,
+          "value": 3.4642805799902
+        },
+        {
+          "year": 2020,
+          "value": 3.29029062798325
+        },
+        {
+          "year": 2021,
+          "value": 3.69091958802198
+        },
+        {
+          "year": 2022,
+          "value": 4.35027204269101
+        },
+        {
+          "year": 2023,
+          "value": 3.79923291384916
+        },
+        {
+          "year": 2024,
+          "value": 3.05694676312372
+        },
+        {
+          "year": 2025,
+          "value": 3.32697361316105
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TZA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.009
+        },
+        {
+          "year": 2016,
+          "value": 1.931
+        },
+        {
+          "year": 2017,
+          "value": 1.854
+        },
+        {
+          "year": 2018,
+          "value": 1.792
+        },
+        {
+          "year": 2019,
+          "value": 1.735
+        },
+        {
+          "year": 2020,
+          "value": 1.792
+        },
+        {
+          "year": 2021,
+          "value": 1.876
+        },
+        {
+          "year": 2022,
+          "value": 1.573
+        },
+        {
+          "year": 2023,
+          "value": 1.565
+        },
+        {
+          "year": 2024,
+          "value": 1.557
+        },
+        {
+          "year": 2025,
+          "value": 1.572
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TZA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

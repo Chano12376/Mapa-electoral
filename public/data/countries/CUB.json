@@ -1,0 +1,193 @@
+{
+  "iso3": "CUB",
+  "name": "Cuba",
+  "region": "América",
+  "headOfState": {
+    "name": "Miguel Díaz-Canel",
+    "since": "2019-10-10",
+    "party": {
+      "qid": "Q188461",
+      "name": "Partido Comunista de Cuba"
+    },
+    "source": "Presidencia de Cuba",
+    "sourceUrl": "http://www.presidencia.gob.cu",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Manuel Marrero Cruz",
+    "since": "2019-12-21",
+    "party": {
+      "qid": "Q188461",
+      "name": "Partido Comunista de Cuba"
+    },
+    "source": "Consejo de Ministros de Cuba",
+    "sourceUrl": "http://www.cubagob.cu",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CUB",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": null,
+    "whatIsElected": "Sistema de partido único; las elecciones son indirectas y sin pluralismo político real",
+    "source": "Constitución de Cuba (2019)",
+    "sourceUrl": "http://www.cubagob.cu/otras_info/constitucion.htm",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 87132800000
+        },
+        {
+          "year": 2016,
+          "value": 91370407900
+        },
+        {
+          "year": 2017,
+          "value": 96850649700
+        },
+        {
+          "year": 2018,
+          "value": 100050036100
+        },
+        {
+          "year": 2019,
+          "value": 103427600000
+        },
+        {
+          "year": 2020,
+          "value": 107352000000
+        }
+      ],
+      "lastYear": 2020,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CUB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 4.4383335888395
+        },
+        {
+          "year": 2016,
+          "value": 0.512843095700745
+        },
+        {
+          "year": 2017,
+          "value": 1.80979178380274
+        },
+        {
+          "year": 2018,
+          "value": 2.24794852913217
+        },
+        {
+          "year": 2019,
+          "value": -0.163087223606624
+        },
+        {
+          "year": 2020,
+          "value": -10.9494359030206
+        },
+        {
+          "year": 2021,
+          "value": 1.25448735650322
+        },
+        {
+          "year": 2022,
+          "value": 1.77465227724316
+        },
+        {
+          "year": 2023,
+          "value": -1.92937123169681
+        },
+        {
+          "year": 2024,
+          "value": -1.06173273220524
+        }
+      ],
+      "lastYear": 2024,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CUB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [],
+      "lastYear": null,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CUB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.4
+        },
+        {
+          "year": 2016,
+          "value": 2
+        },
+        {
+          "year": 2017,
+          "value": 1.7
+        },
+        {
+          "year": 2018,
+          "value": 1.7
+        },
+        {
+          "year": 2019,
+          "value": 1.705
+        },
+        {
+          "year": 2020,
+          "value": 2.233
+        },
+        {
+          "year": 2021,
+          "value": 2.11
+        },
+        {
+          "year": 2022,
+          "value": 1.829
+        },
+        {
+          "year": 2023,
+          "value": 1.73
+        },
+        {
+          "year": 2024,
+          "value": 1.755
+        },
+        {
+          "year": 2025,
+          "value": 1.746
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CUB",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,268 @@
+{
+  "iso3": "ITA",
+  "name": "Italia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Sergio Mattarella",
+    "since": "2022-02-03",
+    "party": null,
+    "source": "Presidenza della Repubblica",
+    "sourceUrl": "https://www.quirinale.it",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Giorgia Meloni",
+    "since": "2022-10-22",
+    "party": {
+      "qid": "Q21095752",
+      "name": "Fratelli d'Italia"
+    },
+    "source": "Governo Italiano",
+    "sourceUrl": "https://www.governo.it/it/presidente-del-consiglio",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": {
+      "parlgovPartyId": 2154,
+      "partyName": "Brothers of Italy",
+      "country": "ITA",
+      "score": 8.8,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "nextElection": {
+    "iso3": "ITA",
+    "date": "2027-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Parlamento (Cámara y Senado)",
+    "source": "Ministero dell'Interno",
+    "sourceUrl": "https://elezioni.interno.gov.it",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1845428048839.1
+        },
+        {
+          "year": 2016,
+          "value": 1887111188176.93
+        },
+        {
+          "year": 2017,
+          "value": 1970720904584.71
+        },
+        {
+          "year": 2018,
+          "value": 2099435266458.67
+        },
+        {
+          "year": 2019,
+          "value": 2019606796583.53
+        },
+        {
+          "year": 2020,
+          "value": 1907481094079.23
+        },
+        {
+          "year": 2021,
+          "value": 2179207773596.09
+        },
+        {
+          "year": 2022,
+          "value": 2104067630319.46
+        },
+        {
+          "year": 2023,
+          "value": 2316882296366.32
+        },
+        {
+          "year": 2024,
+          "value": 2383435562458.12
+        },
+        {
+          "year": 2025,
+          "value": 2551556954100.35
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ITA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.885667635240807
+        },
+        {
+          "year": 2016,
+          "value": 1.23622108511661
+        },
+        {
+          "year": 2017,
+          "value": 1.60369995294101
+        },
+        {
+          "year": 2018,
+          "value": 0.826646712344115
+        },
+        {
+          "year": 2019,
+          "value": 0.429162533780342
+        },
+        {
+          "year": 2020,
+          "value": -8.86822122185345
+        },
+        {
+          "year": 2021,
+          "value": 8.93106210800055
+        },
+        {
+          "year": 2022,
+          "value": 4.82117669913565
+        },
+        {
+          "year": 2023,
+          "value": 0.922796543670316
+        },
+        {
+          "year": 2024,
+          "value": 0.783039135276795
+        },
+        {
+          "year": 2025,
+          "value": 0.539583636778445
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ITA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.0387880546123783
+        },
+        {
+          "year": 2016,
+          "value": -0.0940663867932015
+        },
+        {
+          "year": 2017,
+          "value": 1.22652881401135
+        },
+        {
+          "year": 2018,
+          "value": 1.13748587578675
+        },
+        {
+          "year": 2019,
+          "value": 0.611249440506398
+        },
+        {
+          "year": 2020,
+          "value": -0.137707259048216
+        },
+        {
+          "year": 2021,
+          "value": 1.87378306224529
+        },
+        {
+          "year": 2022,
+          "value": 8.20128981173605
+        },
+        {
+          "year": 2023,
+          "value": 5.62219292216457
+        },
+        {
+          "year": 2024,
+          "value": 0.982375111637719
+        },
+        {
+          "year": 2025,
+          "value": 1.5316735709312
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ITA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 11.896
+        },
+        {
+          "year": 2016,
+          "value": 11.688
+        },
+        {
+          "year": 2017,
+          "value": 11.211
+        },
+        {
+          "year": 2018,
+          "value": 10.538
+        },
+        {
+          "year": 2019,
+          "value": 9.884
+        },
+        {
+          "year": 2020,
+          "value": 9.192
+        },
+        {
+          "year": 2021,
+          "value": 9.497
+        },
+        {
+          "year": 2022,
+          "value": 8.069
+        },
+        {
+          "year": 2023,
+          "value": 7.627
+        },
+        {
+          "year": 2024,
+          "value": 6.5
+        },
+        {
+          "year": 2025,
+          "value": 6.391
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ITA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

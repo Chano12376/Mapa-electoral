@@ -1,0 +1,1762 @@
+{
+  "USA": {
+    "headOfState": {
+      "name": "Donald Trump",
+      "since": "2025-01-20",
+      "partyQid": "Q29468",
+      "partyName": "Partido Republicano",
+      "source": "Casa Blanca",
+      "sourceUrl": "https://www.whitehouse.gov/administration/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Donald Trump",
+      "since": "2025-01-20",
+      "partyQid": "Q29468",
+      "partyName": "Partido Republicano",
+      "source": "Casa Blanca",
+      "sourceUrl": "https://www.whitehouse.gov/administration/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "CAN": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Canadá",
+      "sourceUrl": "https://www.canada.ca/en/privy-council/services/queen-canada.html",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Mark Carney",
+      "since": "2025-03-14",
+      "partyQid": "Q138345",
+      "partyName": "Partido Liberal de Canadá",
+      "source": "Oficina del Primer Ministro de Canadá",
+      "sourceUrl": "https://pm.gc.ca/en",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "MEX": {
+    "headOfState": {
+      "name": "Claudia Sheinbaum",
+      "since": "2024-10-01",
+      "partyQid": "Q16870839",
+      "partyName": "Morena",
+      "source": "Gobierno de México",
+      "sourceUrl": "https://www.gob.mx/presidencia",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Claudia Sheinbaum",
+      "since": "2024-10-01",
+      "partyQid": "Q16870839",
+      "partyName": "Morena",
+      "source": "Gobierno de México",
+      "sourceUrl": "https://www.gob.mx/presidencia",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: jefe de Estado y de Gobierno"
+    }
+  },
+  "BRA": {
+    "headOfState": {
+      "name": "Luiz Inácio Lula da Silva",
+      "since": "2023-01-01",
+      "partyQid": "Q319938",
+      "partyName": "Partido de los Trabajadores",
+      "source": "Presidência da República",
+      "sourceUrl": "https://www.gov.br/presidencia/pt-br",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Luiz Inácio Lula da Silva",
+      "since": "2023-01-01",
+      "partyQid": "Q319938",
+      "partyName": "Partido de los Trabajadores",
+      "source": "Presidência da República",
+      "sourceUrl": "https://www.gov.br/presidencia/pt-br",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "ARG": {
+    "headOfState": {
+      "name": "Javier Milei",
+      "since": "2023-12-10",
+      "partyQid": "Q105822060",
+      "partyName": "La Libertad Avanza",
+      "source": "Presidencia de la Nación Argentina",
+      "sourceUrl": "https://www.argentina.gob.ar/presidencia",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Javier Milei",
+      "since": "2023-12-10",
+      "partyQid": "Q105822060",
+      "partyName": "La Libertad Avanza",
+      "source": "Presidencia de la Nación Argentina",
+      "sourceUrl": "https://www.argentina.gob.ar/presidencia",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "COL": {
+    "headOfState": {
+      "name": "Gustavo Petro",
+      "since": "2022-08-07",
+      "partyQid": "Q105398193",
+      "partyName": "Colombia Humana / Pacto Histórico",
+      "source": "Presidencia de la República de Colombia",
+      "sourceUrl": "https://www.presidencia.gov.co",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Gustavo Petro",
+      "since": "2022-08-07",
+      "partyQid": "Q105398193",
+      "partyName": "Colombia Humana / Pacto Histórico",
+      "source": "Presidencia de la República de Colombia",
+      "sourceUrl": "https://www.presidencia.gov.co",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "CHL": {
+    "headOfState": {
+      "name": "Gabriel Boric",
+      "since": "2022-03-11",
+      "partyQid": "Q28179577",
+      "partyName": "Frente Amplio",
+      "source": "Presidencia de la República de Chile",
+      "sourceUrl": "https://www.presidencia.cl",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Gabriel Boric",
+      "since": "2022-03-11",
+      "partyQid": "Q28179577",
+      "partyName": "Frente Amplio",
+      "source": "Presidencia de la República de Chile",
+      "sourceUrl": "https://www.presidencia.cl",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "PER": {
+    "headOfState": {
+      "name": "Dina Boluarte",
+      "since": "2022-12-07",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de la República del Perú",
+      "sourceUrl": "https://www.gob.pe/presidencia",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: jefe de Estado y de Gobierno. Sin afiliación partidaria activa desde 2022"
+    },
+    "headOfGovernment": {
+      "name": "Dina Boluarte",
+      "since": "2022-12-07",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de la República del Perú",
+      "sourceUrl": "https://www.gob.pe/presidencia",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: jefe de Estado y de Gobierno"
+    }
+  },
+  "ESP": {
+    "headOfState": {
+      "name": "Felipe VI",
+      "since": "2014-06-19",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa de S.M. el Rey",
+      "sourceUrl": "https://www.casareal.es",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca constitucional: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Pedro Sánchez",
+      "since": "2018-06-02",
+      "partyQid": "Q79215",
+      "partyName": "PSOE",
+      "source": "La Moncloa",
+      "sourceUrl": "https://www.lamoncloa.gob.es/presidente/biografia/Paginas/index.aspx",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "PRT": {
+    "headOfState": {
+      "name": "Marcelo Rebelo de Sousa",
+      "since": "2016-03-09",
+      "partyQid": "Q847256",
+      "partyName": "PSD",
+      "source": "Presidência da República Portuguesa",
+      "sourceUrl": "https://www.presidencia.pt",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Se presentó como independiente pero históricamente vinculado al PSD"
+    },
+    "headOfGovernment": {
+      "name": "Luís Montenegro",
+      "since": "2024-04-02",
+      "partyQid": "Q847256",
+      "partyName": "PSD",
+      "source": "República Portuguesa",
+      "sourceUrl": "https://www.portugal.gov.pt",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "FRA": {
+    "headOfState": {
+      "name": "Emmanuel Macron",
+      "since": "2017-05-14",
+      "partyQid": "Q22904558",
+      "partyName": "Renaissance",
+      "source": "Élysée",
+      "sourceUrl": "https://www.elysee.fr/emmanuel-macron",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    },
+    "headOfGovernment": {
+      "name": "François Bayrou",
+      "since": "2025-01-13",
+      "partyQid": "Q653362",
+      "partyName": "MoDem",
+      "source": "Premier ministre",
+      "sourceUrl": "https://www.gouvernement.fr/composition-du-gouvernement",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente; Francia ha tenido varios PM en poco tiempo"
+    }
+  },
+  "DEU": {
+    "headOfState": {
+      "name": "Frank-Walter Steinmeier",
+      "since": "2017-03-19",
+      "partyQid": "Q49762",
+      "partyName": "SPD",
+      "source": "Bundespräsident",
+      "sourceUrl": "https://www.bundespraesident.de",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Reelegido en febrero 2022; mandato hasta 2027"
+    },
+    "headOfGovernment": {
+      "name": "Friedrich Merz",
+      "since": "2025-04-09",
+      "partyQid": "Q49763",
+      "partyName": "CDU",
+      "source": "Bundesregierung",
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzler",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "ITA": {
+    "headOfState": {
+      "name": "Sergio Mattarella",
+      "since": "2022-02-03",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidenza della Repubblica",
+      "sourceUrl": "https://www.quirinale.it",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Reelegido en enero 2022; mandato de 7 años hasta 2029"
+    },
+    "headOfGovernment": {
+      "name": "Giorgia Meloni",
+      "since": "2022-10-22",
+      "partyQid": "Q21095752",
+      "partyName": "Fratelli d'Italia",
+      "source": "Governo Italiano",
+      "sourceUrl": "https://www.governo.it/it/presidente-del-consiglio",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "GBR": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "The Royal Family",
+      "sourceUrl": "https://www.royal.uk/his-majesty-the-king",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Keir Starmer",
+      "since": "2024-07-05",
+      "partyQid": "Q9630",
+      "partyName": "Partido Laborista",
+      "source": "Gov.uk",
+      "sourceUrl": "https://www.gov.uk/government/people/keir-starmer",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "NLD": {
+    "headOfState": {
+      "name": "Guillermo Alejandro",
+      "since": "2013-04-30",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real de los Países Bajos",
+      "sourceUrl": "https://www.royal-house.nl/members-of-the-royal-house/his-majesty-the-king",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Dick Schoof",
+      "since": "2024-07-02",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Gobierno de los Países Bajos",
+      "sourceUrl": "https://www.government.nl/government/members-of-cabinet/dick-schoof",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente; Schoof es independiente (tecnócrata)"
+    }
+  },
+  "POL": {
+    "headOfState": {
+      "name": "Rafał Trzaskowski",
+      "since": "2025-08-06",
+      "partyQid": "Q1522857",
+      "partyName": "Plataforma Cívica (KO)",
+      "source": "Presidencia de la República de Polonia",
+      "sourceUrl": "https://www.president.pl",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    },
+    "headOfGovernment": {
+      "name": "Donald Tusk",
+      "since": "2023-12-13",
+      "partyQid": "Q1522857",
+      "partyName": "Plataforma Cívica (KO)",
+      "source": "Consejo de Ministros de Polonia",
+      "sourceUrl": "https://www.gov.pl/web/premier",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "SWE": {
+    "headOfState": {
+      "name": "Carlos XVI Gustavo",
+      "since": "1973-09-19",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real de Suecia",
+      "sourceUrl": "https://www.kungahuset.se/the-royal-court/the-royal-family/his-majesty-the-king",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Ulf Kristersson",
+      "since": "2022-10-18",
+      "partyQid": "Q1640004",
+      "partyName": "Moderaterna",
+      "source": "Gobierno de Suecia",
+      "sourceUrl": "https://www.government.se/government-of-sweden/prime-ministers-office/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "UKR": {
+    "headOfState": {
+      "name": "Volodymyr Zelensky",
+      "since": "2019-05-20",
+      "partyQid": "Q63745049",
+      "partyName": "Servidor del Pueblo",
+      "source": "Presidente de Ucrania",
+      "sourceUrl": "https://www.president.gov.ua",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; mandato prorrogado por ley marcial"
+    },
+    "headOfGovernment": {
+      "name": "Denys Shmyhal",
+      "since": "2020-03-04",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Gobierno de Ucrania",
+      "sourceUrl": "https://www.kmu.gov.ua/en/government/denys-shmyhal",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "TUR": {
+    "headOfState": {
+      "name": "Recep Tayyip Erdoğan",
+      "since": "2014-08-28",
+      "partyQid": "Q83141",
+      "partyName": "AKP",
+      "source": "Presidencia de la República de Türkiye",
+      "sourceUrl": "https://www.tccb.gov.tr/en/receptayyiperdogan/biography",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Reelegido en mayo 2023; presidente ejecutivo (también jefe de Gobierno)"
+    },
+    "headOfGovernment": {
+      "name": "Recep Tayyip Erdoğan",
+      "since": "2014-08-28",
+      "partyQid": "Q83141",
+      "partyName": "AKP",
+      "source": "Presidencia de la República de Türkiye",
+      "sourceUrl": "https://www.tccb.gov.tr/en/receptayyiperdogan/biography",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Sistema presidencial: el presidente es también jefe de Gobierno desde 2018"
+    }
+  },
+  "RUS": {
+    "headOfState": {
+      "name": "Vladimir Putin",
+      "since": "2024-05-07",
+      "partyQid": "Q168636",
+      "partyName": "Rusia Unida",
+      "source": "Kremlin",
+      "sourceUrl": "http://en.kremlin.ru/structure/president",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Inicio del actual mandato presidencial (reelegido marzo 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Mikhail Mishustin",
+      "since": "2020-01-16",
+      "partyQid": "Q168636",
+      "partyName": "Rusia Unida",
+      "source": "Gobierno de Rusia",
+      "sourceUrl": "http://government.ru/en/gov/persons/mishustin/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "CHN": {
+    "headOfState": {
+      "name": "Xi Jinping",
+      "since": "2013-03-14",
+      "partyQid": "Q188461",
+      "partyName": "Partido Comunista de China",
+      "source": "Gobierno de China",
+      "sourceUrl": "http://www.gov.cn/guowuyuan/index.htm",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Reelegido para un tercer mandato en marzo 2023"
+    },
+    "headOfGovernment": {
+      "name": "Li Qiang",
+      "since": "2023-03-11",
+      "partyQid": "Q188461",
+      "partyName": "Partido Comunista de China",
+      "source": "Consejo de Estado de China",
+      "sourceUrl": "http://english.www.gov.cn/statecouncil/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "IND": {
+    "headOfState": {
+      "name": "Droupadi Murmu",
+      "since": "2022-07-25",
+      "partyQid": "Q2601208",
+      "partyName": "BJP",
+      "source": "Rashtrapati Bhavan",
+      "sourceUrl": "https://rashtrapatisachivalaya.gov.in",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: cargo ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Narendra Modi",
+      "since": "2014-05-26",
+      "partyQid": "Q2601208",
+      "partyName": "BJP",
+      "source": "Prime Minister's Office",
+      "sourceUrl": "https://www.pmindia.gov.in/en/pm-profile/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; reelegido en junio 2024"
+    }
+  },
+  "JPN": {
+    "headOfState": {
+      "name": "Naruhito",
+      "since": "2019-05-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Imperial de Japón",
+      "sourceUrl": "https://www.kunaicho.go.jp/e-about/about.html",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Emperador: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Shigeru Ishiba",
+      "since": "2024-10-01",
+      "partyQid": "Q272300",
+      "partyName": "LDP",
+      "source": "Kantei (Oficina del Primer Ministro de Japón)",
+      "sourceUrl": "https://www.kantei.go.jp/foreign/ishiba/profile/index.html",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "KOR": {
+    "headOfState": {
+      "name": "Lee Jae-myung",
+      "since": "2025-06-04",
+      "partyQid": "Q484743",
+      "partyName": "Partido Democrático de Corea",
+      "source": "Cheong Wa Dae / Oficina Presidencial",
+      "sourceUrl": "https://www.president.go.kr/en",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente; venció en elecciones especiales tras destitución de Yoon"
+    },
+    "headOfGovernment": {
+      "name": "Lee Jae-myung",
+      "since": "2025-06-04",
+      "partyQid": "Q484743",
+      "partyName": "Partido Democrático de Corea",
+      "source": "Cheong Wa Dae / Oficina Presidencial",
+      "sourceUrl": "https://www.president.go.kr/en",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Sistema presidencial: el presidente es también jefe de Gobierno"
+    }
+  },
+  "IDN": {
+    "headOfState": {
+      "name": "Prabowo Subianto",
+      "since": "2024-10-20",
+      "partyQid": "Q795358",
+      "partyName": "Gerindra",
+      "source": "Secretaría del Gabinete de Indonesia",
+      "sourceUrl": "https://setkab.go.id/en/president/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Prabowo Subianto",
+      "since": "2024-10-20",
+      "partyQid": "Q795358",
+      "partyName": "Gerindra",
+      "source": "Secretaría del Gabinete de Indonesia",
+      "sourceUrl": "https://setkab.go.id/en/president/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "AUS": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Governor-General of Australia",
+      "sourceUrl": "https://www.gg.gov.au/role-governor-general/king",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca: sin partido; representado por el Gobernador General"
+    },
+    "headOfGovernment": {
+      "name": "Anthony Albanese",
+      "since": "2022-05-23",
+      "partyQid": "Q428144",
+      "partyName": "Partido Laborista Australiano",
+      "source": "Prime Minister of Australia",
+      "sourceUrl": "https://www.pm.gov.au/prime-minister",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; reelegido en mayo 2025"
+    }
+  },
+  "SAU": {
+    "headOfState": {
+      "name": "Salman bin Abdulaziz Al Saud",
+      "since": "2015-01-23",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Arabia Saudí",
+      "sourceUrl": "https://www.saudiembassy.net/royal-family",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Rey: sin partidos políticos en Arabia Saudí"
+    },
+    "headOfGovernment": {
+      "name": "Mohammed bin Salman",
+      "since": "2022-09-27",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Arabia Saudí",
+      "sourceUrl": "https://www.saudiembassy.net/royal-family",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Príncipe Heredero y Primer Ministro; sin partidos políticos"
+    }
+  },
+  "EGY": {
+    "headOfState": {
+      "name": "Abdel Fattah el-Sisi",
+      "since": "2014-06-08",
+      "partyQid": "Q7036230",
+      "partyName": "Nación del Futuro",
+      "source": "Presidencia de la República Árabe de Egipto",
+      "sourceUrl": "https://www.presidency.eg",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Reelegido en diciembre 2023; también jefe de Gobierno de facto"
+    },
+    "headOfGovernment": {
+      "name": "Abdel Fattah el-Sisi",
+      "since": "2014-06-08",
+      "partyQid": "Q7036230",
+      "partyName": "Nación del Futuro",
+      "source": "Presidencia de la República Árabe de Egipto",
+      "sourceUrl": "https://www.presidency.eg",
+      "retrievedAt": "2026-11-22",
+      "motivo": "El primer ministro es figura subordinada; Sisi ejerce el poder ejecutivo"
+    }
+  },
+  "NGA": {
+    "headOfState": {
+      "name": "Bola Ahmed Tinubu",
+      "since": "2023-05-29",
+      "partyQid": "Q16948891",
+      "partyName": "APC",
+      "source": "Presidencia de Nigeria",
+      "sourceUrl": "https://statehouse.gov.ng",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Bola Ahmed Tinubu",
+      "since": "2023-05-29",
+      "partyQid": "Q16948891",
+      "partyName": "APC",
+      "source": "Presidencia de Nigeria",
+      "sourceUrl": "https://statehouse.gov.ng",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "ZAF": {
+    "headOfState": {
+      "name": "Cyril Ramaphosa",
+      "since": "2018-02-15",
+      "partyQid": "Q83364",
+      "partyName": "ANC",
+      "source": "Presidencia de Sudáfrica",
+      "sourceUrl": "https://www.thepresidency.gov.za",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; reelegido en mayo 2024"
+    },
+    "headOfGovernment": {
+      "name": "Cyril Ramaphosa",
+      "since": "2018-02-15",
+      "partyQid": "Q83364",
+      "partyName": "ANC",
+      "source": "Presidencia de Sudáfrica",
+      "sourceUrl": "https://www.thepresidency.gov.za",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "VEN": {
+    "headOfState": {
+      "name": "Nicolás Maduro",
+      "since": "2013-04-19",
+      "partyQid": "Q185055",
+      "partyName": "PSUV",
+      "source": "Presidencia de Venezuela",
+      "sourceUrl": "https://www.presidencia.gob.ve",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno. Reelegido en julio 2024 (resultado disputado)"
+    },
+    "headOfGovernment": {
+      "name": "Nicolás Maduro",
+      "since": "2013-04-19",
+      "partyQid": "Q185055",
+      "partyName": "PSUV",
+      "source": "Presidencia de Venezuela",
+      "sourceUrl": "https://www.presidencia.gob.ve",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "ECU": {
+    "headOfState": {
+      "name": "Daniel Noboa",
+      "since": "2023-11-23",
+      "partyQid": "Q123493765",
+      "partyName": "Acción Democrática Nacional",
+      "source": "Presidencia de Ecuador",
+      "sourceUrl": "https://www.presidencia.gob.ec",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno. Reelegido en abril 2025"
+    },
+    "headOfGovernment": {
+      "name": "Daniel Noboa",
+      "since": "2023-11-23",
+      "partyQid": "Q123493765",
+      "partyName": "Acción Democrática Nacional",
+      "source": "Presidencia de Ecuador",
+      "sourceUrl": "https://www.presidencia.gob.ec",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "BOL": {
+    "headOfState": {
+      "name": "Luis Arce",
+      "since": "2020-11-08",
+      "partyQid": "Q1052510",
+      "partyName": "MAS",
+      "source": "Presidencia del Estado Plurinacional de Bolivia",
+      "sourceUrl": "https://www.presidencia.gob.bo",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno. Verificado a agosto 2025 — confirmar si sigue vigente"
+    },
+    "headOfGovernment": {
+      "name": "Luis Arce",
+      "since": "2020-11-08",
+      "partyQid": "Q1052510",
+      "partyName": "MAS",
+      "source": "Presidencia del Estado Plurinacional de Bolivia",
+      "sourceUrl": "https://www.presidencia.gob.bo",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "URY": {
+    "headOfState": {
+      "name": "Yamandú Orsi",
+      "since": "2025-03-01",
+      "partyQid": "Q474763",
+      "partyName": "Frente Amplio",
+      "source": "Presidencia de Uruguay",
+      "sourceUrl": "https://presidencia.gub.uy",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno. Ganó balotaje noviembre 2024"
+    },
+    "headOfGovernment": {
+      "name": "Yamandú Orsi",
+      "since": "2025-03-01",
+      "partyQid": "Q474763",
+      "partyName": "Frente Amplio",
+      "source": "Presidencia de Uruguay",
+      "sourceUrl": "https://presidencia.gub.uy",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "PRY": {
+    "headOfState": {
+      "name": "Santiago Peña",
+      "since": "2023-08-15",
+      "partyQid": "Q40091",
+      "partyName": "Partido Colorado",
+      "source": "Presidencia de Paraguay",
+      "sourceUrl": "https://www.presidencia.gov.py",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Santiago Peña",
+      "since": "2023-08-15",
+      "partyQid": "Q40091",
+      "partyName": "Partido Colorado",
+      "source": "Presidencia de Paraguay",
+      "sourceUrl": "https://www.presidencia.gov.py",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "CRI": {
+    "headOfState": {
+      "name": "Rodrigo Chaves",
+      "since": "2022-05-08",
+      "partyQid": "Q105822282",
+      "partyName": "Partido Progreso Social Democrático",
+      "source": "Casa Presidencial de Costa Rica",
+      "sourceUrl": "https://www.casapres.go.cr",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Rodrigo Chaves",
+      "since": "2022-05-08",
+      "partyQid": "Q105822282",
+      "partyName": "Partido Progreso Social Democrático",
+      "source": "Casa Presidencial de Costa Rica",
+      "sourceUrl": "https://www.casapres.go.cr",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "CUB": {
+    "headOfState": {
+      "name": "Miguel Díaz-Canel",
+      "since": "2019-10-10",
+      "partyQid": "Q188461",
+      "partyName": "Partido Comunista de Cuba",
+      "source": "Presidencia de Cuba",
+      "sourceUrl": "http://www.presidencia.gob.cu",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado. Sistema de partido único"
+    },
+    "headOfGovernment": {
+      "name": "Manuel Marrero Cruz",
+      "since": "2019-12-21",
+      "partyQid": "Q188461",
+      "partyName": "Partido Comunista de Cuba",
+      "source": "Consejo de Ministros de Cuba",
+      "sourceUrl": "http://www.cubagob.cu",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Primer Ministro de Cuba desde 2019"
+    }
+  },
+  "BEL": {
+    "headOfState": {
+      "name": "Felipe de Bélgica",
+      "since": "2013-07-21",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Palacio Real de Bélgica",
+      "sourceUrl": "https://www.monarchie.be/fr/monarchie/le-roi",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca constitucional: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Bart De Wever",
+      "since": "2025-02-03",
+      "partyQid": "Q483392",
+      "partyName": "N-VA",
+      "source": "Gobierno Federal Belga",
+      "sourceUrl": "https://www.belgium.be/fr/la_belgique/gouvernement/premier_ministre",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "AUT": {
+    "headOfState": {
+      "name": "Alexander Van der Bellen",
+      "since": "2017-01-26",
+      "partyQid": "Q193230",
+      "partyName": "Los Verdes",
+      "source": "Hofburg – Presidencia Federal de Austria",
+      "sourceUrl": "https://www.bundespraesident.at",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Reelegido en 2022; cargo ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Herbert Kickl",
+      "since": "2025-01-06",
+      "partyQid": "Q694633",
+      "partyName": "FPÖ",
+      "source": "Bundeskanzleramt",
+      "sourceUrl": "https://www.bundeskanzleramt.gv.at",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente; FPÖ ganó las elecciones de septiembre 2024"
+    }
+  },
+  "CHE": {
+    "headOfState": {
+      "name": "Karin Keller-Sutter",
+      "since": "2025-01-01",
+      "partyQid": "Q131510",
+      "partyName": "FDP",
+      "source": "Consejo Federal Suizo",
+      "sourceUrl": "https://www.admin.ch/gov/fr/accueil/conseil-federal/membres-du-conseil-federal.html",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta de la Confederación 2025 (cargo rotatorio anual). Suiza no tiene un solo jefe de Gobierno permanente"
+    },
+    "headOfGovernment": {
+      "name": "Karin Keller-Sutter",
+      "since": "2025-01-01",
+      "partyQid": "Q131510",
+      "partyName": "FDP",
+      "source": "Consejo Federal Suizo",
+      "sourceUrl": "https://www.admin.ch/gov/fr/accueil/conseil-federal/membres-du-conseil-federal.html",
+      "retrievedAt": "2026-11-22",
+      "motivo": "El Consejo Federal (7 miembros) ejerce el poder ejecutivo colectivamente; la presidencia rota cada año"
+    }
+  },
+  "NOR": {
+    "headOfState": {
+      "name": "Harald V",
+      "since": "1991-01-17",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real de Noruega",
+      "sourceUrl": "https://www.kongehuset.no/en/the-royal-house-of-norway/his-majesty-the-king",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca constitucional: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Jonas Gahr Støre",
+      "since": "2021-10-14",
+      "partyQid": "Q131573",
+      "partyName": "Partido Laborista",
+      "source": "Gobierno de Noruega",
+      "sourceUrl": "https://www.regjeringen.no/en/the-government/prime-minister/id415599/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "DNK": {
+    "headOfState": {
+      "name": "Federico X",
+      "since": "2024-01-14",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real de Dinamarca",
+      "sourceUrl": "https://kongehuset.dk/en/the-monarchy",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca constitucional: sin partido. Ascendió tras la abdicación de Margarita II"
+    },
+    "headOfGovernment": {
+      "name": "Mette Frederiksen",
+      "since": "2019-06-27",
+      "partyQid": "Q164242",
+      "partyName": "Socialdemócratas",
+      "source": "Statsministeriet",
+      "sourceUrl": "https://www.stm.dk/statsministeriet/statsministeren/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "GRC": {
+    "headOfState": {
+      "name": "Katerina Sakellaropoulou",
+      "since": "2020-03-13",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de la República Helénica",
+      "sourceUrl": "https://www.presidency.gr",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: cargo ceremonial; elegida por el Parlamento en 2020"
+    },
+    "headOfGovernment": {
+      "name": "Kyriakos Mitsotakis",
+      "since": "2019-07-08",
+      "partyQid": "Q200546",
+      "partyName": "Nueva Democracia",
+      "source": "Gobierno de Grecia",
+      "sourceUrl": "https://primeminister.gr/en/prime-minister/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; reelegido en junio 2023"
+    }
+  },
+  "HUN": {
+    "headOfState": {
+      "name": "Tamás Sulyok",
+      "since": "2024-03-05",
+      "partyQid": "Q474879",
+      "partyName": "Fidesz",
+      "source": "Presidencia de Hungría",
+      "sourceUrl": "https://www.keh.hu",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: cargo ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Viktor Orbán",
+      "since": "2010-05-29",
+      "partyQid": "Q474879",
+      "partyName": "Fidesz",
+      "source": "Gobierno de Hungría",
+      "sourceUrl": "https://www.kormany.hu/en/the-prime-minister",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; reelegido en abril 2022"
+    }
+  },
+  "ROU": {
+    "headOfState": {
+      "name": "Nicuşor Dan",
+      "since": "2025-05-26",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de Rumanía",
+      "sourceUrl": "https://www.presidency.ro",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; ganó la segunda vuelta presidencial de mayo 2025"
+    },
+    "headOfGovernment": {
+      "name": "Nicolae Ciucă",
+      "since": "2025-01-01",
+      "partyQid": "Q188548",
+      "partyName": "PNL",
+      "source": "Gobierno de Rumanía",
+      "sourceUrl": "https://gov.ro",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente; Rumanía tuvo crisis política en 2024-2025"
+    }
+  },
+  "PAK": {
+    "headOfState": {
+      "name": "Asif Ali Zardari",
+      "since": "2024-03-10",
+      "partyQid": "Q83629",
+      "partyName": "PPP",
+      "source": "Presidencia de Pakistán",
+      "sourceUrl": "https://president.gov.pk",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: cargo principalmente ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Shehbaz Sharif",
+      "since": "2024-03-04",
+      "partyQid": "Q1156621",
+      "partyName": "PML-N",
+      "source": "Gobierno de Pakistán",
+      "sourceUrl": "https://www.pakistan.gov.pk",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "THA": {
+    "headOfState": {
+      "name": "Vajiralongkorn (Rama X)",
+      "since": "2016-10-13",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real de Tailandia",
+      "sourceUrl": "https://www.royal.th/th/the-monarchy/the-king/",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Monarca: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Paetongtarn Shinawatra",
+      "since": "2024-08-18",
+      "partyQid": "Q110503001",
+      "partyName": "Pheu Thai",
+      "source": "Gobierno de Tailandia",
+      "sourceUrl": "https://www.thaigov.go.th/en",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "PHL": {
+    "headOfState": {
+      "name": "Ferdinand Marcos Jr.",
+      "since": "2022-06-30",
+      "partyQid": null,
+      "partyName": "PFP / Lakas",
+      "source": "Oficina del Presidente de Filipinas",
+      "sourceUrl": "https://op.gov.ph",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Ferdinand Marcos Jr.",
+      "since": "2022-06-30",
+      "partyQid": null,
+      "partyName": "PFP / Lakas",
+      "source": "Oficina del Presidente de Filipinas",
+      "sourceUrl": "https://op.gov.ph",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "IRN": {
+    "headOfState": {
+      "name": "Alí Jamenei",
+      "since": "1989-06-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Líder Supremo de Irán",
+      "sourceUrl": "https://www.leader.ir",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Líder Supremo: máxima autoridad en el sistema islámico de Irán"
+    },
+    "headOfGovernment": {
+      "name": "Masoud Pezeshkian",
+      "since": "2024-07-30",
+      "partyQid": null,
+      "partyName": "Reformistas",
+      "source": "Presidencia de Irán",
+      "sourceUrl": "https://president.ir/en",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: ganó elecciones de julio 2024 tras la muerte de Raisi"
+    }
+  },
+  "ISR": {
+    "headOfState": {
+      "name": "Isaac Herzog",
+      "since": "2021-07-07",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia del Estado de Israel",
+      "sourceUrl": "https://www.president.gov.il/en",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: cargo ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Benjamin Netanyahu",
+      "since": "2022-12-29",
+      "partyQid": "Q83486",
+      "partyName": "Likud",
+      "source": "Oficina del Primer Ministro de Israel",
+      "sourceUrl": "https://www.gov.il/en/departments/prime_ministers_office",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "MAR": {
+    "headOfState": {
+      "name": "Mohammed VI",
+      "since": "1999-07-23",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Palacio Real de Marruecos",
+      "sourceUrl": "https://www.maroc.ma/fr/contenu/sa-majeste-le-roi",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Rey: jefe de Estado con poderes ejecutivos amplios"
+    },
+    "headOfGovernment": {
+      "name": "Aziz Akhannouch",
+      "since": "2021-10-07",
+      "partyQid": "Q1194514",
+      "partyName": "RNI",
+      "source": "Jefatura del Gobierno de Marruecos",
+      "sourceUrl": "https://www.cg.gov.ma",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025 — confirmar si sigue vigente"
+    }
+  },
+  "ETH": {
+    "headOfState": {
+      "name": "Sahle-Work Zewde",
+      "since": "2018-10-25",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Etiopía",
+      "sourceUrl": "https://pmo.gov.et",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidenta: cargo ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Abiy Ahmed",
+      "since": "2018-04-02",
+      "partyQid": "Q105398211",
+      "partyName": "Partido de la Prosperidad",
+      "source": "Oficina del Primer Ministro de Etiopía",
+      "sourceUrl": "https://pmo.gov.et",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Verificado a agosto 2025; reelegido en 2021"
+    }
+  },
+  "KEN": {
+    "headOfState": {
+      "name": "William Ruto",
+      "since": "2022-09-13",
+      "partyQid": "Q1194965",
+      "partyName": "UDA",
+      "source": "Presidencia de Kenia",
+      "sourceUrl": "https://www.president.go.ke",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "William Ruto",
+      "since": "2022-09-13",
+      "partyQid": "Q1194965",
+      "partyName": "UDA",
+      "source": "Presidencia de Kenia",
+      "sourceUrl": "https://www.president.go.ke",
+      "retrievedAt": "2026-11-22",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "DOM": {
+    "headOfState": {
+      "name": "Luis Abinader",
+      "since": "2020-08-16",
+      "partyQid": null,
+      "partyName": "Partido Revolucionario Moderno (PRM)",
+      "source": "Presidencia de la República Dominicana",
+      "sourceUrl": "https://www.presidencia.gob.do/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelecto en mayo 2024; presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Luis Abinader",
+      "since": "2020-08-16",
+      "partyQid": null,
+      "partyName": "Partido Revolucionario Moderno (PRM)",
+      "source": "Presidencia de la República Dominicana",
+      "sourceUrl": "https://www.presidencia.gob.do/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelecto en mayo 2024"
+    }
+  },
+  "GTM": {
+    "headOfState": {
+      "name": "Bernardo Arévalo",
+      "since": "2024-01-14",
+      "partyQid": null,
+      "partyName": "Movimiento Semilla",
+      "source": "Presidencia de Guatemala",
+      "sourceUrl": "https://www.presidencia.gob.gt/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Bernardo Arévalo",
+      "since": "2024-01-14",
+      "partyQid": null,
+      "partyName": "Movimiento Semilla",
+      "source": "Presidencia de Guatemala",
+      "sourceUrl": "https://www.presidencia.gob.gt/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "FIN": {
+    "headOfState": {
+      "name": "Alexander Stubb",
+      "since": "2024-03-01",
+      "partyQid": null,
+      "partyName": "Partido de la Coalición Nacional (KOK)",
+      "source": "Presidencia de Finlandia",
+      "sourceUrl": "https://www.presidentti.fi/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Elegido en febrero 2024"
+    },
+    "headOfGovernment": {
+      "name": "Petteri Orpo",
+      "since": "2023-06-20",
+      "partyQid": null,
+      "partyName": "Partido de la Coalición Nacional (KOK)",
+      "source": "Gobierno de Finlandia",
+      "sourceUrl": "https://valtioneuvosto.fi/en/prime-minister",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde junio 2023"
+    }
+  },
+  "CZE": {
+    "headOfState": {
+      "name": "Petr Pavel",
+      "since": "2023-03-09",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de la República Checa",
+      "sourceUrl": "https://www.hrad.cz/en/czech-republic/president-of-the-czech-republic",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente independiente (sin partido)"
+    },
+    "headOfGovernment": {
+      "name": "Andrej Babiš",
+      "since": "2025-11-01",
+      "partyQid": null,
+      "partyName": "ANO 2011",
+      "source": "Gobierno de la República Checa",
+      "sourceUrl": "https://www.vlada.cz/en/vlada/prime-minister/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "ANO ganó las elecciones de octubre 2025; Babiš encargado de formar gobierno"
+    }
+  },
+  "SVK": {
+    "headOfState": {
+      "name": "Peter Pellegrini",
+      "since": "2024-06-15",
+      "partyQid": null,
+      "partyName": "Hlas–SD",
+      "source": "Presidencia de Eslovaquia",
+      "sourceUrl": "https://www.president.sk/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Elegido en abril 2024"
+    },
+    "headOfGovernment": {
+      "name": "Robert Fico",
+      "since": "2023-10-25",
+      "partyQid": null,
+      "partyName": "Smer–SSD",
+      "source": "Gobierno de Eslovaquia",
+      "sourceUrl": "https://www.vlada.gov.sk/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Cuarto mandato como primer ministro"
+    }
+  },
+  "BGR": {
+    "headOfState": {
+      "name": "Rumen Radev",
+      "since": "2017-01-22",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Bulgaria",
+      "sourceUrl": "https://www.president.bg/en",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente independiente, reelegido en 2021"
+    },
+    "headOfGovernment": {
+      "name": "Rossen Zhelyazkov",
+      "since": "2024-05-09",
+      "partyQid": null,
+      "partyName": "GERB",
+      "source": "Consejo de Ministros de Bulgaria",
+      "sourceUrl": "https://www.gov.bg/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro tras las elecciones de octubre 2024"
+    }
+  },
+  "HRV": {
+    "headOfState": {
+      "name": "Zoran Milanović",
+      "since": "2020-02-18",
+      "partyQid": null,
+      "partyName": "SDP (antes de tomar posesión)",
+      "source": "Presidencia de Croacia",
+      "sourceUrl": "https://www.predsjednik.hr/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegido en enero 2024; ejerce como independiente en el cargo"
+    },
+    "headOfGovernment": {
+      "name": "Andrej Plenković",
+      "since": "2016-10-19",
+      "partyQid": null,
+      "partyName": "HDZ (Unión Democrática Croata)",
+      "source": "Gobierno de Croacia",
+      "sourceUrl": "https://vlada.gov.hr/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde 2016, reconfirmado en 2024"
+    }
+  },
+  "SRB": {
+    "headOfState": {
+      "name": "Aleksandar Vučić",
+      "since": "2017-05-31",
+      "partyQid": null,
+      "partyName": "SNS (Partido Progresista Serbio)",
+      "source": "Presidencia de Serbia",
+      "sourceUrl": "https://www.predsednik.rs/en",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegido en abril 2022"
+    },
+    "headOfGovernment": {
+      "name": "Miloš Vučević",
+      "since": "2024-05-02",
+      "partyQid": null,
+      "partyName": "SNS (Partido Progresista Serbio)",
+      "source": "Gobierno de Serbia",
+      "sourceUrl": "https://www.srbija.gov.rs/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde mayo 2024"
+    }
+  },
+  "MDA": {
+    "headOfState": {
+      "name": "Maia Sandu",
+      "since": "2020-12-24",
+      "partyQid": null,
+      "partyName": "Acțiunea și Solidaritatea (PAS)",
+      "source": "Presidencia de Moldavia",
+      "sourceUrl": "https://www.presidency.md/eng/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegida en octubre 2024"
+    },
+    "headOfGovernment": {
+      "name": "Dorin Recean",
+      "since": "2023-02-16",
+      "partyQid": null,
+      "partyName": "Acțiunea și Solidaritatea (PAS)",
+      "source": "Gobierno de Moldavia",
+      "sourceUrl": "https://gov.md/en",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde febrero 2023"
+    }
+  },
+  "BLR": {
+    "headOfState": {
+      "name": "Alexander Lukashenko",
+      "since": "1994-07-20",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Administración Presidencial de Bielorrusia",
+      "sourceUrl": "https://president.gov.by/en",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Su legitimidad no es reconocida por la UE ni EEUU tras las elecciones fraudulentas de 2020"
+    },
+    "headOfGovernment": {
+      "name": "Roman Golovchenko",
+      "since": "2020-06-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Consejo de Ministros de Bielorrusia",
+      "sourceUrl": "https://www.government.by/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde junio 2020"
+    }
+  },
+  "VNM": {
+    "headOfState": {
+      "name": "Lương Cường",
+      "since": "2024-10-21",
+      "partyQid": null,
+      "partyName": "Partido Comunista de Vietnam (PCVn)",
+      "source": "Gobierno de Vietnam",
+      "sourceUrl": "https://www.chinhphu.vn/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde oct. 2024; el poder real recae en el Secretario General del PCVn (Tô Lâm)"
+    },
+    "headOfGovernment": {
+      "name": "Phạm Minh Chính",
+      "since": "2021-04-05",
+      "partyQid": null,
+      "partyName": "Partido Comunista de Vietnam (PCVn)",
+      "source": "Gobierno de Vietnam",
+      "sourceUrl": "https://www.chinhphu.vn/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde abril 2021"
+    }
+  },
+  "MYS": {
+    "headOfState": {
+      "name": "Sultan Ibrahim",
+      "since": "2024-01-31",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real de Malasia",
+      "sourceUrl": "https://www.istana.gov.my/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Yang di-Pertuan Agong (Rey): cargo rotatorio entre los sultanes; sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Anwar Ibrahim",
+      "since": "2022-11-24",
+      "partyQid": null,
+      "partyName": "PKR / Pakatan Harapan",
+      "source": "Oficina del Primer Ministro de Malasia",
+      "sourceUrl": "https://www.pmo.gov.my/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde noviembre 2022"
+    }
+  },
+  "BGD": {
+    "headOfState": {
+      "name": "Mohammed Shahabuddin",
+      "since": "2023-04-24",
+      "partyQid": null,
+      "partyName": "Liga Awami (antes de tomar posesión)",
+      "source": "Presidencia de Bangladés",
+      "sourceUrl": "https://www.bangabhaban.gov.bd/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde abril 2023; cargo en gran parte ceremonial"
+    },
+    "headOfGovernment": {
+      "name": "Muhammad Yunus",
+      "since": "2024-08-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno Provisional de Bangladés",
+      "sourceUrl": "https://www.cabinet.gov.bd/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Jefe del gobierno provisional tras la caída de Sheikh Hasina en agosto 2024; sin partido"
+    }
+  },
+  "NZL": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Nueva Zelanda",
+      "sourceUrl": "https://www.govt.nz/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca: sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Christopher Luxon",
+      "since": "2023-11-27",
+      "partyQid": null,
+      "partyName": "Partido Nacional",
+      "source": "Oficina del Primer Ministro de Nueva Zelanda",
+      "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/prime-ministers-office",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde noviembre 2023"
+    }
+  },
+  "SGP": {
+    "headOfState": {
+      "name": "Tharman Shanmugaratnam",
+      "since": "2023-09-01",
+      "partyQid": null,
+      "partyName": "PAP (Partido de Acción Popular)",
+      "source": "Presidencia de Singapur",
+      "sourceUrl": "https://www.istana.gov.sg/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde septiembre 2023"
+    },
+    "headOfGovernment": {
+      "name": "Lawrence Wong",
+      "since": "2024-05-15",
+      "partyQid": null,
+      "partyName": "PAP (Partido de Acción Popular)",
+      "source": "Oficina del Primer Ministro de Singapur",
+      "sourceUrl": "https://www.pmo.gov.sg/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde mayo 2024, sucesor de Lee Hsien Loong"
+    }
+  },
+  "KAZ": {
+    "headOfState": {
+      "name": "Kassym-Jomart Tokayev",
+      "since": "2019-03-20",
+      "partyQid": null,
+      "partyName": "Amanat",
+      "source": "Presidencia de Kazajistán",
+      "sourceUrl": "https://www.akorda.kz/en",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegido en noviembre 2022 con el 81% de los votos"
+    },
+    "headOfGovernment": {
+      "name": "Olzhas Bektenov",
+      "since": "2024-02-06",
+      "partyQid": null,
+      "partyName": "Amanat",
+      "source": "Gobierno de Kazajistán",
+      "sourceUrl": "https://www.gov.kz/memleket/entities/pm?lang=en",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde febrero 2024"
+    }
+  },
+  "MMR": {
+    "headOfState": {
+      "name": "Min Aung Hlaing",
+      "since": "2021-02-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Consejo de Administración del Estado (SAC)",
+      "sourceUrl": "https://www.moi.gov.mm/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Jefe de la junta militar desde el golpe de estado del 1 feb. 2021; gobierno civil en el exilio no reconocido por la junta"
+    },
+    "headOfGovernment": {
+      "name": "Min Aung Hlaing",
+      "since": "2021-08-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Consejo de Administración del Estado (SAC)",
+      "sourceUrl": "https://www.moi.gov.mm/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Se autoproclamó primer ministro en agosto 2021"
+    }
+  },
+  "IRQ": {
+    "headOfState": {
+      "name": "Abdul Latif Rashid",
+      "since": "2022-10-13",
+      "partyQid": null,
+      "partyName": "Unión Patriótica del Kurdistán (PUK)",
+      "source": "Presidencia de Irak",
+      "sourceUrl": "https://presidency.iq/EN/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde octubre 2022"
+    },
+    "headOfGovernment": {
+      "name": "Mohammed Shia' Al-Sudani",
+      "since": "2022-10-27",
+      "partyQid": null,
+      "partyName": "Estado de Derecho (Dawa)",
+      "source": "Consejo de Ministros de Irak",
+      "sourceUrl": "https://www.pmo.iq/en/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde octubre 2022"
+    }
+  },
+  "JOR": {
+    "headOfState": {
+      "name": "Abdallah II",
+      "since": "1999-02-07",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Casa Real Hachemita de Jordania",
+      "sourceUrl": "https://www.kingabdullah.jo/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey desde febrero 1999; sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Jafar Hassan",
+      "since": "2024-09-15",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Jordania",
+      "sourceUrl": "https://www.pm.gov.jo/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde septiembre 2024"
+    }
+  },
+  "ARE": {
+    "headOfState": {
+      "name": "Mohamed bin Zayed Al Nahyan",
+      "since": "2022-05-14",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de los Emiratos Árabes Unidos",
+      "sourceUrl": "https://uaepresidency.gov.ae/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de los EAU y gobernante de Abu Dabi; sin partido"
+    },
+    "headOfGovernment": {
+      "name": "Mohammed bin Rashid Al Maktoum",
+      "since": "2006-02-11",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de los Emiratos Árabes Unidos",
+      "sourceUrl": "https://uaecabinet.ae/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro y gobernante de Dubái desde 2006; sin partido"
+    }
+  },
+  "TUN": {
+    "headOfState": {
+      "name": "Kais Saied",
+      "since": "2019-10-23",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Túnez",
+      "sourceUrl": "https://www.president.gov.tn/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegido en octubre 2024 con más del 90%; concentra todo el poder ejecutivo desde 2021"
+    },
+    "headOfGovernment": {
+      "name": "Ahmed Hachani",
+      "since": "2023-08-01",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Túnez",
+      "sourceUrl": "https://www.pm.gov.tn/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde agosto 2023; en la práctica subordinado al presidente"
+    }
+  },
+  "LBN": {
+    "headOfState": {
+      "name": "Joseph Aoun",
+      "since": "2025-01-09",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de la República Libanesa",
+      "sourceUrl": "https://www.presidency.gov.lb/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Elegido por el Parlamento el 9 ene. 2025 tras más de 2 años de vacío presidencial"
+    },
+    "headOfGovernment": {
+      "name": "Nawaf Salam",
+      "since": "2025-01-13",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Consejo de Ministros del Líbano",
+      "sourceUrl": "https://www.pcm.gov.lb/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde enero 2025; independiente"
+    }
+  },
+  "DZA": {
+    "headOfState": {
+      "name": "Abdelmadjid Tebboune",
+      "since": "2019-12-19",
+      "partyQid": null,
+      "partyName": "FLN (Frente de Liberación Nacional)",
+      "source": "Presidencia de Argelia",
+      "sourceUrl": "https://www.el-mouradia.dz/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegido en septiembre 2024 con más del 94% de los votos"
+    },
+    "headOfGovernment": {
+      "name": "Nadir Larbaoui",
+      "since": "2023-11-10",
+      "partyQid": null,
+      "partyName": "FLN (Frente de Liberación Nacional)",
+      "source": "Gobierno de Argelia",
+      "sourceUrl": "https://www.premier-ministre.gov.dz/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro desde noviembre 2023"
+    }
+  },
+  "TZA": {
+    "headOfState": {
+      "name": "Samia Suluhu Hassan",
+      "since": "2021-03-19",
+      "partyQid": null,
+      "partyName": "CCM (Chama Cha Mapinduzi)",
+      "source": "Presidencia de Tanzania",
+      "sourceUrl": "https://www.statehouse.go.tz/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera presidenta de Tanzania; reelegida en octubre 2025; jefa de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Samia Suluhu Hassan",
+      "since": "2021-03-19",
+      "partyQid": null,
+      "partyName": "CCM (Chama Cha Mapinduzi)",
+      "source": "Presidencia de Tanzania",
+      "sourceUrl": "https://www.statehouse.go.tz/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta: jefa de Estado y de Gobierno"
+    }
+  },
+  "GHA": {
+    "headOfState": {
+      "name": "John Mahama",
+      "since": "2025-01-07",
+      "partyQid": null,
+      "partyName": "NDC (Congreso Nacional Democrático)",
+      "source": "Presidencia de Ghana",
+      "sourceUrl": "https://www.presidency.gov.gh/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Ganó las elecciones de diciembre 2024; tercer mandato; presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "John Mahama",
+      "since": "2025-01-07",
+      "partyQid": null,
+      "partyName": "NDC (Congreso Nacional Democrático)",
+      "source": "Presidencia de Ghana",
+      "sourceUrl": "https://www.presidency.gov.gh/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "SEN": {
+    "headOfState": {
+      "name": "Bassirou Diomaye Faye",
+      "since": "2024-04-02",
+      "partyQid": null,
+      "partyName": "Pastef (Patriotes Africains du Sénégal)",
+      "source": "Presidencia de Senegal",
+      "sourceUrl": "https://www.presidence.sn/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Elegido en marzo 2024; más joven presidente de Senegal"
+    },
+    "headOfGovernment": {
+      "name": "Ousmane Sonko",
+      "since": "2024-04-02",
+      "partyQid": null,
+      "partyName": "Pastef (Patriotes Africains du Sénégal)",
+      "source": "Gobierno de Senegal",
+      "sourceUrl": "https://www.gouvernement.sn/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer ministro designado por Faye; reconfirmado tras tensiones políticas en 2024"
+    }
+  },
+  "ZWE": {
+    "headOfState": {
+      "name": "Emmerson Mnangagwa",
+      "since": "2017-11-24",
+      "partyQid": null,
+      "partyName": "ZANU-PF",
+      "source": "Gobierno de Zimbabue",
+      "sourceUrl": "https://www.zim.gov.zw/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Reelegido en agosto 2023; presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Emmerson Mnangagwa",
+      "since": "2017-11-24",
+      "partyQid": null,
+      "partyName": "ZANU-PF",
+      "source": "Gobierno de Zimbabue",
+      "sourceUrl": "https://www.zim.gov.zw/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  }
+}

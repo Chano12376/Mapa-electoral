@@ -1,0 +1,476 @@
+{
+  "USA": {
+    "note": "Promedio de aprobación RealClearPolitics (RCP average, 24 nov. 2025).",
+    "polls": [
+      {
+        "pollster": "RealClearPolitics (promedio)",
+        "fieldwork": "2025-11",
+        "govtApproval": { "approve": 43, "disapprove": 56, "neutral": 1 },
+        "source": "RealClearPolitics Approval Tracker",
+        "sourceUrl": "https://www.realclearpolling.com/polls/approval/general/donald-trump/job-approval",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "GBR": {
+    "note": "Promedio Opinium (dic. 2025). Reform UK ha superado a Labour desde mediados de 2025. Nota: Ipsos (sep. 2025) mostraba Labour aún líder con 32%; divergencia importante entre encuestadoras.",
+    "polls": [
+      {
+        "pollster": "Opinium",
+        "fieldwork": "2025-12",
+        "votingIntention": [
+          { "name": "Reform", "fullName": "Reform UK",             "pct": 32, "color": "#12B6CF" },
+          { "name": "Lab",    "fullName": "Labour",                "pct": 20, "color": "#E4003B", "inGovt": true },
+          { "name": "Con",    "fullName": "Conservatives",         "pct": 18, "color": "#0087DC" },
+          { "name": "LD",     "fullName": "Liberal Democrats",     "pct": 10, "color": "#FAA61A" },
+          { "name": "Green",  "fullName": "Green Party",           "pct": 7,  "color": "#02A95B" },
+          { "name": "SNP",    "fullName": "SNP",                   "pct": 3,  "color": "#FDF38E" }
+        ],
+        "source": "Opinium Poll Tracker",
+        "sourceUrl": "https://www.opinium.com/political-polling/",
+        "retrievedAt": "2025-12"
+      }
+    ]
+  },
+  "DEU": {
+    "note": "Promedio DAWUM / INSA (22 nov. 2025). La AfD supera a CDU/CSU en intención de voto desde las elecciones federales de feb. 2025 (en las que CDU/CSU ganó con 28,5% y AfD obtuvo 20,8%). Gobierno actual: CDU/CSU + SPD.",
+    "polls": [
+      {
+        "pollster": "DAWUM / INSA (promedio)",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "AfD",    "fullName": "Alternative für Deutschland",    "pct": 26, "color": "#009EE0" },
+          { "name": "CDU/CSU","fullName": "CDU/CSU",                       "pct": 25, "color": "#000000", "inGovt": true },
+          { "name": "SPD",    "fullName": "SPD",                           "pct": 15, "color": "#E3000F", "inGovt": true },
+          { "name": "Grüne",  "fullName": "Bündnis 90/Die Grünen",         "pct": 11, "color": "#46962B" },
+          { "name": "Linke",  "fullName": "Die Linke",                     "pct": 10, "color": "#BE3075" },
+          { "name": "BSW",    "fullName": "Bündnis Sahra Wagenknecht",     "pct": 4,  "color": "#820536" },
+          { "name": "FDP",    "fullName": "FDP",                           "pct": 3,  "color": "#FFED00" }
+        ],
+        "source": "DAWUM.de / INSA Chronicle",
+        "sourceUrl": "https://dawum.de/Bundestag/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "FRA": {
+    "note": "Promedio Ifop/OpinionWay (oct. 2025). RN lidera con claridad. Gobierno Bayrou (Ensemble) con aprobación muy baja.",
+    "polls": [
+      {
+        "pollster": "Ifop / OpinionWay (promedio)",
+        "fieldwork": "2025-10",
+        "votingIntention": [
+          { "name": "RN",   "fullName": "Rassemblement National",    "pct": 34, "color": "#002395" },
+          { "name": "NFP",  "fullName": "Nouveau Front Populaire",   "pct": 25, "color": "#BB0000" },
+          { "name": "Ens.", "fullName": "Ensemble (Bayrou)",         "pct": 15, "color": "#FF8000", "inGovt": true },
+          { "name": "LR",   "fullName": "Les Républicains",         "pct": 10, "color": "#003189" },
+          { "name": "Otros","fullName": "Otros",                    "pct": 16, "color": "#888888" }
+        ],
+        "govtApproval": { "approve": 24, "disapprove": 68, "neutral": 8 },
+        "source": "Ifop pour Le Figaro / OpinionWay",
+        "sourceUrl": "https://www.ifop.com/publication/intentions-de-vote-legislatives/",
+        "retrievedAt": "2025-10"
+      }
+    ]
+  },
+  "ESP": {
+    "note": "Encuestadoras privadas (DYM 14 nov., SocioMétrica 6–8 nov.): PP lidera sobre PSOE. El CIS (dic. 2025) muestra el orden inverso: PSOE 31,4%, PP 22,4%. Brecha metodológica bien documentada.",
+    "polls": [
+      {
+        "pollster": "DYM / SocioMétrica (promedio encuestadoras privadas)",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "PP",   "fullName": "Partido Popular",    "pct": 32, "color": "#0056A2" },
+          { "name": "PSOE", "fullName": "PSOE",               "pct": 28, "color": "#E60026", "inGovt": true },
+          { "name": "Vox",  "fullName": "Vox",                "pct": 17, "color": "#63BE21" },
+          { "name": "Sumar","fullName": "Sumar",              "pct": 7,  "color": "#E5007D", "inGovt": true },
+          { "name": "Pód.", "fullName": "Podemos",            "pct": 4,  "color": "#6A2FA0" },
+          { "name": "Otros","fullName": "Resto (incluye partidos reg.)", "pct": 12, "color": "#888888" }
+        ],
+        "source": "DYM (El Español) / SocioMétrica",
+        "sourceUrl": "https://www.electocracia.com/barometro/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "ITA": {
+    "note": "Promedio SWG, Demopolis, Termometro Politico (oct. 2025). FdI mantiene el liderazgo de la coalición de gobierno.",
+    "polls": [
+      {
+        "pollster": "SWG / Demopolis / Termometro Politico (promedio)",
+        "fieldwork": "2025-10",
+        "votingIntention": [
+          { "name": "FdI",  "fullName": "Fratelli d'Italia",         "pct": 30, "color": "#1A3A6E", "inGovt": true },
+          { "name": "PD",   "fullName": "Partito Democratico",       "pct": 22, "color": "#E61A1A" },
+          { "name": "M5S",  "fullName": "Movimento 5 Stelle",        "pct": 13, "color": "#F5C400" },
+          { "name": "FI",   "fullName": "Forza Italia",              "pct": 9,  "color": "#00529B", "inGovt": true },
+          { "name": "Lega", "fullName": "Lega",                      "pct": 8,  "color": "#1E8449", "inGovt": true },
+          { "name": "AVS",  "fullName": "Alleanza Verdi e Sinistra", "pct": 6,  "color": "#36862E" },
+          { "name": "Otros","fullName": "Otros",                     "pct": 12, "color": "#888888" }
+        ],
+        "source": "SWG (20 oct.) / Demopolis (14 oct.) / Termometro Politico (23 oct.)",
+        "sourceUrl": "https://www.termometropolitico.it/sondaggi-politici/",
+        "retrievedAt": "2025-10"
+      }
+    ]
+  },
+  "POL": {
+    "note": "Promedio Opinia24 / United Surveys (dic. 2025). El gobierno de coalición KO+TD+Lewica mantiene mayoría sólida en sondeos.",
+    "polls": [
+      {
+        "pollster": "Opinia24 / United Surveys (promedio)",
+        "fieldwork": "2025-12",
+        "votingIntention": [
+          { "name": "KO",   "fullName": "Koalicja Obywatelska",           "pct": 35, "color": "#F4790B", "inGovt": true },
+          { "name": "PiS",  "fullName": "Prawo i Sprawiedliwość",         "pct": 27, "color": "#1D3461" },
+          { "name": "Konf.","fullName": "Konfederacja",                   "pct": 12, "color": "#002147" },
+          { "name": "TD",   "fullName": "Trzecia Droga (PSL+Polska2050)", "pct": 10, "color": "#2D6A27", "inGovt": true },
+          { "name": "Lewica","fullName": "Lewica",                        "pct": 7,  "color": "#CC0000", "inGovt": true },
+          { "name": "Otros","fullName": "Otros",                          "pct": 9,  "color": "#888888" }
+        ],
+        "source": "Opinia24 (22 dic.) / United Surveys (21 dic.)",
+        "sourceUrl": "https://www.wyborcza.pl/sondaze/",
+        "retrievedAt": "2025-12"
+      }
+    ]
+  },
+  "SWE": {
+    "note": "Encuesta Verian para SVT (27 oct.–9 nov. 2025). Los socialdemócratas (S) lideran la oposición con claridad.",
+    "polls": [
+      {
+        "pollster": "Verian para SVT",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "S",   "fullName": "Socialdemokraterna",    "pct": 34, "color": "#E8112D" },
+          { "name": "SD",  "fullName": "Sverigedemokraterna",   "pct": 20, "color": "#DDDD00" },
+          { "name": "M",   "fullName": "Moderaterna",           "pct": 19, "color": "#52BDEC", "inGovt": true },
+          { "name": "V",   "fullName": "Vänsterpartiet",        "pct": 7,  "color": "#DA291C" },
+          { "name": "C",   "fullName": "Centerpartiet",         "pct": 6,  "color": "#009933", "inGovt": true },
+          { "name": "MP",  "fullName": "Miljöpartiet",          "pct": 5,  "color": "#83CF39" },
+          { "name": "KD",  "fullName": "Kristdemokraterna",     "pct": 5,  "color": "#000077", "inGovt": true },
+          { "name": "L",   "fullName": "Liberalerna",           "pct": 4,  "color": "#006AB3", "inGovt": true }
+        ],
+        "source": "Verian/SVT Mätning",
+        "sourceUrl": "https://www.svt.se/nyheter/inrikes/svts-matning/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "NLD": {
+    "note": "Países Bajos celebró elecciones anticipadas el 29 oct. 2025. Peilingwijzer previo a comicios. PVV (gobierno saliente) perdió terreno respecto a su resultado de 2023.",
+    "polls": [
+      {
+        "pollster": "Peilingwijzer (promedio previo a las elecciones)",
+        "fieldwork": "2025-10",
+        "votingIntention": [
+          { "name": "PVV",    "fullName": "Partij voor de Vrijheid",  "pct": 22, "color": "#1E3A5F" },
+          { "name": "GL-PvdA","fullName": "GroenLinks-PvdA",          "pct": 19, "color": "#74B72E" },
+          { "name": "D66",    "fullName": "D66",                      "pct": 10, "color": "#00AA00" },
+          { "name": "VVD",    "fullName": "VVD",                      "pct": 12, "color": "#FF7900" },
+          { "name": "NSC",    "fullName": "Nieuw Sociaal Contract",   "pct": 7,  "color": "#2E75B6" },
+          { "name": "BBB",    "fullName": "BoerBurgerBeweging",       "pct": 5,  "color": "#7DC3A6" },
+          { "name": "Otros",  "fullName": "Otros",                    "pct": 25, "color": "#888888" }
+        ],
+        "source": "Peilingwijzer (Tom Louwerse)",
+        "sourceUrl": "https://peilingwijzer.tomlouwerse.nl/",
+        "retrievedAt": "2025-10"
+      }
+    ]
+  },
+  "BEL": {
+    "note": "Intención de voto para próximas elecciones federales (datos apr.–sep. 2025). Coalición Arizona (N-VA, MR, cd&v, Les Engagés, Vooruit) gobierna desde oct. 2024.",
+    "polls": [
+      {
+        "pollster": "Ipsos / Le Soir (promedio)",
+        "fieldwork": "2025-09",
+        "votingIntention": [
+          { "name": "VB",   "fullName": "Vlaams Belang",          "pct": 22, "color": "#F0A500" },
+          { "name": "N-VA", "fullName": "Nieuw-Vlaamse Alliantie","pct": 17, "color": "#F5A623", "inGovt": true },
+          { "name": "MR",   "fullName": "Mouvement Réformateur",  "pct": 12, "color": "#003E99", "inGovt": true },
+          { "name": "PS",   "fullName": "Parti Socialiste",       "pct": 10, "color": "#CC0000" },
+          { "name": "cd&v", "fullName": "cd&v",                   "pct": 8,  "color": "#FF7A00", "inGovt": true },
+          { "name": "Otros","fullName": "Otros (Vooruit, Groen, PTB, Les Engagés…)", "pct": 31, "color": "#888888" }
+        ],
+        "source": "Ipsos / Le Soir / RTBf",
+        "sourceUrl": "https://www.lesoir.be/elections/sondages/",
+        "retrievedAt": "2025-09"
+      }
+    ]
+  },
+  "AUT": {
+    "note": "Encuesta tras las elecciones del 29 sep. 2024 y formación del gobierno FPÖ+ÖVP (ene. 2025). Primera vez que FPÖ lidera un gobierno federal austriaco.",
+    "polls": [
+      {
+        "pollster": "Unique Research / IFDD (promedio nov. 2025)",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "FPÖ", "fullName": "Freiheitliche Partei Österreichs","pct": 34, "color": "#003F7F", "inGovt": true },
+          { "name": "ÖVP", "fullName": "Österreichische Volkspartei",    "pct": 25, "color": "#62C3D0", "inGovt": true },
+          { "name": "SPÖ", "fullName": "Sozialdemokratische Partei",     "pct": 20, "color": "#E2001A" },
+          { "name": "NEOS","fullName": "NEOS",                           "pct": 10, "color": "#E84F8C" },
+          { "name": "Grüne","fullName": "Die Grünen",                    "pct": 8,  "color": "#87B547" }
+        ],
+        "source": "Unique Research / IFDD (APA) nov. 2025",
+        "sourceUrl": "https://www.apa.at/themen/sondagen/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "GRC": {
+    "note": "Intención de voto para próximas elecciones legislativas (encuestas oct.–nov. 2025). ND gobierna con mayoría absoluta desde jun. 2023.",
+    "polls": [
+      {
+        "pollster": "MRB / Alco / Interview (promedio)",
+        "fieldwork": "2025-10",
+        "votingIntention": [
+          { "name": "ND",    "fullName": "Nea Dimokratia",   "pct": 32, "color": "#006CBF", "inGovt": true },
+          { "name": "PASOK", "fullName": "PASOK-KINAL",      "pct": 16, "color": "#1A7A39" },
+          { "name": "SYRIZA","fullName": "SYRIZA-EKM",       "pct": 11, "color": "#B5172B" },
+          { "name": "KKE",   "fullName": "KKE",              "pct": 9,  "color": "#CC0000" },
+          { "name": "Spartiatai","fullName": "Spartiatai",   "pct": 7,  "color": "#1A1A1A" },
+          { "name": "Otros", "fullName": "Otros",            "pct": 25, "color": "#888888" }
+        ],
+        "source": "Politico Poll of Polls Greece",
+        "sourceUrl": "https://www.politico.eu/europe-poll-of-polls/greece/",
+        "retrievedAt": "2025-10"
+      }
+    ]
+  },
+  "HUN": {
+    "note": "Medián (ene. 2026): TISZA 40%, Fidesz 33%. Encuestadoras afines al gobierno (Magyar Társadalomkutató dic. 2025) muestran Fidesz 51%, TISZA 38%. Elecciones en abr. 2026.",
+    "polls": [
+      {
+        "pollster": "Medián (encuestadora independiente)",
+        "fieldwork": "2026-01",
+        "votingIntention": [
+          { "name": "TISZA",  "fullName": "TISZA (Magyar Péter)",  "pct": 40, "color": "#0070C0" },
+          { "name": "Fidesz", "fullName": "Fidesz–KDNP",           "pct": 33, "color": "#F5821F", "inGovt": true },
+          { "name": "Mi Haz.","fullName": "Mi Hazánk",             "pct": 7,  "color": "#2E7D32" },
+          { "name": "Otros",  "fullName": "Otros",                 "pct": 20, "color": "#888888" }
+        ],
+        "source": "Medián Research Institute (ene. 2026)",
+        "sourceUrl": "https://median.hu/sondeos/",
+        "retrievedAt": "2026-01"
+      }
+    ]
+  },
+  "ROU": {
+    "note": "INSCOP/Avangarde (oct. 2025). AUR (extrema derecha) ha duplicado su apoyo desde 2023 y lidera los sondeos.",
+    "polls": [
+      {
+        "pollster": "INSCOP / Avangarde (promedio oct. 2025)",
+        "fieldwork": "2025-10",
+        "votingIntention": [
+          { "name": "AUR",  "fullName": "Alianța pentru Unirea Românilor", "pct": 41, "color": "#002B7F" },
+          { "name": "PSD",  "fullName": "Partidul Social Democrat",         "pct": 19, "color": "#E81C22", "inGovt": true },
+          { "name": "PNL",  "fullName": "Partidul Național Liberal",        "pct": 15, "color": "#FFD700", "inGovt": true },
+          { "name": "USR",  "fullName": "Uniunea Salvați România",          "pct": 12, "color": "#FF6600" },
+          { "name": "UDMR", "fullName": "UDMR",                            "pct": 5,  "color": "#2E6DA4", "inGovt": true },
+          { "name": "Otros","fullName": "Otros",                           "pct": 8,  "color": "#888888" }
+        ],
+        "source": "INSCOP Research (oct. 2025) / Avangarde (sep. 2025)",
+        "sourceUrl": "https://www.inscop.ro/sondaje/",
+        "retrievedAt": "2025-10"
+      }
+    ]
+  },
+  "CZE": {
+    "note": "Promedio Kantar/STEM/Median (sep.–oct. 2025, previo a las elecciones de oct. 2025). ANO (Babiš) ganó las elecciones y está formando gobierno.",
+    "polls": [
+      {
+        "pollster": "Kantar / STEM / Median (promedio previo a las elecciones)",
+        "fieldwork": "2025-09",
+        "votingIntention": [
+          { "name": "ANO",  "fullName": "ANO 2011 (Babiš)",               "pct": 31, "color": "#003A66" },
+          { "name": "SPOLU","fullName": "SPOLU (ODS+KDU-ČSL+TOP09)",      "pct": 20, "color": "#0070C0", "inGovt": true },
+          { "name": "STAN", "fullName": "Starostové a nezávislí",         "pct": 15, "color": "#FF6600", "inGovt": true },
+          { "name": "SPD",  "fullName": "SPD",                            "pct": 11, "color": "#1E5BB5" },
+          { "name": "Piráti","fullName": "Česká pirátská strana",         "pct": 10, "color": "#FF4500" },
+          { "name": "Otros","fullName": "Otros",                          "pct": 13, "color": "#888888" }
+        ],
+        "source": "Kantar (19 sep.) / STEM (24 sep.) / Median (25 sep.) 2025",
+        "sourceUrl": "https://cs.wikipedia.org/wiki/Pr%C5%AFzkumy_ve%C5%99ejn%C3%A9ho_m%C3%ADn%C4%9Bn%C3%AD_p%C5%99ed_volbami_do_Poslaneck%C3%A9_sn%C4%9Bmovny_2025",
+        "retrievedAt": "2025-09"
+      }
+    ]
+  },
+  "SVK": {
+    "note": "Focus / Ipsos (nov. 2025): PS (oposición) supera a Smer por primera vez en sondeos desde las elecciones de 2023.",
+    "polls": [
+      {
+        "pollster": "Focus / Ipsos / AKO (promedio nov. 2025)",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "PS",   "fullName": "Progresívne Slovensko",          "pct": 23, "color": "#0070C0" },
+          { "name": "Smer", "fullName": "Smer–SSD",                       "pct": 18, "color": "#CC0000", "inGovt": true },
+          { "name": "Hlas", "fullName": "Hlas–SD",                        "pct": 9,  "color": "#FF6600", "inGovt": true },
+          { "name": "KDH",  "fullName": "Kresťanskodemokratické hnutie",  "pct": 8,  "color": "#003189" },
+          { "name": "SNS",  "fullName": "Slovenská národná strana",       "pct": 6,  "color": "#003F7F", "inGovt": true },
+          { "name": "Otros","fullName": "Otros",                          "pct": 36, "color": "#888888" }
+        ],
+        "source": "Focus para 360tka.sk (11–18 nov.) / Ipsos (24–28 nov.) 2025",
+        "sourceUrl": "https://www.360tka.sk/sondaze/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "MDA": {
+    "note": "Moldova celebró elecciones parlamentarias el 28 sep. 2025. PAS obtuvo el 50,2%; BEP (bloque pro-ruso) el 24,2%. Encuesta poselectoral iData (dic. 2025).",
+    "polls": [
+      {
+        "pollster": "iData Research (poselectoral)",
+        "fieldwork": "2025-12",
+        "votingIntention": [
+          { "name": "PAS",  "fullName": "Acțiunea și Solidaritatea (PAS)", "pct": 47, "color": "#003399", "inGovt": true },
+          { "name": "BEP",  "fullName": "Bloc Electoral al Comuniștilor și Socialiștilor", "pct": 22, "color": "#CC0000" },
+          { "name": "Otros","fullName": "Otros",                           "pct": 31, "color": "#888888" }
+        ],
+        "source": "iData Research (18 dic. 2025) vía PolitPro",
+        "sourceUrl": "https://www.e-democracy.md/monitoring/elections/",
+        "retrievedAt": "2025-12"
+      }
+    ]
+  },
+  "BRA": {
+    "note": "Datafolha (dic. 2025) y Quaest (6–9 nov. 2025). La imagen del presidente Lula está prácticamente empatada entre positiva y negativa.",
+    "polls": [
+      {
+        "pollster": "Datafolha / Quaest (promedio)",
+        "fieldwork": "2025-12",
+        "govtApproval": { "approve": 48, "disapprove": 49, "neutral": 3 },
+        "source": "Datafolha (dic. 2025)",
+        "sourceUrl": "https://datafolha.folha.uol.com.br/opiniaopublica/",
+        "retrievedAt": "2025-12"
+      }
+    ]
+  },
+  "ARG": {
+    "note": "AtlasIntel/Bloomberg (22–27 nov. 2025): 42,6% aprueba a Milei. Morning Consult (6–12 nov.): 56%. Amplia variación entre encuestadoras; midterms de oct. 2025 dieron un impulso a La Libertad Avanza.",
+    "polls": [
+      {
+        "pollster": "AtlasIntel / Bloomberg",
+        "fieldwork": "2025-11",
+        "govtApproval": { "approve": 43, "disapprove": 50, "neutral": 7 },
+        "source": "AtlasIntel / Buenos Aires Times (2 dic. 2025)",
+        "sourceUrl": "https://www.buenosairestimes.com/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "MEX": {
+    "note": "Enkoll (dic. 2025): Sheinbaum mantiene una aprobación muy alta, aunque bajó 4 puntos desde sep. por preocupaciones de seguridad.",
+    "polls": [
+      {
+        "pollster": "Enkoll / Question Mark",
+        "fieldwork": "2025-12",
+        "govtApproval": { "approve": 74, "disapprove": 20, "neutral": 6 },
+        "source": "Enkoll (dic. 2025) vía Mexico News Daily",
+        "sourceUrl": "https://mexiconewsdaily.com/politics/",
+        "retrievedAt": "2025-12"
+      }
+    ]
+  },
+  "CAN": {
+    "note": "338Canada (oct.–nov. 2025). El Liberal Mark Carney recupera el liderazgo en sondeos tras las elecciones anticipadas que lo llevaron al poder.",
+    "polls": [
+      {
+        "pollster": "Angus Reid / Nanos / EKOS (promedio, 338Canada)",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "LPC",  "fullName": "Liberal Party of Canada (Carney)", "pct": 42, "color": "#D71920", "inGovt": true },
+          { "name": "CPC",  "fullName": "Conservative Party",               "pct": 36, "color": "#003F7F" },
+          { "name": "NDP",  "fullName": "New Democratic Party",             "pct": 11, "color": "#F37021" },
+          { "name": "BQ",   "fullName": "Bloc Québécois",                   "pct": 7,  "color": "#0088CE" },
+          { "name": "Otros","fullName": "Otros",                            "pct": 4,  "color": "#888888" }
+        ],
+        "source": "338Canada.com (agregador, oct.–nov. 2025)",
+        "sourceUrl": "https://338canada.com/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "JPN": {
+    "note": "Gabinete Takaichi (desde 21 oct. 2025, tras la dimisión de Ishiba). Aprobación muy alta en los primeros sondeos del nuevo gobierno.",
+    "polls": [
+      {
+        "pollster": "JNN / Jiji / Kyodo (promedio)",
+        "fieldwork": "2025-11",
+        "govtApproval": { "approve": 72, "disapprove": 19, "neutral": 9 },
+        "source": "JNN (82% nov.) / Jiji Press (63,8% nov.) / Kyodo (64,4% oct.) — promedio",
+        "sourceUrl": "https://www3.nhk.or.jp/news/special/yoron/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "KOR": {
+    "note": "Gallup Korea (21 nov. 2025). Lee Jae-myung preside con alta aprobación tras el proceso de destitución de Yoon Suk-yeol.",
+    "polls": [
+      {
+        "pollster": "Gallup Korea (seguimiento semanal)",
+        "fieldwork": "2025-11",
+        "govtApproval": { "approve": 60, "disapprove": 32, "neutral": 8 },
+        "source": "Gallup Korea Weekly Tracking (21 nov. 2025)",
+        "sourceUrl": "https://www.gallup.co.kr/gallupdb/reportContent.asp",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  },
+  "AUS": {
+    "note": "Newspoll (oct. 2025). Labor mantiene ventaja sólida en voto preferencial (57–43). Próximas elecciones federales se esperan para 2025–2026.",
+    "polls": [
+      {
+        "pollster": "Newspoll",
+        "fieldwork": "2025-10",
+        "votingIntention": [
+          { "name": "ALP",  "fullName": "Australian Labor Party",    "pct": 37, "color": "#E10D15", "inGovt": true },
+          { "name": "LNP",  "fullName": "Liberal–National Coalition","pct": 28, "color": "#003E99" },
+          { "name": "Green","fullName": "Australian Greens",         "pct": 12, "color": "#009900" },
+          { "name": "Otros","fullName": "Otros / Independientes",    "pct": 23, "color": "#888888" }
+        ],
+        "source": "Newspoll (5 oct. 2025) vía Poll Bludger",
+        "sourceUrl": "https://www.pollbludger.net/",
+        "retrievedAt": "2025-10"
+      }
+    ]
+  },
+  "NZL": {
+    "note": "Encuesta 1News-Verian (preelectoral, nov. 2026). Nueva Zelanda celebra elecciones el 7 nov. 2026. Carrera muy ajustada entre National y Labour.",
+    "polls": [
+      {
+        "pollster": "1News Verian / The Post–Freshwater (promedio preelectoral)",
+        "fieldwork": "2026-11",
+        "votingIntention": [
+          { "name": "Nat.", "fullName": "National Party",   "pct": 30, "color": "#00529F", "inGovt": true },
+          { "name": "Lab.", "fullName": "Labour Party",     "pct": 29, "color": "#D82A20" },
+          { "name": "Green","fullName": "Green Party",      "pct": 16, "color": "#098137" },
+          { "name": "NZ1st","fullName": "New Zealand First","pct": 12, "color": "#000000", "inGovt": true },
+          { "name": "Act", "fullName": "ACT New Zealand",   "pct": 7,  "color": "#FDE800", "inGovt": true },
+          { "name": "Otros","fullName": "Otros",             "pct": 6,  "color": "#888888" }
+        ],
+        "source": "1News Verian / The Post–Freshwater (nov. 2026)",
+        "sourceUrl": "https://www.1news.co.nz/elections/poll-tracker/",
+        "retrievedAt": "2026-11"
+      }
+    ]
+  },
+  "ISR": {
+    "note": "Proyección de escaños previo a las elecciones de la Knesset (27 oct. 2026). Datos: promedio encuestadoras israelíes (Globes / JPost, 2025–2026). Carrera ajustada entre el bloque Yashar (Eisenkot) y Likud.",
+    "polls": [
+      {
+        "pollster": "Promedio encuestadoras israelíes (Globes / JPost)",
+        "fieldwork": "2025-11",
+        "votingIntention": [
+          { "name": "Yashar",    "fullName": "Yashar (Gadi Eisenkot)",     "pct": 20, "color": "#004B87" },
+          { "name": "Likud",     "fullName": "Likud (Netanyahu)",          "pct": 18, "color": "#1A3A6E", "inGovt": true },
+          { "name": "Yesh Atid", "fullName": "Yesh Atid (Lapid)",          "pct": 5,  "color": "#0096D6" },
+          { "name": "Shas",      "fullName": "Shas",                       "pct": 8,  "color": "#6B2FA0", "inGovt": true },
+          { "name": "UTJ",       "fullName": "United Torah Judaism",       "pct": 6,  "color": "#2D4A6B", "inGovt": true },
+          { "name": "Otros",     "fullName": "Otros (Hadash-Taal, Otzma, etc.)", "pct": 43, "color": "#888888" }
+        ],
+        "source": "Globes Poll of Polls (ago. 2026) / JPost (nov. 2025)",
+        "sourceUrl": "https://www.jpost.com/israel-news/elections/",
+        "retrievedAt": "2025-11"
+      }
+    ]
+  }
+}

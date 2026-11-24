@@ -1,0 +1,256 @@
+{
+  "iso3": "IRQ",
+  "name": "Irak",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Abdul Latif Rashid",
+    "since": "2022-10-13",
+    "party": null,
+    "source": "Presidencia de Irak",
+    "sourceUrl": "https://presidency.iq/EN/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohammed Shia' Al-Sudani",
+    "since": "2022-10-27",
+    "party": null,
+    "source": "Consejo de Ministros de Irak",
+    "sourceUrl": "https://www.pmo.iq/en/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "IRQ",
+    "date": "2029-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Consejo de Representantes (329 escaños)",
+    "source": "Independent High Electoral Commission Iraq",
+    "sourceUrl": "https://ihec.iq",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 166774104959.102
+        },
+        {
+          "year": 2016,
+          "value": 166743557747.671
+        },
+        {
+          "year": 2017,
+          "value": 187217660050.676
+        },
+        {
+          "year": 2018,
+          "value": 227367469034.031
+        },
+        {
+          "year": 2019,
+          "value": 233636097800.338
+        },
+        {
+          "year": 2020,
+          "value": 180898797516.874
+        },
+        {
+          "year": 2021,
+          "value": 209691945713.103
+        },
+        {
+          "year": 2022,
+          "value": 287372232137.931
+        },
+        {
+          "year": 2023,
+          "value": 268881051643.549
+        },
+        {
+          "year": 2024,
+          "value": 279641257615.385
+        },
+        {
+          "year": 2025,
+          "value": 254367293538.462
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IRQ",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.60676642939541
+        },
+        {
+          "year": 2016,
+          "value": 13.7873730187089
+        },
+        {
+          "year": 2017,
+          "value": -1.81975035118309
+        },
+        {
+          "year": 2018,
+          "value": 2.63385099105624
+        },
+        {
+          "year": 2019,
+          "value": 5.5137905789381
+        },
+        {
+          "year": 2020,
+          "value": -12.0367930960454
+        },
+        {
+          "year": 2021,
+          "value": 1.5021807095434
+        },
+        {
+          "year": 2022,
+          "value": 7.95904804990212
+        },
+        {
+          "year": 2023,
+          "value": 0.517705525140073
+        },
+        {
+          "year": 2024,
+          "value": -1.54525198319173
+        },
+        {
+          "year": 2025,
+          "value": -2.15574219066178
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IRQ",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.39333028780267
+        },
+        {
+          "year": 2016,
+          "value": 0.556521397155547
+        },
+        {
+          "year": 2017,
+          "value": 0.184058898847553
+        },
+        {
+          "year": 2018,
+          "value": 0.367441488936828
+        },
+        {
+          "year": 2019,
+          "value": -0.198965380023882
+        },
+        {
+          "year": 2020,
+          "value": 0.574162679425856
+        },
+        {
+          "year": 2021,
+          "value": 6.04186489058042
+        },
+        {
+          "year": 2022,
+          "value": 4.9947659638103
+        },
+        {
+          "year": 2023,
+          "value": 4.35835351089595
+        },
+        {
+          "year": 2024,
+          "value": 2.6116961151764
+        },
+        {
+          "year": 2025,
+          "value": 0.303454715219381
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IRQ",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 10.865
+        },
+        {
+          "year": 2016,
+          "value": 10.82
+        },
+        {
+          "year": 2017,
+          "value": 13.02
+        },
+        {
+          "year": 2018,
+          "value": 13.458
+        },
+        {
+          "year": 2019,
+          "value": 14.096
+        },
+        {
+          "year": 2020,
+          "value": 15.766
+        },
+        {
+          "year": 2021,
+          "value": 16.173
+        },
+        {
+          "year": 2022,
+          "value": 15.41
+        },
+        {
+          "year": 2023,
+          "value": 15.239
+        },
+        {
+          "year": 2024,
+          "value": 15.293
+        },
+        {
+          "year": 2025,
+          "value": 15.485
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IRQ",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

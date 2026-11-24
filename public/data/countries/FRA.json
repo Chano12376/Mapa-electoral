@@ -1,0 +1,280 @@
+{
+  "iso3": "FRA",
+  "name": "Francia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Emmanuel Macron",
+    "since": "2017-05-14",
+    "party": {
+      "qid": "Q22904558",
+      "name": "Renaissance"
+    },
+    "source": "Élysée",
+    "sourceUrl": "https://www.elysee.fr/emmanuel-macron",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "François Bayrou",
+    "since": "2025-01-13",
+    "party": {
+      "qid": "Q653362",
+      "name": "MoDem"
+    },
+    "source": "Premier ministre",
+    "sourceUrl": "https://www.gouvernement.fr/composition-du-gouvernement",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": {
+      "parlgovPartyId": 2643,
+      "partyName": "The Republic Onwards! | Renaissance",
+      "country": "FRA",
+      "score": 6,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    },
+    "headOfGovernment": {
+      "parlgovPartyId": 2643,
+      "partyName": "The Republic Onwards! | Renaissance",
+      "country": "FRA",
+      "score": 6,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "nextElection": {
+    "iso3": "FRA",
+    "date": "2027-04-27",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República",
+    "source": "Conseil Constitutionnel",
+    "sourceUrl": "https://www.conseil-constitutionnel.fr/les-decisions/elections-presidentielles",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2442483452642.5
+        },
+        {
+          "year": 2016,
+          "value": 2470407619777.13
+        },
+        {
+          "year": 2017,
+          "value": 2588868323334.71
+        },
+        {
+          "year": 2018,
+          "value": 2781576320884.39
+        },
+        {
+          "year": 2019,
+          "value": 2722793515171.76
+        },
+        {
+          "year": 2020,
+          "value": 2647926055110.05
+        },
+        {
+          "year": 2021,
+          "value": 2966433692008.09
+        },
+        {
+          "year": 2022,
+          "value": 2794788137066.94
+        },
+        {
+          "year": 2023,
+          "value": 3056250648138.29
+        },
+        {
+          "year": 2024,
+          "value": 3160442622465.08
+        },
+        {
+          "year": 2025,
+          "value": 3366315927447.33
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FRA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1.06675474783462
+        },
+        {
+          "year": 2016,
+          "value": 0.860031075424033
+        },
+        {
+          "year": 2017,
+          "value": 2.08361485997399
+        },
+        {
+          "year": 2018,
+          "value": 1.64590872395887
+        },
+        {
+          "year": 2019,
+          "value": 2.02744646419237
+        },
+        {
+          "year": 2020,
+          "value": -7.44064589948231
+        },
+        {
+          "year": 2021,
+          "value": 6.88233783360239
+        },
+        {
+          "year": 2022,
+          "value": 2.71676264185913
+        },
+        {
+          "year": 2023,
+          "value": 1.43921494437743
+        },
+        {
+          "year": 2024,
+          "value": 1.19046798275883
+        },
+        {
+          "year": 2025,
+          "value": 0.840949955479587
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FRA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.0403331518341644
+        },
+        {
+          "year": 2016,
+          "value": 0.184449775233288
+        },
+        {
+          "year": 2017,
+          "value": 1.02920611286052
+        },
+        {
+          "year": 2018,
+          "value": 1.85222067317272
+        },
+        {
+          "year": 2019,
+          "value": 1.1067657411029
+        },
+        {
+          "year": 2020,
+          "value": 0.477700847097022
+        },
+        {
+          "year": 2021,
+          "value": 1.64090620368408
+        },
+        {
+          "year": 2022,
+          "value": 5.22294079215231
+        },
+        {
+          "year": 2023,
+          "value": 4.88000215969119
+        },
+        {
+          "year": 2024,
+          "value": 1.99742599742599
+        },
+        {
+          "year": 2025,
+          "value": 0.943824761520197
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FRA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 10.354
+        },
+        {
+          "year": 2016,
+          "value": 10.057
+        },
+        {
+          "year": 2017,
+          "value": 9.409
+        },
+        {
+          "year": 2018,
+          "value": 9.018
+        },
+        {
+          "year": 2019,
+          "value": 8.415
+        },
+        {
+          "year": 2020,
+          "value": 8.009
+        },
+        {
+          "year": 2021,
+          "value": 7.871
+        },
+        {
+          "year": 2022,
+          "value": 7.303
+        },
+        {
+          "year": 2023,
+          "value": 7.335
+        },
+        {
+          "year": 2024,
+          "value": 7.4
+        },
+        {
+          "year": 2025,
+          "value": 7.542
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FRA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

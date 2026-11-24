@@ -1,0 +1,262 @@
+{
+  "iso3": "URY",
+  "name": "Uruguay",
+  "region": "América",
+  "headOfState": {
+    "name": "Yamandú Orsi",
+    "since": "2025-03-01",
+    "party": {
+      "qid": "Q474763",
+      "name": "Frente Amplio"
+    },
+    "source": "Presidencia de Uruguay",
+    "sourceUrl": "https://presidencia.gub.uy",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Yamandú Orsi",
+    "since": "2025-03-01",
+    "party": {
+      "qid": "Q474763",
+      "name": "Frente Amplio"
+    },
+    "source": "Presidencia de Uruguay",
+    "sourceUrl": "https://presidencia.gub.uy",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "URY",
+    "date": "2029-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Parlamento",
+    "source": "Corte Electoral de Uruguay",
+    "sourceUrl": "https://www.corteelectoral.gub.uy",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 57680327998.6689
+        },
+        {
+          "year": 2016,
+          "value": 57480787465.2716
+        },
+        {
+          "year": 2017,
+          "value": 65006039809.739
+        },
+        {
+          "year": 2018,
+          "value": 65344577415.7535
+        },
+        {
+          "year": 2019,
+          "value": 62222324964.633
+        },
+        {
+          "year": 2020,
+          "value": 53559354501.4278
+        },
+        {
+          "year": 2021,
+          "value": 60739061281.1628
+        },
+        {
+          "year": 2022,
+          "value": 71240669088.0587
+        },
+        {
+          "year": 2023,
+          "value": 79208725899.5531
+        },
+        {
+          "year": 2024,
+          "value": 82322859144.2816
+        },
+        {
+          "year": 2025,
+          "value": 85347696277.6859
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=URY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.370741257681345
+        },
+        {
+          "year": 2016,
+          "value": 1.68979822971775
+        },
+        {
+          "year": 2017,
+          "value": 1.74037649141989
+        },
+        {
+          "year": 2018,
+          "value": 0.164777608846705
+        },
+        {
+          "year": 2019,
+          "value": 0.928351027546341
+        },
+        {
+          "year": 2020,
+          "value": -7.35732706897301
+        },
+        {
+          "year": 2021,
+          "value": 5.84427325018082
+        },
+        {
+          "year": 2022,
+          "value": 4.60623000920732
+        },
+        {
+          "year": 2023,
+          "value": 0.761749241321681
+        },
+        {
+          "year": 2024,
+          "value": 3.32575905957381
+        },
+        {
+          "year": 2025,
+          "value": 1.78471117082752
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=URY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 8.66626987079328
+        },
+        {
+          "year": 2016,
+          "value": 9.63941347635079
+        },
+        {
+          "year": 2017,
+          "value": 6.2180938256186
+        },
+        {
+          "year": 2018,
+          "value": 7.60653360377047
+        },
+        {
+          "year": 2019,
+          "value": 7.88198870879619
+        },
+        {
+          "year": 2020,
+          "value": 9.75640636078194
+        },
+        {
+          "year": 2021,
+          "value": 7.74791402314762
+        },
+        {
+          "year": 2022,
+          "value": 9.10437983075436
+        },
+        {
+          "year": 2023,
+          "value": 5.86910359896119
+        },
+        {
+          "year": 2024,
+          "value": 4.84914366613155
+        },
+        {
+          "year": 2025,
+          "value": 4.65032720433323
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=URY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 7.488
+        },
+        {
+          "year": 2016,
+          "value": 7.841
+        },
+        {
+          "year": 2017,
+          "value": 7.89
+        },
+        {
+          "year": 2018,
+          "value": 8.336
+        },
+        {
+          "year": 2019,
+          "value": 8.836
+        },
+        {
+          "year": 2020,
+          "value": 10.413
+        },
+        {
+          "year": 2021,
+          "value": 9.328
+        },
+        {
+          "year": 2022,
+          "value": 7.877
+        },
+        {
+          "year": 2023,
+          "value": 8.355
+        },
+        {
+          "year": 2024,
+          "value": 8.209
+        },
+        {
+          "year": 2025,
+          "value": 7.516
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=URY",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

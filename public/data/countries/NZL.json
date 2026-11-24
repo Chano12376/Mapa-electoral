@@ -1,0 +1,256 @@
+{
+  "iso3": "NZL",
+  "name": "Nueva Zelanda",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Nueva Zelanda",
+    "sourceUrl": "https://www.govt.nz/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Christopher Luxon",
+    "since": "2023-11-27",
+    "party": null,
+    "source": "Oficina del Primer Ministro de Nueva Zelanda",
+    "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/prime-ministers-office",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "NZL",
+    "date": "2026-10-24",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Parlamento (120 escaños)",
+    "source": "Electoral Commission New Zealand",
+    "sourceUrl": "https://elections.nz",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 178147457242.978
+        },
+        {
+          "year": 2016,
+          "value": 188980351890.848
+        },
+        {
+          "year": 2017,
+          "value": 206561943051.354
+        },
+        {
+          "year": 2018,
+          "value": 211726161989.495
+        },
+        {
+          "year": 2019,
+          "value": 213088034258.42
+        },
+        {
+          "year": 2020,
+          "value": 213318129988.602
+        },
+        {
+          "year": 2021,
+          "value": 253732493987.834
+        },
+        {
+          "year": 2022,
+          "value": 249723029451.237
+        },
+        {
+          "year": 2023,
+          "value": 256372177757.764
+        },
+        {
+          "year": 2024,
+          "value": 261497198363.906
+        },
+        {
+          "year": 2025,
+          "value": 264057413739.965
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NZL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 3.72968312125018
+        },
+        {
+          "year": 2016,
+          "value": 3.7435247472109
+        },
+        {
+          "year": 2017,
+          "value": 3.31568621648204
+        },
+        {
+          "year": 2018,
+          "value": 3.32219666491432
+        },
+        {
+          "year": 2019,
+          "value": 2.32371708441623
+        },
+        {
+          "year": 2020,
+          "value": -0.240916114758988
+        },
+        {
+          "year": 2021,
+          "value": 4.29916005216614
+        },
+        {
+          "year": 2022,
+          "value": 3.34521847792682
+        },
+        {
+          "year": 2023,
+          "value": 1.81389453412019
+        },
+        {
+          "year": 2024,
+          "value": -0.868722371893952
+        },
+        {
+          "year": 2025,
+          "value": 0.462871830681081
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NZL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.292704628136101
+        },
+        {
+          "year": 2016,
+          "value": 0.646240284454524
+        },
+        {
+          "year": 2017,
+          "value": 1.85078767452536
+        },
+        {
+          "year": 2018,
+          "value": 1.59829703801695
+        },
+        {
+          "year": 2019,
+          "value": 1.61963190184047
+        },
+        {
+          "year": 2020,
+          "value": 1.71456170007244
+        },
+        {
+          "year": 2021,
+          "value": 3.94112060778728
+        },
+        {
+          "year": 2022,
+          "value": 7.17222476016441
+        },
+        {
+          "year": 2023,
+          "value": 5.73316283034957
+        },
+        {
+          "year": 2024,
+          "value": 2.92279782301956
+        },
+        {
+          "year": 2025,
+          "value": 2.8397963180572
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NZL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 5.415
+        },
+        {
+          "year": 2016,
+          "value": 5.147
+        },
+        {
+          "year": 2017,
+          "value": 4.736
+        },
+        {
+          "year": 2018,
+          "value": 4.335
+        },
+        {
+          "year": 2019,
+          "value": 4.109
+        },
+        {
+          "year": 2020,
+          "value": 4.595
+        },
+        {
+          "year": 2021,
+          "value": 3.776
+        },
+        {
+          "year": 2022,
+          "value": 3.299
+        },
+        {
+          "year": 2023,
+          "value": 3.734
+        },
+        {
+          "year": 2024,
+          "value": 4.724
+        },
+        {
+          "year": 2025,
+          "value": 5.076
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NZL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

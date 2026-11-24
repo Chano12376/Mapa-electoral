@@ -1,0 +1,256 @@
+{
+  "iso3": "JOR",
+  "name": "Jordania",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Abdallah II",
+    "since": "1999-02-07",
+    "party": null,
+    "source": "Casa Real Hachemita de Jordania",
+    "sourceUrl": "https://www.kingabdullah.jo/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Jafar Hassan",
+    "since": "2024-09-15",
+    "party": null,
+    "source": "Gobierno de Jordania",
+    "sourceUrl": "https://www.pm.gov.jo/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "JOR",
+    "date": "2028-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Cámara de Diputados (138 escaños)",
+    "source": "Independent Election Commission Jordan",
+    "sourceUrl": "https://www.iec.jo",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 42394049295.7747
+        },
+        {
+          "year": 2016,
+          "value": 43688498732.3944
+        },
+        {
+          "year": 2017,
+          "value": 45535614366.1972
+        },
+        {
+          "year": 2018,
+          "value": 47435850422.5352
+        },
+        {
+          "year": 2019,
+          "value": 48640273802.8169
+        },
+        {
+          "year": 2020,
+          "value": 47931770985.9155
+        },
+        {
+          "year": 2021,
+          "value": 50702940985.9155
+        },
+        {
+          "year": 2022,
+          "value": 53516930140.8451
+        },
+        {
+          "year": 2023,
+          "value": 56123472112.6761
+        },
+        {
+          "year": 2024,
+          "value": 58618380563.3803
+        },
+        {
+          "year": 2025,
+          "value": 61610052535.2113
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JOR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.52261671092148
+        },
+        {
+          "year": 2016,
+          "value": 2.11166806967252
+        },
+        {
+          "year": 2017,
+          "value": 2.50770398070352
+        },
+        {
+          "year": 2018,
+          "value": 1.85383415616927
+        },
+        {
+          "year": 2019,
+          "value": 1.85633006592765
+        },
+        {
+          "year": 2020,
+          "value": -1.15257534158022
+        },
+        {
+          "year": 2021,
+          "value": 3.75201276755828
+        },
+        {
+          "year": 2022,
+          "value": 2.7468615450031
+        },
+        {
+          "year": 2023,
+          "value": 3.12900102017251
+        },
+        {
+          "year": 2024,
+          "value": 2.55605891810194
+        },
+        {
+          "year": 2025,
+          "value": 2.82660839845745
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=JOR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -0.876851359704049
+        },
+        {
+          "year": 2016,
+          "value": -0.778430463054141
+        },
+        {
+          "year": 2017,
+          "value": 3.32389447576097
+        },
+        {
+          "year": 2018,
+          "value": 4.46231108475481
+        },
+        {
+          "year": 2019,
+          "value": 0.7615140472656
+        },
+        {
+          "year": 2020,
+          "value": 0.333294350628378
+        },
+        {
+          "year": 2021,
+          "value": 1.34609377243117
+        },
+        {
+          "year": 2022,
+          "value": 4.22915568897117
+        },
+        {
+          "year": 2023,
+          "value": 2.08486986327133
+        },
+        {
+          "year": 2024,
+          "value": 1.55659611283952
+        },
+        {
+          "year": 2025,
+          "value": 1.76646490894205
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=JOR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 13.075
+        },
+        {
+          "year": 2016,
+          "value": 15.275
+        },
+        {
+          "year": 2017,
+          "value": 18.12
+        },
+        {
+          "year": 2018,
+          "value": 18.257
+        },
+        {
+          "year": 2019,
+          "value": 16.801
+        },
+        {
+          "year": 2020,
+          "value": 19.213
+        },
+        {
+          "year": 2021,
+          "value": 19.837
+        },
+        {
+          "year": 2022,
+          "value": 18.2
+        },
+        {
+          "year": 2023,
+          "value": 16.62
+        },
+        {
+          "year": 2024,
+          "value": 16.693
+        },
+        {
+          "year": 2025,
+          "value": 16.535
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=JOR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

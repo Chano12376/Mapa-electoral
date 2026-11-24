@@ -1,0 +1,256 @@
+{
+  "iso3": "PER",
+  "name": "Perú",
+  "region": "América",
+  "headOfState": {
+    "name": "Dina Boluarte",
+    "since": "2022-12-07",
+    "party": null,
+    "source": "Presidencia de la República del Perú",
+    "sourceUrl": "https://www.gob.pe/presidencia",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Dina Boluarte",
+    "since": "2022-12-07",
+    "party": null,
+    "source": "Presidencia de la República del Perú",
+    "sourceUrl": "https://www.gob.pe/presidencia",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "PER",
+    "date": "2026-04-11",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Congreso",
+    "source": "Jurado Nacional de Elecciones",
+    "sourceUrl": "https://portal.jne.gob.pe/portal/Pagina/Ver/1055",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 189802976285.619
+        },
+        {
+          "year": 2016,
+          "value": 191898104390.379
+        },
+        {
+          "year": 2017,
+          "value": 211007984080.911
+        },
+        {
+          "year": 2018,
+          "value": 222597009739.235
+        },
+        {
+          "year": 2019,
+          "value": 228346006003.648
+        },
+        {
+          "year": 2020,
+          "value": 201409694755.934
+        },
+        {
+          "year": 2021,
+          "value": 226406075008.878
+        },
+        {
+          "year": 2022,
+          "value": 246169867862.821
+        },
+        {
+          "year": 2023,
+          "value": 268025009709.319
+        },
+        {
+          "year": 2024,
+          "value": 291751523018.903
+        },
+        {
+          "year": 2025,
+          "value": 334854659181.893
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PER",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 3.25224477218451
+        },
+        {
+          "year": 2016,
+          "value": 3.95331871520767
+        },
+        {
+          "year": 2017,
+          "value": 2.51883544233135
+        },
+        {
+          "year": 2018,
+          "value": 3.969351341365
+        },
+        {
+          "year": 2019,
+          "value": 2.24063176875049
+        },
+        {
+          "year": 2020,
+          "value": -10.9333065010382
+        },
+        {
+          "year": 2021,
+          "value": 13.4166456126513
+        },
+        {
+          "year": 2022,
+          "value": 2.81819976419922
+        },
+        {
+          "year": 2023,
+          "value": -0.350699814345759
+        },
+        {
+          "year": 2024,
+          "value": 3.5152749274832
+        },
+        {
+          "year": 2025,
+          "value": 3.43056395124466
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PER",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 3.39809194746307
+        },
+        {
+          "year": 2016,
+          "value": 3.55717663556278
+        },
+        {
+          "year": 2017,
+          "value": 2.99490045809442
+        },
+        {
+          "year": 2018,
+          "value": 1.50915423024741
+        },
+        {
+          "year": 2019,
+          "value": 2.25212191358027
+        },
+        {
+          "year": 2020,
+          "value": 2.00241205759291
+        },
+        {
+          "year": 2021,
+          "value": 4.27166381536797
+        },
+        {
+          "year": 2022,
+          "value": 8.3337063009623
+        },
+        {
+          "year": 2023,
+          "value": 6.45561348369586
+        },
+        {
+          "year": 2024,
+          "value": 2.00770739412712
+        },
+        {
+          "year": 2025,
+          "value": 1.53125450314272
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PER",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 3.272
+        },
+        {
+          "year": 2016,
+          "value": 3.741
+        },
+        {
+          "year": 2017,
+          "value": 3.691
+        },
+        {
+          "year": 2018,
+          "value": 3.492
+        },
+        {
+          "year": 2019,
+          "value": 3.379
+        },
+        {
+          "year": 2020,
+          "value": 7.179
+        },
+        {
+          "year": 2021,
+          "value": 5.097
+        },
+        {
+          "year": 2022,
+          "value": 4.291
+        },
+        {
+          "year": 2023,
+          "value": 4.899
+        },
+        {
+          "year": 2024,
+          "value": 5.199
+        },
+        {
+          "year": 2025,
+          "value": 5.117
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PER",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

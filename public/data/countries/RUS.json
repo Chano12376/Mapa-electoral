@@ -1,0 +1,262 @@
+{
+  "iso3": "RUS",
+  "name": "Rusia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Vladimir Putin",
+    "since": "2024-05-07",
+    "party": {
+      "qid": "Q168636",
+      "name": "Rusia Unida"
+    },
+    "source": "Kremlin",
+    "sourceUrl": "http://en.kremlin.ru/structure/president",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mikhail Mishustin",
+    "since": "2020-01-16",
+    "party": {
+      "qid": "Q168636",
+      "name": "Rusia Unida"
+    },
+    "source": "Gobierno de Rusia",
+    "sourceUrl": "http://government.ru/en/gov/persons/mishustin/",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "RUS",
+    "date": "2026-09-13",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Duma)",
+    "whatIsElected": "Duma Estatal (450 escaños)",
+    "source": "Comisión Electoral Central de Rusia",
+    "sourceUrl": "http://www.cikrf.ru/",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 1363482182197.71
+        },
+        {
+          "year": 2016,
+          "value": 1276786350881.14
+        },
+        {
+          "year": 2017,
+          "value": 1574199360089
+        },
+        {
+          "year": 2018,
+          "value": 1657328773461.31
+        },
+        {
+          "year": 2019,
+          "value": 1693115002708.32
+        },
+        {
+          "year": 2020,
+          "value": 1493075894362.14
+        },
+        {
+          "year": 2021,
+          "value": 1829186719575.1
+        },
+        {
+          "year": 2022,
+          "value": 2292495097681.47
+        },
+        {
+          "year": 2023,
+          "value": 2046284838151.09
+        },
+        {
+          "year": 2024,
+          "value": 2186462268813.08
+        },
+        {
+          "year": 2025,
+          "value": 2561310169358.74
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RUS",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -1.9727192264298
+        },
+        {
+          "year": 2016,
+          "value": 0.193671130698817
+        },
+        {
+          "year": 2017,
+          "value": 1.82670527549192
+        },
+        {
+          "year": 2018,
+          "value": 2.80634082046656
+        },
+        {
+          "year": 2019,
+          "value": 2.19807571381982
+        },
+        {
+          "year": 2020,
+          "value": -2.65365449695453
+        },
+        {
+          "year": 2021,
+          "value": 5.866491772979
+        },
+        {
+          "year": 2022,
+          "value": -1.43537063467896
+        },
+        {
+          "year": 2023,
+          "value": 4.06661395813023
+        },
+        {
+          "year": 2024,
+          "value": 4.92167966203073
+        },
+        {
+          "year": 2025,
+          "value": 1.00117656925738
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=RUS",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 15.5343959935701
+        },
+        {
+          "year": 2016,
+          "value": 7.04243725413707
+        },
+        {
+          "year": 2017,
+          "value": 3.68333072334495
+        },
+        {
+          "year": 2018,
+          "value": 2.8783138261498
+        },
+        {
+          "year": 2019,
+          "value": 4.47202631837903
+        },
+        {
+          "year": 2020,
+          "value": 3.38219796948067
+        },
+        {
+          "year": 2021,
+          "value": 6.69445891957612
+        },
+        {
+          "year": 2022,
+          "value": 13.7436797398231
+        },
+        {
+          "year": 2023,
+          "value": 5.86571931748967
+        },
+        {
+          "year": 2024,
+          "value": 8.43486410496723
+        },
+        {
+          "year": 2025,
+          "value": 8.71986939402666
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=RUS",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 5.615
+        },
+        {
+          "year": 2016,
+          "value": 5.591
+        },
+        {
+          "year": 2017,
+          "value": 5.238
+        },
+        {
+          "year": 2018,
+          "value": 4.871
+        },
+        {
+          "year": 2019,
+          "value": 4.513
+        },
+        {
+          "year": 2020,
+          "value": 5.62
+        },
+        {
+          "year": 2021,
+          "value": 4.749
+        },
+        {
+          "year": 2022,
+          "value": 3.867
+        },
+        {
+          "year": 2023,
+          "value": 3.076
+        },
+        {
+          "year": 2024,
+          "value": 2.43
+        },
+        {
+          "year": 2025,
+          "value": 2.133
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=RUS",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

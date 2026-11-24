@@ -1,0 +1,280 @@
+{
+  "iso3": "POL",
+  "name": "Polonia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Rafał Trzaskowski",
+    "since": "2025-08-06",
+    "party": {
+      "qid": "Q1522857",
+      "name": "Plataforma Cívica (KO)"
+    },
+    "source": "Presidencia de la República de Polonia",
+    "sourceUrl": "https://www.president.pl",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Donald Tusk",
+    "since": "2023-12-13",
+    "party": {
+      "qid": "Q1522857",
+      "name": "Plataforma Cívica (KO)"
+    },
+    "source": "Consejo de Ministros de Polonia",
+    "sourceUrl": "https://www.gov.pl/web/premier",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": {
+      "parlgovPartyId": 512,
+      "partyName": "Civic Platform",
+      "country": "POL",
+      "score": 6.2355,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    },
+    "headOfGovernment": {
+      "parlgovPartyId": 512,
+      "partyName": "Civic Platform",
+      "country": "POL",
+      "score": 6.2355,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "nextElection": {
+    "iso3": "POL",
+    "date": "2027-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Sejm y Senado",
+    "source": "Państwowa Komisja Wyborcza",
+    "sourceUrl": "https://pkw.gov.pl/",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 480054118583.367
+        },
+        {
+          "year": 2016,
+          "value": 473259623976.262
+        },
+        {
+          "year": 2017,
+          "value": 528356723263.073
+        },
+        {
+          "year": 2018,
+          "value": 594616632477.019
+        },
+        {
+          "year": 2019,
+          "value": 602683770144.88
+        },
+        {
+          "year": 2020,
+          "value": 605914237903.742
+        },
+        {
+          "year": 2021,
+          "value": 689170230665.35
+        },
+        {
+          "year": 2022,
+          "value": 695607470875.276
+        },
+        {
+          "year": 2023,
+          "value": 812451193396.143
+        },
+        {
+          "year": 2024,
+          "value": 917767106146.761
+        },
+        {
+          "year": 2025,
+          "value": 1035491784197.44
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=POL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 4.43176700264478
+        },
+        {
+          "year": 2016,
+          "value": 3.03117767594847
+        },
+        {
+          "year": 2017,
+          "value": 5.15245773325907
+        },
+        {
+          "year": 2018,
+          "value": 6.2458584723942
+        },
+        {
+          "year": 2019,
+          "value": 4.58045817256199
+        },
+        {
+          "year": 2020,
+          "value": -2.03556882399977
+        },
+        {
+          "year": 2021,
+          "value": 6.92718266052501
+        },
+        {
+          "year": 2022,
+          "value": 5.25545697386036
+        },
+        {
+          "year": 2023,
+          "value": 0.249610834017872
+        },
+        {
+          "year": 2024,
+          "value": 3.02841630700273
+        },
+        {
+          "year": 2025,
+          "value": 3.5727250346774
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=POL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -0.874125874125862
+        },
+        {
+          "year": 2016,
+          "value": -0.664767331433962
+        },
+        {
+          "year": 2017,
+          "value": 2.07593553673859
+        },
+        {
+          "year": 2018,
+          "value": 1.81295156542688
+        },
+        {
+          "year": 2019,
+          "value": 2.22747880938291
+        },
+        {
+          "year": 2020,
+          "value": 3.37446972618589
+        },
+        {
+          "year": 2021,
+          "value": 5.05502704719272
+        },
+        {
+          "year": 2022,
+          "value": 14.4294507575757
+        },
+        {
+          "year": 2023,
+          "value": 11.5289127961104
+        },
+        {
+          "year": 2024,
+          "value": 3.79060897630196
+        },
+        {
+          "year": 2025,
+          "value": 3.81419531520146
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=POL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 7.475
+        },
+        {
+          "year": 2016,
+          "value": 6.141
+        },
+        {
+          "year": 2017,
+          "value": 4.867
+        },
+        {
+          "year": 2018,
+          "value": 3.835
+        },
+        {
+          "year": 2019,
+          "value": 3.267
+        },
+        {
+          "year": 2020,
+          "value": 3.155
+        },
+        {
+          "year": 2021,
+          "value": 3.268
+        },
+        {
+          "year": 2022,
+          "value": 2.811
+        },
+        {
+          "year": 2023,
+          "value": 2.743
+        },
+        {
+          "year": 2024,
+          "value": 2.807
+        },
+        {
+          "year": 2025,
+          "value": 2.976
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=POL",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,280 @@
+{
+  "iso3": "TUR",
+  "name": "Turquía",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Recep Tayyip Erdoğan",
+    "since": "2014-08-28",
+    "party": {
+      "qid": "Q83141",
+      "name": "AKP"
+    },
+    "source": "Presidencia de la República de Türkiye",
+    "sourceUrl": "https://www.tccb.gov.tr/en/receptayyiperdogan/biography",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Recep Tayyip Erdoğan",
+    "since": "2014-08-28",
+    "party": {
+      "qid": "Q83141",
+      "name": "AKP"
+    },
+    "source": "Presidencia de la República de Türkiye",
+    "sourceUrl": "https://www.tccb.gov.tr/en/receptayyiperdogan/biography",
+    "retrievedAt": "2026-11-22",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": {
+      "parlgovPartyId": 901,
+      "partyName": "Justice and Development Party",
+      "country": "TUR",
+      "score": 6.9873,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    },
+    "headOfGovernment": {
+      "parlgovPartyId": 901,
+      "partyName": "Justice and Development Party",
+      "country": "TUR",
+      "score": 6.9873,
+      "scale": "0 izquierda – 10 derecha",
+      "source": "ParlGov (Döring, Huber y Manow)",
+      "sourceUrl": "https://www.parlgov.org/",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "nextElection": {
+    "iso3": "TUR",
+    "date": "2028-05-18",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente y Gran Asamblea Nacional",
+    "source": "Yüksek Seçim Kurulu",
+    "sourceUrl": "https://www.ysk.gov.tr/",
+    "checkedAt": "2026-11-22"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 865460050683.656
+        },
+        {
+          "year": 2016,
+          "value": 870818016909.84
+        },
+        {
+          "year": 2017,
+          "value": 863874522365.276
+        },
+        {
+          "year": 2018,
+          "value": 788356985773.667
+        },
+        {
+          "year": 2019,
+          "value": 775853144222.613
+        },
+        {
+          "year": 2020,
+          "value": 733628247119.077
+        },
+        {
+          "year": 2021,
+          "value": 839938668172.134
+        },
+        {
+          "year": 2022,
+          "value": 926097476913.818
+        },
+        {
+          "year": 2023,
+          "value": 1141242864657.45
+        },
+        {
+          "year": 2024,
+          "value": 1359123768774.12
+        },
+        {
+          "year": 2025,
+          "value": 1597293229287
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TUR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 5.80557386628684
+        },
+        {
+          "year": 2016,
+          "value": 3.32366508200445
+        },
+        {
+          "year": 2017,
+          "value": 7.82585730002594
+        },
+        {
+          "year": 2018,
+          "value": 3.46815306092219
+        },
+        {
+          "year": 2019,
+          "value": 1.30162365464503
+        },
+        {
+          "year": 2020,
+          "value": 1.80306247087255
+        },
+        {
+          "year": 2021,
+          "value": 11.811094450607
+        },
+        {
+          "year": 2022,
+          "value": 5.44122511322401
+        },
+        {
+          "year": 2023,
+          "value": 5.04512369812289
+        },
+        {
+          "year": 2024,
+          "value": 3.3276230893799
+        },
+        {
+          "year": 2025,
+          "value": 3.60462514082589
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TUR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 7.67085521554052
+        },
+        {
+          "year": 2016,
+          "value": 7.7751335303658
+        },
+        {
+          "year": 2017,
+          "value": 11.1443085201022
+        },
+        {
+          "year": 2018,
+          "value": 16.3324781477783
+        },
+        {
+          "year": 2019,
+          "value": 15.176809642769
+        },
+        {
+          "year": 2020,
+          "value": 12.2789597724893
+        },
+        {
+          "year": 2021,
+          "value": 19.5964927532842
+        },
+        {
+          "year": 2022,
+          "value": 72.3088300496956
+        },
+        {
+          "year": 2023,
+          "value": 53.8594084019764
+        },
+        {
+          "year": 2024,
+          "value": 58.5064492168435
+        },
+        {
+          "year": 2025,
+          "value": 34.8811700293777
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TUR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 10.304
+        },
+        {
+          "year": 2016,
+          "value": 10.899
+        },
+        {
+          "year": 2017,
+          "value": 10.919
+        },
+        {
+          "year": 2018,
+          "value": 10.956
+        },
+        {
+          "year": 2019,
+          "value": 13.73
+        },
+        {
+          "year": 2020,
+          "value": 13.148
+        },
+        {
+          "year": 2021,
+          "value": 11.969
+        },
+        {
+          "year": 2022,
+          "value": 10.465
+        },
+        {
+          "year": 2023,
+          "value": 9.388
+        },
+        {
+          "year": 2024,
+          "value": 8.8
+        },
+        {
+          "year": 2025,
+          "value": 8.52
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TUR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}

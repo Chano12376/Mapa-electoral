@@ -1,0 +1,256 @@
+{
+  "iso3": "SGP",
+  "name": "Singapur",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Tharman Shanmugaratnam",
+    "since": "2023-09-01",
+    "party": null,
+    "source": "Presidencia de Singapur",
+    "sourceUrl": "https://www.istana.gov.sg/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Lawrence Wong",
+    "since": "2024-05-15",
+    "party": null,
+    "source": "Oficina del Primer Ministro de Singapur",
+    "sourceUrl": "https://www.pmo.gov.sg/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SGP",
+    "date": "2030-07-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas",
+    "whatIsElected": "Parlamento (97 escaños)",
+    "source": "Elections Department Singapore",
+    "sourceUrl": "https://www.eld.gov.sg",
+    "checkedAt": "2026-11-23"
+  },
+  "indicators": {
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 307998545269.398
+        },
+        {
+          "year": 2016,
+          "value": 320759207438.623
+        },
+        {
+          "year": 2017,
+          "value": 344795119213.571
+        },
+        {
+          "year": 2018,
+          "value": 377976367877.038
+        },
+        {
+          "year": 2019,
+          "value": 376827390962.044
+        },
+        {
+          "year": 2020,
+          "value": 351226533656.292
+        },
+        {
+          "year": 2021,
+          "value": 441110903524.645
+        },
+        {
+          "year": 2022,
+          "value": 514252535238.749
+        },
+        {
+          "year": 2023,
+          "value": 511181761243.76
+        },
+        {
+          "year": 2024,
+          "value": 572877260178.427
+        },
+        {
+          "year": 2025,
+          "value": 603869516998.738
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SGP",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2.97679931634806
+        },
+        {
+          "year": 2016,
+          "value": 3.91095306322606
+        },
+        {
+          "year": 2017,
+          "value": 4.32679370770501
+        },
+        {
+          "year": 2018,
+          "value": 3.18660848474074
+        },
+        {
+          "year": 2019,
+          "value": 1.15877947300108
+        },
+        {
+          "year": 2020,
+          "value": -3.61084281729929
+        },
+        {
+          "year": 2021,
+          "value": 10.1410845197192
+        },
+        {
+          "year": 2022,
+          "value": 4.01027884472296
+        },
+        {
+          "year": 2023,
+          "value": 1.45026775889565
+        },
+        {
+          "year": 2024,
+          "value": 5.3435120192366
+        },
+        {
+          "year": 2025,
+          "value": 5.02588199508003
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SGP",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -0.521975611895762
+        },
+        {
+          "year": 2016,
+          "value": -0.529809760375464
+        },
+        {
+          "year": 2017,
+          "value": 0.576763191179995
+        },
+        {
+          "year": 2018,
+          "value": 0.438784215129622
+        },
+        {
+          "year": 2019,
+          "value": 0.567829988405447
+        },
+        {
+          "year": 2020,
+          "value": -0.172111865925382
+        },
+        {
+          "year": 2021,
+          "value": 2.31610315765145
+        },
+        {
+          "year": 2022,
+          "value": 6.13095418919732
+        },
+        {
+          "year": 2023,
+          "value": 4.83372362825797
+        },
+        {
+          "year": 2024,
+          "value": 2.38951123595017
+        },
+        {
+          "year": 2025,
+          "value": 0.902998495002676
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SGP",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 3.79
+        },
+        {
+          "year": 2016,
+          "value": 4.08
+        },
+        {
+          "year": 2017,
+          "value": 4.2
+        },
+        {
+          "year": 2018,
+          "value": 3.613
+        },
+        {
+          "year": 2019,
+          "value": 3.1
+        },
+        {
+          "year": 2020,
+          "value": 4.1
+        },
+        {
+          "year": 2021,
+          "value": 4.64
+        },
+        {
+          "year": 2022,
+          "value": 3.591
+        },
+        {
+          "year": 2023,
+          "value": 3.444
+        },
+        {
+          "year": 2024,
+          "value": 2.737
+        },
+        {
+          "year": 2025,
+          "value": 2.818
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SGP",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-23"
+    }
+  },
+  "builtAt": "2026-11-24"
+}
