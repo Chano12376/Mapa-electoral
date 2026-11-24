@@ -1,0 +1,79 @@
+{
+  "gdpUsd": {
+    "indicator": "NY.GDP.MKTP.CD",
+    "series": [
+      {
+        "year": 2015,
+        "value": 6268515276.17441
+      },
+      {
+        "year": 2016,
+        "value": 6237302033.50132
+      },
+      {
+        "year": 2017,
+        "value": 6474308717.85289
+      },
+      {
+        "year": 2018,
+        "value": 6692620691.84146
+      },
+      {
+        "year": 2019,
+        "value": 6436467007.11932
+      },
+      {
+        "year": 2020,
+        "value": 6405870210.32293
+      },
+      {
+        "year": 2021,
+        "value": 7912602342.18895
+      },
+      {
+        "year": 2022,
+        "value": 7426856242.7736
+      },
+      {
+        "year": 2023,
+        "value": 8239379403.22096
+      },
+      {
+        "year": 2024,
+        "value": 8905764270.4054
+      }
+    ],
+    "lastYear": 2024,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LIE",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "gdpGrowth": {
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "series": [],
+    "lastYear": null,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LIE",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "inflation": {
+    "indicator": "FP.CPI.TOTL.ZG",
+    "series": [],
+    "lastYear": null,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LIE",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "unemployment": {
+    "indicator": "SL.UEM.TOTL.ZS",
+    "series": [],
+    "lastYear": null,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LIE",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  }
+}

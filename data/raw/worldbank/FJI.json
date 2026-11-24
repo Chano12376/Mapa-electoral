@@ -1,0 +1,218 @@
+{
+  "gdpUsd": {
+    "indicator": "NY.GDP.MKTP.CD",
+    "series": [
+      {
+        "year": 2015,
+        "value": 4682479893.97558
+      },
+      {
+        "year": 2016,
+        "value": 4930213644.36653
+      },
+      {
+        "year": 2017,
+        "value": 5353469174.47838
+      },
+      {
+        "year": 2018,
+        "value": 5581425327.44397
+      },
+      {
+        "year": 2019,
+        "value": 5344907153.46698
+      },
+      {
+        "year": 2020,
+        "value": 4227719873.3865
+      },
+      {
+        "year": 2021,
+        "value": 4158873156.17978
+      },
+      {
+        "year": 2022,
+        "value": 4977861885.60316
+      },
+      {
+        "year": 2023,
+        "value": 5476673518.13788
+      },
+      {
+        "year": 2024,
+        "value": 5968125909.27126
+      },
+      {
+        "year": 2025,
+        "value": 6198013062.06553
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FJI",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "gdpGrowth": {
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": 4.50120064471365
+      },
+      {
+        "year": 2016,
+        "value": 2.44565202449249
+      },
+      {
+        "year": 2017,
+        "value": 5.35336434979577
+      },
+      {
+        "year": 2018,
+        "value": 3.812350939512
+      },
+      {
+        "year": 2019,
+        "value": -0.581946590349759
+      },
+      {
+        "year": 2020,
+        "value": -17.1835352599354
+      },
+      {
+        "year": 2021,
+        "value": -4.3459619989752
+      },
+      {
+        "year": 2022,
+        "value": 17.7451269773594
+      },
+      {
+        "year": 2023,
+        "value": 9.44245856738313
+      },
+      {
+        "year": 2024,
+        "value": 3.53085896076352
+      },
+      {
+        "year": 2025,
+        "value": 3.19546862124029
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FJI",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "inflation": {
+    "indicator": "FP.CPI.TOTL.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": 1.37488542621446
+      },
+      {
+        "year": 2016,
+        "value": 3.86322538221277
+      },
+      {
+        "year": 2017,
+        "value": 3.34757834757831
+      },
+      {
+        "year": 2018,
+        "value": 4.08147637644542
+      },
+      {
+        "year": 2019,
+        "value": 1.79388647514555
+      },
+      {
+        "year": 2020,
+        "value": -1.70014167847317
+      },
+      {
+        "year": 2021,
+        "value": 1.53454853751591
+      },
+      {
+        "year": 2022,
+        "value": 6.07882431529724
+      },
+      {
+        "year": 2023,
+        "value": 2.97544080604538
+      },
+      {
+        "year": 2024,
+        "value": 3.89084237884105
+      },
+      {
+        "year": 2025,
+        "value": -1.38326833934223
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FJI",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "unemployment": {
+    "indicator": "SL.UEM.TOTL.ZS",
+    "series": [
+      {
+        "year": 2015,
+        "value": 4.288
+      },
+      {
+        "year": 2016,
+        "value": 4.319
+      },
+      {
+        "year": 2017,
+        "value": 4.418
+      },
+      {
+        "year": 2018,
+        "value": 4.523
+      },
+      {
+        "year": 2019,
+        "value": 4.661
+      },
+      {
+        "year": 2020,
+        "value": 5.054
+      },
+      {
+        "year": 2021,
+        "value": 5.225
+      },
+      {
+        "year": 2022,
+        "value": 5.403
+      },
+      {
+        "year": 2023,
+        "value": 5.316
+      },
+      {
+        "year": 2024,
+        "value": 5.361
+      },
+      {
+        "year": 2025,
+        "value": 5.347
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FJI",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  }
+}

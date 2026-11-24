@@ -35,10 +35,222 @@
     "checkedAt": "2026-11-24"
   },
   "indicators": {
-    "gdpUsd": null,
-    "gdpGrowth": null,
-    "inflation": null,
-    "unemployment": null
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 2424391785.43897
+        },
+        {
+          "year": 2016,
+          "value": 2604955228.70117
+        },
+        {
+          "year": 2017,
+          "value": 2762581334.22612
+        },
+        {
+          "year": 2018,
+          "value": 2913464658.08768
+        },
+        {
+          "year": 2019,
+          "value": 3088851450.30694
+        },
+        {
+          "year": 2020,
+          "value": 3144136196.6228
+        },
+        {
+          "year": 2021,
+          "value": 3392796953.08939
+        },
+        {
+          "year": 2022,
+          "value": 3562814908.76149
+        },
+        {
+          "year": 2023,
+          "value": 3898447007.38798
+        },
+        {
+          "year": 2024,
+          "value": 4152145939.98458
+        },
+        {
+          "year": 2025,
+          "value": 4624533092.31886
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DJI",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 7.30898563450799
+        },
+        {
+          "year": 2016,
+          "value": 7.1234323372872
+        },
+        {
+          "year": 2017,
+          "value": 5.458091517212
+        },
+        {
+          "year": 2018,
+          "value": 4.77433934943193
+        },
+        {
+          "year": 2019,
+          "value": 5.54508081154978
+        },
+        {
+          "year": 2020,
+          "value": 1.2021151728969
+        },
+        {
+          "year": 2021,
+          "value": 4.40715667561153
+        },
+        {
+          "year": 2022,
+          "value": 5.16653702854374
+        },
+        {
+          "year": 2023,
+          "value": 6.80733529403308
+        },
+        {
+          "year": 2024,
+          "value": 6.98048467276334
+        },
+        {
+          "year": 2025,
+          "value": 6.4954610524268
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DJI",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -0.522166521445793
+        },
+        {
+          "year": 2016,
+          "value": 2.40252905434889
+        },
+        {
+          "year": 2017,
+          "value": 0.57728572456066
+        },
+        {
+          "year": 2018,
+          "value": 0.138836400011405
+        },
+        {
+          "year": 2019,
+          "value": 3.31763203299602
+        },
+        {
+          "year": 2020,
+          "value": 1.77900535643955
+        },
+        {
+          "year": 2021,
+          "value": 1.18086783934059
+        },
+        {
+          "year": 2022,
+          "value": 5.17222088647605
+        },
+        {
+          "year": 2023,
+          "value": 1.44905087029085
+        },
+        {
+          "year": 2024,
+          "value": 2.1120116728497
+        },
+        {
+          "year": 2025,
+          "value": -0.31373179953348
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DJI",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 26.063
+        },
+        {
+          "year": 2016,
+          "value": 25.982
+        },
+        {
+          "year": 2017,
+          "value": 26.064
+        },
+        {
+          "year": 2018,
+          "value": 26.18
+        },
+        {
+          "year": 2019,
+          "value": 26.257
+        },
+        {
+          "year": 2020,
+          "value": 27.701
+        },
+        {
+          "year": 2021,
+          "value": 27.628
+        },
+        {
+          "year": 2022,
+          "value": 26.272
+        },
+        {
+          "year": 2023,
+          "value": 26.074
+        },
+        {
+          "year": 2024,
+          "value": 26.007
+        },
+        {
+          "year": 2025,
+          "value": 26.015
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DJI",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    }
   },
   "builtAt": "2026-11-24"
 }
