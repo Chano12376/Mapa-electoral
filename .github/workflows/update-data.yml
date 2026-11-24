@@ -1,4 +1,4 @@
-name: Actualización diaria de datos
+name: Actualizacion diaria de datos
 
 on:
   schedule:
