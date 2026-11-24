@@ -174,23 +174,56 @@ function StatCard({ label, value, year, source }: { label: string; value: string
   );
 }
 
-function MiniChart({ ind }: { ind: Indicator | null }) {
+function MiniChart({ ind, color = "#6366f1" }: { ind: Indicator | null; color?: string }) {
   if (!ind?.series?.length || ind.series.length < 2) return null;
-  const sorted = [...ind.series].sort((a, b) => a.year - b.year).slice(-8);
+  const sorted = [...ind.series].sort((a, b) => a.year - b.year).slice(-10);
   const vals = sorted.map((s) => s.value);
-  const min = Math.min(...vals);
-  const max = Math.max(...vals);
-  const range = max - min || 1;
-  const W = 120, H = 36;
-  const pts = sorted.map((s, i) => {
-    const x = (i / (sorted.length - 1)) * W;
-    const y = H - ((s.value - min) / range) * H;
-    return `${x},${y}`;
-  }).join(" ");
+  const minVal = Math.min(...vals);
+  const maxVal = Math.max(...vals);
+  const hasNegative = minVal < 0;
+  const pad = (maxVal - minVal) * 0.15 || 0.5;
+  const lo = minVal - pad, hi = maxVal + pad;
+  const range = hi - lo;
+  const W = 300, H = 60, LBL = 32;
+  const chartW = W - LBL;
+
+  function px(i: number) { return LBL + (i / (sorted.length - 1)) * chartW; }
+  function py(v: number) { return H - ((v - lo) / range) * H; }
+
+  const linePts = sorted.map((s, i) => `${px(i)},${py(s.value)}`).join(" ");
+  const areaPts = `${px(0)},${H} ${linePts} ${px(sorted.length - 1)},${H}`;
+  const zeroY = hasNegative ? py(0) : null;
+
+  const last = sorted[sorted.length - 1];
+  const trend = sorted.length >= 2 ? sorted[sorted.length - 1].value - sorted[sorted.length - 2].value : 0;
+  const trendArrow = trend > 0.05 ? "▲" : trend < -0.05 ? "▼" : "▬";
+  const trendColor = trend > 0.05 ? "#34d399" : trend < -0.05 ? "#f87171" : "#9ca3af";
+
   return (
-    <svg viewBox={`0 0 ${W} ${H}`} className="w-full h-9 mt-2">
-      <polyline points={pts} fill="none" stroke="#6366f1" strokeWidth="2" strokeLinejoin="round" />
-    </svg>
+    <div>
+      <div className="flex items-baseline justify-between mb-1">
+        <span className="text-2xl font-black text-white">{last.value.toFixed(1)}<span className="text-sm font-normal text-gray-400 ml-1">%</span></span>
+        <span className="text-sm font-semibold" style={{ color: trendColor }}>{trendArrow} {Math.abs(trend).toFixed(1)} pp</span>
+      </div>
+      <svg viewBox={`0 0 ${W} ${H}`} className="w-full" style={{ height: 72 }}>
+        {/* Zero line */}
+        {zeroY !== null && (
+          <line x1={LBL} y1={zeroY} x2={W} y2={zeroY} stroke="#4b5563" strokeWidth="1" strokeDasharray="4,3" />
+        )}
+        {/* Area fill */}
+        <polygon points={areaPts} fill={color} fillOpacity="0.12" />
+        {/* Line */}
+        <polyline points={linePts} fill="none" stroke={color} strokeWidth="2.5" strokeLinejoin="round" strokeLinecap="round" />
+        {/* Year labels (first & last) */}
+        <text x={LBL} y={H} dy="14" fontSize="9" fill="#6b7280" textAnchor="middle">{sorted[0].year}</text>
+        <text x={W} y={H} dy="14" fontSize="9" fill="#6b7280" textAnchor="end">{last.year}</text>
+        {/* Dot on last point */}
+        <circle cx={px(sorted.length - 1)} cy={py(last.value)} r="3.5" fill={color} />
+        {/* Y-axis labels */}
+        <text x={LBL - 4} y={py(maxVal)} dy="4" fontSize="9" fill="#6b7280" textAnchor="end">{maxVal.toFixed(1)}</text>
+        <text x={LBL - 4} y={py(minVal)} dy="4" fontSize="9" fill="#6b7280" textAnchor="end">{minVal.toFixed(1)}</text>
+      </svg>
+    </div>
   );
 }
 
@@ -410,14 +443,14 @@ export default function FichaPais() {
 
           {/* Mini gráficos de tendencia */}
           {[
-            { label: "Crecimiento PIB (%)", ind: data.indicators.gdpGrowth },
-            { label: "Inflación (%)", ind: data.indicators.inflation },
-            { label: "Desempleo (%)", ind: data.indicators.unemployment },
-          ].map(({ label, ind }) => ind?.series?.length && ind.series.length >= 2 ? (
+            { label: "Crecimiento PIB", ind: data.indicators.gdpGrowth, color: "#34d399" },
+            { label: "Inflación", ind: data.indicators.inflation, color: "#f87171" },
+            { label: "Desempleo", ind: data.indicators.unemployment, color: "#fb923c" },
+          ].map(({ label, ind, color }) => ind?.series?.length && ind.series.length >= 2 ? (
             <div key={label} className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
-              <p className="text-xs text-gray-500 uppercase tracking-widest mb-1">{label} · tendencia</p>
-              <MiniChart ind={ind} />
-              <p className="text-xs text-gray-600 mt-1">{ind.source}</p>
+              <p className="text-xs text-gray-500 uppercase tracking-widest mb-3">{label} · últimos años</p>
+              <MiniChart ind={ind} color={color} />
+              <p className="text-xs text-gray-600 mt-3">Fuente: {ind.source}</p>
             </div>
           ) : null)}
         </div>
