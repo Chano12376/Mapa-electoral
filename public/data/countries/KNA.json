@@ -35,10 +35,169 @@
     "checkedAt": "2026-11-24"
   },
   "indicators": {
-    "gdpUsd": null,
-    "gdpGrowth": null,
-    "inflation": null,
-    "unemployment": null
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 957222222.222222
+        },
+        {
+          "year": 2016,
+          "value": 1006818518.51852
+        },
+        {
+          "year": 2017,
+          "value": 1056977777.77778
+        },
+        {
+          "year": 2018,
+          "value": 1076548148.14815
+        },
+        {
+          "year": 2019,
+          "value": 1107855555.55556
+        },
+        {
+          "year": 2020,
+          "value": 883922222.222222
+        },
+        {
+          "year": 2021,
+          "value": 858622222.222222
+        },
+        {
+          "year": 2022,
+          "value": 981429629.62963
+        },
+        {
+          "year": 2023,
+          "value": 1055651851.85185
+        },
+        {
+          "year": 2024,
+          "value": 1122388888.88889
+        },
+        {
+          "year": 2025,
+          "value": 1183514814.81481
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KNA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 0.694135527876625
+        },
+        {
+          "year": 2016,
+          "value": 3.93270319273282
+        },
+        {
+          "year": 2017,
+          "value": 0.220941147299996
+        },
+        {
+          "year": 2018,
+          "value": 2.00352549800972
+        },
+        {
+          "year": 2019,
+          "value": 2.93824658056356
+        },
+        {
+          "year": 2020,
+          "value": -15.3018891740649
+        },
+        {
+          "year": 2021,
+          "value": 0.367606879216311
+        },
+        {
+          "year": 2022,
+          "value": 10.4804941546807
+        },
+        {
+          "year": 2023,
+          "value": 3.02127526129283
+        },
+        {
+          "year": 2024,
+          "value": 0.312226855858171
+        },
+        {
+          "year": 2025,
+          "value": 2.68858456990016
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KNA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -2.30187563045615
+        },
+        {
+          "year": 2016,
+          "value": -0.687037123294039
+        },
+        {
+          "year": 2017,
+          "value": 0.694916711613604
+        },
+        {
+          "year": 2018,
+          "value": -1.03712214131572
+        },
+        {
+          "year": 2019,
+          "value": -0.329562063663977
+        },
+        {
+          "year": 2020,
+          "value": -1.16724501769353
+        },
+        {
+          "year": 2021,
+          "value": 1.195688870384
+        },
+        {
+          "year": 2022,
+          "value": 2.66817533111249
+        },
+        {
+          "year": 2023,
+          "value": 3.55711230848243
+        }
+      ],
+      "lastYear": 2023,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KNA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [],
+      "lastYear": null,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=KNA",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    }
   },
   "builtAt": "2026-11-24"
 }
