@@ -24,6 +24,17 @@
       "checkedAt": "2026-11-20"
     },
     {
+      "iso3": "SOM",
+      "name": "Somalia",
+      "date": "2026-12-01",
+      "dateStatus": "prevista",
+      "type": "Presidenciales e indirectas",
+      "whatIsElected": "Presidente (electo por el Parlamento Federal)",
+      "source": "Comisión Electoral Nacional Independiente de Somalia",
+      "sourceUrl": "https://niec.so",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "NGA",
       "name": "Nigeria",
       "date": "2027-02-20",
@@ -90,6 +101,17 @@
       "checkedAt": "2026-11-23"
     },
     {
+      "iso3": "KWT",
+      "name": "Kuwait",
+      "date": "2027-04-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional)",
+      "whatIsElected": "Asamblea Nacional (50 escaños elegidos)",
+      "source": "Comisión Electoral de Kuwait",
+      "sourceUrl": "https://www.elections.gov.kw",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "HRV",
       "name": "Croacia",
       "date": "2027-04-15",
@@ -154,6 +176,17 @@
       "source": "Instituto Nacional Electoral",
       "sourceUrl": "https://www.ine.mx/voto-y-elecciones/",
       "checkedAt": "2026-11-22"
+    },
+    {
+      "iso3": "MNE",
+      "name": "Montenegro",
+      "date": "2027-06-11",
+      "dateStatus": "prevista",
+      "type": "Parlamentarias (Skupština)",
+      "whatIsElected": "Skupština Crne Gore (81 escaños)",
+      "source": "Comisión Electoral Estatal de Montenegro",
+      "sourceUrl": "https://www.dik.co.me",
+      "checkedAt": "2026-11-24"
     },
     {
       "iso3": "GTM",
@@ -231,6 +264,17 @@
       "source": "National Elections Committee UAE",
       "sourceUrl": "https://www.elections.ae",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "OMN",
+      "name": "Omán",
+      "date": "2027-10-01",
+      "dateStatus": "prevista",
+      "type": "Majlis al-Dawla (Consejo de Estado)",
+      "whatIsElected": "Majlis al-Dawla (84 miembros designados por el Sultán)",
+      "source": "Sultanato de Omán",
+      "sourceUrl": "https://www.oman.om",
+      "checkedAt": "2026-11-24"
     },
     {
       "iso3": "ARG",

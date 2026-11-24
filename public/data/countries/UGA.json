@@ -1,0 +1,50 @@
+{
+  "iso3": "UGA",
+  "name": "Uganda",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Yoweri Museveni",
+    "since": "1986-01-29",
+    "party": {
+      "qid": "Q1374748",
+      "name": "NRM"
+    },
+    "source": "Comisión Electoral de Uganda",
+    "sourceUrl": "https://www.ec.or.ug",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Yoweri Museveni",
+    "since": "1986-01-29",
+    "party": {
+      "qid": "Q1374748",
+      "name": "NRM"
+    },
+    "source": "Comisión Electoral de Uganda",
+    "sourceUrl": "https://www.ec.or.ug",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "UGA",
+    "date": "2026-01-14",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y parlamentarias",
+    "whatIsElected": "Presidente, Parlamento (529 escaños)",
+    "source": "Comisión Electoral de Uganda",
+    "sourceUrl": "https://www.ec.or.ug",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

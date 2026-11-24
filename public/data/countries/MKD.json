@@ -1,0 +1,50 @@
+{
+  "iso3": "MKD",
+  "name": "Macedonia del Norte",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Gordana Siljanovska Davkova",
+    "since": "2024-05-12",
+    "party": {
+      "qid": "Q1392930",
+      "name": "VMRO-DPMNE"
+    },
+    "source": "Presidencia de Macedonia del Norte",
+    "sourceUrl": "https://www.president.mk",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Hristijan Mickoski",
+    "since": "2024-06-23",
+    "party": {
+      "qid": "Q1392930",
+      "name": "VMRO-DPMNE"
+    },
+    "source": "Gobierno de Macedonia del Norte",
+    "sourceUrl": "https://www.vlada.mk",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MKD",
+    "date": "2028-05-08",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y parlamentarias",
+    "whatIsElected": "Presidente, Sobranie (120 escaños)",
+    "source": "Comisión Electoral Estatal de Macedonia del Norte",
+    "sourceUrl": "https://www.sec.mk",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

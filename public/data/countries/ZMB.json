@@ -1,0 +1,50 @@
+{
+  "iso3": "ZMB",
+  "name": "Zambia",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Hakainde Hichilema",
+    "since": "2021-08-24",
+    "party": {
+      "qid": "Q4994063",
+      "name": "UPND"
+    },
+    "source": "Comisión Electoral de Zambia",
+    "sourceUrl": "https://www.elections.org.zm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Hakainde Hichilema",
+    "since": "2021-08-24",
+    "party": {
+      "qid": "Q4994063",
+      "name": "UPND"
+    },
+    "source": "Comisión Electoral de Zambia",
+    "sourceUrl": "https://www.elections.org.zm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ZMB",
+    "date": "2026-08-12",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional (156 escaños)",
+    "source": "Comisión Electoral de Zambia",
+    "sourceUrl": "https://www.elections.org.zm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

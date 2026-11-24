@@ -1,0 +1,50 @@
+{
+  "iso3": "TJK",
+  "name": "Tayikistán",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Emomali Rahmon",
+    "since": "1994-11-16",
+    "party": {
+      "qid": "Q1021074",
+      "name": "PDPT"
+    },
+    "source": "Comisión Electoral Central de Tayikistán",
+    "sourceUrl": "https://www.cec.tj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Kokhir Rasulzoda",
+    "since": "2013-11-23",
+    "party": {
+      "qid": "Q1021074",
+      "name": "PDPT"
+    },
+    "source": "Gobierno de Tayikistán",
+    "sourceUrl": "https://hukumat.tj",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TJK",
+    "date": "2030-11-06",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente (mandato de 7 años)",
+    "source": "Comisión Electoral Central de Tayikistán",
+    "sourceUrl": "https://www.cec.tj",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

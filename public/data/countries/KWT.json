@@ -1,0 +1,44 @@
+{
+  "iso3": "KWT",
+  "name": "Kuwait",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Meshal Al-Ahmad Al-Sabah",
+    "since": "2023-12-16",
+    "party": null,
+    "source": "Diwan Amiri de Kuwait",
+    "sourceUrl": "https://www.da.gov.kw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ahmad Al-Abdullah Al-Sabah",
+    "since": "2024-02-04",
+    "party": null,
+    "source": "Gobierno de Kuwait",
+    "sourceUrl": "https://www.gov.kw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "KWT",
+    "date": "2027-04-04",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Asamblea Nacional)",
+    "whatIsElected": "Asamblea Nacional (50 escaños elegidos)",
+    "source": "Comisión Electoral de Kuwait",
+    "sourceUrl": "https://www.elections.gov.kw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

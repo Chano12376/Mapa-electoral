@@ -1,0 +1,44 @@
+{
+  "iso3": "AFG",
+  "name": "Afganistán",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Hibatullah Akhundzada",
+    "since": "2016-05-25",
+    "party": null,
+    "source": "Reuters / BBC",
+    "sourceUrl": "https://www.bbc.com/news/world-asia-57860455",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Mohammad Hassan Akhund",
+    "since": "2021-09-07",
+    "party": null,
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/world/asia-pacific/talibans-supreme-leader-announces-new-afghan-cabinet-2021-09-07/",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "AFG",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": "Sin elección; régimen talibán",
+    "whatIsElected": "Los talibanes suspendieron todas las elecciones tras tomar el poder en agosto de 2021",
+    "source": "ONU / Human Rights Watch",
+    "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/afghanistan",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

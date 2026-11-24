@@ -1,0 +1,50 @@
+{
+  "iso3": "MOZ",
+  "name": "Mozambique",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Daniel Chapo",
+    "since": "2025-01-15",
+    "party": {
+      "qid": "Q1023032",
+      "name": "FRELIMO"
+    },
+    "source": "Comisión Nacional de Elecciones de Mozambique",
+    "sourceUrl": "https://www.cne.org.mz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Daniel Chapo",
+    "since": "2025-01-15",
+    "party": {
+      "qid": "Q1023032",
+      "name": "FRELIMO"
+    },
+    "source": "Comisión Nacional de Elecciones de Mozambique",
+    "sourceUrl": "https://www.cne.org.mz",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MOZ",
+    "date": "2029-10-15",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea de la República (250 escaños)",
+    "source": "Comisión Nacional de Elecciones de Mozambique",
+    "sourceUrl": "https://www.cne.org.mz",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

@@ -1,0 +1,35 @@
+{
+  "iso3": "LBY",
+  "name": "Libia",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Mohamed al-Menfi",
+    "since": "2021-03-10",
+    "party": null,
+    "source": "UNSMIL / ONU",
+    "sourceUrl": "https://unsmil.unmissions.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Abdul Hamid Dbeibeh",
+    "since": "2021-03-15",
+    "party": null,
+    "source": "UNSMIL / ONU",
+    "sourceUrl": "https://unsmil.unmissions.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

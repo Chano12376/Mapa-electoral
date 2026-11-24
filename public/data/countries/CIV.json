@@ -1,0 +1,50 @@
+{
+  "iso3": "CIV",
+  "name": "Costa de Marfil",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Alassane Ouattara",
+    "since": "2010-12-04",
+    "party": {
+      "qid": "Q1377261",
+      "name": "RHDP"
+    },
+    "source": "Comisión Electoral Independiente de Costa de Marfil",
+    "sourceUrl": "https://www.cei-ci.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Robert Beugré Mambé",
+    "since": "2024-11-13",
+    "party": {
+      "qid": "Q1377261",
+      "name": "RHDP"
+    },
+    "source": "Presidencia de Costa de Marfil",
+    "sourceUrl": "https://www.presidence.ci",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CIV",
+    "date": "2025-10-25",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente",
+    "source": "Comisión Electoral Independiente de Costa de Marfil",
+    "sourceUrl": "https://www.cei-ci.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

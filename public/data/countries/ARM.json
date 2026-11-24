@@ -1,0 +1,47 @@
+{
+  "iso3": "ARM",
+  "name": "Armenia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Vahagn Khachaturyan",
+    "since": "2022-03-13",
+    "party": null,
+    "source": "Presidencia de Armenia",
+    "sourceUrl": "https://www.president.am",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Nikol Pashinyan",
+    "since": "2021-08-02",
+    "party": {
+      "qid": "Q28177498",
+      "name": "Contrato Civil"
+    },
+    "source": "Gobierno de Armenia",
+    "sourceUrl": "https://www.gov.am",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ARM",
+    "date": "2026-06-20",
+    "dateStatus": "prevista",
+    "type": "Parlamentarias (Azgayin Zhoghov)",
+    "whatIsElected": "Asamblea Nacional (107 escaños)",
+    "source": "Comisión Electoral Central de Armenia",
+    "sourceUrl": "https://www.elections.am",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

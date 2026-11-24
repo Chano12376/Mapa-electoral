@@ -1,0 +1,44 @@
+{
+  "iso3": "MNE",
+  "name": "Montenegro",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Jakov Milatović",
+    "since": "2023-05-20",
+    "party": null,
+    "source": "Presidencia de Montenegro",
+    "sourceUrl": "https://www.predsjednik.me",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Milojko Spajić",
+    "since": "2023-10-31",
+    "party": null,
+    "source": "Gobierno de Montenegro",
+    "sourceUrl": "https://www.gov.me",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MNE",
+    "date": "2027-06-11",
+    "dateStatus": "prevista",
+    "type": "Parlamentarias (Skupština)",
+    "whatIsElected": "Skupština Crne Gore (81 escaños)",
+    "source": "Comisión Electoral Estatal de Montenegro",
+    "sourceUrl": "https://www.dik.co.me",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

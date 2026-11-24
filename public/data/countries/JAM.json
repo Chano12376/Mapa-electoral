@@ -1,0 +1,47 @@
+{
+  "iso3": "JAM",
+  "name": "Jamaica",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Jamaica",
+    "sourceUrl": "https://www.jis.gov.jm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Andrew Holness",
+    "since": "2016-03-03",
+    "party": {
+      "qid": "Q4765175",
+      "name": "JLP"
+    },
+    "source": "Gobierno de Jamaica",
+    "sourceUrl": "https://www.opm.gov.jm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "JAM",
+    "date": "2029-10-26",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de Representantes (63 escaños)",
+    "source": "Electoral Commission of Jamaica",
+    "sourceUrl": "https://www.ecj.com.jm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

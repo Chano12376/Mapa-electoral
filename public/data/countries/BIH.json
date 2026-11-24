@@ -1,0 +1,50 @@
+{
+  "iso3": "BIH",
+  "name": "Bosnia-Herzegovina",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Denis Bečirović",
+    "since": "2022-11-16",
+    "party": {
+      "qid": "Q12731937",
+      "name": "SDP BiH"
+    },
+    "source": "Presidencia de Bosnia-Herzegovina",
+    "sourceUrl": "https://www.predsjednistvobih.ba",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Borjana Krišto",
+    "since": "2023-01-25",
+    "party": {
+      "qid": "Q7026038",
+      "name": "HDZ BiH"
+    },
+    "source": "Consejo de Ministros de Bosnia-Herzegovina",
+    "sourceUrl": "https://www.vijeceministara.gov.ba",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BIH",
+    "date": "2026-10-04",
+    "dateStatus": "prevista",
+    "type": "Generales",
+    "whatIsElected": "Presidencia colegiada, Asamblea Parlamentaria, asambleas de entidades",
+    "source": "Comisión Electoral Central de Bosnia-Herzegovina",
+    "sourceUrl": "https://www.izbori.ba",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

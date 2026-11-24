@@ -1,0 +1,35 @@
+{
+  "iso3": "YEM",
+  "name": "Yemen",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Rashad al-Alimi",
+    "since": "2022-04-19",
+    "party": null,
+    "source": "ONU — OSESGY",
+    "sourceUrl": "https://osesgy.unmissions.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ahmed Awad bin Mubarak",
+    "since": "2024-02-05",
+    "party": null,
+    "source": "Gobierno de Yemen (internacionalmente reconocido)",
+    "sourceUrl": "https://www.ye.gov",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": null,
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

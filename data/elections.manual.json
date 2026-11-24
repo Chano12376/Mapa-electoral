@@ -1000,6 +1000,206 @@
       "source": "Comisión Nacional Electoral de Angola",
       "sourceUrl": "https://www.cne.ao",
       "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "ISL",
+      "date": "2028-10-29",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Alþingi)",
+      "whatIsElected": "Alþingi (63 escaños)",
+      "source": "Landskjörstjórn — Comisión Electoral Nacional de Islandia",
+      "sourceUrl": "https://www.landskjor.is",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "BIH",
+      "date": "2026-10-04",
+      "dateStatus": "prevista",
+      "type": "Generales",
+      "whatIsElected": "Presidencia colegiada, Asamblea Parlamentaria, asambleas de entidades",
+      "source": "Comisión Electoral Central de Bosnia-Herzegovina",
+      "sourceUrl": "https://www.izbori.ba",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MNE",
+      "date": "2027-06-11",
+      "dateStatus": "prevista",
+      "type": "Parlamentarias (Skupština)",
+      "whatIsElected": "Skupština Crne Gore (81 escaños)",
+      "source": "Comisión Electoral Estatal de Montenegro",
+      "sourceUrl": "https://www.dik.co.me",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MKD",
+      "date": "2028-05-08",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y parlamentarias",
+      "whatIsElected": "Presidente, Sobranie (120 escaños)",
+      "source": "Comisión Electoral Estatal de Macedonia del Norte",
+      "sourceUrl": "https://www.sec.mk",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "ARM",
+      "date": "2026-06-20",
+      "dateStatus": "prevista",
+      "type": "Parlamentarias (Azgayin Zhoghov)",
+      "whatIsElected": "Asamblea Nacional (107 escaños)",
+      "source": "Comisión Electoral Central de Armenia",
+      "sourceUrl": "https://www.elections.am",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "AZE",
+      "date": "2029-02-07",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente",
+      "source": "Comisión Electoral Central de Azerbaiyán",
+      "sourceUrl": "https://www.cec.gov.az",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "NIC",
+      "date": "2026-11-01",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional (92 escaños)",
+      "source": "Consejo Supremo Electoral de Nicaragua",
+      "sourceUrl": "https://www.cse.gob.ni",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "JAM",
+      "date": "2029-10-26",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Cámara de Representantes (63 escaños)",
+      "source": "Electoral Commission of Jamaica",
+      "sourceUrl": "https://www.ecj.com.jm",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "MOZ",
+      "date": "2029-10-15",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea de la República (250 escaños)",
+      "source": "Comisión Nacional de Elecciones de Mozambique",
+      "sourceUrl": "https://www.cne.org.mz",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "UGA",
+      "date": "2026-01-14",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y parlamentarias",
+      "whatIsElected": "Presidente, Parlamento (529 escaños)",
+      "source": "Comisión Electoral de Uganda",
+      "sourceUrl": "https://www.ec.or.ug",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "CIV",
+      "date": "2025-10-25",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente",
+      "source": "Comisión Electoral Independiente de Costa de Marfil",
+      "sourceUrl": "https://www.cei-ci.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "LBY",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (conflicto activo)",
+      "whatIsElected": "Proceso de reconciliación nacional en curso; elecciones previstas no celebradas desde 2021",
+      "source": "UNSMIL — Misión de Apoyo de la ONU en Libia",
+      "sourceUrl": "https://unsmil.unmissions.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "SOM",
+      "date": "2026-12-01",
+      "dateStatus": "prevista",
+      "type": "Presidenciales e indirectas",
+      "whatIsElected": "Presidente (electo por el Parlamento Federal)",
+      "source": "Comisión Electoral Nacional Independiente de Somalia",
+      "sourceUrl": "https://niec.so",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "ZMB",
+      "date": "2026-08-12",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional (156 escaños)",
+      "source": "Comisión Electoral de Zambia",
+      "sourceUrl": "https://www.elections.org.zm",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "OMN",
+      "date": "2027-10-01",
+      "dateStatus": "prevista",
+      "type": "Majlis al-Dawla (Consejo de Estado)",
+      "whatIsElected": "Majlis al-Dawla (84 miembros designados por el Sultán)",
+      "source": "Sultanato de Omán",
+      "sourceUrl": "https://www.oman.om",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "YEM",
+      "date": null,
+      "dateStatus": "pendiente",
+      "type": "Por determinar (conflicto armado en curso)",
+      "whatIsElected": "País dividido entre el Consejo de Liderazgo Presidencial (reconocido internacionalmente) y el movimiento Huthi",
+      "source": "ONU — OSESGY",
+      "sourceUrl": "https://osesgy.unmissions.org",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "KWT",
+      "date": "2027-04-04",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional)",
+      "whatIsElected": "Asamblea Nacional (50 escaños elegidos)",
+      "source": "Comisión Electoral de Kuwait",
+      "sourceUrl": "https://www.elections.gov.kw",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "AFG",
+      "date": null,
+      "dateStatus": "sin_eleccion_nacional_directa",
+      "type": "Sin elección; régimen talibán",
+      "whatIsElected": "Los talibanes suspendieron todas las elecciones tras tomar el poder en agosto de 2021",
+      "source": "ONU / Human Rights Watch",
+      "sourceUrl": "https://www.hrw.org/world-report/2024/country-chapters/afghanistan",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "KHM",
+      "date": "2028-07-23",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Asamblea Nacional)",
+      "whatIsElected": "Asamblea Nacional (125 escaños)",
+      "source": "Comité Electoral Nacional de Camboya",
+      "sourceUrl": "https://www.nec.gov.kh",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "TJK",
+      "date": "2030-11-06",
+      "dateStatus": "prevista",
+      "type": "Presidenciales",
+      "whatIsElected": "Presidente (mandato de 7 años)",
+      "source": "Comisión Electoral Central de Tayikistán",
+      "sourceUrl": "https://www.cec.tj",
+      "checkedAt": "2026-11-24"
     }
   ]
 }

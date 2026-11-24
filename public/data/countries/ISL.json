@@ -1,0 +1,47 @@
+{
+  "iso3": "ISL",
+  "name": "Islandia",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Guðni Th. Jóhannesson",
+    "since": "2016-08-01",
+    "party": null,
+    "source": "Presidencia de Islandia",
+    "sourceUrl": "https://www.forseti.is",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Bjarni Benediktsson",
+    "since": "2024-04-09",
+    "party": {
+      "qid": "Q729424",
+      "name": "Partido de la Independencia"
+    },
+    "source": "Gobierno de Islandia",
+    "sourceUrl": "https://www.government.is",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ISL",
+    "date": "2028-10-29",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Alþingi)",
+    "whatIsElected": "Alþingi (63 escaños)",
+    "source": "Landskjörstjórn — Comisión Electoral Nacional de Islandia",
+    "sourceUrl": "https://www.landskjor.is",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

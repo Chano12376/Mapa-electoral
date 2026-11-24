@@ -1,0 +1,50 @@
+{
+  "iso3": "NIC",
+  "name": "Nicaragua",
+  "region": "América",
+  "headOfState": {
+    "name": "Daniel Ortega",
+    "since": "2022-01-10",
+    "party": {
+      "qid": "Q7239",
+      "name": "FSLN"
+    },
+    "source": "Consejo Supremo Electoral de Nicaragua",
+    "sourceUrl": "https://www.cse.gob.ni",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Daniel Ortega",
+    "since": "2022-01-10",
+    "party": {
+      "qid": "Q7239",
+      "name": "FSLN"
+    },
+    "source": "Consejo Supremo Electoral de Nicaragua",
+    "sourceUrl": "https://www.cse.gob.ni",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "NIC",
+    "date": "2026-11-01",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional (92 escaños)",
+    "source": "Consejo Supremo Electoral de Nicaragua",
+    "sourceUrl": "https://www.cse.gob.ni",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

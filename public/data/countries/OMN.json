@@ -1,0 +1,44 @@
+{
+  "iso3": "OMN",
+  "name": "Omán",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Haitham bin Tariq Al Said",
+    "since": "2020-01-11",
+    "party": null,
+    "source": "Sultanato de Omán — Diwan de la Corte Real",
+    "sourceUrl": "https://www.oman.om",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Haitham bin Tariq Al Said",
+    "since": "2020-01-11",
+    "party": null,
+    "source": "Sultanato de Omán",
+    "sourceUrl": "https://www.oman.om",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "OMN",
+    "date": "2027-10-01",
+    "dateStatus": "prevista",
+    "type": "Majlis al-Dawla (Consejo de Estado)",
+    "whatIsElected": "Majlis al-Dawla (84 miembros designados por el Sultán)",
+    "source": "Sultanato de Omán",
+    "sourceUrl": "https://www.oman.om",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

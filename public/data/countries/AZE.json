@@ -1,0 +1,50 @@
+{
+  "iso3": "AZE",
+  "name": "Azerbaiyán",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Ilham Aliyev",
+    "since": "2003-10-31",
+    "party": {
+      "qid": "Q1004527",
+      "name": "Nuevo Azerbaiyán"
+    },
+    "source": "Presidencia de Azerbaiyán",
+    "sourceUrl": "https://president.az",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ali Asadov",
+    "since": "2019-07-18",
+    "party": {
+      "qid": "Q1004527",
+      "name": "Nuevo Azerbaiyán"
+    },
+    "source": "Gobierno de Azerbaiyán",
+    "sourceUrl": "https://www.gov.az",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "AZE",
+    "date": "2029-02-07",
+    "dateStatus": "prevista",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente",
+    "source": "Comisión Electoral Central de Azerbaiyán",
+    "sourceUrl": "https://www.cec.gov.az",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

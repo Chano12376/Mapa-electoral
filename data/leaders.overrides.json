@@ -2198,5 +2198,445 @@
       "retrievedAt": "2026-11-24",
       "motivo": "Presidente: jefe de Estado y de Gobierno"
     }
+  },
+  "ISL": {
+    "headOfState": {
+      "name": "Guðni Th. Jóhannesson",
+      "since": "2016-08-01",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de Islandia",
+      "sourceUrl": "https://www.forseti.is",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República (reelegido jun. 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Bjarni Benediktsson",
+      "since": "2024-04-09",
+      "partyQid": "Q729424",
+      "partyName": "Partido de la Independencia",
+      "source": "Gobierno de Islandia",
+      "sourceUrl": "https://www.government.is",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde abr. 2024"
+    }
+  },
+  "BIH": {
+    "headOfState": {
+      "name": "Denis Bečirović",
+      "since": "2022-11-16",
+      "partyQid": "Q12731937",
+      "partyName": "SDP BiH",
+      "source": "Presidencia de Bosnia-Herzegovina",
+      "sourceUrl": "https://www.predsjednistvobih.ba",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidencia colegiada (3 miembros); Denis Bečirović como presidente rotatorio 2024-2026"
+    },
+    "headOfGovernment": {
+      "name": "Borjana Krišto",
+      "since": "2023-01-25",
+      "partyQid": "Q7026038",
+      "partyName": "HDZ BiH",
+      "source": "Consejo de Ministros de Bosnia-Herzegovina",
+      "sourceUrl": "https://www.vijeceministara.gov.ba",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta del Consejo de Ministros"
+    }
+  },
+  "MNE": {
+    "headOfState": {
+      "name": "Jakov Milatović",
+      "since": "2023-05-20",
+      "partyQid": null,
+      "partyName": "Europa Ahora",
+      "source": "Presidencia de Montenegro",
+      "sourceUrl": "https://www.predsjednik.me",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de Montenegro"
+    },
+    "headOfGovernment": {
+      "name": "Milojko Spajić",
+      "since": "2023-10-31",
+      "partyQid": null,
+      "partyName": "Europa Ahora",
+      "source": "Gobierno de Montenegro",
+      "sourceUrl": "https://www.gov.me",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde oct. 2023"
+    }
+  },
+  "MKD": {
+    "headOfState": {
+      "name": "Gordana Siljanovska Davkova",
+      "since": "2024-05-12",
+      "partyQid": "Q1392930",
+      "partyName": "VMRO-DPMNE",
+      "source": "Presidencia de Macedonia del Norte",
+      "sourceUrl": "https://www.president.mk",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta de la República desde may. 2024"
+    },
+    "headOfGovernment": {
+      "name": "Hristijan Mickoski",
+      "since": "2024-06-23",
+      "partyQid": "Q1392930",
+      "partyName": "VMRO-DPMNE",
+      "source": "Gobierno de Macedonia del Norte",
+      "sourceUrl": "https://www.vlada.mk",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jun. 2024"
+    }
+  },
+  "ARM": {
+    "headOfState": {
+      "name": "Vahagn Khachaturyan",
+      "since": "2022-03-13",
+      "partyQid": null,
+      "partyName": "Independiente",
+      "source": "Presidencia de Armenia",
+      "sourceUrl": "https://www.president.am",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente de la República (cargo ceremonial)"
+    },
+    "headOfGovernment": {
+      "name": "Nikol Pashinyan",
+      "since": "2021-08-02",
+      "partyQid": "Q28177498",
+      "partyName": "Contrato Civil",
+      "source": "Gobierno de Armenia",
+      "sourceUrl": "https://www.gov.am",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde 2018 (reelegido 2021)"
+    }
+  },
+  "AZE": {
+    "headOfState": {
+      "name": "Ilham Aliyev",
+      "since": "2003-10-31",
+      "partyQid": "Q1004527",
+      "partyName": "Nuevo Azerbaiyán",
+      "source": "Presidencia de Azerbaiyán",
+      "sourceUrl": "https://president.az",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido feb. 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Ali Asadov",
+      "since": "2019-07-18",
+      "partyQid": "Q1004527",
+      "partyName": "Nuevo Azerbaiyán",
+      "source": "Gobierno de Azerbaiyán",
+      "sourceUrl": "https://www.gov.az",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro"
+    }
+  },
+  "NIC": {
+    "headOfState": {
+      "name": "Daniel Ortega",
+      "since": "2022-01-10",
+      "partyQid": "Q7239",
+      "partyName": "FSLN",
+      "source": "Consejo Supremo Electoral de Nicaragua",
+      "sourceUrl": "https://www.cse.gob.ni",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido nov. 2021)"
+    },
+    "headOfGovernment": {
+      "name": "Daniel Ortega",
+      "since": "2022-01-10",
+      "partyQid": "Q7239",
+      "partyName": "FSLN",
+      "source": "Consejo Supremo Electoral de Nicaragua",
+      "sourceUrl": "https://www.cse.gob.ni",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "JAM": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Jamaica",
+      "sourceUrl": "https://www.jis.gov.jm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca constitucional; representado por el Gobernador General"
+    },
+    "headOfGovernment": {
+      "name": "Andrew Holness",
+      "since": "2016-03-03",
+      "partyQid": "Q4765175",
+      "partyName": "JLP",
+      "source": "Gobierno de Jamaica",
+      "sourceUrl": "https://www.opm.gov.jm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (reelegido oct. 2024)"
+    }
+  },
+  "MOZ": {
+    "headOfState": {
+      "name": "Daniel Chapo",
+      "since": "2025-01-15",
+      "partyQid": "Q1023032",
+      "partyName": "FRELIMO",
+      "source": "Comisión Nacional de Elecciones de Mozambique",
+      "sourceUrl": "https://www.cne.org.mz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde ene. 2025 (electo oct. 2024)"
+    },
+    "headOfGovernment": {
+      "name": "Daniel Chapo",
+      "since": "2025-01-15",
+      "partyQid": "Q1023032",
+      "partyName": "FRELIMO",
+      "source": "Comisión Nacional de Elecciones de Mozambique",
+      "sourceUrl": "https://www.cne.org.mz",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "UGA": {
+    "headOfState": {
+      "name": "Yoweri Museveni",
+      "since": "1986-01-29",
+      "partyQid": "Q1374748",
+      "partyName": "NRM",
+      "source": "Comisión Electoral de Uganda",
+      "sourceUrl": "https://www.ec.or.ug",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 1986 (reelegido 2021)"
+    },
+    "headOfGovernment": {
+      "name": "Yoweri Museveni",
+      "since": "1986-01-29",
+      "partyQid": "Q1374748",
+      "partyName": "NRM",
+      "source": "Comisión Electoral de Uganda",
+      "sourceUrl": "https://www.ec.or.ug",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "CIV": {
+    "headOfState": {
+      "name": "Alassane Ouattara",
+      "since": "2010-12-04",
+      "partyQid": "Q1377261",
+      "partyName": "RHDP",
+      "source": "Comisión Electoral Independiente de Costa de Marfil",
+      "sourceUrl": "https://www.cei-ci.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (desde 2010, reelegido 2020)"
+    },
+    "headOfGovernment": {
+      "name": "Robert Beugré Mambé",
+      "since": "2024-11-13",
+      "partyQid": "Q1377261",
+      "partyName": "RHDP",
+      "source": "Presidencia de Costa de Marfil",
+      "sourceUrl": "https://www.presidence.ci",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro interino desde nov. 2024 (tras fallecimiento de Amadou Coulibaly)"
+    }
+  },
+  "LBY": {
+    "headOfState": {
+      "name": "Mohamed al-Menfi",
+      "since": "2021-03-10",
+      "partyQid": null,
+      "partyName": null,
+      "source": "UNSMIL / ONU",
+      "sourceUrl": "https://unsmil.unmissions.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del Consejo Presidencial (GNU); Libia permanece dividida entre dos gobiernos rivales"
+    },
+    "headOfGovernment": {
+      "name": "Abdul Hamid Dbeibeh",
+      "since": "2021-03-15",
+      "partyQid": null,
+      "partyName": null,
+      "source": "UNSMIL / ONU",
+      "sourceUrl": "https://unsmil.unmissions.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro del GNU (Gobierno de Unidad Nacional) en Trípoli, reconocido por la ONU"
+    }
+  },
+  "SOM": {
+    "headOfState": {
+      "name": "Hassan Sheikh Mohamud",
+      "since": "2022-05-23",
+      "partyQid": "Q11810413",
+      "partyName": "PDP",
+      "source": "Presidencia Federal de Somalia",
+      "sourceUrl": "https://www.presidency.gov.so",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente Federal (electo indirectamente por el Parlamento)"
+    },
+    "headOfGovernment": {
+      "name": "Hamza Abdi Barre",
+      "since": "2022-06-25",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno Federal de Somalia",
+      "sourceUrl": "https://www.pm.gov.so",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro Federal"
+    }
+  },
+  "ZMB": {
+    "headOfState": {
+      "name": "Hakainde Hichilema",
+      "since": "2021-08-24",
+      "partyQid": "Q4994063",
+      "partyName": "UPND",
+      "source": "Comisión Electoral de Zambia",
+      "sourceUrl": "https://www.elections.org.zm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    },
+    "headOfGovernment": {
+      "name": "Hakainde Hichilema",
+      "since": "2021-08-24",
+      "partyQid": "Q4994063",
+      "partyName": "UPND",
+      "source": "Comisión Electoral de Zambia",
+      "sourceUrl": "https://www.elections.org.zm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente: jefe de Estado y de Gobierno"
+    }
+  },
+  "OMN": {
+    "headOfState": {
+      "name": "Haitham bin Tariq Al Said",
+      "since": "2020-01-11",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Sultanato de Omán — Diwan de la Corte Real",
+      "sourceUrl": "https://www.oman.om",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Sultán de Omán; monarquía absoluta sin partidos políticos"
+    },
+    "headOfGovernment": {
+      "name": "Haitham bin Tariq Al Said",
+      "since": "2020-01-11",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Sultanato de Omán",
+      "sourceUrl": "https://www.oman.om",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Sultán ejerce también como Primer Ministro"
+    }
+  },
+  "YEM": {
+    "headOfState": {
+      "name": "Rashad al-Alimi",
+      "since": "2022-04-19",
+      "partyQid": null,
+      "partyName": null,
+      "source": "ONU — OSESGY",
+      "sourceUrl": "https://osesgy.unmissions.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente del Consejo de Liderazgo Presidencial (reconocido por la ONU); el norte está bajo control Huthi"
+    },
+    "headOfGovernment": {
+      "name": "Ahmed Awad bin Mubarak",
+      "since": "2024-02-05",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Yemen (internacionalmente reconocido)",
+      "sourceUrl": "https://www.ye.gov",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro del gobierno reconocido internacionalmente"
+    }
+  },
+  "KWT": {
+    "headOfState": {
+      "name": "Meshal Al-Ahmad Al-Sabah",
+      "since": "2023-12-16",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Diwan Amiri de Kuwait",
+      "sourceUrl": "https://www.da.gov.kw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Emir de Kuwait (monarquía constitucional)"
+    },
+    "headOfGovernment": {
+      "name": "Ahmad Al-Abdullah Al-Sabah",
+      "since": "2024-02-04",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Kuwait",
+      "sourceUrl": "https://www.gov.kw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2024"
+    }
+  },
+  "AFG": {
+    "headOfState": {
+      "name": "Hibatullah Akhundzada",
+      "since": "2016-05-25",
+      "partyQid": null,
+      "partyName": "Talibán",
+      "source": "Reuters / BBC",
+      "sourceUrl": "https://www.bbc.com/news/world-asia-57860455",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Líder Supremo de los talibanes; gobierna Afganistán desde ago. 2021 sin reconocimiento internacional"
+    },
+    "headOfGovernment": {
+      "name": "Mohammad Hassan Akhund",
+      "since": "2021-09-07",
+      "partyQid": null,
+      "partyName": "Talibán",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/talibans-supreme-leader-announces-new-afghan-cabinet-2021-09-07/",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro interino del Emirato Islámico"
+    }
+  },
+  "KHM": {
+    "headOfState": {
+      "name": "Norodom Sihamoni",
+      "since": "2004-10-29",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Palacio Real de Camboya",
+      "sourceUrl": "https://www.norodomsihamoni.com",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey de Camboya (monarquía constitucional)"
+    },
+    "headOfGovernment": {
+      "name": "Hun Manet",
+      "since": "2023-08-22",
+      "partyQid": "Q744900",
+      "partyName": "PPC",
+      "source": "Gobierno de Camboya",
+      "sourceUrl": "https://www.pressocm.gov.kh",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ago. 2023 (hijo de Hun Sen)"
+    }
+  },
+  "TJK": {
+    "headOfState": {
+      "name": "Emomali Rahmon",
+      "since": "1994-11-16",
+      "partyQid": "Q1021074",
+      "partyName": "PDPT",
+      "source": "Comisión Electoral Central de Tayikistán",
+      "sourceUrl": "https://www.cec.tj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde 1994 (reelegido 2023)"
+    },
+    "headOfGovernment": {
+      "name": "Kokhir Rasulzoda",
+      "since": "2013-11-23",
+      "partyQid": "Q1021074",
+      "partyName": "PDPT",
+      "source": "Gobierno de Tayikistán",
+      "sourceUrl": "https://hukumat.tj",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde nov. 2013"
+    }
   }
 }

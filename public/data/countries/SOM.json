@@ -1,0 +1,47 @@
+{
+  "iso3": "SOM",
+  "name": "Somalia",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Hassan Sheikh Mohamud",
+    "since": "2022-05-23",
+    "party": {
+      "qid": "Q11810413",
+      "name": "PDP"
+    },
+    "source": "Presidencia Federal de Somalia",
+    "sourceUrl": "https://www.presidency.gov.so",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Hamza Abdi Barre",
+    "since": "2022-06-25",
+    "party": null,
+    "source": "Gobierno Federal de Somalia",
+    "sourceUrl": "https://www.pm.gov.so",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SOM",
+    "date": "2026-12-01",
+    "dateStatus": "prevista",
+    "type": "Presidenciales e indirectas",
+    "whatIsElected": "Presidente (electo por el Parlamento Federal)",
+    "source": "Comisión Electoral Nacional Independiente de Somalia",
+    "sourceUrl": "https://niec.so",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

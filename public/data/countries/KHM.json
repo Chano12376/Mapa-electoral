@@ -1,0 +1,47 @@
+{
+  "iso3": "KHM",
+  "name": "Camboya",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Norodom Sihamoni",
+    "since": "2004-10-29",
+    "party": null,
+    "source": "Palacio Real de Camboya",
+    "sourceUrl": "https://www.norodomsihamoni.com",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Hun Manet",
+    "since": "2023-08-22",
+    "party": {
+      "qid": "Q744900",
+      "name": "PPC"
+    },
+    "source": "Gobierno de Camboya",
+    "sourceUrl": "https://www.pressocm.gov.kh",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "KHM",
+    "date": "2028-07-23",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Asamblea Nacional)",
+    "whatIsElected": "Asamblea Nacional (125 escaños)",
+    "source": "Comité Electoral Nacional de Camboya",
+    "sourceUrl": "https://www.nec.gov.kh",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}
