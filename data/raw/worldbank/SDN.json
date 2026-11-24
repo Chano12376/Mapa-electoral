@@ -1,0 +1,194 @@
+{
+  "gdpUsd": {
+    "indicator": "NY.GDP.MKTP.CD",
+    "series": [
+      {
+        "year": 2015,
+        "value": 51726758676.7677
+      },
+      {
+        "year": 2016,
+        "value": 42630376000
+      },
+      {
+        "year": 2017,
+        "value": 41283617976.1905
+      },
+      {
+        "year": 2018,
+        "value": 32333780383.2924
+      },
+      {
+        "year": 2019,
+        "value": 32338079165.2893
+      },
+      {
+        "year": 2020,
+        "value": 27034593750
+      },
+      {
+        "year": 2021,
+        "value": 34229513774.9936
+      },
+      {
+        "year": 2022,
+        "value": 51666875363.0963
+      },
+      {
+        "year": 2023,
+        "value": 39898289820.7951
+      },
+      {
+        "year": 2024,
+        "value": 49672435513.1126
+      },
+      {
+        "year": 2025,
+        "value": 60162634574.4689
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SDN",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "gdpGrowth": {
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": 1.91017689052751
+      },
+      {
+        "year": 2016,
+        "value": 3.46764218409288
+      },
+      {
+        "year": 2017,
+        "value": 0.70925628476644
+      },
+      {
+        "year": 2018,
+        "value": -2.6809305497999
+      },
+      {
+        "year": 2019,
+        "value": -2.17825104530091
+      },
+      {
+        "year": 2020,
+        "value": -3.62980082410752
+      },
+      {
+        "year": 2021,
+        "value": -1.8685204827207
+      },
+      {
+        "year": 2022,
+        "value": -0.957816591119183
+      },
+      {
+        "year": 2023,
+        "value": -29.4332716274387
+      },
+      {
+        "year": 2024,
+        "value": -13.9643378424022
+      },
+      {
+        "year": 2025,
+        "value": 3.06427942935869
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SDN",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "inflation": {
+    "indicator": "FP.CPI.TOTL.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": 16.9095706050977
+      },
+      {
+        "year": 2016,
+        "value": 17.7502538311959
+      },
+      {
+        "year": 2017,
+        "value": 32.3516260968436
+      },
+      {
+        "year": 2018,
+        "value": 63.2925073455887
+      },
+      {
+        "year": 2019,
+        "value": 50.9940515002964
+      },
+      {
+        "year": 2020,
+        "value": 163.257782355457
+      },
+      {
+        "year": 2021,
+        "value": 359.093040778998
+      },
+      {
+        "year": 2022,
+        "value": 138.80846024176
+      }
+    ],
+    "lastYear": 2022,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SDN",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "unemployment": {
+    "indicator": "SL.UEM.TOTL.ZS",
+    "series": [
+      {
+        "year": 2015,
+        "value": 14.39
+      },
+      {
+        "year": 2016,
+        "value": 13.656
+      },
+      {
+        "year": 2017,
+        "value": 13
+      },
+      {
+        "year": 2018,
+        "value": 12.347
+      },
+      {
+        "year": 2019,
+        "value": 11.697
+      },
+      {
+        "year": 2020,
+        "value": 11.995
+      },
+      {
+        "year": 2021,
+        "value": 11.087
+      },
+      {
+        "year": 2022,
+        "value": 7.53
+      }
+    ],
+    "lastYear": 2022,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SDN",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  }
+}

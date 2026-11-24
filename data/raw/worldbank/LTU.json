@@ -1,0 +1,218 @@
+{
+  "gdpUsd": {
+    "indicator": "NY.GDP.MKTP.CD",
+    "series": [
+      {
+        "year": 2015,
+        "value": 41540954817.2039
+      },
+      {
+        "year": 2016,
+        "value": 42970749245.0336
+      },
+      {
+        "year": 2017,
+        "value": 47756764508.446
+      },
+      {
+        "year": 2018,
+        "value": 54261795148.5372
+      },
+      {
+        "year": 2019,
+        "value": 55122066225.796
+      },
+      {
+        "year": 2020,
+        "value": 57412038533.2718
+      },
+      {
+        "year": 2021,
+        "value": 67072165721.2431
+      },
+      {
+        "year": 2022,
+        "value": 70639687325.6326
+      },
+      {
+        "year": 2023,
+        "value": 80356613554.5602
+      },
+      {
+        "year": 2024,
+        "value": 85503938573.5664
+      },
+      {
+        "year": 2025,
+        "value": 95210150818.3512
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LTU",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "gdpGrowth": {
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": 2.83280643343234
+      },
+      {
+        "year": 2016,
+        "value": 2.67192215053329
+      },
+      {
+        "year": 2017,
+        "value": 4.61224310312809
+      },
+      {
+        "year": 2018,
+        "value": 4.91836780106811
+      },
+      {
+        "year": 2019,
+        "value": 4.67735183530451
+      },
+      {
+        "year": 2020,
+        "value": 0.0428158336981426
+      },
+      {
+        "year": 2021,
+        "value": 6.39481772930206
+      },
+      {
+        "year": 2022,
+        "value": 2.46532013155011
+      },
+      {
+        "year": 2023,
+        "value": 0.739537398185803
+      },
+      {
+        "year": 2024,
+        "value": 3.03019543767596
+      },
+      {
+        "year": 2025,
+        "value": 2.92007656461696
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LTU",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "inflation": {
+    "indicator": "FP.CPI.TOTL.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": -0.884095480682298
+      },
+      {
+        "year": 2016,
+        "value": 0.905505760893051
+      },
+      {
+        "year": 2017,
+        "value": 3.72290534916912
+      },
+      {
+        "year": 2018,
+        "value": 2.69793626194618
+      },
+      {
+        "year": 2019,
+        "value": 2.33450641721588
+      },
+      {
+        "year": 2020,
+        "value": 1.19988413415409
+      },
+      {
+        "year": 2021,
+        "value": 4.68353816718102
+      },
+      {
+        "year": 2022,
+        "value": 19.7050363314043
+      },
+      {
+        "year": 2023,
+        "value": 9.11734190721293
+      },
+      {
+        "year": 2024,
+        "value": 0.715728099283774
+      },
+      {
+        "year": 2025,
+        "value": 3.79132375529774
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LTU",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  },
+  "unemployment": {
+    "indicator": "SL.UEM.TOTL.ZS",
+    "series": [
+      {
+        "year": 2015,
+        "value": 9.12
+      },
+      {
+        "year": 2016,
+        "value": 7.862
+      },
+      {
+        "year": 2017,
+        "value": 7.073
+      },
+      {
+        "year": 2018,
+        "value": 6.147
+      },
+      {
+        "year": 2019,
+        "value": 6.255
+      },
+      {
+        "year": 2020,
+        "value": 8.487
+      },
+      {
+        "year": 2021,
+        "value": 7.112
+      },
+      {
+        "year": 2022,
+        "value": 5.955
+      },
+      {
+        "year": 2023,
+        "value": 6.841
+      },
+      {
+        "year": 2024,
+        "value": 6.851
+      },
+      {
+        "year": 2025,
+        "value": 6.731
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LTU",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-24"
+  }
+}

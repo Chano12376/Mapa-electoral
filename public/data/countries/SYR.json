@@ -26,10 +26,174 @@
   },
   "nextElection": null,
   "indicators": {
-    "gdpUsd": null,
-    "gdpGrowth": null,
-    "inflation": null,
-    "unemployment": null
+    "gdpUsd": {
+      "indicator": "NY.GDP.MKTP.CD",
+      "series": [
+        {
+          "year": 2015,
+          "value": 16466861435.0236
+        },
+        {
+          "year": 2016,
+          "value": 12597854088.3602
+        },
+        {
+          "year": 2017,
+          "value": 16369842725.4718
+        },
+        {
+          "year": 2018,
+          "value": 21497779247.9835
+        },
+        {
+          "year": 2019,
+          "value": 22583046644.6891
+        },
+        {
+          "year": 2020,
+          "value": 12501503673.2425
+        },
+        {
+          "year": 2021,
+          "value": 14892885528.1402
+        },
+        {
+          "year": 2022,
+          "value": 23737634644.3994
+        }
+      ],
+      "lastYear": 2022,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SYR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "gdpGrowth": {
+      "indicator": "NY.GDP.MKTP.KD.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": -4.17969204561759
+        },
+        {
+          "year": 2016,
+          "value": -6.40568496867387
+        },
+        {
+          "year": 2017,
+          "value": -0.723346297115341
+        },
+        {
+          "year": 2018,
+          "value": 1.39323324059961
+        },
+        {
+          "year": 2019,
+          "value": 1.22072818348491
+        },
+        {
+          "year": 2020,
+          "value": 0.954914586675713
+        },
+        {
+          "year": 2021,
+          "value": 1.7896919997567
+        },
+        {
+          "year": 2022,
+          "value": -0.20247264200475
+        }
+      ],
+      "lastYear": 2022,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SYR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "inflation": {
+      "indicator": "FP.CPI.TOTL.ZG",
+      "series": [
+        {
+          "year": 2015,
+          "value": 38.4611429599732
+        },
+        {
+          "year": 2016,
+          "value": 47.7051615298923
+        },
+        {
+          "year": 2017,
+          "value": 18.0752696281771
+        },
+        {
+          "year": 2018,
+          "value": 0.940983843906768
+        },
+        {
+          "year": 2019,
+          "value": 13.417565322857
+        }
+      ],
+      "lastYear": 2019,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SYR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    },
+    "unemployment": {
+      "indicator": "SL.UEM.TOTL.ZS",
+      "series": [
+        {
+          "year": 2015,
+          "value": 14.244
+        },
+        {
+          "year": 2016,
+          "value": 13.798
+        },
+        {
+          "year": 2017,
+          "value": 13.603
+        },
+        {
+          "year": 2018,
+          "value": 13.505
+        },
+        {
+          "year": 2019,
+          "value": 13.369
+        },
+        {
+          "year": 2020,
+          "value": 15.179
+        },
+        {
+          "year": 2021,
+          "value": 14.887
+        },
+        {
+          "year": 2022,
+          "value": 13.245
+        },
+        {
+          "year": 2023,
+          "value": 13.27
+        },
+        {
+          "year": 2024,
+          "value": 13.359
+        },
+        {
+          "year": 2025,
+          "value": 13.569
+        }
+      ],
+      "lastYear": 2025,
+      "source": "Banco Mundial (World Development Indicators)",
+      "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SYR",
+      "sourceLastUpdated": "2026-11-11",
+      "retrievedAt": "2026-11-24"
+    }
   },
   "builtAt": "2026-11-24"
 }
