@@ -2,6 +2,63 @@ import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import { CountryData, Leader, Indicator, ElectionResult, PartyResult, DemocracyIndices, CountryPolls } from "../types.ts";
 
+const FLAG: Record<string, string> = {
+  USA:"🇺🇸",CAN:"🇨🇦",MEX:"🇲🇽",BRA:"🇧🇷",ARG:"🇦🇷",COL:"🇨🇴",CHL:"🇨🇱",PER:"🇵🇪",
+  VEN:"🇻🇪",ECU:"🇪🇨",BOL:"🇧🇴",URY:"🇺🇾",PRY:"🇵🇾",CRI:"🇨🇷",CUB:"🇨🇺",DOM:"🇩🇴",GTM:"🇬🇹",
+  ESP:"🇪🇸",PRT:"🇵🇹",FRA:"🇫🇷",DEU:"🇩🇪",ITA:"🇮🇹",GBR:"🇬🇧",NLD:"🇳🇱",POL:"🇵🇱",
+  SWE:"🇸🇪",UKR:"🇺🇦",TUR:"🇹🇷",RUS:"🇷🇺",BEL:"🇧🇪",AUT:"🇦🇹",CHE:"🇨🇭",NOR:"🇳🇴",
+  DNK:"🇩🇰",GRC:"🇬🇷",HUN:"🇭🇺",ROU:"🇷🇴",FIN:"🇫🇮",CZE:"🇨🇿",SVK:"🇸🇰",BGR:"🇧🇬",
+  HRV:"🇭🇷",SRB:"🇷🇸",MDA:"🇲🇩",BLR:"🇧🇾",
+  CHN:"🇨🇳",IND:"🇮🇳",JPN:"🇯🇵",KOR:"🇰🇷",IDN:"🇮🇩",AUS:"🇦🇺",PAK:"🇵🇰",THA:"🇹🇭",PHL:"🇵🇭",IRN:"🇮🇷",
+  VNM:"🇻🇳",MYS:"🇲🇾",BGD:"🇧🇩",NZL:"🇳🇿",SGP:"🇸🇬",KAZ:"🇰🇿",MMR:"🇲🇲",
+  ISR:"🇮🇱",SAU:"🇸🇦",EGY:"🇪🇬",NGA:"🇳🇬",ZAF:"🇿🇦",MAR:"🇲🇦",ETH:"🇪🇹",KEN:"🇰🇪",
+  IRQ:"🇮🇶",JOR:"🇯🇴",ARE:"🇦🇪",TUN:"🇹🇳",LBN:"🇱🇧",DZA:"🇩🇿",TZA:"🇹🇿",GHA:"🇬🇭",SEN:"🇸🇳",ZWE:"🇿🇼",
+};
+
+// Colores conocidos de partidos por nombre/sigla
+const PARTY_COLORS: Record<string, string> = {
+  // España
+  "PSOE": "#E4000F", "PP": "#1B4BA0", "VOX": "#63BE21", "Sumar": "#C94082",
+  // Alemania
+  "SPD": "#E3000F", "CDU": "#000000", "CSU": "#0570C9", "CDU/CSU": "#0570C9",
+  "AfD": "#009EE0", "Grüne": "#64A12D", "FDP": "#FFED00", "BSW": "#7B2D8B",
+  // Francia
+  "RN": "#071461", "Renaissance": "#FFEB00", "LFI": "#CC2443",
+  // UK
+  "Labour": "#E4003B", "Conservative": "#0087DC", "Reform UK": "#12B6CF", "Lib Dems": "#FAA61A",
+  "Liberal Democrats": "#FAA61A",
+  // Polonia
+  "PiS": "#003E8C", "KO": "#F05A23", "TD": "#9E5FA5",
+  // Partidos comunistas/únicos
+  "PCVn": "#DA251D", "PCCh": "#DE2910", "ZANU-PF": "#006400",
+  // Otros
+  "AKP": "#FFA500", "Fidesz": "#FF6600", "PSD": "#E42B1E", "PNL": "#FFDD00",
+};
+
+function partyColor(partyName: string | null | undefined): string {
+  if (!partyName) return "#6366f1";
+  for (const [key, color] of Object.entries(PARTY_COLORS)) {
+    if (partyName.includes(key)) return color;
+  }
+  return "#6366f1";
+}
+
+function useLeaderPhoto(name: string | null) {
+  const [photo, setPhoto] = useState<string | null>(null);
+  useEffect(() => {
+    if (!name) return;
+    const encoded = encodeURIComponent(name.trim());
+    fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encoded}`)
+      .then(r => r.ok ? r.json() : null)
+      .then(d => {
+        const url = d?.thumbnail?.source ?? null;
+        setPhoto(url);
+      })
+      .catch(() => {});
+  }, [name]);
+  return photo;
+}
+
 type Tab = "politica" | "resultados" | "sondeos" | "economia";
 
 const TABS: { key: Tab; label: string }[] = [
@@ -31,22 +88,42 @@ function ElectionBadge({ status, days }: { status: string; days: number }) {
 }
 
 function LeaderCard({ title, leader }: { title: string; leader: Leader | null }) {
+  const photo = useLeaderPhoto(leader?.name ?? null);
   if (!leader) return (
     <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
       <p className="text-xs text-gray-500 uppercase tracking-widest mb-2">{title}</p>
       <p className="text-gray-500 italic text-sm">Sin datos</p>
     </div>
   );
+  const color = partyColor(leader.party?.name);
   return (
     <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5 hover:border-gray-500 transition-colors">
-      <p className="text-xs text-gray-500 uppercase tracking-widest mb-2">{title}</p>
-      <p className="font-bold text-xl text-white leading-tight">{leader.name}</p>
+      <p className="text-xs text-gray-500 uppercase tracking-widest mb-3">{title}</p>
+      <div className="flex items-center gap-3 mb-3">
+        {photo ? (
+          <img
+            src={photo}
+            alt={leader.name}
+            className="w-14 h-14 rounded-full object-cover object-top border-2 border-gray-600 shrink-0"
+          />
+        ) : (
+          <div className="w-14 h-14 rounded-full bg-gray-700 flex items-center justify-center shrink-0 text-2xl select-none">
+            👤
+          </div>
+        )}
+        <div className="min-w-0">
+          <p className="font-bold text-lg text-white leading-tight">{leader.name}</p>
+          {leader.since && <p className="text-gray-400 text-xs mt-0.5">Desde <strong className="text-gray-300">{leader.since}</strong></p>}
+        </div>
+      </div>
       {leader.party && (
-        <span className="inline-block mt-2 bg-indigo-900/50 border border-indigo-700 text-indigo-300 text-xs px-2.5 py-1 rounded-full">
+        <span
+          className="inline-block mt-1 text-white text-xs px-2.5 py-1 rounded-full font-medium"
+          style={{ backgroundColor: color + "cc", border: `1px solid ${color}` }}
+        >
           {leader.party.name}
         </span>
       )}
-      {leader.since && <p className="text-gray-400 text-xs mt-2">En el cargo desde <strong className="text-gray-300">{leader.since}</strong></p>}
       <a
         href={leader.sourceUrl}
         target="_blank"
@@ -199,12 +276,17 @@ export default function FichaPais() {
 
       {/* Header */}
       <div className="mb-6">
-        <div className="flex items-start justify-between gap-4">
-          <div>
-            <h1 className="text-4xl font-black text-white tracking-tight">{data.name}</h1>
+        <div className="flex items-center gap-5">
+          <div className="shrink-0"><FlagImg iso3={data.iso3} size={80} /></div>
+          <div className="min-w-0">
+            <h1 className="text-4xl font-black text-white tracking-tight leading-tight">{data.name}</h1>
             <p className="text-indigo-400 text-sm mt-1 font-medium">{data.region}</p>
+            {data.regime && (
+              <span className="inline-block mt-2 text-xs bg-gray-800 border border-gray-700 text-gray-400 px-2.5 py-1 rounded-full">
+                {data.regime}
+              </span>
+            )}
           </div>
-          <span className="text-5xl select-none">{countryFlag(data.iso3)}</span>
         </div>
       </div>
 
@@ -586,6 +668,35 @@ function PollsTab({ polls }: { polls: CountryPolls }) {
         </div>
       ))}
     </div>
+  );
+}
+
+// ISO3 → ISO2 para flagcdn.com
+const ISO3_TO_ISO2: Record<string, string> = {
+  USA:"us",CAN:"ca",MEX:"mx",BRA:"br",ARG:"ar",COL:"co",CHL:"cl",PER:"pe",
+  VEN:"ve",ECU:"ec",BOL:"bo",URY:"uy",PRY:"py",CRI:"cr",CUB:"cu",DOM:"do",GTM:"gt",
+  ESP:"es",PRT:"pt",FRA:"fr",DEU:"de",ITA:"it",GBR:"gb",NLD:"nl",POL:"pl",
+  SWE:"se",UKR:"ua",TUR:"tr",RUS:"ru",BEL:"be",AUT:"at",CHE:"ch",NOR:"no",
+  DNK:"dk",GRC:"gr",HUN:"hu",ROU:"ro",FIN:"fi",CZE:"cz",SVK:"sk",BGR:"bg",
+  HRV:"hr",SRB:"rs",MDA:"md",BLR:"by",
+  CHN:"cn",IND:"in",JPN:"jp",KOR:"kr",IDN:"id",AUS:"au",PAK:"pk",THA:"th",PHL:"ph",IRN:"ir",
+  VNM:"vn",MYS:"my",BGD:"bd",NZL:"nz",SGP:"sg",KAZ:"kz",MMR:"mm",
+  ISR:"il",SAU:"sa",EGY:"eg",NGA:"ng",ZAF:"za",MAR:"ma",ETH:"et",KEN:"ke",
+  IRQ:"iq",JOR:"jo",ARE:"ae",TUN:"tn",LBN:"lb",DZA:"dz",TZA:"tz",GHA:"gh",SEN:"sn",ZWE:"zw",
+};
+
+function FlagImg({ iso3, size = 64 }: { iso3: string; size?: number }) {
+  const iso2 = ISO3_TO_ISO2[iso3];
+  if (!iso2) return <span className="text-5xl">🌍</span>;
+  return (
+    <img
+      src={`https://flagcdn.com/w${size}/${iso2}.png`}
+      alt={iso3}
+      width={size}
+      height={size * 0.67}
+      className="rounded shadow-sm object-cover"
+      style={{ maxHeight: size * 0.67 }}
+    />
   );
 }
 
