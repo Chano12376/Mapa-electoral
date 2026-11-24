@@ -1,8 +1,10 @@
 name: Actualizacion diaria de datos
 
 on:
+  push:
+    branches: [master]
   schedule:
-    # Cada día a las 06:00 UTC (08:00 hora española en invierno)
+    # Cada dia a las 06:00 UTC (08:00 hora espanola en invierno)
     - cron: "0 6 * * *"
   workflow_dispatch: # Permite lanzarlo manualmente desde GitHub
 
