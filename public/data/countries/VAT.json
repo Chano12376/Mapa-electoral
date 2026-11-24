@@ -1,0 +1,44 @@
+{
+  "iso3": "VAT",
+  "name": "Vaticano",
+  "region": "Europa",
+  "headOfState": {
+    "name": "León XIV (Robert Francis Prevost)",
+    "since": "2025-05-08",
+    "party": null,
+    "source": "Santa Sede",
+    "sourceUrl": "https://www.vatican.va/content/leo-xiv/es.html",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "León XIV (Robert Francis Prevost)",
+    "since": "2025-05-08",
+    "party": null,
+    "source": "Santa Sede",
+    "sourceUrl": "https://www.vatican.va/content/leo-xiv/es.html",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "VAT",
+    "date": null,
+    "dateStatus": "sin_eleccion_nacional_directa",
+    "type": null,
+    "whatIsElected": "Estado teocrático; el Papa es elegido por el Cónclave de Cardenales, no por sufragio universal. Papa actual: León XIV (Robert Prevost, desde may. 2025).",
+    "source": "Santa Sede",
+    "sourceUrl": "https://www.vatican.va",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

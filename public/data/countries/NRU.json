@@ -1,0 +1,44 @@
+{
+  "iso3": "NRU",
+  "name": "Nauru",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "David Adeang",
+    "since": "2023-10-30",
+    "party": null,
+    "source": "Gobierno de Nauru",
+    "sourceUrl": "https://www.naurugov.nr",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "David Adeang",
+    "since": "2023-10-30",
+    "party": null,
+    "source": "Gobierno de Nauru",
+    "sourceUrl": "https://www.naurugov.nr",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "NRU",
+    "date": "2027-08-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas (Parlamento)",
+    "whatIsElected": "Parlamento de Nauru (19 escaños)",
+    "source": "Electoral Commission of Nauru",
+    "sourceUrl": "https://www.naurugov.nr",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

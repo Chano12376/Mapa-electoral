@@ -1,0 +1,44 @@
+{
+  "iso3": "FSM",
+  "name": "Micronesia",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Wesley Simina",
+    "since": "2023-05-11",
+    "party": null,
+    "source": "Gobierno de los Estados Federados de Micronesia",
+    "sourceUrl": "https://www.fsmgov.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Wesley Simina",
+    "since": "2023-05-11",
+    "party": null,
+    "source": "Gobierno de los Estados Federados de Micronesia",
+    "sourceUrl": "https://www.fsmgov.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "FSM",
+    "date": "2027-03-02",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Congreso)",
+    "whatIsElected": "Congreso Nacional (14 escaños)",
+    "source": "Electoral Commission of the Federated States of Micronesia",
+    "sourceUrl": "https://www.fsmgov.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

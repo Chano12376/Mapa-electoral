@@ -46,6 +46,17 @@
       "checkedAt": "2026-11-24"
     },
     {
+      "iso3": "TUV",
+      "name": "Tuvalu",
+      "date": "2027-01-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Parlamento de Tuvalu (16 escaños)",
+      "source": "Electoral Commission Tuvalu",
+      "sourceUrl": "https://www.gov.tv",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "KGZ",
       "name": "Kirguistán",
       "date": "2027-01-24",
@@ -109,6 +120,17 @@
       "whatIsElected": "Parlamento (65 escaños)",
       "source": "Electoral Commission Malta",
       "sourceUrl": "https://electoral.gov.mt",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "FSM",
+      "name": "Micronesia",
+      "date": "2027-03-02",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Congreso)",
+      "whatIsElected": "Congreso Nacional (14 escaños)",
+      "source": "Electoral Commission of the Federated States of Micronesia",
+      "sourceUrl": "https://www.fsmgov.org",
       "checkedAt": "2026-11-24"
     },
     {
@@ -222,6 +244,17 @@
       "checkedAt": "2026-11-24"
     },
     {
+      "iso3": "BDI",
+      "name": "Burundi",
+      "date": "2027-05-20",
+      "dateStatus": "prevista",
+      "type": "Presidenciales y legislativas",
+      "whatIsElected": "Presidente, Asamblea Nacional (100 escaños)",
+      "source": "Commission Électorale Nationale Indépendante — Burundi",
+      "sourceUrl": "https://www.ceni.bi",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "SRB",
       "name": "Serbia",
       "date": "2027-06-01",
@@ -277,6 +310,17 @@
       "checkedAt": "2026-11-24"
     },
     {
+      "iso3": "GRD",
+      "name": "Granada",
+      "date": "2027-06-13",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Cámara de Representantes (15 escaños)",
+      "source": "Electoral Commission Grenada",
+      "sourceUrl": "https://www.gov.gd",
+      "checkedAt": "2026-11-24"
+    },
+    {
       "iso3": "GTM",
       "name": "Guatemala",
       "date": "2027-06-25",
@@ -286,6 +330,28 @@
       "source": "Tribunal Supremo Electoral Guatemala",
       "sourceUrl": "https://tse.org.gt",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "NRU",
+      "name": "Nauru",
+      "date": "2027-08-01",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas (Parlamento)",
+      "whatIsElected": "Parlamento de Nauru (19 escaños)",
+      "source": "Electoral Commission of Nauru",
+      "sourceUrl": "https://www.naurugov.nr",
+      "checkedAt": "2026-11-24"
+    },
+    {
+      "iso3": "KNA",
+      "name": "San Cristóbal y Nieves",
+      "date": "2027-08-05",
+      "dateStatus": "limite_legal",
+      "type": "Legislativas generales",
+      "whatIsElected": "Asamblea Nacional (11 escaños elegidos)",
+      "source": "Electoral Commission St. Kitts and Nevis",
+      "sourceUrl": "https://www.elections.kn",
+      "checkedAt": "2026-11-24"
     },
     {
       "iso3": "KEN",
@@ -418,6 +484,17 @@
       "source": "Election Commission of Malaysia",
       "sourceUrl": "https://www.spr.gov.my",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "iso3": "MHL",
+      "name": "Islas Marshall",
+      "date": "2027-11-18",
+      "dateStatus": "prevista",
+      "type": "Legislativas (Nitijela)",
+      "whatIsElected": "Nitijela — Parlamento (33 escaños)",
+      "source": "Marshall Islands Electoral Commission",
+      "sourceUrl": "https://www.rmigovernment.org",
+      "checkedAt": "2026-11-24"
     },
     {
       "iso3": "NPL",

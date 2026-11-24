@@ -1,0 +1,44 @@
+{
+  "iso3": "BDI",
+  "name": "Burundi",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Évariste Ndayishimiye",
+    "since": "2020-06-18",
+    "party": null,
+    "source": "Presidencia de Burundi",
+    "sourceUrl": "https://www.presidence.gov.bi",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Gervais Ndirakobuca",
+    "since": "2022-09-07",
+    "party": null,
+    "source": "Gobierno de Burundi",
+    "sourceUrl": "https://www.gov.bi",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "BDI",
+    "date": "2027-05-20",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional (100 escaños)",
+    "source": "Commission Électorale Nationale Indépendante — Burundi",
+    "sourceUrl": "https://www.ceni.bi",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

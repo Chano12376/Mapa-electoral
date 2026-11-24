@@ -1,0 +1,44 @@
+{
+  "iso3": "TWN",
+  "name": "Taiwán",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Lai Ching-te",
+    "since": "2024-05-20",
+    "party": null,
+    "source": "Oficina del Presidente de Taiwán",
+    "sourceUrl": "https://www.president.gov.tw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Cho Jung-tai",
+    "since": "2024-05-20",
+    "party": null,
+    "source": "Yuan Ejecutivo de Taiwán",
+    "sourceUrl": "https://www.ey.gov.tw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TWN",
+    "date": "2028-01-15",
+    "dateStatus": "prevista",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente y Yuan Legislativo (113 escaños)",
+    "source": "Central Election Commission Taiwan",
+    "sourceUrl": "https://www.cec.gov.tw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

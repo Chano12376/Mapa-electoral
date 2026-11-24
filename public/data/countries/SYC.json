@@ -1,0 +1,44 @@
+{
+  "iso3": "SYC",
+  "name": "Seychelles",
+  "region": "Oriente Medio y África",
+  "headOfState": {
+    "name": "Wavel Ramkalawan",
+    "since": "2020-10-26",
+    "party": null,
+    "source": "Presidencia de Seychelles",
+    "sourceUrl": "https://www.statehouse.gov.sc",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Wavel Ramkalawan",
+    "since": "2020-10-26",
+    "party": null,
+    "source": "Presidencia de Seychelles",
+    "sourceUrl": "https://www.statehouse.gov.sc",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "SYC",
+    "date": "2030-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales y legislativas",
+    "whatIsElected": "Presidente, Asamblea Nacional (35 escaños)",
+    "source": "Electoral Commission of Seychelles",
+    "sourceUrl": "https://www.ecs.sc",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

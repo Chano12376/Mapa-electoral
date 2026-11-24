@@ -1,0 +1,44 @@
+{
+  "iso3": "KIR",
+  "name": "Kiribati",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Taneti Maamau",
+    "since": "2016-03-11",
+    "party": null,
+    "source": "Gobierno de Kiribati",
+    "sourceUrl": "https://www.kiribati.gov.ki",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Taneti Maamau",
+    "since": "2016-03-11",
+    "party": null,
+    "source": "Gobierno de Kiribati",
+    "sourceUrl": "https://www.kiribati.gov.ki",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "KIR",
+    "date": "2028-10-01",
+    "dateStatus": "limite_legal",
+    "type": "Presidenciales",
+    "whatIsElected": "Presidente de la República de Kiribati",
+    "source": "Electoral Commission Kiribati",
+    "sourceUrl": "https://www.kiribati.gov.ki",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

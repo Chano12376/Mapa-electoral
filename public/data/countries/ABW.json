@@ -1,0 +1,44 @@
+{
+  "iso3": "ABW",
+  "name": "Aruba",
+  "region": "América",
+  "headOfState": {
+    "name": "Guillermo Alejandro",
+    "since": "2013-04-30",
+    "party": null,
+    "source": "Gobierno de Aruba",
+    "sourceUrl": "https://www.gobierno.aw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Evelyn Wever-Croes",
+    "since": "2017-11-17",
+    "party": null,
+    "source": "Gobierno de Aruba",
+    "sourceUrl": "https://www.gobierno.aw/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ABW",
+    "date": "2029-09-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas (Parlamento)",
+    "whatIsElected": "Staten van Aruba (21 escaños)",
+    "source": "Kiesraad Aruba",
+    "sourceUrl": "https://www.kiesraad.aw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

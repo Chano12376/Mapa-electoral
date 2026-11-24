@@ -1,0 +1,44 @@
+{
+  "iso3": "DMA",
+  "name": "Dominica",
+  "region": "América",
+  "headOfState": {
+    "name": "Sylvanie Burton",
+    "since": "2023-10-02",
+    "party": null,
+    "source": "Presidencia de Dominica",
+    "sourceUrl": "https://www.gov.dm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Roosevelt Skerrit",
+    "since": "2004-01-08",
+    "party": null,
+    "source": "Gobierno de Dominica",
+    "sourceUrl": "https://www.gov.dm/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "DMA",
+    "date": "2027-12-06",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de la Asamblea (21 escaños)",
+    "source": "Electoral Commission of Dominica",
+    "sourceUrl": "https://www.gov.dm",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

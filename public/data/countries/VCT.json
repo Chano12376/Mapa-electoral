@@ -1,0 +1,44 @@
+{
+  "iso3": "VCT",
+  "name": "San Vicente y las Granadinas",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de San Vicente y las Granadinas",
+    "sourceUrl": "https://www.gov.vc",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Ralph Gonsalves",
+    "since": "2001-03-29",
+    "party": null,
+    "source": "Gobierno de San Vicente y las Granadinas",
+    "sourceUrl": "https://www.gov.vc/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "VCT",
+    "date": "2030-11-05",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de la Asamblea (15 escaños)",
+    "source": "Electoral Office Saint Vincent and the Grenadines",
+    "sourceUrl": "https://www.gov.vc/index.php/election-office",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

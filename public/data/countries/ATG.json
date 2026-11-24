@@ -1,0 +1,44 @@
+{
+  "iso3": "ATG",
+  "name": "Antigua y Barbuda",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Antigua y Barbuda",
+    "sourceUrl": "https://www.antigua.gov.ag",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Gaston Browne",
+    "since": "2014-06-13",
+    "party": null,
+    "source": "Gobierno de Antigua y Barbuda",
+    "sourceUrl": "https://www.antigua.gov.ag/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "ATG",
+    "date": "2028-03-18",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de Representantes (17 escaños)",
+    "source": "Electoral Commission of Antigua and Barbuda",
+    "sourceUrl": "https://www.antigua.gov.ag",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

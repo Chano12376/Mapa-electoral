@@ -1,0 +1,44 @@
+{
+  "iso3": "TUV",
+  "name": "Tuvalu",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Tuvalu",
+    "sourceUrl": "https://www.gov.tv",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Feleti Teo",
+    "since": "2024-02-26",
+    "party": null,
+    "source": "Gobierno de Tuvalu",
+    "sourceUrl": "https://www.gov.tv/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "TUV",
+    "date": "2027-01-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Parlamento de Tuvalu (16 escaños)",
+    "source": "Electoral Commission Tuvalu",
+    "sourceUrl": "https://www.gov.tv",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

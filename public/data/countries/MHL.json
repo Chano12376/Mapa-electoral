@@ -1,0 +1,44 @@
+{
+  "iso3": "MHL",
+  "name": "Islas Marshall",
+  "region": "Asia-Pacífico",
+  "headOfState": {
+    "name": "Hilda Heine",
+    "since": "2024-01-02",
+    "party": null,
+    "source": "Gobierno de las Islas Marshall",
+    "sourceUrl": "https://www.rmigovernment.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Hilda Heine",
+    "since": "2024-01-02",
+    "party": null,
+    "source": "Gobierno de las Islas Marshall",
+    "sourceUrl": "https://www.rmigovernment.org",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "MHL",
+    "date": "2027-11-18",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Nitijela)",
+    "whatIsElected": "Nitijela — Parlamento (33 escaños)",
+    "source": "Marshall Islands Electoral Commission",
+    "sourceUrl": "https://www.rmigovernment.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

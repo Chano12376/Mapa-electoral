@@ -1,0 +1,44 @@
+{
+  "iso3": "XKX",
+  "name": "Kosovo",
+  "region": "Europa",
+  "headOfState": {
+    "name": "Vjosa Osmani",
+    "since": "2021-04-04",
+    "party": null,
+    "source": "Presidencia de Kosovo",
+    "sourceUrl": "https://president-ksgov.net",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Albin Kurti",
+    "since": "2021-03-22",
+    "party": null,
+    "source": "Gobierno de Kosovo",
+    "sourceUrl": "https://kryeministri.rks-gov.net",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "XKX",
+    "date": "2029-02-09",
+    "dateStatus": "prevista",
+    "type": "Legislativas (Kuvendi)",
+    "whatIsElected": "Kuvendi — Asamblea de Kosovo (120 escaños)",
+    "source": "Komisioni Qendror i Zgjedhjeve — Kosovo",
+    "sourceUrl": "https://www.kqz-ks.org",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

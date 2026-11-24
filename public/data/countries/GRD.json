@@ -1,0 +1,44 @@
+{
+  "iso3": "GRD",
+  "name": "Granada",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Granada",
+    "sourceUrl": "https://www.gov.gd",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Dickon Mitchell",
+    "since": "2022-06-24",
+    "party": null,
+    "source": "Gobierno de Granada",
+    "sourceUrl": "https://www.gov.gd/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "GRD",
+    "date": "2027-06-13",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de Representantes (15 escaños)",
+    "source": "Electoral Commission Grenada",
+    "sourceUrl": "https://www.gov.gd",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

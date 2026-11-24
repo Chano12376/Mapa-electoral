@@ -1,0 +1,44 @@
+{
+  "iso3": "CUW",
+  "name": "Curaçao",
+  "region": "América",
+  "headOfState": {
+    "name": "Guillermo Alejandro",
+    "since": "2013-04-30",
+    "party": null,
+    "source": "Gobierno de Curaçao",
+    "sourceUrl": "https://www.gobiernu.cw",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Gilmar Pisa",
+    "since": "2021-06-11",
+    "party": null,
+    "source": "Gobierno de Curaçao",
+    "sourceUrl": "https://www.gobiernu.cw/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "CUW",
+    "date": "2029-03-01",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas (Parlamento)",
+    "whatIsElected": "Staten van Curaçao (21 escaños)",
+    "source": "Kiesbureau Curaçao",
+    "sourceUrl": "https://www.kiesbureau.cw",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

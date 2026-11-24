@@ -56,6 +56,10 @@ const NUMERIC_TO_ISO3: Record<string, string> = {
   "462": "MDV", "882": "WSM", "776": "TON", "090": "SLB", "548": "VUT",
   "624": "GNB", "226": "GNQ", "140": "CAF", "174": "COM",
   "426": "LSO", "748": "SWZ", "678": "STP", "270": "GMB", "480": "MUS",
+  "158": "TWN", "108": "BDI", "690": "SYC", "336": "VAT",
+  "028": "ATG", "662": "LCA", "670": "VCT", "308": "GRD", "212": "DMA", "659": "KNA",
+  "583": "FSM", "585": "PLW", "584": "MHL", "296": "KIR", "520": "NRU", "798": "TUV",
+  "184": "COK", "531": "CUW", "533": "ABW",
 };
 
 const ISO3_CONTINENT: Record<string, string> = {
@@ -93,6 +97,10 @@ const ISO3_CONTINENT: Record<string, string> = {
   MDV:"asia",WSM:"asia",TON:"asia",SLB:"asia",VUT:"asia",
   GNB:"africa",GNQ:"africa",CAF:"africa",COM:"africa",
   LSO:"africa",SWZ:"africa",STP:"africa",GMB:"africa",MUS:"africa",
+  TWN:"asia",BDI:"africa",SYC:"africa",VAT:"europa",
+  ATG:"america",LCA:"america",VCT:"america",GRD:"america",DMA:"america",KNA:"america",
+  FSM:"asia",PLW:"asia",MHL:"asia",KIR:"asia",NRU:"asia",TUV:"asia",
+  XKX:"europa",COK:"asia",CUW:"america",ABW:"america",
 };
 
 const FLAG: Record<string, string> = {
@@ -130,6 +138,10 @@ const FLAG: Record<string, string> = {
   MDV:"🇲🇻",WSM:"🇼🇸",TON:"🇹🇴",SLB:"🇸🇧",VUT:"🇻🇺",
   GNB:"🇬🇼",GNQ:"🇬🇶",CAF:"🇨🇫",COM:"🇰🇲",
   LSO:"🇱🇸",SWZ:"🇸🇿",STP:"🇸🇹",GMB:"🇬🇲",MUS:"🇲🇺",
+  TWN:"🇹🇼",BDI:"🇧🇮",SYC:"🇸🇨",VAT:"🇻🇦",
+  ATG:"🇦🇬",LCA:"🇱🇨",VCT:"🇻🇨",GRD:"🇬🇩",DMA:"🇩🇲",KNA:"🇰🇳",
+  FSM:"🇫🇲",PLW:"🇵🇼",MHL:"🇲🇭",KIR:"🇰🇮",NRU:"🇳🇷",TUV:"🇹🇻",
+  XKX:"🇽🇰",COK:"🇨🇰",CUW:"🇨🇼",ABW:"🇦🇼",
 };
 
 const CONTINENT_VIEW: Record<string, { center: [number, number]; zoom: number }> = {

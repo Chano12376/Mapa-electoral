@@ -3958,5 +3958,445 @@
       "retrievedAt": "2026-11-24",
       "motivo": "Primer Ministro (reelegido 2021)"
     }
+  },
+  "TWN": {
+    "headOfState": {
+      "name": "Lai Ching-te",
+      "since": "2024-05-20",
+      "partyQid": null,
+      "partyName": "DPP (Partido Democrático Progresista)",
+      "source": "Oficina del Presidente de Taiwán",
+      "sourceUrl": "https://www.president.gov.tw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde may. 2024; estado de facto independiente no reconocido como miembro de la ONU"
+    },
+    "headOfGovernment": {
+      "name": "Cho Jung-tai",
+      "since": "2024-05-20",
+      "partyQid": null,
+      "partyName": "DPP (Partido Democrático Progresista)",
+      "source": "Yuan Ejecutivo de Taiwán",
+      "sourceUrl": "https://www.ey.gov.tw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (Premier del Yuan Ejecutivo) desde may. 2024"
+    }
+  },
+  "BDI": {
+    "headOfState": {
+      "name": "Évariste Ndayishimiye",
+      "since": "2020-06-18",
+      "partyQid": null,
+      "partyName": "CNDD-FDD",
+      "source": "Presidencia de Burundi",
+      "sourceUrl": "https://www.presidence.gov.bi",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde jun. 2020 (elecciones de may. 2020)"
+    },
+    "headOfGovernment": {
+      "name": "Gervais Ndirakobuca",
+      "since": "2022-09-07",
+      "partyQid": null,
+      "partyName": "CNDD-FDD",
+      "source": "Gobierno de Burundi",
+      "sourceUrl": "https://www.gov.bi",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde sep. 2022"
+    }
+  },
+  "SYC": {
+    "headOfState": {
+      "name": "Wavel Ramkalawan",
+      "since": "2020-10-26",
+      "partyQid": null,
+      "partyName": "LDS (Alianza Democrática de Seychelles)",
+      "source": "Presidencia de Seychelles",
+      "sourceUrl": "https://www.statehouse.gov.sc",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde oct. 2020; puso fin a 43 años de hegemonía del PP/SPPF"
+    },
+    "headOfGovernment": {
+      "name": "Wavel Ramkalawan",
+      "since": "2020-10-26",
+      "partyQid": null,
+      "partyName": "LDS",
+      "source": "Presidencia de Seychelles",
+      "sourceUrl": "https://www.statehouse.gov.sc",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El presidente ejerce también la jefatura de Gobierno"
+    }
+  },
+  "VAT": {
+    "headOfState": {
+      "name": "León XIV (Robert Francis Prevost)",
+      "since": "2025-05-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Santa Sede",
+      "sourceUrl": "https://www.vatican.va/content/leo-xiv/es.html",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Papa elegido en cónclave el 8 may. 2025; primer papa nacido en EE.UU. (Chicago)"
+    },
+    "headOfGovernment": {
+      "name": "León XIV (Robert Francis Prevost)",
+      "since": "2025-05-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Santa Sede",
+      "sourceUrl": "https://www.vatican.va/content/leo-xiv/es.html",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Papa es jefe de Estado y de Gobierno de la Ciudad del Vaticano"
+    }
+  },
+  "ATG": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Antigua y Barbuda",
+      "sourceUrl": "https://www.antigua.gov.ag",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca constitucional (representado por el Gobernador General Sir Rodney Williams)"
+    },
+    "headOfGovernment": {
+      "name": "Gaston Browne",
+      "since": "2014-06-13",
+      "partyQid": null,
+      "partyName": "ABLP (Partido Laborista de Antigua y Barbuda)",
+      "source": "Gobierno de Antigua y Barbuda",
+      "sourceUrl": "https://www.antigua.gov.ag/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde 2014 (reelegido en ene. 2023 con 9/17 escaños)"
+    }
+  },
+  "LCA": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Santa Lucía",
+      "sourceUrl": "https://www.stlucia.gov.lc",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca constitucional (representado por el Gobernador General Errol Charles)"
+    },
+    "headOfGovernment": {
+      "name": "Philip Pierre",
+      "since": "2021-07-26",
+      "partyQid": null,
+      "partyName": "SLP (Partido Laborista de Santa Lucía)",
+      "source": "Gobierno de Santa Lucía",
+      "sourceUrl": "https://www.stlucia.gov.lc/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jul. 2021 (SLP ganó con 13/17 escaños)"
+    }
+  },
+  "VCT": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de San Vicente y las Granadinas",
+      "sourceUrl": "https://www.gov.vc",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca constitucional (representado por la Gobernadora General Susan Dougan)"
+    },
+    "headOfGovernment": {
+      "name": "Ralph Gonsalves",
+      "since": "2001-03-29",
+      "partyQid": null,
+      "partyName": "ULP (Partido Laborista Unido)",
+      "source": "Gobierno de San Vicente y las Granadinas",
+      "sourceUrl": "https://www.gov.vc/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde 2001 (uno de los más longevos del Caribe; reelegido nov. 2025)"
+    }
+  },
+  "GRD": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Granada",
+      "sourceUrl": "https://www.gov.gd",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca constitucional (representado por la Gobernadora General Cécile La Grenade)"
+    },
+    "headOfGovernment": {
+      "name": "Dickon Mitchell",
+      "since": "2022-06-24",
+      "partyQid": null,
+      "partyName": "NDC (Congreso Democrático Nacional)",
+      "source": "Gobierno de Granada",
+      "sourceUrl": "https://www.gov.gd/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde jun. 2022 (NDC ganó con 9/15 escaños)"
+    }
+  },
+  "DMA": {
+    "headOfState": {
+      "name": "Sylvanie Burton",
+      "since": "2023-10-02",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Dominica",
+      "sourceUrl": "https://www.gov.dm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta de la República desde oct. 2023 (primera mujer en el cargo)"
+    },
+    "headOfGovernment": {
+      "name": "Roosevelt Skerrit",
+      "since": "2004-01-08",
+      "partyQid": null,
+      "partyName": "DLP (Partido Laborista de Dominica)",
+      "source": "Gobierno de Dominica",
+      "sourceUrl": "https://www.gov.dm/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde 2004 (uno de los más longevos del Caribe; reelegido dic. 2022)"
+    }
+  },
+  "KNA": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de San Cristóbal y Nieves",
+      "sourceUrl": "https://www.gov.kn",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca constitucional (representado por la Gobernadora General Marcella Liburd)"
+    },
+    "headOfGovernment": {
+      "name": "Terrance Drew",
+      "since": "2022-08-06",
+      "partyQid": null,
+      "partyName": "SKNLP (Partido Laborista de San Cristóbal y Nieves)",
+      "source": "Gobierno de San Cristóbal y Nieves",
+      "sourceUrl": "https://www.gov.kn/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde ago. 2022 (SKNLP ganó con 6/11 escaños)"
+    }
+  },
+  "FSM": {
+    "headOfState": {
+      "name": "Wesley Simina",
+      "since": "2023-05-11",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de los Estados Federados de Micronesia",
+      "sourceUrl": "https://www.fsmgov.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde may. 2023; los partidos políticos son informales en la FSM"
+    },
+    "headOfGovernment": {
+      "name": "Wesley Simina",
+      "since": "2023-05-11",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de los Estados Federados de Micronesia",
+      "sourceUrl": "https://www.fsmgov.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Presidente ejerce ambas jefaturas"
+    }
+  },
+  "PLW": {
+    "headOfState": {
+      "name": "Surangel Whipps Jr.",
+      "since": "2021-01-21",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Palaos",
+      "sourceUrl": "https://www.palaugov.pw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido nov. 2024); sistema sin partidos políticos formales"
+    },
+    "headOfGovernment": {
+      "name": "Surangel Whipps Jr.",
+      "since": "2021-01-21",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Presidencia de Palaos",
+      "sourceUrl": "https://www.palaugov.pw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Presidente ejerce ambas jefaturas"
+    }
+  },
+  "MHL": {
+    "headOfState": {
+      "name": "Hilda Heine",
+      "since": "2024-01-02",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de las Islas Marshall",
+      "sourceUrl": "https://www.rmigovernment.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta desde ene. 2024 (segunda vez; también presidenta 2016-2020)"
+    },
+    "headOfGovernment": {
+      "name": "Hilda Heine",
+      "since": "2024-01-02",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de las Islas Marshall",
+      "sourceUrl": "https://www.rmigovernment.org",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Presidente ejerce ambas jefaturas; sistema sin partidos formales"
+    }
+  },
+  "KIR": {
+    "headOfState": {
+      "name": "Taneti Maamau",
+      "since": "2016-03-11",
+      "partyQid": null,
+      "partyName": "BTK (Boutokan te Koaua)",
+      "source": "Gobierno de Kiribati",
+      "sourceUrl": "https://www.kiribati.gov.ki",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente (reelegido oct. 2024); gobernó con mayoría firme"
+    },
+    "headOfGovernment": {
+      "name": "Taneti Maamau",
+      "since": "2016-03-11",
+      "partyQid": null,
+      "partyName": "BTK",
+      "source": "Gobierno de Kiribati",
+      "sourceUrl": "https://www.kiribati.gov.ki",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Presidente ejerce ambas jefaturas"
+    }
+  },
+  "NRU": {
+    "headOfState": {
+      "name": "David Adeang",
+      "since": "2023-10-30",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Nauru",
+      "sourceUrl": "https://www.naurugov.nr",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidente desde oct. 2023; en ene. 2024 Nauru reconoció a la RPC y rompió con Taiwán"
+    },
+    "headOfGovernment": {
+      "name": "David Adeang",
+      "since": "2023-10-30",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Nauru",
+      "sourceUrl": "https://www.naurugov.nr",
+      "retrievedAt": "2026-11-24",
+      "motivo": "El Presidente ejerce ambas jefaturas; sin partidos políticos formales"
+    }
+  },
+  "TUV": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Tuvalu",
+      "sourceUrl": "https://www.gov.tv",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca (representado por el Gobernador General Tofiga Falani); reino de la Commonwealth"
+    },
+    "headOfGovernment": {
+      "name": "Feleti Teo",
+      "since": "2024-02-26",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Tuvalu",
+      "sourceUrl": "https://www.gov.tv/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde feb. 2024; firmó el Falepili Union con Australia (vías de residencia para tuvaluanos)"
+    }
+  },
+  "XKX": {
+    "headOfState": {
+      "name": "Vjosa Osmani",
+      "since": "2021-04-04",
+      "partyQid": null,
+      "partyName": "VV (Vetevendosje — Autodeterminación)",
+      "source": "Presidencia de Kosovo",
+      "sourceUrl": "https://president-ksgov.net",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Presidenta desde abr. 2021; Kosovo declaró independencia en 2008, reconocida por ~100 Estados incl. EE.UU. y la mayoría de la UE"
+    },
+    "headOfGovernment": {
+      "name": "Albin Kurti",
+      "since": "2021-03-22",
+      "partyQid": null,
+      "partyName": "VV (Vetevendosje — Autodeterminación)",
+      "source": "Gobierno de Kosovo",
+      "sourceUrl": "https://kryeministri.rks-gov.net",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (reelegido feb. 2025 con VV primera fuerza)"
+    }
+  },
+  "COK": {
+    "headOfState": {
+      "name": "Carlos III",
+      "since": "2022-09-08",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de las Islas Cook",
+      "sourceUrl": "https://www.cookislands.gov.ck",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Monarca (representado por el Representante del Rey); en libre asociación con Nueva Zelanda"
+    },
+    "headOfGovernment": {
+      "name": "Mark Brown",
+      "since": "2020-10-19",
+      "partyQid": null,
+      "partyName": "CIP (Partido de las Islas Cook)",
+      "source": "Gobierno de las Islas Cook",
+      "sourceUrl": "https://www.cookislands.gov.ck/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro desde oct. 2020 (CIP reelegido ago. 2022)"
+    }
+  },
+  "CUW": {
+    "headOfState": {
+      "name": "Guillermo Alejandro",
+      "since": "2013-04-30",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Curaçao",
+      "sourceUrl": "https://www.gobiernu.cw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey de los Países Bajos (representado por la Gobernadora Lucille George-Wout); país constitutivo del Reino de los Países Bajos"
+    },
+    "headOfGovernment": {
+      "name": "Gilmar Pisa",
+      "since": "2021-06-11",
+      "partyQid": null,
+      "partyName": "MFK (Movimiento Futuro Korsou)",
+      "source": "Gobierno de Curaçao",
+      "sourceUrl": "https://www.gobiernu.cw/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primer Ministro (Primo Minister) desde jun. 2021"
+    }
+  },
+  "ABW": {
+    "headOfState": {
+      "name": "Guillermo Alejandro",
+      "since": "2013-04-30",
+      "partyQid": null,
+      "partyName": null,
+      "source": "Gobierno de Aruba",
+      "sourceUrl": "https://www.gobierno.aw",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Rey de los Países Bajos (representado por el Gobernador Alfonso Boekhoudt); país constitutivo del Reino de los Países Bajos"
+    },
+    "headOfGovernment": {
+      "name": "Evelyn Wever-Croes",
+      "since": "2017-11-17",
+      "partyQid": null,
+      "partyName": "MEP (Movimiento Electoral del Pueblo)",
+      "source": "Gobierno de Aruba",
+      "sourceUrl": "https://www.gobierno.aw/pm",
+      "retrievedAt": "2026-11-24",
+      "motivo": "Primera Ministra (reelegida sep. 2021 y jun. 2025)"
+    }
   }
 }

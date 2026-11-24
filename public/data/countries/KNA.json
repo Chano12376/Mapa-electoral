@@ -1,0 +1,44 @@
+{
+  "iso3": "KNA",
+  "name": "San Cristóbal y Nieves",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de San Cristóbal y Nieves",
+    "sourceUrl": "https://www.gov.kn",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Terrance Drew",
+    "since": "2022-08-06",
+    "party": null,
+    "source": "Gobierno de San Cristóbal y Nieves",
+    "sourceUrl": "https://www.gov.kn/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "KNA",
+    "date": "2027-08-05",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Asamblea Nacional (11 escaños elegidos)",
+    "source": "Electoral Commission St. Kitts and Nevis",
+    "sourceUrl": "https://www.elections.kn",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}

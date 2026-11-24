@@ -1,0 +1,44 @@
+{
+  "iso3": "LCA",
+  "name": "Santa Lucía",
+  "region": "América",
+  "headOfState": {
+    "name": "Carlos III",
+    "since": "2022-09-08",
+    "party": null,
+    "source": "Gobierno de Santa Lucía",
+    "sourceUrl": "https://www.stlucia.gov.lc",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "headOfGovernment": {
+    "name": "Philip Pierre",
+    "since": "2021-07-26",
+    "party": null,
+    "source": "Gobierno de Santa Lucía",
+    "sourceUrl": "https://www.stlucia.gov.lc/pm",
+    "retrievedAt": "2026-11-24",
+    "reviewed": true
+  },
+  "ideology": {
+    "headOfState": null,
+    "headOfGovernment": null
+  },
+  "nextElection": {
+    "iso3": "LCA",
+    "date": "2026-07-26",
+    "dateStatus": "limite_legal",
+    "type": "Legislativas generales",
+    "whatIsElected": "Cámara de la Asamblea (17 escaños)",
+    "source": "Electoral Department Saint Lucia",
+    "sourceUrl": "https://www.stlucia.gov.lc/electoral-department",
+    "checkedAt": "2026-11-24"
+  },
+  "indicators": {
+    "gdpUsd": null,
+    "gdpGrowth": null,
+    "inflation": null,
+    "unemployment": null
+  },
+  "builtAt": "2026-11-24"
+}
