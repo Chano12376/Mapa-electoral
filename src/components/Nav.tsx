@@ -103,25 +103,25 @@ export default function Nav({ continente, onContinente }: NavProps) {
   }
 
   return (
-    <header className="border-b border-gray-800 bg-gray-950/95 backdrop-blur sticky top-0 z-40">
+    <header className="border-b border-gray-200 bg-white/95 backdrop-blur sticky top-0 z-40">
       <div className="max-w-screen-xl mx-auto px-4">
 
         {/* Fila principal */}
         <div className="h-12 flex items-center gap-3">
           {/* Logo */}
-          <Link to="/" className="font-bold text-white tracking-tight shrink-0 flex items-center gap-1.5">
-            <span className="text-indigo-400">🗺</span>
+          <Link to="/" className="font-bold text-gray-900 tracking-tight shrink-0 flex items-center gap-1.5">
+            <span>🗺</span>
             <span className="hidden sm:inline">Mapa Electoral</span>
           </Link>
 
           {/* Nav links */}
           <nav className="flex gap-1 text-sm shrink-0">
             <Link to="/"
-              className={`px-3 py-1.5 rounded-md transition-colors ${isHome ? "bg-indigo-600 text-white" : "text-gray-400 hover:text-white hover:bg-gray-800"}`}>
+              className={`px-3 py-1.5 rounded-md transition-colors ${isHome ? "bg-gray-900 text-white" : "text-gray-500 hover:text-gray-900 hover:bg-gray-100"}`}>
               Mapa
             </Link>
             <Link to="/calendario"
-              className={`px-3 py-1.5 rounded-md transition-colors ${isCalendario ? "bg-indigo-600 text-white" : "text-gray-400 hover:text-white hover:bg-gray-800"}`}>
+              className={`px-3 py-1.5 rounded-md transition-colors ${isCalendario ? "bg-gray-900 text-white" : "text-gray-500 hover:text-gray-900 hover:bg-gray-100"}`}>
               Calendario
             </Link>
           </nav>
@@ -134,19 +134,19 @@ export default function Nav({ continente, onContinente }: NavProps) {
               onChange={(e) => { setQuery(e.target.value); setOpen(true); }}
               onFocus={() => setOpen(true)}
               placeholder="Buscar país…"
-              className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-1.5 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition-colors"
+              className="w-full bg-gray-50 border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-gray-500 transition-colors"
             />
             {open && results.length > 0 && (
-              <ul className="absolute top-full left-0 right-0 mt-1 bg-gray-900 border border-gray-700 rounded-xl shadow-2xl overflow-hidden z-50">
+              <ul className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg overflow-hidden z-50">
                 {results.map((c) => (
                   <li key={c.iso3}>
                     <button
                       onClick={() => go(c.iso3)}
-                      className="w-full flex items-center gap-2.5 px-3 py-2.5 hover:bg-gray-800 text-left transition-colors"
+                      className="w-full flex items-center gap-2.5 px-3 py-2.5 hover:bg-gray-50 text-left transition-colors"
                     >
                       <span className="text-xl">{FLAG[c.iso3]}</span>
-                      <span className="text-sm text-gray-200">{c.name}</span>
-                      <span className="text-xs text-gray-500 ml-auto">{c.iso3}</span>
+                      <span className="text-sm text-gray-800">{c.name}</span>
+                      <span className="text-xs text-gray-400 ml-auto">{c.iso3}</span>
                     </button>
                   </li>
                 ))}
@@ -163,8 +163,8 @@ export default function Nav({ continente, onContinente }: NavProps) {
                   onClick={() => onContinente(c.id)}
                   className={`px-2.5 py-1 rounded-full border transition-colors whitespace-nowrap ${
                     continente === c.id
-                      ? "bg-indigo-600 border-indigo-500 text-white"
-                      : "border-gray-700 text-gray-400 hover:border-gray-500 hover:text-white"
+                      ? "bg-gray-900 border-gray-900 text-white"
+                      : "border-gray-300 text-gray-500 hover:border-gray-500 hover:text-gray-800"
                   }`}
                 >
                   {c.label}
@@ -183,8 +183,8 @@ export default function Nav({ continente, onContinente }: NavProps) {
                 onClick={() => onContinente(c.id)}
                 className={`px-3 py-1.5 rounded-full border transition-colors whitespace-nowrap text-xs shrink-0 ${
                   continente === c.id
-                    ? "bg-indigo-600 border-indigo-500 text-white"
-                    : "border-gray-700 text-gray-400 active:bg-gray-800"
+                    ? "bg-gray-900 border-gray-900 text-white"
+                    : "border-gray-300 text-gray-500 active:bg-gray-100"
                 }`}
               >
                 {c.label}

@@ -24,11 +24,11 @@ function daysUntil(dateStr: string): number {
 }
 
 function urgencyColor(days: number, status: string) {
-  if (status === "limite_legal") return { bar: "border-gray-600", badge: "bg-gray-800 text-gray-400" };
-  if (days <= 30)  return { bar: "border-red-500",    badge: "bg-red-900/60 text-red-300" };
-  if (days <= 90)  return { bar: "border-red-500/70", badge: "bg-red-900/40 text-red-400" };
-  if (days <= 180) return { bar: "border-orange-500", badge: "bg-orange-900/50 text-orange-300" };
-  return               { bar: "border-yellow-600",  badge: "bg-yellow-900/40 text-yellow-400" };
+  if (status === "limite_legal") return { bar: "border-gray-300", badge: "bg-gray-100 text-gray-600" };
+  if (days <= 30)  return { bar: "border-red-500",    badge: "bg-red-50 text-red-700 border border-red-200" };
+  if (days <= 90)  return { bar: "border-red-400",    badge: "bg-red-50 text-red-600 border border-red-200" };
+  if (days <= 180) return { bar: "border-orange-400", badge: "bg-orange-50 text-orange-700 border border-orange-200" };
+  return               { bar: "border-amber-400",   badge: "bg-amber-50 text-amber-700 border border-amber-200" };
 }
 
 function formatMonth(dateStr: string): string {
@@ -61,8 +61,8 @@ export default function Calendario() {
   }, []);
 
   if (!data) return (
-    <div className="p-12 flex items-center justify-center gap-3 text-gray-500">
-      <div className="w-5 h-5 border-2 border-gray-600 border-t-indigo-500 rounded-full animate-spin" />
+    <div className="p-12 flex items-center justify-center gap-3 text-gray-400">
+      <div className="w-5 h-5 border-2 border-gray-300 border-t-gray-600 rounded-full animate-spin" />
       Cargando…
     </div>
   );
@@ -92,36 +92,36 @@ export default function Calendario() {
     <main className="max-w-2xl mx-auto px-4 py-10">
       {/* Cabecera */}
       <div className="mb-6">
-        <h1 className="text-3xl font-black text-white tracking-tight">Calendario electoral</h1>
-        <p className="text-gray-400 text-sm mt-1">
+        <h1 className="text-3xl font-black text-gray-900 tracking-tight">Calendario electoral</h1>
+        <p className="text-gray-500 text-sm mt-1">
           Elecciones registradas en {list.length} países
         </p>
       </div>
 
       {/* Stats rápidas */}
       <div className="grid grid-cols-3 gap-3 mb-6">
-        <div className="bg-gray-800/60 border border-gray-700 rounded-xl p-3 text-center">
-          <p className="text-2xl font-black text-white">{upcoming.length}</p>
-          <p className="text-xs text-gray-500 mt-0.5">próximas</p>
+        <div className="bg-white border border-gray-200 rounded-xl p-3 text-center">
+          <p className="text-2xl font-black text-gray-900">{upcoming.length}</p>
+          <p className="text-xs text-gray-400 mt-0.5">próximas</p>
         </div>
-        <div className="bg-red-900/20 border border-red-800/40 rounded-xl p-3 text-center">
-          <p className="text-2xl font-black text-red-300">{next90}</p>
-          <p className="text-xs text-gray-500 mt-0.5">en 90 días</p>
+        <div className="bg-red-50 border border-red-200 rounded-xl p-3 text-center">
+          <p className="text-2xl font-black text-red-600">{next90}</p>
+          <p className="text-xs text-gray-400 mt-0.5">en 90 días</p>
         </div>
-        <div className="bg-green-900/20 border border-green-800/40 rounded-xl p-3 text-center">
-          <p className="text-2xl font-black text-green-300">{confirmed}</p>
-          <p className="text-xs text-gray-500 mt-0.5">confirmadas</p>
+        <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-3 text-center">
+          <p className="text-2xl font-black text-emerald-700">{confirmed}</p>
+          <p className="text-xs text-gray-400 mt-0.5">confirmadas</p>
         </div>
       </div>
 
       {/* Toggle */}
-      <div className="flex gap-1 mb-6 p-1 bg-gray-800/60 rounded-xl w-fit">
+      <div className="flex gap-1 mb-6 p-1 bg-gray-100 rounded-xl w-fit">
         {(["proximas", "todas"] as const).map((v) => (
           <button
             key={v}
             onClick={() => setView(v)}
             className={`px-4 py-1.5 rounded-lg text-sm font-medium transition-colors ${
-              view === v ? "bg-indigo-600 text-white" : "text-gray-400 hover:text-white"
+              view === v ? "bg-white text-gray-900 shadow-sm" : "text-gray-500 hover:text-gray-800"
             }`}
           >
             {v === "proximas" ? "Próximas" : "Todas"}
@@ -130,16 +130,16 @@ export default function Calendario() {
       </div>
 
       {list.length === 0 && (
-        <p className="text-gray-500 italic text-center py-12">No hay elecciones registradas.</p>
+        <p className="text-gray-400 italic text-center py-12">No hay elecciones registradas.</p>
       )}
 
       {/* Lista agrupada por mes */}
       {Array.from(byMonth.entries()).map(([monthKey, elections]) => (
         <div key={monthKey} className="mb-6">
-          <h2 className="text-xs font-semibold text-gray-500 uppercase tracking-widest mb-3 flex items-center gap-2">
+          <h2 className="text-xs font-semibold text-gray-400 uppercase tracking-widest mb-3 flex items-center gap-2">
             <span className="capitalize">{formatMonth(monthKey + "-01")}</span>
-            <span className="flex-1 h-px bg-gray-800" />
-            <span className="text-gray-600">{elections.length}</span>
+            <span className="flex-1 h-px bg-gray-200" />
+            <span className="text-gray-400">{elections.length}</span>
           </h2>
           <ol className="space-y-2.5">
             {elections.map((e) => {
@@ -149,41 +149,41 @@ export default function Calendario() {
               return (
                 <li
                   key={e.iso3 + e.date}
-                  className={`border-l-4 ${bar} bg-gray-900/60 hover:bg-gray-800/60 rounded-r-2xl px-5 py-4 flex items-center gap-4 transition-colors ${isPast ? "opacity-50" : ""}`}
+                  className={`border-l-4 ${bar} bg-white hover:bg-gray-50 rounded-r-2xl px-5 py-4 flex items-center gap-4 transition-colors shadow-sm ${isPast ? "opacity-50" : ""}`}
                 >
                   <span className="text-3xl select-none shrink-0">{FLAG[e.iso3] ?? "🌍"}</span>
                   <div className="min-w-0 flex-1">
                     <div className="flex items-center gap-2 flex-wrap">
                       <Link
                         to={`/pais/${e.iso3}`}
-                        className="font-bold text-white hover:text-indigo-400 transition-colors"
+                        className="font-bold text-gray-900 hover:text-gray-600 transition-colors"
                       >
                         {e.name}
                       </Link>
                       {e.dateStatus === "confirmada" && (
-                        <span className="text-xs bg-green-900/50 text-green-400 px-2 py-0.5 rounded-full border border-green-800">
+                        <span className="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full border border-emerald-200">
                           ✓ confirmada
                         </span>
                       )}
                       {e.dateStatus === "limite_legal" && (
-                        <span className="text-xs bg-gray-700/60 text-gray-400 px-2 py-0.5 rounded-full">
+                        <span className="text-xs bg-gray-100 text-gray-500 px-2 py-0.5 rounded-full">
                           límite legal
                         </span>
                       )}
                       {isPast && (
-                        <span className="text-xs bg-gray-700/60 text-gray-500 px-2 py-0.5 rounded-full">
+                        <span className="text-xs bg-gray-100 text-gray-400 px-2 py-0.5 rounded-full">
                           celebrada
                         </span>
                       )}
                     </div>
-                    <p className="text-sm text-gray-300 mt-0.5">{e.type}</p>
+                    <p className="text-sm text-gray-600 mt-0.5">{e.type}</p>
                     <div className="flex items-center gap-3 mt-1">
                       <span className="text-xs font-mono text-gray-400">{e.date}</span>
                       <a
                         href={e.sourceUrl}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-xs text-gray-600 hover:text-indigo-400 transition-colors"
+                        className="text-xs text-gray-400 hover:text-gray-700 transition-colors"
                       >
                         ↗ {e.source}
                       </a>
@@ -195,7 +195,7 @@ export default function Calendario() {
                         {e.dateStatus === "limite_legal" ? "≤ " : ""}{Math.abs(days)}d
                       </span>
                     ) : (
-                      <span className="text-xs text-gray-600 tabular-nums">hace {Math.abs(days)}d</span>
+                      <span className="text-xs text-gray-400 tabular-nums">hace {Math.abs(days)}d</span>
                     )}
                   </div>
                 </li>

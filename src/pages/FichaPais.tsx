@@ -106,40 +106,40 @@ function daysUntil(dateStr: string): number {
 }
 
 function ElectionBadge({ status, days }: { status: string; days: number }) {
-  if (status === "limite_legal") return <span className="text-xs bg-gray-700 text-gray-300 px-2 py-0.5 rounded-full">a más tardar</span>;
-  if (days <= 30)  return <span className="text-xs bg-red-900 text-red-300 px-2 py-0.5 rounded-full font-semibold">¡{days} días!</span>;
-  if (days <= 90)  return <span className="text-xs bg-red-900/60 text-red-300 px-2 py-0.5 rounded-full">{days} días</span>;
-  if (days <= 180) return <span className="text-xs bg-orange-900/60 text-orange-300 px-2 py-0.5 rounded-full">{days} días</span>;
-  return <span className="text-xs bg-yellow-900/40 text-yellow-300 px-2 py-0.5 rounded-full">{days} días</span>;
+  if (status === "limite_legal") return <span className="text-xs bg-gray-100 text-gray-600 border border-gray-300 px-2 py-0.5 rounded-full">a más tardar</span>;
+  if (days <= 30)  return <span className="text-xs bg-red-50 text-red-700 border border-red-300 px-2 py-0.5 rounded-full font-semibold">¡{days} días!</span>;
+  if (days <= 90)  return <span className="text-xs bg-red-50 text-red-600 border border-red-200 px-2 py-0.5 rounded-full">{days} días</span>;
+  if (days <= 180) return <span className="text-xs bg-orange-50 text-orange-700 border border-orange-200 px-2 py-0.5 rounded-full">{days} días</span>;
+  return <span className="text-xs bg-amber-50 text-amber-700 border border-amber-200 px-2 py-0.5 rounded-full">{days} días</span>;
 }
 
 function LeaderCard({ title, leader }: { title: string; leader: Leader | null }) {
   const photo = useLeaderPhoto(leader?.name ?? null);
   if (!leader) return (
-    <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
-      <p className="text-xs text-gray-500 uppercase tracking-widest mb-2">{title}</p>
-      <p className="text-gray-500 italic text-sm">Sin datos</p>
+    <div className="bg-white border border-gray-200 rounded-2xl p-5">
+      <p className="text-xs text-gray-400 uppercase tracking-widest mb-2">{title}</p>
+      <p className="text-gray-400 italic text-sm">Sin datos</p>
     </div>
   );
   const color = partyColor(leader.party?.name);
   return (
-    <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5 hover:border-gray-500 transition-colors">
-      <p className="text-xs text-gray-500 uppercase tracking-widest mb-3">{title}</p>
+    <div className="bg-white border border-gray-200 rounded-2xl p-5 hover:border-gray-300 transition-colors">
+      <p className="text-xs text-gray-400 uppercase tracking-widest mb-3">{title}</p>
       <div className="flex items-center gap-3 mb-3">
         {photo ? (
           <img
             src={photo}
             alt={leader.name}
-            className="w-14 h-14 rounded-full object-cover object-top border-2 border-gray-600 shrink-0"
+            className="w-14 h-14 rounded-full object-cover object-top border-2 border-gray-200 shrink-0"
           />
         ) : (
-          <div className="w-14 h-14 rounded-full bg-gray-700 flex items-center justify-center shrink-0 text-2xl select-none">
+          <div className="w-14 h-14 rounded-full bg-gray-100 flex items-center justify-center shrink-0 text-2xl select-none">
             👤
           </div>
         )}
         <div className="min-w-0">
-          <p className="font-bold text-lg text-white leading-tight">{leader.name}</p>
-          {leader.since && <p className="text-gray-400 text-xs mt-0.5">Desde <strong className="text-gray-300">{leader.since}</strong></p>}
+          <p className="font-bold text-lg text-gray-900 leading-tight">{leader.name}</p>
+          {leader.since && <p className="text-gray-500 text-xs mt-0.5">Desde <strong className="text-gray-700">{leader.since}</strong></p>}
         </div>
       </div>
       {leader.party && (
@@ -154,7 +154,7 @@ function LeaderCard({ title, leader }: { title: string; leader: Leader | null })
         href={leader.sourceUrl}
         target="_blank"
         rel="noopener noreferrer"
-        className="text-gray-600 text-xs hover:text-indigo-400 mt-3 inline-flex items-center gap-1 transition-colors"
+        className="text-gray-400 text-xs hover:text-gray-700 mt-3 inline-flex items-center gap-1 transition-colors"
       >
         ↗ {leader.source} · {leader.retrievedAt}
       </a>
@@ -164,20 +164,20 @@ function LeaderCard({ title, leader }: { title: string; leader: Leader | null })
 
 function IdeologyBar({ score, source, sourceUrl }: { score: number; source: string; sourceUrl: string }) {
   const pct = (score / 10) * 100;
-  const color = score <= 3.5 ? "bg-blue-500" : score <= 6.5 ? "bg-purple-500" : "bg-red-500";
+  const color = score <= 3.5 ? "bg-blue-500" : score <= 6.5 ? "bg-violet-500" : "bg-rose-500";
   return (
     <div className="mb-4">
       <div className="flex justify-between items-center mb-1.5">
         <span className="text-xs text-gray-400">Izquierda</span>
-        <span className="font-bold text-lg tabular-nums">{score.toFixed(1)}<span className="text-gray-500 text-sm font-normal"> / 10</span></span>
+        <span className="font-bold text-lg tabular-nums text-gray-900">{score.toFixed(1)}<span className="text-gray-400 text-sm font-normal"> / 10</span></span>
         <span className="text-xs text-gray-400">Derecha</span>
       </div>
-      <div className="w-full bg-gray-700 rounded-full h-3 relative">
+      <div className="w-full bg-gray-200 rounded-full h-3 relative">
         <div className={`h-3 rounded-full ${color} transition-all`} style={{ width: `${pct}%` }} />
-        <div className="absolute top-1/2 -translate-y-1/2 w-0.5 h-5 bg-gray-500" style={{ left: "50%" }} />
+        <div className="absolute top-1/2 -translate-y-1/2 w-0.5 h-5 bg-gray-400" style={{ left: "50%" }} />
       </div>
       <a href={sourceUrl} target="_blank" rel="noopener noreferrer"
-        className="text-gray-600 text-xs hover:text-indigo-400 mt-1.5 inline-block transition-colors">
+        className="text-gray-400 text-xs hover:text-gray-700 mt-1.5 inline-block transition-colors">
         ↗ {source}
       </a>
     </div>
@@ -186,15 +186,15 @@ function IdeologyBar({ score, source, sourceUrl }: { score: number; source: stri
 
 function StatCard({ label, value, year, source }: { label: string; value: string | null; year?: number; source?: string }) {
   return (
-    <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
-      <p className="text-xs text-gray-500 uppercase tracking-widest mb-2">{label}</p>
+    <div className="bg-white border border-gray-200 rounded-2xl p-5">
+      <p className="text-xs text-gray-400 uppercase tracking-widest mb-2">{label}</p>
       {value ? (
         <>
-          <p className="font-bold text-2xl text-white">{value}</p>
-          {year && <p className="text-gray-500 text-xs mt-1">{year} · {source}</p>}
+          <p className="font-bold text-2xl text-gray-900">{value}</p>
+          {year && <p className="text-gray-400 text-xs mt-1">{year} · {source}</p>}
         </>
       ) : (
-        <p className="text-gray-500 italic text-sm">Sin datos</p>
+        <p className="text-gray-400 italic text-sm">Sin datos</p>
       )}
     </div>
   );
@@ -304,13 +304,13 @@ export default function FichaPais() {
   if (error) return (
     <div className="p-12 text-center">
       <p className="text-4xl mb-4">🌍</p>
-      <p className="text-gray-400 text-lg">País no encontrado.</p>
-      <Link to="/" className="text-indigo-400 hover:underline mt-3 inline-block">← Volver al mapa</Link>
+      <p className="text-gray-500 text-lg">País no encontrado.</p>
+      <Link to="/" className="text-gray-700 hover:underline mt-3 inline-block">← Volver al mapa</Link>
     </div>
   );
   if (!data) return (
-    <div className="p-12 flex items-center justify-center gap-3 text-gray-500">
-      <div className="w-5 h-5 border-2 border-gray-600 border-t-indigo-500 rounded-full animate-spin" />
+    <div className="p-12 flex items-center justify-center gap-3 text-gray-400">
+      <div className="w-5 h-5 border-2 border-gray-300 border-t-gray-600 rounded-full animate-spin" />
       Cargando…
     </div>
   );
@@ -329,7 +329,7 @@ export default function FichaPais() {
   return (
     <main className="max-w-3xl mx-auto px-4 py-8">
       {/* Back */}
-      <Link to="/" className="inline-flex items-center gap-1.5 text-indigo-400 hover:text-indigo-300 text-sm mb-6 transition-colors">
+      <Link to="/" className="inline-flex items-center gap-1.5 text-gray-500 hover:text-gray-800 text-sm mb-6 transition-colors">
         ← Volver al mapa
       </Link>
 
@@ -338,10 +338,10 @@ export default function FichaPais() {
         <div className="flex items-center gap-5">
           <div className="shrink-0"><FlagImg iso3={data.iso3} size={80} /></div>
           <div className="min-w-0">
-            <h1 className="text-4xl font-black text-white tracking-tight leading-tight">{data.name}</h1>
-            <p className="text-indigo-400 text-sm mt-1 font-medium">{data.region}</p>
+            <h1 className="text-4xl font-black text-gray-900 tracking-tight leading-tight">{data.name}</h1>
+            <p className="text-gray-500 text-sm mt-1 font-medium">{data.region}</p>
             {data.regime && (
-              <span className="inline-block mt-2 text-xs bg-gray-800 border border-gray-700 text-gray-400 px-2.5 py-1 rounded-full">
+              <span className="inline-block mt-2 text-xs bg-gray-100 border border-gray-200 text-gray-500 px-2.5 py-1 rounded-full">
                 {data.regime}
               </span>
             )}
@@ -352,18 +352,18 @@ export default function FichaPais() {
       {/* Próxima elección */}
       {election && days !== null && days >= 0 ? (
         <div className={`rounded-2xl p-5 mb-6 border ${
-          days <= 90  ? "bg-red-950/40 border-red-800" :
-          days <= 180 ? "bg-orange-950/40 border-orange-800" :
-                        "bg-indigo-950/40 border-indigo-800"
+          days <= 90  ? "bg-red-50 border-red-200" :
+          days <= 180 ? "bg-orange-50 border-orange-200" :
+                        "bg-amber-50 border-amber-200"
         }`}>
           <div className="flex items-start justify-between gap-4">
             <div>
               <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">Próxima elección</p>
-              <p className="font-bold text-lg text-white">{election.type}</p>
-              <p className="text-gray-300 text-sm">{election.whatIsElected}</p>
-              <p className="text-gray-400 text-sm mt-1 font-mono">{election.date}</p>
+              <p className="font-bold text-lg text-gray-900">{election.type}</p>
+              <p className="text-gray-600 text-sm">{election.whatIsElected}</p>
+              <p className="text-gray-500 text-sm mt-1 font-mono">{election.date}</p>
               <a href={election.sourceUrl} target="_blank" rel="noopener noreferrer"
-                className="text-gray-600 text-xs hover:text-indigo-400 mt-2 inline-block transition-colors">
+                className="text-gray-400 text-xs hover:text-gray-700 mt-2 inline-block transition-colors">
                 ↗ {election.source}
               </a>
             </div>
@@ -373,9 +373,9 @@ export default function FichaPais() {
           </div>
         </div>
       ) : (
-        <div className="bg-gray-800/40 border border-gray-700 rounded-2xl p-5 mb-6">
-          <p className="text-xs text-gray-500 uppercase tracking-widest mb-1">Próxima elección</p>
-          <p className="text-gray-500 italic text-sm">
+        <div className="bg-gray-50 border border-gray-200 rounded-2xl p-5 mb-6">
+          <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">Próxima elección</p>
+          <p className="text-gray-400 italic text-sm">
             {election?.dateStatus === "sin_eleccion_nacional_directa"
               ? "Sin elección nacional directa"
               : election?.dateStatus === "pendiente"
@@ -386,15 +386,15 @@ export default function FichaPais() {
       )}
 
       {/* Tabs */}
-      <div className="flex gap-1 mb-6 border-b border-gray-800 pb-0">
+      <div className="flex gap-1 mb-6 border-b border-gray-200 pb-0">
         {TABS.map(({ key, label }) => (
           <button
             key={key}
             onClick={() => setTab(key)}
             className={`px-4 py-2 text-sm font-medium -mb-px border-b-2 transition-colors ${
               tab === key
-                ? "border-indigo-500 text-indigo-400"
-                : "border-transparent text-gray-500 hover:text-gray-300"
+                ? "border-gray-900 text-gray-900"
+                : "border-transparent text-gray-400 hover:text-gray-700"
             }`}
           >
             {label}
@@ -407,7 +407,7 @@ export default function FichaPais() {
           {polls ? (
             <PollsTab polls={polls} />
           ) : (
-            <div className="bg-gray-800/40 border border-gray-700 rounded-2xl p-8 text-center">
+            <div className="bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
               <p className="text-3xl mb-3">📊</p>
               <p className="text-gray-400">Sin sondeos registrados para este país.</p>
             </div>
@@ -420,7 +420,7 @@ export default function FichaPais() {
           {electionResult ? (
             <ResultsTab result={electionResult} />
           ) : (
-            <div className="bg-gray-800/40 border border-gray-700 rounded-2xl p-8 text-center">
+            <div className="bg-gray-50 border border-gray-200 rounded-2xl p-8 text-center">
               <p className="text-3xl mb-3">🗳️</p>
               <p className="text-gray-400">Sin resultados electorales registrados para este país.</p>
             </div>
@@ -436,18 +436,18 @@ export default function FichaPais() {
           </div>
 
           {(data.ideology.headOfState || data.ideology.headOfGovernment) && (
-            <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
-              <p className="text-xs text-gray-500 uppercase tracking-widest mb-1">Posición ideológica</p>
-              <p className="text-xs text-gray-600 mb-4">Escala 0–10 · Fuente académica ParlGov · Sin etiqueta editorial</p>
+            <div className="bg-white border border-gray-200 rounded-2xl p-5">
+              <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">Posición ideológica</p>
+              <p className="text-xs text-gray-400 mb-4">Escala 0–10 · Fuente académica ParlGov · Sin etiqueta editorial</p>
               {data.ideology.headOfState && (
                 <div className="mb-4">
-                  <p className="text-sm text-gray-300 mb-2 font-medium">Partido del Jefe de Estado</p>
+                  <p className="text-sm text-gray-600 mb-2 font-medium">Partido del Jefe de Estado</p>
                   <IdeologyBar {...data.ideology.headOfState} />
                 </div>
               )}
               {data.ideology.headOfGovernment && (
                 <div>
-                  <p className="text-sm text-gray-300 mb-2 font-medium">Partido del Jefe de Gobierno</p>
+                  <p className="text-sm text-gray-600 mb-2 font-medium">Partido del Jefe de Gobierno</p>
                   <IdeologyBar {...data.ideology.headOfGovernment} />
                 </div>
               )}
@@ -469,20 +469,20 @@ export default function FichaPais() {
 
           {/* Mini gráficos de tendencia */}
           {[
-            { label: "Crecimiento PIB", ind: data.indicators.gdpGrowth, color: "#34d399" },
-            { label: "Inflación", ind: data.indicators.inflation, color: "#f87171" },
-            { label: "Desempleo", ind: data.indicators.unemployment, color: "#fb923c" },
+            { label: "Crecimiento PIB", ind: data.indicators.gdpGrowth, color: "#059669" },
+            { label: "Inflación", ind: data.indicators.inflation, color: "#dc2626" },
+            { label: "Desempleo", ind: data.indicators.unemployment, color: "#d97706" },
           ].map(({ label, ind, color }) => ind?.series?.length && ind.series.length >= 2 ? (
-            <div key={label} className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
-              <p className="text-xs text-gray-500 uppercase tracking-widest mb-3">{label} · últimos años</p>
+            <div key={label} className="bg-white border border-gray-200 rounded-2xl p-5">
+              <p className="text-xs text-gray-400 uppercase tracking-widest mb-3">{label} · últimos años</p>
               <MiniChart ind={ind} color={color} />
-              <p className="text-xs text-gray-600 mt-3">Fuente: {ind.source}</p>
+              <p className="text-xs text-gray-400 mt-3">Fuente: {ind.source}</p>
             </div>
           ) : null)}
         </div>
       )}
 
-      <p className="text-gray-700 text-xs mt-10">Datos generados: {data.builtAt}</p>
+      <p className="text-gray-400 text-xs mt-10">Datos generados: {data.builtAt}</p>
     </main>
   );
 }
@@ -497,30 +497,30 @@ function PartyBar({ p, seatsLabel }: { p: PartyResult; seatsLabel?: string }) {
             style={{ background: p.color }}
           />
           <span
-            className="text-sm text-gray-200 font-medium leading-tight"
+            className="text-sm text-gray-800 font-medium leading-tight"
             title={p.fullName}
           >
             {p.fullName ?? p.name}
           </span>
           {p.candidate && (
-            <span className="text-xs text-gray-500">({p.candidate})</span>
+            <span className="text-xs text-gray-400">({p.candidate})</span>
           )}
           {p.inGovt && (
-            <span className="text-xs bg-indigo-900/50 text-indigo-400 border border-indigo-800 px-1.5 py-0.5 rounded-full shrink-0">
+            <span className="text-xs bg-blue-50 text-blue-700 border border-blue-200 px-1.5 py-0.5 rounded-full shrink-0">
               ● Gobierno
             </span>
           )}
         </div>
         <div className="text-right shrink-0 ml-2">
-          <span className="font-bold text-sm tabular-nums">{p.votePct.toFixed(1)}%</span>
+          <span className="font-bold text-sm tabular-nums text-gray-900">{p.votePct.toFixed(1)}%</span>
           {p.seats != null && (
-            <span className="text-xs text-gray-500 ml-1.5 tabular-nums">
+            <span className="text-xs text-gray-400 ml-1.5 tabular-nums">
               {p.seats} {seatsLabel ?? "esc."}
             </span>
           )}
         </div>
       </div>
-      <div className="w-full bg-gray-800 rounded-full h-2.5">
+      <div className="w-full bg-gray-100 rounded-full h-2.5">
         <div
           className="h-2.5 rounded-full transition-all"
           style={{ width: `${p.votePct}%`, background: p.color, opacity: 0.85 }}
@@ -532,21 +532,21 @@ function PartyBar({ p, seatsLabel }: { p: PartyResult; seatsLabel?: string }) {
 
 function ResultsTab({ result }: { result: ElectionResult }) {
   return (
-    <div className="bg-gray-800/40 border border-gray-700 rounded-2xl p-6">
+    <div className="bg-white border border-gray-200 rounded-2xl p-6">
       {/* Header */}
-      <div className="flex flex-wrap gap-x-4 gap-y-1 mb-4 text-sm text-gray-400">
-        <span className="font-medium text-white">{result.electionType}</span>
+      <div className="flex flex-wrap gap-x-4 gap-y-1 mb-4 text-sm text-gray-500">
+        <span className="font-medium text-gray-900">{result.electionType}</span>
         <span>📅 {result.electionDate}</span>
         {result.turnoutPct != null && (
-          <span>Participación: <strong className="text-gray-200">{result.turnoutPct}%</strong></span>
+          <span>Participación: <strong className="text-gray-800">{result.turnoutPct}%</strong></span>
         )}
         {result.totalSeats != null && (
-          <span>Total {result.seatsLabel ?? "escaños"}: <strong className="text-gray-200">{result.totalSeats}</strong></span>
+          <span>Total {result.seatsLabel ?? "escaños"}: <strong className="text-gray-800">{result.totalSeats}</strong></span>
         )}
       </div>
 
       {result.note && (
-        <p className="text-xs text-amber-500/80 bg-amber-950/30 border border-amber-900/40 rounded-xl px-3 py-2 mb-5 leading-relaxed">
+        <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded-xl px-3 py-2 mb-5 leading-relaxed">
           ⚠ {result.note}
         </p>
       )}
@@ -563,7 +563,7 @@ function ResultsTab({ result }: { result: ElectionResult }) {
         href={result.sourceUrl}
         target="_blank"
         rel="noopener noreferrer"
-        className="text-xs text-gray-600 hover:text-indigo-400 mt-5 inline-flex items-center gap-1 transition-colors"
+        className="text-xs text-gray-400 hover:text-gray-700 mt-5 inline-flex items-center gap-1 transition-colors"
       >
         ↗ {result.source} · {result.retrievedAt}
       </a>
@@ -572,9 +572,9 @@ function ResultsTab({ result }: { result: ElectionResult }) {
 }
 
 const FH_STATUS_STYLES: Record<string, { bg: string; border: string; text: string; dot: string }> = {
-  "Free":        { bg: "bg-emerald-900/30", border: "border-emerald-700", text: "text-emerald-300", dot: "bg-emerald-400" },
-  "Partly Free": { bg: "bg-yellow-900/30",  border: "border-yellow-700",  text: "text-yellow-300",  dot: "bg-yellow-400" },
-  "Not Free":    { bg: "bg-red-900/30",     border: "border-red-800",     text: "text-red-400",     dot: "bg-red-500" },
+  "Free":        { bg: "bg-emerald-50", border: "border-emerald-200", text: "text-emerald-700", dot: "bg-emerald-500" },
+  "Partly Free": { bg: "bg-amber-50",   border: "border-amber-200",   text: "text-amber-700",   dot: "bg-amber-500" },
+  "Not Free":    { bg: "bg-red-50",     border: "border-red-200",     text: "text-red-700",     dot: "bg-red-500" },
 };
 
 const FH_STATUS_ES: Record<string, string> = {
@@ -594,43 +594,43 @@ function DemocracyCard({ indices }: { indices: DemocracyIndices }) {
   const fhStyle = fh ? (FH_STATUS_STYLES[fh.status] ?? FH_STATUS_STYLES["Not Free"]) : null;
 
   return (
-    <div className="bg-gray-800/60 border border-gray-700 rounded-2xl p-5">
-      <p className="text-xs text-gray-500 uppercase tracking-widest mb-4">Índices de democracia</p>
+    <div className="bg-white border border-gray-200 rounded-2xl p-5">
+      <p className="text-xs text-gray-400 uppercase tracking-widest mb-4">Índices de democracia</p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {fh && fhStyle && (
           <div className={`border rounded-xl p-4 ${fhStyle.bg} ${fhStyle.border}`}>
-            <p className="text-xs text-gray-500 mb-1">Freedom House {fh.year}</p>
+            <p className="text-xs text-gray-400 mb-1">Freedom House {fh.year}</p>
             <div className="flex items-center gap-2 mb-2">
               <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${fhStyle.dot}`} />
               <span className={`font-semibold text-sm ${fhStyle.text}`}>{FH_STATUS_ES[fh.status]}</span>
             </div>
-            <p className="text-2xl font-bold text-white">{fh.score}<span className="text-sm font-normal text-gray-500">/100</span></p>
+            <p className="text-2xl font-bold text-gray-900">{fh.score}<span className="text-sm font-normal text-gray-400">/100</span></p>
             <div className="mt-2 text-xs text-gray-500 flex gap-3">
-              <span>Der. políticos: <strong className="text-gray-300">{fh.politicalRights}/40</strong></span>
-              <span>Lib. civiles: <strong className="text-gray-300">{fh.civilLiberties}/60</strong></span>
+              <span>Der. políticos: <strong className="text-gray-700">{fh.politicalRights}/40</strong></span>
+              <span>Lib. civiles: <strong className="text-gray-700">{fh.civilLiberties}/60</strong></span>
             </div>
-            <div className="mt-2 w-full bg-gray-900/60 rounded-full h-1.5">
+            <div className="mt-2 w-full bg-white/60 rounded-full h-1.5">
               <div className={`h-1.5 rounded-full ${fhStyle.dot}`} style={{ width: `${fh.score}%` }} />
             </div>
             <a href={fh.sourceUrl} target="_blank" rel="noopener noreferrer"
-              className="text-xs text-gray-600 hover:text-indigo-400 mt-3 inline-flex items-center gap-1 transition-colors">
+              className="text-xs text-gray-400 hover:text-gray-700 mt-3 inline-flex items-center gap-1 transition-colors">
               ↗ freedomhouse.org · {fh.retrievedAt}
             </a>
           </div>
         )}
 
         {eiu && (
-          <div className="border border-gray-700 bg-gray-900/40 rounded-xl p-4">
-            <p className="text-xs text-gray-500 mb-1">EIU Democracy Index {eiu.year}</p>
-            <p className="text-sm text-gray-400 mb-2">{EIU_CAT_ES[eiu.category] ?? eiu.category}</p>
-            <p className="text-2xl font-bold text-white">{eiu.score.toFixed(2)}<span className="text-sm font-normal text-gray-500">/10</span></p>
-            <p className="text-xs text-gray-500 mt-1">Puesto {eiu.rank} de 167</p>
-            <div className="mt-2 w-full bg-gray-900/60 rounded-full h-1.5">
-              <div className="h-1.5 rounded-full bg-indigo-500" style={{ width: `${(eiu.score / 10) * 100}%` }} />
+          <div className="border border-gray-200 bg-gray-50 rounded-xl p-4">
+            <p className="text-xs text-gray-400 mb-1">EIU Democracy Index {eiu.year}</p>
+            <p className="text-sm text-gray-500 mb-2">{EIU_CAT_ES[eiu.category] ?? eiu.category}</p>
+            <p className="text-2xl font-bold text-gray-900">{eiu.score.toFixed(2)}<span className="text-sm font-normal text-gray-400">/10</span></p>
+            <p className="text-xs text-gray-400 mt-1">Puesto {eiu.rank} de 167</p>
+            <div className="mt-2 w-full bg-gray-200 rounded-full h-1.5">
+              <div className="h-1.5 rounded-full bg-blue-500" style={{ width: `${(eiu.score / 10) * 100}%` }} />
             </div>
             <a href={eiu.sourceUrl} target="_blank" rel="noopener noreferrer"
-              className="text-xs text-gray-600 hover:text-indigo-400 mt-3 inline-flex items-center gap-1 transition-colors">
+              className="text-xs text-gray-400 hover:text-gray-700 mt-3 inline-flex items-center gap-1 transition-colors">
               ↗ eiu.com · {eiu.retrievedAt}
             </a>
           </div>
@@ -647,9 +647,9 @@ function PollsTab({ polls }: { polls: CountryPolls }) {
         <p className="text-xs text-gray-500 leading-relaxed px-1">{polls.note}</p>
       )}
       {polls.polls.map((poll, i) => (
-        <div key={i} className="bg-gray-800/40 border border-gray-700 rounded-2xl p-6">
-          <div className="flex flex-wrap gap-x-4 gap-y-1 mb-5 text-sm text-gray-400">
-            <span className="font-medium text-white">{poll.pollster}</span>
+        <div key={i} className="bg-white border border-gray-200 rounded-2xl p-6">
+          <div className="flex flex-wrap gap-x-4 gap-y-1 mb-5 text-sm text-gray-500">
+            <span className="font-medium text-gray-900">{poll.pollster}</span>
             <span>📅 {poll.fieldwork}</span>
             {poll.sampleSize && <span>n={poll.sampleSize.toLocaleString()}</span>}
           </div>
@@ -665,18 +665,18 @@ function PollsTab({ polls }: { polls: CountryPolls }) {
                     <div className="flex items-center justify-between gap-2 mb-1">
                       <div className="flex items-center gap-2 min-w-0 flex-1 flex-wrap">
                         <span className="w-3 h-3 rounded-sm shrink-0" style={{ background: p.color }} />
-                        <span className="text-sm text-gray-200 font-medium leading-tight" title={p.fullName}>
+                        <span className="text-sm text-gray-800 font-medium leading-tight" title={p.fullName}>
                           {p.fullName ?? p.name}
                         </span>
                         {p.inGovt && (
-                          <span className="text-xs bg-indigo-900/50 text-indigo-400 border border-indigo-800 px-1.5 py-0.5 rounded-full shrink-0">
+                          <span className="text-xs bg-blue-50 text-blue-700 border border-blue-200 px-1.5 py-0.5 rounded-full shrink-0">
                             ● Gobierno
                           </span>
                         )}
                       </div>
-                      <span className="font-bold text-sm tabular-nums shrink-0">{p.pct.toFixed(1)}%</span>
+                      <span className="font-bold text-sm tabular-nums shrink-0 text-gray-900">{p.pct.toFixed(1)}%</span>
                     </div>
-                    <div className="w-full bg-gray-800 rounded-full h-2.5">
+                    <div className="w-full bg-gray-100 rounded-full h-2.5">
                       <div
                         className="h-2.5 rounded-full transition-all"
                         style={{ width: `${p.pct}%`, background: p.color, opacity: 0.85 }}
@@ -693,16 +693,16 @@ function PollsTab({ polls }: { polls: CountryPolls }) {
               <div className="flex gap-3 text-sm mb-2 flex-wrap">
                 <span className="flex items-center gap-1.5">
                   <span className="w-3 h-3 rounded-sm bg-emerald-500 shrink-0" />
-                  <span className="text-gray-300">Aprueba <strong className="text-white">{poll.govtApproval.approve}%</strong></span>
+                  <span className="text-gray-600">Aprueba <strong className="text-gray-900">{poll.govtApproval.approve}%</strong></span>
                 </span>
                 <span className="flex items-center gap-1.5">
                   <span className="w-3 h-3 rounded-sm bg-red-500 shrink-0" />
-                  <span className="text-gray-300">Desaprueba <strong className="text-white">{poll.govtApproval.disapprove}%</strong></span>
+                  <span className="text-gray-600">Desaprueba <strong className="text-gray-900">{poll.govtApproval.disapprove}%</strong></span>
                 </span>
                 {poll.govtApproval.neutral != null && (
                   <span className="flex items-center gap-1.5">
-                    <span className="w-3 h-3 rounded-sm bg-gray-600 shrink-0" />
-                    <span className="text-gray-300">NS/NC <strong className="text-white">{poll.govtApproval.neutral}%</strong></span>
+                    <span className="w-3 h-3 rounded-sm bg-gray-400 shrink-0" />
+                    <span className="text-gray-600">NS/NC <strong className="text-gray-900">{poll.govtApproval.neutral}%</strong></span>
                   </span>
                 )}
               </div>
@@ -720,7 +720,7 @@ function PollsTab({ polls }: { polls: CountryPolls }) {
             href={poll.sourceUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-xs text-gray-600 hover:text-indigo-400 mt-4 inline-flex items-center gap-1 transition-colors"
+            className="text-xs text-gray-400 hover:text-gray-700 mt-4 inline-flex items-center gap-1 transition-colors"
           >
             ↗ {poll.source} · {poll.retrievedAt}
           </a>

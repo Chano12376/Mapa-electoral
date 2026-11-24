@@ -159,31 +159,31 @@ function daysUntil(dateStr: string): number {
 }
 
 function electionColor(data: CountryData | undefined, dimmed: boolean): string {
-  if (dimmed) return "#0d1117";
-  if (!data) return "#1f2937";
-  if (!data.nextElection) return "#2d3748";
+  if (dimmed) return "#dde4ea";
+  if (!data) return "#cbd5df";
+  if (!data.nextElection) return "#c5cdd7";
   const days = daysUntil(data.nextElection.date);
-  if (days < 0) return "#2d3748";
-  if (days <= 90)  return "#ef4444";
-  if (days <= 180) return "#f97316";
-  if (days <= 365) return "#eab308";
-  return "#2d3748";
+  if (days < 0) return "#c5cdd7";
+  if (days <= 90)  return "#c0514a";
+  if (days <= 180) return "#c97c3a";
+  if (days <= 365) return "#b89830";
+  return "#c5cdd7";
 }
 
 function hoverColor(data: CountryData | undefined): string {
-  if (!data?.nextElection) return "#818cf8";
+  if (!data?.nextElection) return "#7c8dc4";
   const days = daysUntil(data.nextElection.date);
-  if (days <= 90)  return "#fca5a5";
-  if (days <= 180) return "#fdba74";
-  if (days <= 365) return "#fde047";
-  return "#818cf8";
+  if (days <= 90)  return "#e88a85";
+  if (days <= 180) return "#e8a870";
+  if (days <= 365) return "#e8cc70";
+  return "#7c8dc4";
 }
 
 function urgencyLabel(days: number, status: string) {
-  if (status === "limite_legal") return { text: `≤${days}d`, cls: "text-gray-400" };
-  if (days <= 90)  return { text: `${days}d`, cls: "text-red-400 font-bold" };
-  if (days <= 180) return { text: `${days}d`, cls: "text-orange-400 font-semibold" };
-  return { text: `${days}d`, cls: "text-yellow-400" };
+  if (status === "limite_legal") return { text: `≤${days}d`, cls: "text-gray-500" };
+  if (days <= 90)  return { text: `${days}d`, cls: "text-red-600 font-bold" };
+  if (days <= 180) return { text: `${days}d`, cls: "text-orange-600 font-semibold" };
+  return { text: `${days}d`, cls: "text-amber-600" };
 }
 
 interface TooltipData {
@@ -247,22 +247,22 @@ export default function MapaHome({ continente }: Props) {
   }
 
   return (
-    <div className="flex flex-col bg-gray-950 md:h-[calc(100vh-3rem)]">
+    <div className="flex flex-col bg-stone-50 md:h-[calc(100vh-3rem)]">
       {/* Stats bar */}
-      <div className="flex flex-wrap items-center gap-x-5 gap-y-1 px-4 py-2 border-b border-gray-800 text-xs text-gray-400 shrink-0">
+      <div className="flex flex-wrap items-center gap-x-5 gap-y-1 px-4 py-2 border-b border-gray-200 text-xs text-gray-500 shrink-0">
         <Stat label="Países" value={Object.keys(countries).length.toString()} />
         <Stat label="Elecciones este año" value={electionsThisYear.length.toString()} accent />
         {nextElection?.nextElection && (
           <span>
-            Próxima: <strong className="text-white">{nextElection.name}</strong>
-            <span className="text-red-400 ml-1">en {daysUntil(nextElection.nextElection.date)} días</span>
+            Próxima: <strong className="text-gray-900">{nextElection.name}</strong>
+            <span className="text-red-600 ml-1">en {daysUntil(nextElection.nextElection.date)} días</span>
           </span>
         )}
         <div className="ml-auto hidden sm:flex items-center gap-4">
-          <LegendDot color="bg-red-500"    label="&lt;3m" />
-          <LegendDot color="bg-orange-500" label="3-6m" />
-          <LegendDot color="bg-yellow-400" label="6-12m" />
-          <LegendDot color="bg-gray-600"   label="sin datos" />
+          <LegendDot color="bg-red-600"    label="&lt;3m" />
+          <LegendDot color="bg-orange-600" label="3-6m" />
+          <LegendDot color="bg-amber-600"  label="6-12m" />
+          <LegendDot color="bg-gray-400"   label="sin datos" />
         </div>
       </div>
 
@@ -278,8 +278,8 @@ export default function MapaHome({ continente }: Props) {
       <div className="hidden md:flex flex-1 min-h-0">
         {/* Panel lateral de países del continente */}
         {isFiltered && (
-          <aside className="w-52 shrink-0 border-r border-gray-800 overflow-y-auto bg-gray-950">
-            <p className="px-3 pt-3 pb-2 text-xs text-gray-500 uppercase tracking-widest">
+          <aside className="w-52 shrink-0 border-r border-gray-200 overflow-y-auto bg-white">
+            <p className="px-3 pt-3 pb-2 text-xs text-gray-400 uppercase tracking-widest">
               {continentIsos.length} países
             </p>
             {continentIsos.map((iso3) => {
@@ -290,17 +290,17 @@ export default function MapaHome({ continente }: Props) {
                 <button
                   key={iso3}
                   onClick={() => navigate(`/pais/${iso3}`)}
-                  className="w-full flex items-center gap-2.5 px-3 py-2.5 hover:bg-gray-800 transition-colors text-left"
+                  className="w-full flex items-center gap-2.5 px-3 py-2.5 hover:bg-gray-50 transition-colors text-left"
                 >
                   <span className="text-xl shrink-0">{FLAG[iso3] ?? "🌍"}</span>
                   <div className="min-w-0">
-                    <p className="text-sm text-gray-200 font-medium leading-tight truncate">{data?.name ?? iso3}</p>
+                    <p className="text-sm text-gray-800 font-medium leading-tight truncate">{data?.name ?? iso3}</p>
                     {hasElection ? (
                       <p className={`text-xs leading-tight ${
-                        days! <= 90 ? "text-red-400" : days! <= 180 ? "text-orange-400" : "text-yellow-400"
+                        days! <= 90 ? "text-red-600" : days! <= 180 ? "text-orange-600" : "text-amber-600"
                       }`}>en {days} días</p>
                     ) : (
-                      <p className="text-xs text-gray-600 leading-tight">sin elección</p>
+                      <p className="text-xs text-gray-400 leading-tight">sin elección</p>
                     )}
                   </div>
                 </button>
@@ -310,7 +310,7 @@ export default function MapaHome({ continente }: Props) {
         )}
 
         {/* Mapa */}
-        <div className="relative flex-1">
+        <div className="relative flex-1" style={{ background: "#e8eff5" }}>
           <ComposableMap
             projectionConfig={{ scale: 147 }}
             style={{ width: "100%", height: "100%" }}
@@ -329,8 +329,8 @@ export default function MapaHome({ continente }: Props) {
                         key={geo.rsmKey}
                         geography={geo}
                         fill={isHov ? hoverColor(data) : electionColor(data, dimmed)}
-                        stroke={dimmed ? "#0a0f14" : "#111827"}
-                        strokeWidth={dimmed ? 0.2 : 0.5}
+                        stroke={dimmed ? "#c5cdd7" : "#ffffff"}
+                        strokeWidth={dimmed ? 0.3 : 0.6}
                         style={{
                           default: { outline: "none", cursor: isActive && !dimmed ? "pointer" : "default" },
                           hover:   { outline: "none" },
@@ -349,25 +349,25 @@ export default function MapaHome({ continente }: Props) {
 
           {tooltip && (
             <div
-              className="fixed z-50 pointer-events-none bg-gray-900 border border-gray-600 rounded-xl px-4 py-3 shadow-2xl min-w-[180px]"
+              className="fixed z-50 pointer-events-none bg-white border border-gray-200 rounded-xl px-4 py-3 shadow-lg min-w-[180px]"
               style={{ left: tooltip.x + 14, top: tooltip.y - 14 }}
             >
               <div className="flex items-center gap-2 mb-1">
                 <span className="text-xl">{FLAG[tooltip.iso3] ?? ""}</span>
-                <p className="font-bold text-white">{tooltip.name}</p>
+                <p className="font-bold text-gray-900">{tooltip.name}</p>
               </div>
-              {tooltip.leader && <p className="text-indigo-300 text-xs">{tooltip.leader}</p>}
+              {tooltip.leader && <p className="text-gray-500 text-xs">{tooltip.leader}</p>}
               {tooltip.election && tooltip.days !== null ? (
-                <div className="mt-2 pt-2 border-t border-gray-700">
-                  <p className="text-gray-300 text-xs">{tooltip.election}</p>
+                <div className="mt-2 pt-2 border-t border-gray-100">
+                  <p className="text-gray-500 text-xs">{tooltip.election}</p>
                   <p className={`font-semibold text-sm mt-0.5 ${
-                    tooltip.days <= 90 ? "text-red-400" : tooltip.days <= 180 ? "text-orange-400" : "text-yellow-400"
+                    tooltip.days <= 90 ? "text-red-600" : tooltip.days <= 180 ? "text-orange-600" : "text-amber-600"
                   }`}>
                     {tooltip.status === "limite_legal" ? `a más tardar (${tooltip.days}d)` : `en ${tooltip.days} días`}
                   </p>
                 </div>
               ) : (
-                <p className="text-gray-500 text-xs mt-1.5">Sin elección próxima</p>
+                <p className="text-gray-400 text-xs mt-1.5">Sin elección próxima</p>
               )}
             </div>
           )}
@@ -380,7 +380,7 @@ export default function MapaHome({ continente }: Props) {
 function Stat({ label, value, accent }: { label: string; value: string; accent?: boolean }) {
   return (
     <span>
-      {label}: <strong className={accent ? "text-indigo-400" : "text-gray-200"}>{value}</strong>
+      {label}: <strong className={accent ? "text-gray-900" : "text-gray-700"}>{value}</strong>
     </span>
   );
 }
@@ -431,9 +431,9 @@ function MobileCountryList({
       {filtered.map(({ iso3, data, days }) => {
         const urgency =
           days === null ? null
-          : days <= 90  ? { cls: "bg-red-500/20 border-red-700 text-red-400", label: `${days}d` }
-          : days <= 180 ? { cls: "bg-orange-500/20 border-orange-700 text-orange-400", label: `${days}d` }
-          : days <= 365 ? { cls: "bg-yellow-500/20 border-yellow-700 text-yellow-400", label: `${days}d` }
+          : days <= 90  ? { cls: "bg-red-50 border-red-300 text-red-600", label: `${days}d` }
+          : days <= 180 ? { cls: "bg-orange-50 border-orange-300 text-orange-600", label: `${days}d` }
+          : days <= 365 ? { cls: "bg-amber-50 border-amber-300 text-amber-700", label: `${days}d` }
           : null;
 
         const leader = data.headOfGovernment?.name ?? data.headOfState?.name ?? null;
@@ -442,12 +442,12 @@ function MobileCountryList({
           <button
             key={iso3}
             onClick={() => navigate(`/pais/${iso3}`)}
-            className="w-full flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-xl px-4 py-3 text-left active:bg-gray-800 transition-colors"
+            className="w-full flex items-center gap-3 bg-white border border-gray-200 rounded-xl px-4 py-3 text-left active:bg-gray-50 transition-colors"
           >
             <span className="text-2xl shrink-0">{FLAG[iso3] ?? "🌍"}</span>
             <div className="flex-1 min-w-0">
-              <p className="text-sm font-semibold text-gray-100 truncate">{data.name}</p>
-              {leader && <p className="text-xs text-gray-500 truncate">{leader}</p>}
+              <p className="text-sm font-semibold text-gray-800 truncate">{data.name}</p>
+              {leader && <p className="text-xs text-gray-400 truncate">{leader}</p>}
             </div>
             {urgency && (
               <span className={`text-xs font-bold border rounded-full px-2 py-0.5 shrink-0 ${urgency.cls}`}>
@@ -455,9 +455,9 @@ function MobileCountryList({
               </span>
             )}
             {days === null && (
-              <span className="text-xs text-gray-700 shrink-0">—</span>
+              <span className="text-xs text-gray-300 shrink-0">—</span>
             )}
-            <span className="text-gray-600 shrink-0">›</span>
+            <span className="text-gray-400 shrink-0">›</span>
           </button>
         );
       })}

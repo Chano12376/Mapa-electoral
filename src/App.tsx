@@ -9,7 +9,7 @@ export default function App() {
   const [continente, setContinente] = useState("all");
 
   return (
-    <div className="min-h-screen bg-gray-950 text-gray-100">
+    <div className="min-h-screen bg-stone-50 text-gray-900">
       <Nav continente={continente} onContinente={setContinente} />
       <Routes>
         <Route path="/" element={<MapaHome continente={continente} />} />
