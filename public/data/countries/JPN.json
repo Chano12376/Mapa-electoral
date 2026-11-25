@@ -33,7 +33,7 @@
       "scale": "0 izquierda – 10 derecha",
       "source": "ParlGov (Döring, Huber y Manow)",
       "sourceUrl": "https://www.parlgov.org/",
-      "retrievedAt": "2026-11-24"
+      "retrievedAt": "2026-11-25"
     }
   },
   "nextElection": {
@@ -99,7 +99,7 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JPN",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-24"
+      "retrievedAt": "2026-11-25"
     },
     "gdpGrowth": {
       "indicator": "NY.GDP.MKTP.KD.ZG",
@@ -153,7 +153,7 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=JPN",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-24"
+      "retrievedAt": "2026-11-25"
     },
     "inflation": {
       "indicator": "FP.CPI.TOTL.ZG",
@@ -207,7 +207,7 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=JPN",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-24"
+      "retrievedAt": "2026-11-25"
     },
     "unemployment": {
       "indicator": "SL.UEM.TOTL.ZS",
@@ -261,8 +261,8 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=JPN",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-24"
+      "retrievedAt": "2026-11-25"
     }
   },
-  "builtAt": "2026-11-24"
+  "builtAt": "2026-11-25"
 }
