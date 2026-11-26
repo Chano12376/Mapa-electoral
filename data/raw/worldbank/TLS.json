@@ -51,7 +51,61 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TLS",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-25"
+    "retrievedAt": "2026-11-26"
+  },
+  "gdpGrowth": {
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "series": [
+      {
+        "year": 2015,
+        "value": 2.48004040218397
+      },
+      {
+        "year": 2016,
+        "value": 3.00993062553351
+      },
+      {
+        "year": 2017,
+        "value": -3.18241522489195
+      },
+      {
+        "year": 2018,
+        "value": -0.466502170658785
+      },
+      {
+        "year": 2019,
+        "value": 24.2128840085001
+      },
+      {
+        "year": 2020,
+        "value": 31.7257416721413
+      },
+      {
+        "year": 2021,
+        "value": 5.36980119392668
+      },
+      {
+        "year": 2022,
+        "value": -20.5224802314812
+      },
+      {
+        "year": 2023,
+        "value": -18.1359049134472
+      },
+      {
+        "year": 2024,
+        "value": -9.10069289810397
+      },
+      {
+        "year": 2025,
+        "value": 6.97538939119629
+      }
+    ],
+    "lastYear": 2025,
+    "source": "Banco Mundial (World Development Indicators)",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TLS",
+    "sourceLastUpdated": "2026-11-11",
+    "retrievedAt": "2026-11-26"
   },
   "inflation": {
     "indicator": "FP.CPI.TOTL.ZG",
@@ -105,7 +159,7 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TLS",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-25"
+    "retrievedAt": "2026-11-26"
   },
   "unemployment": {
     "indicator": "SL.UEM.TOTL.ZS",
@@ -159,6 +213,6 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TLS",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-25"
+    "retrievedAt": "2026-11-26"
   }
 }

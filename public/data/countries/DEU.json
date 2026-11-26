@@ -35,7 +35,7 @@
       "scale": "0 izquierda – 10 derecha",
       "source": "ParlGov (Döring, Huber y Manow)",
       "sourceUrl": "https://www.parlgov.org/",
-      "retrievedAt": "2026-11-25"
+      "retrievedAt": "2026-11-26"
     },
     "headOfGovernment": {
       "parlgovPartyId": 808,
@@ -45,7 +45,7 @@
       "scale": "0 izquierda – 10 derecha",
       "source": "ParlGov (Döring, Huber y Manow)",
       "sourceUrl": "https://www.parlgov.org/",
-      "retrievedAt": "2026-11-25"
+      "retrievedAt": "2026-11-26"
     }
   },
   "nextElection": {
@@ -111,7 +111,7 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DEU",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-25"
+      "retrievedAt": "2026-11-26"
     },
     "gdpGrowth": {
       "indicator": "NY.GDP.MKTP.KD.ZG",
@@ -165,7 +165,7 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DEU",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-25"
+      "retrievedAt": "2026-11-26"
     },
     "inflation": {
       "indicator": "FP.CPI.TOTL.ZG",
@@ -219,7 +219,7 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DEU",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-25"
+      "retrievedAt": "2026-11-26"
     },
     "unemployment": {
       "indicator": "SL.UEM.TOTL.ZS",
@@ -273,8 +273,8 @@
       "source": "Banco Mundial (World Development Indicators)",
       "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DEU",
       "sourceLastUpdated": "2026-11-11",
-      "retrievedAt": "2026-11-25"
+      "retrievedAt": "2026-11-26"
     }
   },
-  "builtAt": "2026-11-25"
+  "builtAt": "2026-11-26"
 }
