@@ -39,7 +39,7 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SYR",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-26"
+    "retrievedAt": "2026-11-27"
   },
   "gdpGrowth": {
     "indicator": "NY.GDP.MKTP.KD.ZG",
@@ -81,7 +81,7 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SYR",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-26"
+    "retrievedAt": "2026-11-27"
   },
   "inflation": {
     "indicator": "FP.CPI.TOTL.ZG",
@@ -111,7 +111,7 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SYR",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-26"
+    "retrievedAt": "2026-11-27"
   },
   "unemployment": {
     "indicator": "SL.UEM.TOTL.ZS",
@@ -165,6 +165,6 @@
     "source": "Banco Mundial (World Development Indicators)",
     "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SYR",
     "sourceLastUpdated": "2026-11-11",
-    "retrievedAt": "2026-11-26"
+    "retrievedAt": "2026-11-27"
   }
 }

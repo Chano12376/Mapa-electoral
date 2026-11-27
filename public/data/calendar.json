@@ -1,17 +1,6 @@
 {
-  "builtAt": "2026-11-26",
+  "builtAt": "2026-11-27",
   "elections": [
-    {
-      "iso3": "BLR",
-      "name": "Bielorrusia",
-      "date": "2026-11-26",
-      "dateStatus": "confirmada",
-      "type": "Presidenciales",
-      "whatIsElected": "Presidente de la República",
-      "source": "Central Election Commission of Belarus",
-      "sourceUrl": "https://rec.gov.by",
-      "checkedAt": "2026-11-23"
-    },
     {
       "iso3": "ESP",
       "name": "España",
